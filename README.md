@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="upclogo.png" alt="upc-logo" width="250px" height="250px"/>
+    <img src="assets/upclogo.png" alt="upc-logo" width="250px" height="250px"/>
 </p>
 
 <h1 align="center">
@@ -266,6 +266,16 @@ El modelo de negocio se sustentará en:
 |Ofrecer una plataforma digital intuitiva y confiable que conecte a turistas con experiencias auténticas, promoviendo el turismo local y facilitando la digitalización de pequeñas y medianas agencias.|Convertirnos en la plataforma líder en experiencias turísticas personalizadas en Peru, siendo reconocidos por nuestra innovación, impacto social y compromiso con el desarrollo del turismo sostenible.|
 
 #### 1.1.2. Perfiles de Integrantes del Equipo
+
+- Jhon Alexander Galvez Chambi (Ingenieria de Software)
+
+Soy una persona responsable y comprometida con la consecución de los mejores resultados en trabajo en equipo. Poseo experiencia en diversos lenguajes de programación, incluyendo Python, JavaScript y C++, así como en varios de los frameworks asociados a estos lenguajes. Además, tengo conocimientos en tecnologías emergentes como Cloud Computing e Internet de las Cosas (IoT), y estoy dispuesto a aportar mi experiencia en estas áreas para contribuir al éxito de los proyectos en los que participo.
+
+<p align="center">
+    <img src="assets/jhonfoto.jpg" alt="foto-jhon" width="170px"/>
+</p>
+
+
 
 #### 1.2. Solution Profile
 

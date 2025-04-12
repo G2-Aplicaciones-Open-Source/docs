@@ -350,7 +350,7 @@ del turismo personalizado en la plataforma.
 
 <hr>
 
-## Capítulo II: Requirements Elicitation & Analysis
+## Capítulo II: Requirementsgit Elicitation & Analysis
 
 ### 2.1. Competidores
 
@@ -455,6 +455,8 @@ del turismo personalizado en la plataforma.
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management.
+
+Modificacion de ejemplo
 
 #### 5.1.1. Software Development Environment Configuration.
 

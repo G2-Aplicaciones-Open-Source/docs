@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/upclogo.png" alt="upc-logo" width="250px" height="250px"/>
+    <img src="assets/logos/upclogo.png" alt="upc-logo" width="250px" height="250px"/>
 </p>
 
 <h1 align="center">
@@ -272,7 +272,7 @@ El modelo de negocio se sustentará en:
 Soy una persona responsable y comprometida con la consecución de los mejores resultados en trabajo en equipo. Poseo experiencia en diversos lenguajes de programación, incluyendo Python, JavaScript y C++, así como en varios de los frameworks asociados a estos lenguajes. Además, tengo conocimientos en tecnologías emergentes como Cloud Computing e Internet de las Cosas (IoT), y estoy dispuesto a aportar mi experiencia en estas áreas para contribuir al éxito de los proyectos en los que participo.
 
 <p align="center">
-    <img src="assets/jhonfoto.jpg" alt="foto-jhon" width="170px"/>
+    <img src="assets/fotos/jhonfoto.jpg" alt="foto-jhon" width="170px"/>
 </p>
 
 
@@ -280,6 +280,12 @@ Soy una persona responsable y comprometida con la consecución de los mejores re
 #### 1.2. Solution Profile
 
 #### 1.2.1. Antecedentes y problemática
+
+Actualmente, muchos turistas enfrentan dificultades al buscar experiencias únicas en sus destinos de viaje. Las opciones están dispersas en múltiples sitios web, muchas veces carecen de información confiable, y no permiten una comparación clara entre servicios similares.
+
+Del otro lado, las agencias de turismo locales tienen problemas para destacarse en el entorno digital, acceder a una audiencia más amplia, y gestionar sus reservas de forma eficiente. Esta desconexión entre la oferta y la demanda genera una pérdida de oportunidades tanto para los viajeros como para las agencias.
+
+Nuestra solución busca cerrar esta brecha con una plataforma web centralizada que actúe como puente entre ambos actores, promoviendo la digitalización del sector turístico.
 
 #### 1.2.2. Lean UX Process
 

@@ -270,10 +270,10 @@ El modelo de negocio se sustentará en:
 - Mathias Aspajo Alvarez - u202317584 (Ingeniería de Software)
 
 <p align="center">
-    <img src="assets/fotos/" alt="foto-mathias" width="170px"/>
+    <img src="assets/fotos/mathiasfoto.jpg" alt="foto-mathias" width="170px"/>
 </p>
 
-Descripcion
+Mi nombre es Mathias Aspajo, tengo 19 años y actualmente me encuentro en el 5to ciclo de la carrera de Ing. de Software, me considero una persona responsable y colaborativa con cualquier trabajo que tenga. Pienso dar lo mejor de mí para desarrollar un buen proyecto.
 
 - Farid Briceño De La Cruz - u20211f211 (Ingeniería de Software)
 
@@ -337,31 +337,70 @@ Por consiguiente, con el propósito de obtener una comprensión más precisa de 
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-- Los turistas no encuentran una forma centralizada, segura y eficiente de descubrir y reservar experiencias personalizadas en destinos turísticos peruanos.
+Nuestra plataforma fue diseñada para facilitar la conexión entre turistas que buscan experiencias personalizadas y agencias de viaje locales que desean digitalizar sus servicios. A través de nuestra solución, buscamos ofrecer un espacio seguro, confiable y fácil de usar para descubrir, comparar y reservar actividades turísticas en Perú.
 
-- La oferta turística en línea es fragmentada y muchas agencias locales carecen de presencia digital, dificultando su acceso al mercado global.
+Hemos observado que los turistas no logran encontrar fácilmente opciones que se ajusten a sus intereses y necesidades específicas, mientras que muchas agencias formales enfrentan dificultades para ganar visibilidad y competir con la oferta informal que prolifera en redes sociales y plataformas no reguladas. Esta situación está limitando el crecimiento del sector formal y generando desconfianza en los usuarios.
 
-- La informalidad y la falta de verificación de servicios turísticos generan desconfianza entre los viajeros y limitan el crecimiento del sector formal.
+_¿Cómo podríamos mejorar nuestra plataforma para que turistas y agencias se conecten de manera más eficiente y segura, aumentando la tasa de reservas y fomentando la formalización del sector turístico?_
 
 #### 1.2.2.2. Lean UX Assumptions
 
-- Asumimos que los turistas desean experiencias únicas, personalizadas según sus intereses, destino y presupuesto, y valoran la confianza y seguridad al momento de reservar.
+**Business Assumptions**
 
-- Asumimos que las agencias de turismo locales están dispuestas a digitalizar sus operaciones si esto les permite aumentar su visibilidad, captar nuevos clientes y gestionar reservas en tiempo real.
+1. Creemos que nuestros clientes necesitan encontrar y reservar experiencias turísticas personalizadas de forma confiable y eficiente.
+2. Estas necesidades se resuelven con una plataforma web que centralice ofertas de actividades de agencias verificadas, con filtros por interés, ubicación y presupuesto.
+3.	Nuestros clientes iniciales serán turistas nacionales y extranjeros que visitan Perú, así como agencias de turismo formalmente constituidas que buscan digitalizar sus servicios.
+4.  El valor más importante de lo que el cliente requiere de nuestro servicio es una experiencia de viaje personalizada, segura y sin complicaciones.
+5.	El cliente puede tener los siguientes beneficios adicionales: acceso a reseñas de otros usuarios, itinerarios organizados, descuentos exclusivos, y soporte digital durante el viaje.
+6.	Vamos a adquirir clientes mediante estrategias de marketing digital (SEO, redes sociales, influencers de viajes), alianzas con agencias y posicionamiento en buscadores de experiencias.
+7.	Haremos dinero a través de comisiones por reservas realizadas a través de la plataforma y planes premium para agencias.
+8.	Nuestra competencia principal serán plataformas internacionales como Booking, Airbnb Experiences y la oferta informal en redes sociales.
+9.	Los venceremos ya que nuestra plataforma tiene un enfoque local, curaduría de experiencias auténticas, alianza con agencias formales, y una interfaz intuitiva con filtros relevantes.
+10.	Nuestro mayor riesgo es la baja adopción por parte de agencias o la falta de confianza de los usuarios en nuevas plataformas.
+11.	Resolveremos esto mediante estrategias de onboarding amigables, incentivos iniciales, verificación pública de agencias y testimonios visibles de clientes satisfechos.
+12. Qué otras suposiciones tenemos que, si resultan falsas, harán que nuestro negocio/proyecto fracase?
+    - Que los turistas están dispuestos a reservar experiencias turísticas por adelantado desde una plataforma digital.
+    - Que las agencias formales ven valor en integrarse a un sistema centralizado y están dispuestas a adaptarse a su uso.
 
-- Asumimos que una plataforma intuitiva, con diseño responsive y basado en Material Design, reducirá la fricción en el proceso de búsqueda y reserva de experiencias.
+**User Assumptions**
 
-- Asumimos que incluir filtros avanzados, reseñas verificadas y categorización de experiencias fortalecerá la percepción de calidad del servicio ofrecido.
+1.	¿Quién será nuestro usuario? 
+    - Turistas nacionales y extranjeros con acceso a internet, con intención de explorar nuevas experiencias en sus destinos.
+    - Representantes de agencias de turismo interesadas en aumentar su visibilidad y reservas.
+2.	¿Dónde encaja nuestro producto en su vida?
+    - En la etapa de planificación de viaje, al buscar actividades que enriquezcan su experiencia.
+    - En el caso de agencias, como parte de su canal de ventas y atención al cliente.
+3.	¿Qué problemas resuelve nuestro producto?
+    - Dificultad para encontrar experiencias confiables, personalizadas y seguras.
+    - Desorganización de itinerarios.
+    - Limitada presencia digital de agencias locales confiables.
+4.	¿Cómo y Cuándo es usado nuestro producto?
+    - Antes del viaje (exploración y reservas) y durante el viaje (gestión de itinerarios y asistencia).
+    - En dispositivos móviles y de escritorio, principalmente mediante el navegador web.
+5.	¿Qué características son importantes?
+	- Filtros de búsqueda por intereses, ubicación, precio, reseñas.
+    - Perfil y catálogo de agencias.
+    - Organización del itinerario.
+    - Pago seguro y notificaciones.
+6.  ¿Cómo luce y se comporta nuestro producto?
+    - Con una interfaz limpia, intuitiva y confiable, accesible para distintos niveles de experiencia tecnológica.
+    - Rápida carga, navegación fluida, diseño adaptado a dispositivos móviles.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- Creemos que si ofrecemos a los turistas una plataforma donde puedan explorar actividades segmentadas por tipo de experiencia, destino, presupuesto y duración, entonces podrán tomar decisiones más informadas, lo que se traducirá en un mayor número de reservas exitosas.
+- **Creemos que**, si ofrecemos a los turistas una plataforma donde puedan explorar actividades segmentadas por tipo de experiencia, destino, presupuesto y duración, entonces podrán tomar decisiones más informadas, mejorando su experiencia de viaje. **Sabremos que** hemos logrado este resultado **cuando** observemos un incremento sostenido en la cantidad de reservas exitosas y una tasa alta de satisfacción del usuario (medida por reseñas y feedback post-actividad).
 
-- Creemos que al proporcionar a las agencias una interfaz administrativa sencilla para gestionar su catálogo, recibir notificaciones de reservas y analizar métricas básicas, entonces aumentará su participación activa y la disponibilidad de oferta formal.
+- **Creemos que**, al proporcionar a las agencias una interfaz administrativa sencilla para gestionar su catálogo, recibir notificaciones de reservas y analizar métricas básicas, aumentará su participación activa y la disponibilidad de oferta formal. **Sabremos que** esta hipótesis es válida **cuando** se registre un incremento progresivo en el número de agencias registradas y publicaciones activas.
 
-- Creemos que si promovemos exclusivamente agencias registradas y verificadas (según regulaciones del MINCETUR), entonces generaremos mayor confianza en el usuario final y fomentaremos la formalización del sector.
+- **Creemos que**, si promovemos exclusivamente agencias registradas y verificadas (según regulaciones del MINCETUR), entonces generaremos mayor confianza en el usuario final y fomentaremos la formalización del sector. **Sabremos que** esta hipótesis se confirma **cuando** veamos un crecimiento sostenido en la base de usuarios activos y una reducción en las quejas relacionadas a malas experiencias con proveedores.
+
+- **Creemos que**, si integramos herramientas de personalización (como recomendaciones según el historial o intereses declarados), entonces los usuarios encontrarán actividades más alineadas a sus expectativas. **Sabremos que** esto es cierto **cuando** aumente el tiempo de navegación en la plataforma y la tasa de conversión de visitas en reservas.
 
 #### 1.2.2.4. Lean UX Canvas
+
+<p align="center">
+    <img src="assets/recursos/LeanUX_Canvas.jpg" alt="lean-ux-canvas"/>
+</p>
 
 ### 1.3. Segmentos Objetivos
 
@@ -371,21 +410,21 @@ del turismo personalizado en la plataforma.
 
 - **Segmento objetivo 1: Agencias de turismo locales**
 
-|_Aspectos demográficos_ | _Aspectos geográficos_ | _Aspectos psicográficos_|
-|----|----|----|
+| _Aspectos demográficos_ | _Aspectos geográficos_ | _Aspectos psicográficos_ |
+|-------------------------|------------------------|--------------------------|
 | Sexo: masculino y femenino <br> Edades: entre 25-60 años <br> Nivel socioeconómico: clases B y C (media-alta y media) | Nacionalidad: Peruana <br> Zona geográfica: Urbana y zonas turísticas <br> Departamento: Diversas regiones del Perú, especialmente Lima, Cusco, Arequipa, Ica, Puno y Madre de Dios | Necesidad de expandir su presencia digital y aumentar su cartera de clientes <br> Interesadas en herramientas que automaticen reservas y muestren su oferta de forma atractiva. <br> Valoran plataformas que reduzcan su carga operativa, sean fáciles de usar y mejoren su competitividad frente a grandes operadores turísticos. |
 
 
 - **Segmento objetivo 2: Turistas nacionales e internacionales**
 
 | _Aspectos demográficos_ | _Aspectos geográficos_ | _Aspectos psicográficos_ |
-|-------------------------|------------------------|---------------------------|
+|-------------------------|------------------------|--------------------------|
 | - Sexo: masculino y femenino <br> - Edades: entre 18-65 años <br> - Nivel socioeconómico: clases A, B y C (alta, media-alta y media) | - Nacionalidad: Peruana y extranjera <br> - Zona geográfica: Urbana (para salidas) y destinos turísticos del Perú <br> - Departamento: Origen en Lima, Cusco, Arequipa u otros, con desplazamiento hacia zonas de interés turístico | - Buscan experiencias personalizadas, prácticas y seguras durante sus viajes <br> - Valoran la facilidad de comparar, filtrar y reservar actividades desde una sola plataforma <br> - Dispuestos a pagar por experiencias únicas y auténticas, adaptadas a sus intereses y presupuesto |
 
 - **Segmento objetivo 3: Viajeros por trabajo (Turismo corporativo)**
 
 | _Aspectos demográficos_ | _Aspectos geográficos_ | _Aspectos psicográficos_ |
-|-------------------------|------------------------|---------------------------|
+|-------------------------|------------------------|--------------------------|
 | - Sexo: masculino y femenino <br> - Edades: entre 25-55 años <br> - Nivel socioeconómico: clases A y B (alta y media-alta) | - Nacionalidad: Peruana y extranjera <br> - Zona geográfica: Urbana (ciudades principales con movimiento empresarial) <br> - Departamento: Principalmente Lima Metropolitana, Arequipa, Trujillo, Cusco | - Buscan aprovechar su tiempo libre durante viajes laborales para conocer la ciudad o relajarse <br> - Valoran la eficiencia, rapidez y calidad del servicio al reservar actividades de corta duración <br> - Interesados en experiencias bien organizadas, con horarios compatibles con su agenda de trabajo y disponibles cerca de su ubicación |
 
 <hr>

@@ -242,11 +242,11 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 #### 1.1.1. Descripción de la Startup
 
-Nuestra startup surge a partir de una problemática latente en el sector turístico: la fragmentación de la oferta de actividades y experiencias locales, lo que dificulta a los turistas planificar sus viajes de forma personalizada, segura y eficiente. Hoy en día, quienes viajan deben navegar por múltiples sitios, redes sociales y foros para encontrar excursiones o experiencias, muchas veces enfrentándose a información incompleta, desactualizada o poco confiable.
+Nuestra startup, TravelMatch, surge a partir de una problemática latente en el sector turístico: la fragmentación de la oferta de actividades y experiencias locales, lo que dificulta a los turistas planificar sus viajes de forma personalizada, segura y eficiente. Hoy en día, quienes viajan deben navegar por múltiples sitios, redes sociales y foros para encontrar excursiones o experiencias, muchas veces enfrentándose a información incompleta, desactualizada o poco confiable.
 
 Por otro lado, las agencias de turismo locales carecen de canales digitales eficientes para visibilizar sus servicios, competir con grandes operadores y gestionar sus reservas en tiempo real.
 
-En respuesta a este contexto, proponemos una plataforma web de turismo y actividades personalizadas, que actúe como puente entre turistas y agencias locales. Nuestra solución permite a los viajeros explorar y reservar experiencias según destino, tipo de actividad y presupuesto, mientras que ofrece a las agencias una interfaz intuitiva para gestionar su catálogo y atender reservas con agilidad.
+Ante este contexto, proponemos una plataforma web de turismo y actividades personalizadas, que actúe como puente entre turistas y agencias locales. Nuestra solución permite a los viajeros explorar y reservar experiencias según destino, tipo de actividad y presupuesto, mientras que ofrece a las agencias una interfaz intuitiva para gestionar su catálogo y atender reservas con agilidad.
 
 La propuesta de valor se centra en:
 
@@ -261,39 +261,105 @@ El modelo de negocio se sustentará en:
     Planes premium para agencias que deseen destacar sus servicios y acceder a beneficios adicionales.
 
 
-| Mision | Vision|
-| -------| ------|
+| Misión | Visión |
+|:-------:|:-------:|
 |Ofrecer una plataforma digital intuitiva y confiable que conecte a turistas con experiencias auténticas, promoviendo el turismo local y facilitando la digitalización de pequeñas y medianas agencias.|Convertirnos en la plataforma líder en experiencias turísticas personalizadas en Peru, siendo reconocidos por nuestra innovación, impacto social y compromiso con el desarrollo del turismo sostenible.|
 
 #### 1.1.2. Perfiles de Integrantes del Equipo
 
-- Jhon Alexander Galvez Chambi (Ingenieria de Software)
+- Mathias Aspajo Alvarez - u202317584 (Ingeniería de Software)
 
-Soy una persona responsable y comprometida con la consecución de los mejores resultados en trabajo en equipo. Poseo experiencia en diversos lenguajes de programación, incluyendo Python, JavaScript y C++, así como en varios de los frameworks asociados a estos lenguajes. Además, tengo conocimientos en tecnologías emergentes como Cloud Computing e Internet de las Cosas (IoT), y estoy dispuesto a aportar mi experiencia en estas áreas para contribuir al éxito de los proyectos en los que participo.
+<p align="center">
+    <img src="assets/fotos/" alt="foto-mathias" width="170px"/>
+</p>
+
+Descripcion
+
+- Farid Briceño De La Cruz - u20211f211 (Ingeniería de Software)
+
+<p align="center">
+    <img src="assets/fotos/" alt="foto-farid" width="170px"/>
+</p>
+
+Descripcion
+
+
+- Jhon Alexander Galvez Chambi - u202323270 (Ingeniería de Software)
 
 <p align="center">
     <img src="assets/fotos/jhonfoto.jpg" alt="foto-jhon" width="170px"/>
 </p>
 
+Soy una persona responsable y comprometida con la consecución de los mejores resultados en trabajo en equipo. Poseo experiencia en diversos lenguajes de programación, incluyendo Python, JavaScript y C++, así como en varios de los frameworks asociados a estos lenguajes. Además, tengo conocimientos en tecnologías emergentes como Cloud Computing e Internet de las Cosas (IoT), y estoy dispuesto a aportar mi experiencia en estas áreas para contribuir al éxito de los proyectos en los que participo.
+
+- Jorge Guevara Tejada - u202316057 (Ingeniería de Software)
+
+<p align="center">
+    <img src="assets/fotos/jorgefoto.jpg" alt="foto-jorge" width="170px"/>
+</p>
+
+Soy un estudiante que se caracteriza por su alto sentido de la responsabilidad y un fuerte compromiso con su equipo. Me esfuerzo continuamente por superar los desafíos académicos, dedicando tiempo adicional a mejorar en las áreas donde siento que puedo crecer. Mi objetivo no es sólo alcanzar un rendimiento académico satisfactorio, sino también contribuir de manera significativa al éxito del equipo, asegurando que cada proyecto en el que participó refleja nuestro esfuerzo y dedicación colectivos.
+
+- Cesar Linares Bernable - u202019409 (Ingeniería de Software)
+
+<p align="center">
+    <img src="assets/fotos/" alt="foto-cesar" width="170px"/>
+</p>
+
+Descripcion
 
 
 #### 1.2. Solution Profile
 
 #### 1.2.1. Antecedentes y problemática
 
-Actualmente, muchos turistas enfrentan dificultades al buscar experiencias únicas en sus destinos de viaje. Las opciones están dispersas en múltiples sitios web, muchas veces carecen de información confiable, y no permiten una comparación clara entre servicios similares.
+En los últimos años, el sector turístico ha experimentado una transformación significativa, impulsada principalmente por la digitalización y los cambios en las preferencias de los viajeros. De acuerdo con un estudio realizado por Google, el interés por el término 'viajar' en Perú registró un incremento superior al 33% durante el año 2022. Adicionalmente, según un informe del Ministerio de Comercio Exterior y Turismo (Mincetur), la llegada de turistas internacionales al país experimentó un aumento del 39,2% entre los meses de enero y agosto de 2024.
 
-Del otro lado, las agencias de turismo locales tienen problemas para destacarse en el entorno digital, acceder a una audiencia más amplia, y gestionar sus reservas de forma eficiente. Esta desconexión entre la oferta y la demanda genera una pérdida de oportunidades tanto para los viajeros como para las agencias.
+A pesar de este creciente interés, los turistas enfrentan desafíos al planificar sus itinerarios, especialmente en lo que respecta a la reserva de actividades y experiencias locales. La información dispersa, la falta de plataformas centralizadas y la escasa presencia digital de muchas agencias locales dificultan la personalización y seguridad en la planificación de viajes.
 
-Nuestra solución busca cerrar esta brecha con una plataforma web centralizada que actúe como puente entre ambos actores, promoviendo la digitalización del sector turístico.
+Paralelamente, el sector de agencias de viajes en Perú enfrenta problemas de informalidad. En 2022, el Ministerio de Comercio Exterior y Turismo (Mincetur) clausuró varias agencias en Lima por operar sin licencia y sin personal calificado . Esta situación no solo afecta la confianza de los turistas, sino que también limita el desarrollo sostenible del turismo local.
+
+Por consiguiente, con el propósito de obtener una comprensión más precisa de las necesidades de nuestros usuarios, hemos llevado a cabo un estudio de sus antecedentes históricos y la problemática en cuestión utilizando la metodología de las 5W y 2H. 
+
+**Análisis 5W2H**
+
+| **Pregunta** | **Respuesta** |
+|:-----:|:-----:|
+|**What (¿Qué?)** <br> ¿Cuál es el problema?|Existe una desconexión significativa entre los turistas y las agencias de turismo locales, dificultando la planificación y reserva de actividades auténticas y seguras.|
+|**When (¿Cuándo?)** <br> ¿Cuándo sucede el problema?|Este problema se ha intensificado en los últimos años, especialmente tras la pandemia de COVID-19, que obligó a muchas agencias a cerrar o reducir sus operaciones, y con el aumento del interés en viajes nacionales e internacionales.|
+|**Where (¿Dónde?)** <br> ¿Dónde se presenta el problema de negocio?|Principalmente en Perú, donde destinos turísticos populares como Cusco, Lima y Arequipa presentan una alta demanda, pero también una oferta fragmentada y, en ocasiones, informal.|
+|**Who (¿Quién?)** <br> ¿Quiénes están involucrados?|Turistas nacionales e internacionales que buscan experiencias locales auténticas, y agencias de turismo locales que carecen de herramientas digitales para promocionar y gestionar sus servicios.|
+|**Why (¿Por qué?)** <br> ¿Por qué se origina el problema?|La falta de plataformas digitales centralizadas, la escasa presencia en línea de muchas agencias locales y la informalidad en el sector impiden a los viajeros acceder fácilmente a experiencias personalizadas y confiables.|
+|**How (¿Cómo?)** <br> ¿Cómo afecta este problema a las personas involucradas?|Los turistas enfrentan dificultades para encontrar opciones seguras, personalizadas y verificadas, lo que puede afectar negativamente su experiencia de viaje. Por otro lado, las agencias locales pierden oportunidades de negocio, visibilidad y competitividad en un mercado cada vez más digitalizado.|
+|**How much (¿Cuánto?)** <br> ¿Cuánto impacto genera el problema en la sociedad?|El impacto es significativo, ya que limita el desarrollo del sector turístico formal, fomenta la informalidad y la desconfianza, y reduce el potencial económico de comunidades locales que dependen del turismo para su sustento. También frena la innovación y la digitalización del ecosistema turístico nacional.|
 
 #### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+- Los turistas no encuentran una forma centralizada, segura y eficiente de descubrir y reservar experiencias personalizadas en destinos turísticos peruanos.
+
+- La oferta turística en línea es fragmentada y muchas agencias locales carecen de presencia digital, dificultando su acceso al mercado global.
+
+- La informalidad y la falta de verificación de servicios turísticos generan desconfianza entre los viajeros y limitan el crecimiento del sector formal.
+
 #### 1.2.2.2. Lean UX Assumptions
 
+- Asumimos que los turistas desean experiencias únicas, personalizadas según sus intereses, destino y presupuesto, y valoran la confianza y seguridad al momento de reservar.
+
+- Asumimos que las agencias de turismo locales están dispuestas a digitalizar sus operaciones si esto les permite aumentar su visibilidad, captar nuevos clientes y gestionar reservas en tiempo real.
+
+- Asumimos que una plataforma intuitiva, con diseño responsive y basado en Material Design, reducirá la fricción en el proceso de búsqueda y reserva de experiencias.
+
+- Asumimos que incluir filtros avanzados, reseñas verificadas y categorización de experiencias fortalecerá la percepción de calidad del servicio ofrecido.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Creemos que si ofrecemos a los turistas una plataforma donde puedan explorar actividades segmentadas por tipo de experiencia, destino, presupuesto y duración, entonces podrán tomar decisiones más informadas, lo que se traducirá en un mayor número de reservas exitosas.
+
+- Creemos que al proporcionar a las agencias una interfaz administrativa sencilla para gestionar su catálogo, recibir notificaciones de reservas y analizar métricas básicas, entonces aumentará su participación activa y la disponibilidad de oferta formal.
+
+- Creemos que si promovemos exclusivamente agencias registradas y verificadas (según regulaciones del MINCETUR), entonces generaremos mayor confianza en el usuario final y fomentaremos la formalización del sector.
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -305,54 +371,22 @@ del turismo personalizado en la plataforma.
 
 - **Segmento objetivo 1: Agencias de turismo locales**
 
-    - _Aspectos demográficos:_ <br>
-        Sexo: masculino y femenino <br>
-        Edades: entre 25-60 años <br>
-        Nivel socioeconómico: clases B y C (media-alta y media)
+|_Aspectos demográficos_ | _Aspectos geográficos_ | _Aspectos psicográficos_|
+|----|----|----|
+| Sexo: masculino y femenino <br> Edades: entre 25-60 años <br> Nivel socioeconómico: clases B y C (media-alta y media) | Nacionalidad: Peruana <br> Zona geográfica: Urbana y zonas turísticas <br> Departamento: Diversas regiones del Perú, especialmente Lima, Cusco, Arequipa, Ica, Puno y Madre de Dios | Necesidad de expandir su presencia digital y aumentar su cartera de clientes <br> Interesadas en herramientas que automaticen reservas y muestren su oferta de forma atractiva. <br> Valoran plataformas que reduzcan su carga operativa, sean fáciles de usar y mejoren su competitividad frente a grandes operadores turísticos. |
 
-    - _Aspectos geográficos:_ <br>
-        Nacionalidad: Peruana <br>
-        Zona geográfica: Urbana y zonas turísticas <br>
-        Departamento: Diversas regiones del Perú, especialmente Lima, Cusco, Arequipa, Ica, Puno y Madre de Dios
-
-    - _Aspectos psicográficos:_ <br>
-        Necesidad de expandir su presencia digital y aumentar su cartera de clientes <br>
-        Interesadas en herramientas que automaticen reservas y muestren su oferta de forma atractiva. <br>
-        Valoran plataformas que reduzcan su carga operativa, sean fáciles de usar y mejoren su competitividad frente a grandes operadores turísticos.
 
 - **Segmento objetivo 2: Turistas nacionales e internacionales**
 
-    - _Aspectos demográficos:_ <br>
-        Sexo: masculino y femenino <br>
-        Edades: entre 18-65 años <br>
-        Nivel socioeconómico: clases A, B y C (alta, media-alta y media)
-
-    - _Aspectos geográficos:_ <br>
-        Nacionalidad: Peruana y extranjera <br>
-        Zona geográfica: Urbana (para salidas) y destinos turísticos del Perú <br>
-        Departamento: Origen en Lima, Cusco, Arequipa u otros, con desplazamiento hacia zonas de interés turístico
-
-    - _Aspectos psicográficos:_ <br>
-        Buscan experiencias personalizadas, prácticas y seguras durante sus viajes. <br>
-        Valoran la facilidad de comparar, filtrar y reservar actividades desde una sola plataforma. <br>
-        Dispuestos a pagar por experiencias únicas y auténticas, adaptadas a sus intereses y presupuesto.
+| _Aspectos demográficos_ | _Aspectos geográficos_ | _Aspectos psicográficos_ |
+|-------------------------|------------------------|---------------------------|
+| - Sexo: masculino y femenino <br> - Edades: entre 18-65 años <br> - Nivel socioeconómico: clases A, B y C (alta, media-alta y media) | - Nacionalidad: Peruana y extranjera <br> - Zona geográfica: Urbana (para salidas) y destinos turísticos del Perú <br> - Departamento: Origen en Lima, Cusco, Arequipa u otros, con desplazamiento hacia zonas de interés turístico | - Buscan experiencias personalizadas, prácticas y seguras durante sus viajes <br> - Valoran la facilidad de comparar, filtrar y reservar actividades desde una sola plataforma <br> - Dispuestos a pagar por experiencias únicas y auténticas, adaptadas a sus intereses y presupuesto |
 
 - **Segmento objetivo 3: Viajeros por trabajo (Turismo corporativo)**
 
-    - _Aspectos demográficos:_ <br>
-        Sexo: masculino y femenino <br>
-        Edades: entre 25-55 años <br>
-        Nivel socioeconómico: clases A y B (alta y media-alta)
-
-    - _Aspectos geográficos:_ <br>
-        Nacionalidad: Peruana y extranjera <br>
-        Zona geográfica: Urbana (ciudades principales con movimiento empresarial) <br>
-        Departamento: Principalmente Lima Metropolitana, Arequipa, Trujillo, Cusco
-
-    - _Aspectos psicográficos:_ <br>
-        Buscan aprovechar su tiempo libre durante viajes laborales para conocer la ciudad o relajarse. <br>
-        Valoran la eficiencia, rapidez y calidad del servicio al reservar actividades de corta duración. <br>
-        Interesados en experiencias bien organizadas, con horarios compatibles con su agenda de trabajo y disponibles cerca de su ubicación.
+| _Aspectos demográficos_ | _Aspectos geográficos_ | _Aspectos psicográficos_ |
+|-------------------------|------------------------|---------------------------|
+| - Sexo: masculino y femenino <br> - Edades: entre 25-55 años <br> - Nivel socioeconómico: clases A y B (alta y media-alta) | - Nacionalidad: Peruana y extranjera <br> - Zona geográfica: Urbana (ciudades principales con movimiento empresarial) <br> - Departamento: Principalmente Lima Metropolitana, Arequipa, Trujillo, Cusco | - Buscan aprovechar su tiempo libre durante viajes laborales para conocer la ciudad o relajarse <br> - Valoran la eficiencia, rapidez y calidad del servicio al reservar actividades de corta duración <br> - Interesados en experiencias bien organizadas, con horarios compatibles con su agenda de trabajo y disponibles cerca de su ubicación |
 
 <hr>
 

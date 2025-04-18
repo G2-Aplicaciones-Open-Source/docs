@@ -602,9 +602,119 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 
 ### 4.1. Style Guidelines
 
+Esta sección establece un conjunto de directrices visuales y de interacción coherentes que funcionarán como fuente central de referencia para el equipo de diseño, desarrollo y comunicación de TravelMatch.
+El objetivo es garantizar una presentación unificada, profesional y alineada con la esencia de la marca: conectar a turistas con experiencias auténticas, de manera simple y confiable.
+
 #### 4.1.1. General Style Guidelines
 
+- _Branding:_    
+    - La identidad visual de TravelMatch es moderna, cercana y confiable. El logotipo incorpora dos figuras humanas estilizadas unidas en un gesto de conexión, lo que simboliza el espíritu colaborativo y humano de la plataforma.
+    - Uso del logotipo: El logotipo debe usarse preferentemente sobre fondos claros (beige, blanco o pastel neutro). En fondos oscuros, se permite una versión monocromática blanca o en azul marino (#1C1F2B).
+    - No se permite:
+        - Rotar el logotipo.
+        - Aplicar sombras, contornos o degradados.
+        - Cambiar la tipografía original de la palabra TravelMatch.
+
+<p align="center">
+    <img src="assets/logos/TravelMatchLogo.png" alt="travel-match-logo" width=200px/>
+</p>
+
+- _Typography:_
+    - La tipografía utilizada en el logotipo es una fuente sans-serif geométrica, amigable y legible. Para mantener coherencia, se adoptará un sistema tipográfico similar en toda la aplicación.
+
+    - Fuente primaria: Nunito Sans
+        - Uso: Títulos, botones, navegación.
+        - Estilos permitidos: Regular, SemiBold, Bold.
+
+    - Fuente secundaria: Inter
+        - Uso: Cuerpos de texto largos, formularios.
+
+    - Tamaños recomendados:
+        - Título principal (H1): 32px / 700
+        - Subtítulo (H2): 24px / 600
+        - Texto normal: 16px / 400
+        - Nota o ayuda: 12px / 400
+    
+        | Nombre de fuente | Tipografia |
+        |:----------------:|:----------:|
+        | Nunito Sans | <img src="assets/recursos/nunito-sans-font.png" alt="nunito-sans-font" width=200px/> |
+        | Inter | <img src="assets/recursos/inter-font.png" alt="inter-font" width=200px/> |        
+              
+- _Colors:_
+    - La paleta de TravelMatch se basa en contrastes suaves y un color protagonista: azul marino profundo, que transmite confianza y estabilidad. Se acompaña de colores neutros y un acento cálido para llamados a la acción
+    
+    | Color | Hex | Uso Principal | 
+    |:-----:|:---:|:-------------:|
+    |Azul Marino| #1C1F2B | Texto principal, logotipo, botones|
+    |Beige Claro| #F5F0E6 | Fondo base|
+    |Gris Suave| #B3B3B3 | Bordes, textos secundarios|
+    |Azul Claro| #3A71C1 | Enlaces, botones secundarios|
+    |Amarillo Arena| #FFD479| Llamado a la acción / iconos |
+    |Blanco| #FFFFFF|Fondos, tarjetas, formularios|
+    
+<p align="center">
+    <img src="assets/recursos/system-colors.png"/ width=70%>
+</p>
+
+- _Spacing:_
+    - La coherencia en el espaciado es clave para una interfaz limpia y clara.
+        - Espaciado entre secciones principales: 32px
+        - Margen interno de botones y campos: 12px vertical / 20px horizontal
+        - Separación entre elementos repetitivos (cards, ítems): 16px
+        - Padding general de contenedores: 24px
+
+- _Tono de comunicación y lenguaje:_
+    - El tono de TravelMatch es cercano, entusiasta y profesional.
+    
+    | Estilo de redacción | Tono predominante |
+    |----| ---- |
+    | 1. Amigable y claro <br> 2. Sin tecnicismos innecesarios <br> 3. Verbos en voz activa <br> 4. Enfocado en beneficios (“Descubre experiencias únicas”, “Reserva en segundos”)| 1. Formal-casual: Respetuoso, pero no rígido. <br> 2. Entusiasta: Inspirador, motivador, acogedor. <br> 3. Directo: Frases cortas y llamadas a la acción claras. |
+
+
 #### 4.1.2. Web Style Guidelines
+
+- _Responsive Design Standards:_  
+    TravelMatch está diseñado como una aplicación web mobile-first, adaptándose fluidamente a diferentes dispositivos:
+
+    - **Mobile (360px - 768px):**  
+        - Navegación tipo hamburguesa.  
+        - Cards apiladas en columna.  
+        - Botones grandes y legibles.  
+
+    - **Tablet (769px - 1024px):**  
+        - Layout en 2 columnas.  
+        - Menú lateral colapsable.  
+
+    - **Desktop (1025px en adelante):**  
+        - Menú principal visible.  
+        - Layout de 3 columnas donde sea posible.  
+
+    Todos los componentes deben utilizar **flexbox/grid** con puntos de quiebre en 768px y 1024px.
+
+- _Interactivity:_  
+    - **Botones:**  
+        - Bordes redondeados (border-radius: 12px).  
+        - Hover: cambio de fondo o sombra suave (box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1)).  
+        - Feedback claro al clic (cambio de color, animación sutil).  
+
+    - **Transiciones y animaciones:**  
+        - Duración: 200–300ms.  
+        - Usar ease-in-out.  
+        - Aplicables en sliders, modales, tooltips y feedback de formularios.
+
+- _Accessibility:_  
+    - Contrastes de texto cumplen con **WCAG AA** como mínimo.  
+    - Todo ícono debe tener alternativa textual (aria-label o alt).  
+    - Navegación compatible con teclado (Tab, Enter, Esc).  
+    - Uso de role, aria-expanded, aria-hidden en componentes dinámicos.  
+    - Fuente mínima: 16px.
+
+- _UI Consistency:_  
+    - Uso de un sistema de componentes reutilizables: botones, tarjetas, inputs, modales.  
+    - Evitar cambios de estilo arbitrarios entre páginas.  
+    - Todos los formularios deben compartir un estilo común:  
+        - Etiqueta arriba, campo debajo, mensaje de error abajo.  
+        - Validaciones claras y mensajes amigables.
 
 ### 4.2. Information Architecture
 

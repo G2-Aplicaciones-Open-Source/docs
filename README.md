@@ -216,7 +216,9 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
 ## Student Outcome
 
 El curso contribuye al cumplimiento del Student Outcome ABET:
-ABET – EAC - Student Outcome 3
+
+**ABET – EAC - Student Outcome 3**
+
 Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo,
 que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
@@ -224,7 +226,7 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 | <div style="width:150px">Criterio específico</div> | <div style="width:250px">Acciones Realizadas</div> | <div style="width:250px">Conclusiones</div> |
 |:-------------------:|:-------------------:|:------------:|
 |Comunica oralmente con efectividad a diferentes rangos de audiencia| Jhon Galvez | Se concluye |
-|Comunica por escrito con efectividad a diferentes rangosde audiencia| Jhon Galvez | Se concluye |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| Jhon Galvez | Se concluye |
 
 <hr>
 
@@ -430,7 +432,6 @@ del turismo personalizado en la plataforma.
 **3.- Klook** es una plataforma de viajes y actividades fundada en 2014 en Hong Kong que conecta a los viajeros con experiencias personalizadas, entradas a atracciones, transporte y paquetes turísticos. Klook permite reservar en línea con confirmación inmediata, y se enfoca en brindar experiencias locales auténticas. Los proveedores de servicios pueden gestionar su inventario mediante una herramienta integrada. Klook se financia por comisiones por venta y ha expandido su presencia a más de 100 países con apoyo de múltiples rondas de inversión.
 
 #### 2.1.1. Análisis competitivo
-##
 
 <table><tr><th colspan="6" valign="top"><a name="_dns5lxqlpwhz"></a>Competitive Analysis Landscape </th></tr>
 <tr><td colspan="2" rowspan="2" valign="top"><p></p><p>¿Por qué llevar a cabo este análisis?</p></td><td colspan="4" rowspan="2" valign="top"><p>El objetivo principal de realizar este análisis de la competencia es poder identificar las fortalezas, debilidades, oportunidades y amenazas de la propia empresa en comparación con los principales competidores del mercado.</p><p>Esto nos permitirá tomar decisiones informadas sobre la mejor manera de posicionarnos, diferenciarnos y aprovechar las oportunidades que el mercado nos ofrece.</p></td></tr>
@@ -471,91 +472,106 @@ del turismo personalizado en la plataforma.
 </table>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
-### **1. Estrategias de Crecimiento y Expansión:**
-**#1 Expansión de alianzas con agencias de turismo locales e internacionales:**
-TravelMatch forjará colaboraciones estratégicas con agencias de turismo locales y globales, permitiendo que estas se integren de manera fluida en la plataforma para ofrecer una variedad más amplia de paquetes turísticos y experiencias personalizadas. Esto impulsará el crecimiento de la plataforma al aumentar la base de agencias asociadas y diversificar la oferta para los usuarios.
 
-**#2 Creación de un programa de fidelización para turistas frecuentes:**
-TravelMatch lanzará un programa de recompensas y membresía premium para turistas frecuentes. Este programa incentivará a los viajeros a realizar más reservas dentro de la plataforma, con beneficios como descuentos exclusivos, acceso anticipado a ofertas especiales y experiencias VIP, fomentando la lealtad de los usuarios a largo plazo.
+**1. Estrategias de Crecimiento y Expansión:**
 
-**#3 Expansión a mercados internacionales con enfoque local:**
-TravelMatch se expandirá a nuevos mercados internacionales, comenzando con destinos turísticos populares, pero ofreciendo un enfoque altamente localizado, adaptado a las preferencias culturales y necesidades de los viajeros en esas regiones. Esto permitirá captar una base de usuarios diversa y brindar experiencias altamente relevantes.
+- **#1 Expansión de alianzas con agencias de turismo locales e internacionales:**
 
-### **2. Estrategias de Innovación y Diferenciación:**
-**#1 Personalización mediante análisis de preferencias del usuario:**
-TravelMatch implementará un sistema que permita personalizar las recomendaciones de paquetes turísticos y actividades en función de las preferencias y comportamientos de los usuarios. Aunque no se utilicen IA avanzadas, se podrán crear filtros que permitan a los usuarios explorar opciones adaptadas a su destino, tipo de experiencia y presupuesto.
+    TravelMatch forjará colaboraciones estratégicas con agencias de turismo locales y globales, permitiendo que estas se integren de manera fluida en la plataforma para ofrecer una variedad más amplia de paquetes turísticos y experiencias personalizadas. Esto impulsará el crecimiento de la plataforma al aumentar la base de agencias asociadas y diversificar la oferta para los usuarios.
 
-**#2 Mejora de la experiencia de usuario a través de un diseño optimizado y funcional:**
-La plataforma se diseñará de forma sencilla, intuitiva y fácil de navegar, permitiendo a los usuarios encontrar rápidamente las actividades que desean. Esto incluirá filtros detallados, clasificación de destinos y actividades, y un proceso de reserva claro y rápido, mejorando la experiencia del usuario y facilitando la toma de decisiones.
+- **#2 Creación de un programa de fidelización para turistas frecuentes:**
 
-**#3 Ofrecimiento de paquetes de viaje personalizados por agentes locales:**
-En lugar de depender de algoritmos complejos, TravelMatch ofrecerá la posibilidad de crear itinerarios de viaje personalizados con la ayuda de agentes de viajes locales que conozcan los destinos de manera profunda. Esto agregará un valor adicional, ya que los usuarios podrán recibir recomendaciones de expertos que comprendan el destino y sus necesidades.
+    TravelMatch lanzará un programa de recompensas y membresía premium para turistas frecuentes. Este programa incentivará a los viajeros a realizar más reservas dentro de la plataforma, con beneficios como descuentos exclusivos, acceso anticipado a ofertas especiales y experiencias VIP, fomentando la lealtad de los usuarios a largo plazo.
 
-### **3. Tácticas:**
-**Desarrollo de Producto:**
+- **#3 Expansión a mercados internacionales con enfoque local:**
 
-- **Ciclos de desarrollo ágil:** Implementar procesos ágiles para realizar iteraciones rápidas en la plataforma, mejorando constantemente la experiencia del usuario basándose en los comentarios y el feedback directo de los turistas y agencias.
-- **Pruebas A/B continuas:** Realizar pruebas A/B para optimizar la experiencia de usuario, desde la interfaz de usuario hasta las funcionalidades del sistema de reservas, asegurando que las mejoras se basen en datos reales de uso y preferencias de los usuarios.
+    TravelMatch se expandirá a nuevos mercados internacionales, comenzando con destinos turísticos populares, pero ofreciendo un enfoque altamente localizado, adaptado a las preferencias culturales y necesidades de los viajeros en esas regiones. Esto permitirá captar una base de usuarios diversa y brindar experiencias altamente relevantes.
 
-**Fidelización del Usuario:**
+**2. Estrategias de Innovación y Diferenciación:**
 
-- **Programa de lealtad y membresías premium:** Crear un sistema de recompensas para los viajeros recurrentes y agencias destacadas. Las membresías premium otorgarán beneficios exclusivos, como descuentos, acceso prioritario y visibilidad aumentada en la plataforma para las agencias de turismo.
-- **Feedback y mejora continua:** Establecer canales de comunicación directa con los usuarios (tanto turistas como agencias) para recibir sugerencias y mejorar la plataforma. Utilizar análisis de datos de interacciones pasadas para ofrecer una experiencia más satisfactoria en futuras reservas.
+- **#1 Personalización mediante análisis de preferencias del usuario:**
 
-**Expansión Tecnológica:**
+    TravelMatch implementará un sistema que permita personalizar las recomendaciones de paquetes turísticos y actividades en función de las preferencias y comportamientos de los usuarios. Aunque no se utilicen IA avanzadas, se podrán crear filtros que permitan a los usuarios explorar opciones adaptadas a su destino, tipo de experiencia y presupuesto.
 
-- **Optimización multiplataforma:** Asegurar que TravelMatch funcione de manera óptima tanto en dispositivos móviles como en plataformas web, garantizando un acceso constante y sin interrupciones a la plataforma desde cualquier dispositivo, en cualquier lugar y momento.
-# 2.2. Entrevistas
-## 2.2.1. Diseño de entrevistas
+- **#2 Mejora de la experiencia de usuario a través de un diseño optimizado y funcional:**
+    La plataforma se diseñará de forma sencilla, intuitiva y fácil de navegar, permitiendo a los usuarios encontrar rápidamente las actividades que desean. Esto incluirá filtros detallados, clasificación de destinos y actividades, y un proceso de reserva claro y rápido, mejorando la experiencia del usuario y facilitando la toma de decisiones.
+
+- **#3 Ofrecimiento de paquetes de viaje personalizados por agentes locales:**
+    En lugar de depender de algoritmos complejos, TravelMatch ofrecerá la posibilidad de crear itinerarios de viaje personalizados con la ayuda de agentes de viajes locales que conozcan los destinos de manera profunda. Esto agregará un valor adicional, ya que los usuarios podrán recibir recomendaciones de expertos que comprendan el destino y sus necesidades.
+
+**3. Tácticas:**
+
+- **Desarrollo de Producto:**
+    - **Ciclos de desarrollo ágil:** Implementar procesos ágiles para realizar iteraciones rápidas en la plataforma, mejorando constantemente la experiencia del usuario basándose en los comentarios y el feedback directo de los turistas y agencias.
+    - **Pruebas A/B continuas:** Realizar pruebas A/B para optimizar la experiencia de usuario, desde la interfaz de usuario hasta las funcionalidades del sistema de reservas, asegurando que las mejoras se basen en datos reales de uso y preferencias de los usuarios.
+
+- **Fidelización del Usuario:**
+    - **Programa de lealtad y membresías premium:** Crear un sistema de recompensas para los viajeros recurrentes y agencias destacadas. Las membresías premium otorgarán beneficios exclusivos, como descuentos, acceso prioritario y visibilidad aumentada en la plataforma para las agencias de turismo.
+    - **Feedback y mejora continua:** Establecer canales de comunicación directa con los usuarios (tanto turistas como agencias) para recibir sugerencias y mejorar la plataforma. Utilizar análisis de datos de interacciones pasadas para ofrecer una experiencia más satisfactoria en futuras reservas.
+
+- **Expansión Tecnológica:**
+    - **Optimización multiplataforma:** Asegurar que TravelMatch funcione de manera óptima tanto en dispositivos móviles como en plataformas web, garantizando un acceso constante y sin interrupciones a la plataforma desde cualquier dispositivo, en cualquier lugar y momento.
+
+
+### 2.2. Entrevistas
+
+#### 2.2.1. Diseño de entrevistas
+
 En esta sección de preguntas, nuestro objetivo es comprender mejor las necesidades, motivaciones y preferencias de nuestros segmentos objetivos dentro del ecosistema turístico. A continuación, se muestran las preguntas:
 
-**Segmento #1: Agencias de turismo locales**
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## **Preguntas principales:**
--  ¿Qué canales usas actualmente para promocionar tus paquetes turísticos? ¿Qué tan efectivos los consideras?
--  ¿Con qué frecuencia recibes reservas online? ¿Qué retos enfrentas en su gestión?
--  ¿Qué importancia le das a tener una presencia digital sólida frente a la competencia?
--  ¿Estás satisfecho con las herramientas tecnológicas actuales que usas para tu agencia? ¿Por qué?
--  ¿Qué funcionalidades consideras más útiles en una plataforma que conecte agencias con turistas?
--  ¿Has tenido dificultades para destacar frente a agencias más grandes o con más recursos?
--  ¿Qué valoras más al elegir una herramienta digital: facilidad de uso, alcance de clientes, personalización o soporte técnico?
-## **Preguntas complementarias:**
--  ¿Qué tipo de turistas suelen contratar tus servicios (edad, nacionalidad, intereses)?
--  ¿Qué porcentaje de tus reservas proviene de canales digitales?
--  ¿Te interesa acceder a planes premium o suscripciones que te den mayor visibilidad?
--  ¿Cuáles son las temporadas donde más te gustaría tener apoyo digital para la gestión de tu oferta?
--  ¿Qué tan dispuesto estarías a pagar una comisión por cada reserva concretada a través de una plataforma?
-## **Segmento #2: Turistas nacionales e internacionales**
-## **Preguntas principales:**
--  ¿Cómo sueles planificar tus viajes dentro del Perú? ¿Qué herramientas usas para ello?
--  ¿Qué tan importante es para ti personalizar tus experiencias de viaje según tus intereses?
--  ¿Has tenido dificultades encontrando actividades o excursiones que se adapten a tu presupuesto o estilo de viaje?
--  ¿Qué tipo de actividades valoras más al viajar (culturales, aventura, gastronomía, relax, etc.)?
--  ¿Prefieres reservar todo por separado o en paquetes que combinen varias experiencias?
--  ¿Qué tan relevante es para ti poder comparar precios, duración y valoraciones desde una sola plataforma?
--  ¿Qué factores te dan más confianza al reservar actividades en línea (opiniones, reputación de la agencia, medios de pago, seguridad)?
-## **Preguntas complementarias:**
--  ¿Estás dispuesto a pagar un poco más por una experiencia auténtica y personalizada?
--  ¿Te interesaría recibir recomendaciones de actividades según tu ubicación y tus intereses?
--  ¿Qué tan cómodo te resulta hacer reservas desde tu celular cuando estás viajando?
--  ¿Te gustaría tener la opción de contactar directamente con la agencia antes de reservar?
--  ¿Te ha pasado que llegaste a un destino sin saber qué actividades hacer y dónde contratarlas?
-## **Segmento #3: Viajeros por trabajo (Turismo corporativo)**
-## **Preguntas principales:**
-- ¿Con qué frecuencia viajas por motivos laborales dentro del país?
--  ¿Sueles tener tiempo libre entre reuniones o compromisos laborales cuando viajas?
--  ¿Qué tipo de actividades te gustaría realizar durante tu tiempo libre? (Tours cortos, experiencias gastronómicas, relajación, etc.)
--  ¿Qué valoras más al reservar actividades durante viajes de trabajo: rapidez, ubicación cercana, disponibilidad inmediata, etc.?
--  ¿Utilizas apps o plataformas para organizar tu tiempo libre cuando estás fuera por trabajo? ¿Cuáles?
--  ¿Te resulta complicado encontrar actividades con horarios flexibles o compatibles con tus jornadas laborales?
--  ¿Estás interesado en experiencias personalizadas que se adapten a tu perfil profesional y tus gustos personales?
-## **Preguntas complementarias:**
--  ¿Prefieres reservar actividades antes de viajar o una vez ya estás en la ciudad?
-- ¿Te gustaría recibir recomendaciones automáticas según tu horario, ubicación y tipo de viaje?
--  ¿Qué tan cómodo te sentirías usando una app que combine actividades turísticas y servicios prácticos para viajeros de negocio?
--  ¿Qué nivel de confianza necesitas para reservar con una agencia nueva o desconocida?
--  ¿Consideras útil una opción para generar comprobantes o facturas automáticamente al reservar?
+- **Segmento #1: Agencias de turismo locales**
 
+    **Preguntas principales:**
+    -  ¿Qué canales usas actualmente para promocionar tus paquetes turísticos? ¿Qué tan efectivos los consideras?
+    -  ¿Con qué frecuencia recibes reservas online? ¿Qué retos enfrentas en su gestión?
+    -  ¿Qué importancia le das a tener una presencia digital sólida frente a la competencia?
+    -  ¿Estás satisfecho con las herramientas tecnológicas actuales que usas para tu agencia? ¿Por qué?
+    -  ¿Qué funcionalidades consideras más útiles en una plataforma que conecte agencias con turistas?
+    -  ¿Has tenido dificultades para destacar frente a agencias más grandes o con más recursos?
+    -  ¿Qué valoras más al elegir una herramienta digital: facilidad de uso, alcance de clientes, personalización o soporte técnico?
+
+    **Preguntas complementarias:**
+    -  ¿Qué tipo de turistas suelen contratar tus servicios (edad, nacionalidad, intereses)?
+    -  ¿Qué porcentaje de tus reservas proviene de canales digitales?
+    -  ¿Te interesa acceder a planes premium o suscripciones que te den mayor visibilidad?
+    -  ¿Cuáles son las temporadas donde más te gustaría tener apoyo digital para la gestión de tu oferta?
+    -  ¿Qué tan dispuesto estarías a pagar una comisión por cada reserva concretada a través de una plataforma?
+
+- **Segmento #2: Turistas nacionales e internacionales**
+
+    **Preguntas principales:**
+    -  ¿Cómo sueles planificar tus viajes dentro del Perú? ¿Qué herramientas usas para ello?
+    -  ¿Qué tan importante es para ti personalizar tus experiencias de viaje según tus intereses?
+    -  ¿Has tenido dificultades encontrando actividades o excursiones que se adapten a tu presupuesto o estilo de viaje?
+    -  ¿Qué tipo de actividades valoras más al viajar (culturales, aventura, gastronomía, relax, etc.)?
+    -  ¿Prefieres reservar todo por separado o en paquetes que combinen varias experiencias?
+    -  ¿Qué tan relevante es para ti poder comparar precios, duración y valoraciones desde una sola plataforma?
+    -  ¿Qué factores te dan más confianza al reservar actividades en línea (opiniones, reputación de la agencia, medios de pago, seguridad)?
+
+    **Preguntas complementarias:**
+    -  ¿Estás dispuesto a pagar un poco más por una experiencia auténtica y personalizada?
+    -  ¿Te interesaría recibir recomendaciones de actividades según tu ubicación y tus intereses?
+    -  ¿Qué tan cómodo te resulta hacer reservas desde tu celular cuando estás viajando?
+    -  ¿Te gustaría tener la opción de contactar directamente con la agencia antes de reservar?
+    -  ¿Te ha pasado que llegaste a un destino sin saber qué actividades hacer y dónde contratarlas?
+
+- **Segmento #3: Viajeros por trabajo (Turismo corporativo)**
+
+    **Preguntas principales:**
+    - ¿Con qué frecuencia viajas por motivos laborales dentro del país?
+    -  ¿Sueles tener tiempo libre entre reuniones o compromisos laborales cuando viajas?
+    -  ¿Qué tipo de actividades te gustaría realizar durante tu tiempo libre? (Tours cortos, experiencias gastronómicas, relajación, etc.)
+    -  ¿Qué valoras más al reservar actividades durante viajes de trabajo: rapidez, ubicación cercana, disponibilidad inmediata, etc.?
+    -  ¿Utilizas apps o plataformas para organizar tu tiempo libre cuando estás fuera por trabajo? ¿Cuáles?
+    -  ¿Te resulta complicado encontrar actividades con horarios flexibles o compatibles con tus jornadas laborales?
+    -  ¿Estás interesado en experiencias personalizadas que se adapten a tu perfil profesional y tus gustos personales?
+
+    **Preguntas complementarias:**
+    -  ¿Prefieres reservar actividades antes de viajar o una vez ya estás en la ciudad?
+    - ¿Te gustaría recibir recomendaciones automáticas según tu horario, ubicación y tipo de viaje?
+    -  ¿Qué tan cómodo te sentirías usando una app que combine actividades turísticas y servicios prácticos para viajeros de negocio?
+    -  ¿Qué nivel de confianza necesitas para reservar con una agencia nueva o desconocida?
+    -  ¿Consideras útil una opción para generar comprobantes o facturas automáticamente al reservar?
 
 #### 2.2.2. Registro de entrevistas
 

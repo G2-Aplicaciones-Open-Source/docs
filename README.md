@@ -42,182 +42,174 @@
 
 ## Registro de Versiones del Informe
 
-| Version | Fecha | <div style="width:250px">Autor(es) </div> | <div style="width:400px">Descripcion de la modificacion</div> |
-|:-------:|:-----:|:-----------------------------------------:|:-------------------------------------------------------------:|
-| 1 | 24/04/2025 | Aspajo Alvarez, Mathias<br>Briceño De La Cruz, Farid<br>Galvez Chambi, Jhon<br>Guevara Tejada, Jorge<br>Linares Bernable, Cesar |                 |
+| Versión | Fecha | <div style="width:250px">Autor(es) </div> | <div align="center" style="width:400px">Descripción de la modificación</div> |
+|:-------:|:-----:|:-----------------------------------------:|-------------------------------------------------------------|
+| TB1 | 24/04/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge<br>- Linares Bernable, Cesar | Para esta entrega se han desarrollado los siguientes capítulos: <br>- Carátula<br>- Registro de Versiones del Informe<br>- Project Report Collaboration Insights<br>- Contenido<br>- Student Outcome<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Capítulo V: Product Implementation, Validation & Deployment<br>- 5.1. Software Configuration Management<br>- 5.1.1. Software Development Environment Configuration<br>- 5.1.2. Source Code Management<br>- 5.1.3. Source Code Style Guide & Conventions<br>- 5.1.4. Software Deployment Configuration<br>- 5.2. Landing Page, Services & Applications Implementation<br>- 5.2.1. Sprint 1<br>- 5.2.1.1. Sprint Planning 1<br>- 5.2.1.2. Aspect Leaders and Collaborators<br>- 5.2.1.3. Sprint Backlog 1<br>- 5.2.1.4. Development Evidence for Sprint Review<br>- 5.2.1.5. Execution Evidence for Sprint Review<br>- 5.2.1.6. Services Documentation Evidence for Sprint Review<br>- 5.2.1.7. Software Deployment Evidence for Sprint Review<br>- 5.2.1.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos |
 
 <hr>
 
 ## Project Report Collaboration Insights  
 
+Nuestro Project Report se encuentra en el siguiente repositorio de GitHub: 
+
+🔗[https://github.com/G2-Aplicaciones-Open-Source/docs](https://github.com/G2-Aplicaciones-Open-Source/docs).
+
+- **Flujo de trabajo adoptado**
+
+    Durante el desarrollo colaborativo de este repositorio, hemos decidido adoptar el flujo de trabajo GitHub Flow, debido a su simplicidad, escalabilidad y orientación a la integración continua. Este flujo nos ha permitido:
+
+    - Crear ramas individuales por cada integrante y sección asignada.
+    - Realizar pull requests para revisión de cambios antes de integrarlos a la rama principal.
+    - Discutir observaciones mediante comentarios en los commits o PRs.
+    - Asegurar la integración progresiva, ordenada y sin conflictos del contenido en el informe final.
+
+    Además, hemos establecido una convención de nombres para las ramas utilizando el siguiente esquema: cap[numero-capitulo], lo que facilita la identificación de la sección en proceso de edición. Del mismo modo, los mensajes de commit son claros y están formulados siguiendo la semántica de los commits convencionales, lo que mejora la trazabilidad y comprensión del historial de cambios.
+
+### Colaboración por Entrega
+
+- **TB1:**
+    Para la Primera Entrega (TB1) del Project Report, cada miembro del equipo participó activamente en la redacción de secciones específicas. La coordinación se realizó de forma asincrónica y vía reuniones breves en línea para consensuar estilos de redacción y criterios de inclusión.
+
+    - Asignación de secciones por miembro:
+        - Aspajo Alvarez, Mathias (AdeXzz): Capitulo 2 (repartido), Capitulo 3
+        - Briceño De La Cruz, Farid	(InjustShin): Capitulo 4 (repartido)
+        - Galvez Chambi, Jhon (Chaomeum): Capitulo 1, Capitulo 4 (repartido)
+        - Guevara Tejada, Jorge	(Jorgito170): Capitulo 2 (repartido)
+        - Linares Bernable, Cesar (Cesar-Linares): Capitulo 4 (repartido)
+        - Todos: Capitulo 5
+
+    - A continuación, se adjuntan capturas que evidencian el trabajo distribuido:
+        - Miembros del equipo en el repositorio:
+        <p align="center">
+            <img src="assets/evidencias/repo-members.png" alt="repo-members" width=60% >
+        </p>
+        - Creación de ramas por cada capítulo:
+        <p align="center">
+            <img src="assets/evidencias/" alt="repo-branches" width=60% >
+        </p>
+        - Commits realizados en las ramas individuales:       
+        <p align="center">
+            <img src="assets/evidencias/cap1-branch-commits.png" alt="cap1-branch-commits" width=60% >
+        </p>
+        <p align="center">
+            <img src="assets/evidencias/" alt="cap2-branch-commits" width=60% >
+        </p>
+        <p align="center">
+            <img src="assets/evidencias/" alt="cap3-branch-commits" width=60% >
+        </p>
+        <p align="center">
+            <img src="assets/evidencias/" alt="cap4-branch-commits" width=60% >
+        </p>
+        <p align="center">
+            <img src="assets/evidencias/" alt="cap5-branch-commits" width=60% >
+        </p>
+        - Pull Requests y merges a la rama principal (master):
+        <p align="center">
+            <img src="assets/evidencias/" alt="master-merges" width=60% >
+        </p>
+        - Analítica del repositorio con participación de todos los miembros:
+        <p align="center">
+            <img src="assets/evidencias/repo-members.png" alt="repo-analytics" width=60% >
+        </p>        
+
 <hr>
 
 ## Tabla de Contenidos
 
-<details>
-    <summary>Capítulo I: Introducción </summary>    
-    <ul>
-        <li>
-            <a href="#11-startup-profile">1.1. Startup Profile</a>
-            <ul>
-                <li><a href="#111-descripción-de-la-startup">1.1.1. Descripción de la Startup</a></li>
-                <li><a href="#112-perfiles-de-integrantes-del-equipo">1.1.2. Perfiles de Integrantes del Equipo</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#12-solution-profile">1.2. Solution Profile</a>
-            <ul>
-                <li><a href="#121-antecedentes-y-problemática">1.2.1. Antecedentes y Problemática</a></li>
-                <li>
-                    <a href="#122-lean-ux-process">1.2.2. Lean UX Process</a>
-                    <ul>
-                        <li><a href="#1221-lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></li>
-                        <li><a href="#1222-lean-ux-assumptions">1.2.2.2. Lean UX Assumptions</a></li>
-                        <li><a href="#1223-lean-ux-hypothesis-statements">1.2.2.3. Lean UX Hypothesis Statements</a></li>
-                        <li><a href="#1224-lean-ux-canvas">1.2.2.4. Lean UX Canvas</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </li>
-        <li><a href="#13-segmentos-objetivos">1.3. Segmentos Objetivos</a></li>
-    </ul>    
-</details>
+[Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 
-<details>
-    <summary>Capítulo II: Requirements Elicitation & Analysis</summary>
-    <ul>
-        <li>
-            <a href="#21-competidores">2.1. Competidores</a>
-            <ul>
-                <li><a href="#211-análisis-competitivo">2.1.1. Análisis competitivo</a></li>
-                <li><a href="#212-estrategias-y-tácticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#22-entrevistas">2.2. Entrevistas</a>
-            <ul>
-                <li><a href="#221-diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></li>
-                <li><a href="#222-registro-de-entrevistas">2.2.2. Registro de entrevistas</a></li>
-                <li><a href="#223-análisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#23-needfinding">2.3. Needfinding</a>
-            <ul>
-                <li><a href="#231-user-personas">2.3.1. User Personas</a></li>
-                <li><a href="#232-user-task-matrix">2.3.2. User Task Matrix</a></li>
-                <li><a href="#233-user-journey-mapping">2.3.3. User Journey Mapping</a></li>
-                <li><a href="#234-empathy-mapping">2.3.4. Empathy Mapping</a></li>
-                <li><a href="#235-as-is-scenario-mapping">2.3.5. As-is Scenario Mapping</a></li>
-            </ul>
-        </li>
-        <li><a href="#24-ubiquitous-language">2.4. Ubiquitous Language</a></li>
-    </ul>
-</details>
+[Project Report Collaboration Insights](#project-report-collaboration-insights)
 
-<details>
-    <summary>Capítulo III: Requirements Specification </summary>
-        <ul>
-            <li><a href="#31-to-be-scenario-mapping">3.1. To-Be Scenario Mapping</a></li>
-            <li><a href="#32-user-stories">3.2. User Stories</a></li>
-            <li><a href="#33-impact-mapping">3.3. Impact Mapping</a></li>
-            <li><a href="#34-product-backlog">3.4. Product Backlog</a></li>
-        </ul>    
-</details>
+[Tabla de Contenidos](#tabla-de-contenidos)
 
-<details>
-    <summary>Capítulo IV: Product Design </summary>
-    <ul>
-        <li>
-            <a href="#41-style-guidelines">4.1. Style Guidelines</a>
-            <ul>
-                <li><a href="#411-general-style-guidelines">4.1.1. General Style Guidelines</a></li>
-                <li><a href="#412-web-style-guidelines">4.1.2. Web Style Guidelines</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#42-information-architecture">4.2. Information Architecture</a>
-            <ul>
-                <li><a href="#421-organization-systems">4.2.1. Organization Systems</a></li>
-                <li><a href="#422-labeling-systems">4.2.2. Labeling Systems</a></li>
-                <li><a href="#423-seo-tags-and-meta-tags">4.2.3. SEO Tags and Meta Tags</a></li>
-                <li><a href="#424-searching-systems">4.2.4. Searching Systems</a></li>
-                <li><a href="#425-navigation-systems">4.2.5. Navigation Systems</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#43-landing-page-ui-design">4.3. Landing Page UI Design</a>
-            <ul>
-                <li><a href="#431-landing-page-wireframe">4.3.1. Landing Page Wireframe</a></li>
-                <li><a href="#432-landing-page-mock-up">4.3.2. Landing Page Mock-up</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#44-web-applications-uxui-design">4.4. Web Applications UX/UI Design</a>
-            <ul>
-                <li><a href="#441-web-applications-wireframes">4.4.1. Web Applications Wireframes</a></li>
-                <li><a href="#442-web-applications-wireflow-diagrams">4.4.2. Web Applications Wireflow Diagrams</a></li>
-                <li><a href="#443-web-applications-mock-ups">4.4.3. Web Applications Mock-ups</a></li>
-                <li><a href="#444-web-applications-user-flow-diagrams">4.4.4. Web Applications User Flow Diagrams</a></li>
-            </ul>
-        </li>
-        <li><a href="#45-web-applications-prototyping">4.5. Web Applications Prototyping</a></li>
-        <li>
-            <a href="#46-domain-driven-software-architecture">4.6. Domain-Driven Software Architecture</a>
-            <ul>
-                <li><a href="#461-software-architecture-context-diagrams">4.6.1. Software Architecture Context Diagrams</a></li>
-                <li><a href="#462-software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams</a></li>
-                <li><a href="#463-software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#47-software-object-oriented-design">4.7. Software Object-Oriented Design</a>
-            <ul>
-                <li><a href="#471-class-diagrams">4.7.1. Class Diagrams</a></li>
-                <li><a href="#472-class-dictionary">4.7.2. Class Dictionary</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#48-database-design">4.8. Database Design</a>
-            <ul>
-                <li><a href="#481-database-diagram">4.8.1. Database Diagram</a></li>
-            </ul>
-        </li>
-    </ul>
-</details>
+[Student Outcome](#student-outcome)
 
-<details>
-    <summary>Capítulo V: Product Implementation, Validation & Deployment </summary>
-    <ul>
-        <li>
-            <a href="#51-software-configuration-management">5.1. Software Configuration Management</a>
-            <ul>
-                <li><a href="#511-software-development-environment-configuration">5.1.1. Software Development Environment Configuration</a></li>
-                <li><a href="#512-source-code-management">5.1.2. Source Code Management</a></li>
-                <li><a href="#513-source-code-style-guide-conventions">5.1.3. Source Code Style Guide & Conventions</a></li>
-                <li><a href="#514-software-deployment-configuration">5.1.4. Software Deployment Configuration</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#52-landing-page-services-applications-implementation">5.2. Landing Page, Services & Applications Implementation</a>
-            <ul>
-                <li>
-                    <a href="#521-sprint-1">5.2.1. Sprint 1</a>
-                    <ul>
-                        <li><a href="#5211-sprint-planning-1">5.2.1.1. Sprint Planning 1</a></li>
-                        <li><a href="#5212-aspect-leaders-and-collaborators">5.2.1.2. Aspect Leaders and Collaborators</a></li>
-                        <li><a href="#5213-sprint-backlog-1">5.2.1.3. Sprint Backlog 1</a></li>
-                        <li><a href="#5214-development-evidence-for-sprint-review">5.2.1.4. Development Evidence for Sprint Review</a></li>
-                        <li><a href="#5215-execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review</a></li>
-                        <li><a href="#5216-services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></li>
-                        <li><a href="#5217-software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></li>
-                        <li><a href="#5218-team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </li>
-    </ul>
-</details>
+[Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de Integrantes del Equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y Problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos Objetivos](#13-segmentos-objetivos)
+
+[Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+
+[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
+
+[Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagrams](#461-software-architecture-context-diagrams)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
+
+[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide-conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services-applications-implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+      - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+[Conclusiones](#conclusiones)
+
+[Bibliografía](#bibliografía)
+
+[Anexos](#anexos)
 
 <hr>
 
@@ -250,16 +242,14 @@ Ante este contexto, proponemos una plataforma web de turismo y actividades perso
 
 La propuesta de valor se centra en:
 
-    Para los turistas: una experiencia de búsqueda fluida, segura y adaptada a sus preferencias.
-
-    Para las agencias: visibilidad digital, herramientas de gestión y potencial de crecimiento.
+- Para los turistas: una experiencia de búsqueda fluida, segura y adaptada a sus preferencias.
+- Para las agencias: visibilidad digital, herramientas de gestión y potencial de crecimiento.
 
 El modelo de negocio se sustentará en:
 
-    Comisiones por cada reserva gestionada a través de la plataforma.
+- Comisiones por cada reserva gestionada a través de la plataforma.
 
-    Planes premium para agencias que deseen destacar sus servicios y acceder a beneficios adicionales.
-
+- Planes premium para agencias que deseen destacar sus servicios y acceder a beneficios adicionales.
 
 | Misión | Visión |
 |:-------:|:-------:|
@@ -603,21 +593,384 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 
 ### 4.1. Style Guidelines
 
+Esta sección establece un conjunto de directrices visuales y de interacción coherentes que funcionarán como fuente central de referencia para el equipo de diseño, desarrollo y comunicación de TravelMatch.
+El objetivo es garantizar una presentación unificada, profesional y alineada con la esencia de la marca: conectar a turistas con experiencias auténticas, de manera simple y confiable.
+
 #### 4.1.1. General Style Guidelines
+
+- _Branding:_    
+    - La identidad visual de TravelMatch es moderna, cercana y confiable. El logotipo incorpora dos figuras humanas estilizadas unidas en un gesto de conexión, lo que simboliza el espíritu colaborativo y humano de la plataforma.
+    - Uso del logotipo: El logotipo debe usarse preferentemente sobre fondos claros (beige, blanco o pastel neutro). En fondos oscuros, se permite una versión monocromática blanca o en azul marino (#1C1F2B).
+    - No se permite:
+        - Rotar el logotipo.
+        - Aplicar sombras, contornos o degradados.
+        - Cambiar la tipografía original de la palabra TravelMatch.
+
+<p align="center">
+    <img src="assets/logos/TravelMatchLogo.png" alt="travel-match-logo" width=200px/>
+</p>
+
+- _Typography:_
+    - La tipografía utilizada en el logotipo es una fuente sans-serif geométrica, amigable y legible. Para mantener coherencia, se adoptará un sistema tipográfico similar en toda la aplicación.
+
+    - Fuente primaria: Nunito Sans
+        - Uso: Títulos, botones, navegación.
+        - Estilos permitidos: Regular, SemiBold, Bold.
+
+    - Fuente secundaria: Inter
+        - Uso: Cuerpos de texto largos, formularios.
+
+    - Tamaños recomendados:
+        - Título principal (H1): 32px / 700
+        - Subtítulo (H2): 24px / 600
+        - Texto normal: 16px / 400
+        - Nota o ayuda: 12px / 400
+    
+        | Nombre de fuente | Tipografia |
+        |:----------------:|:----------:|
+        | Nunito Sans | <img src="assets/recursos/nunito-sans-font.png" alt="nunito-sans-font" width=200px/> |
+        | Inter | <img src="assets/recursos/inter-font.png" alt="inter-font" width=200px/> |        
+              
+- _Colors:_
+    - La paleta de TravelMatch se basa en contrastes suaves y un color protagonista: azul marino profundo, que transmite confianza y estabilidad. Se acompaña de colores neutros y un acento cálido para llamados a la acción
+    
+    | Color | Hex | Uso Principal | 
+    |:-----:|:---:|:-------------:|
+    |Azul Marino| #1C1F2B | Texto principal, logotipo, botones|
+    |Beige Claro| #F5F0E6 | Fondo base|
+    |Gris Suave| #B3B3B3 | Bordes, textos secundarios|
+    |Azul Claro| #3A71C1 | Enlaces, botones secundarios|
+    |Amarillo Arena| #FFD479| Llamado a la acción / iconos |
+    |Blanco| #FFFFFF|Fondos, tarjetas, formularios|
+    
+<p align="center">
+    <img src="assets/recursos/system-colors.png"/ width=70%>
+</p>
+
+- _Spacing:_
+    - La coherencia en el espaciado es clave para una interfaz limpia y clara.
+        - Espaciado entre secciones principales: 32px
+        - Margen interno de botones y campos: 12px vertical / 20px horizontal
+        - Separación entre elementos repetitivos (cards, ítems): 16px
+        - Padding general de contenedores: 24px
+
+- _Tono de comunicación y lenguaje:_
+    - El tono de TravelMatch es cercano, entusiasta y profesional.
+    
+    | Estilo de redacción | Tono predominante |
+    |---------------------|-------------------|
+    | 1. Amigable y claro <br> 2. Sin tecnicismos innecesarios <br> 3. Verbos en voz activa <br> 4. Enfocado en beneficios (“Descubre experiencias únicas”, “Reserva en segundos”)| 1. Formal-casual: Respetuoso, pero no rígido. <br> 2. Entusiasta: Inspirador, motivador, acogedor. <br> 3. Directo: Frases cortas y llamadas a la acción claras. |
+
 
 #### 4.1.2. Web Style Guidelines
 
+- _Responsive Design Standards:_  
+    TravelMatch está diseñado como una aplicación web mobile-first, adaptándose fluidamente a diferentes dispositivos:
+
+    - **Mobile (360px - 768px):**  
+        - Navegación tipo hamburguesa.  
+        - Cards apiladas en columna.  
+        - Botones grandes y legibles.  
+
+    - **Tablet (769px - 1024px):**  
+        - Layout en 2 columnas.  
+        - Menú lateral colapsable.  
+
+    - **Desktop (1025px en adelante):**  
+        - Menú principal visible.  
+        - Layout de 3 columnas donde sea posible.  
+
+    Todos los componentes deben utilizar **flexbox/grid** con puntos de quiebre en 768px y 1024px.
+
+- _Interactivity:_  
+    - **Botones:**  
+        - Bordes redondeados (border-radius: 12px).  
+        - Hover: cambio de fondo o sombra suave (box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1)).  
+        - Feedback claro al clic (cambio de color, animación sutil).  
+
+    - **Transiciones y animaciones:**  
+        - Duración: 200–300ms.  
+        - Usar ease-in-out.  
+        - Aplicables en sliders, modales, tooltips y feedback de formularios.
+
+- _Accessibility:_  
+    - Contrastes de texto cumplen con **WCAG AA** como mínimo.  
+    - Todo ícono debe tener alternativa textual (aria-label o alt).  
+    - Navegación compatible con teclado (Tab, Enter, Esc).  
+    - Uso de role, aria-expanded, aria-hidden en componentes dinámicos.  
+    - Fuente mínima: 16px.
+
+- _UI Consistency:_  
+    - Uso de un sistema de componentes reutilizables: botones, tarjetas, inputs, modales.  
+    - Evitar cambios de estilo arbitrarios entre páginas.  
+    - Todos los formularios deben compartir un estilo común:  
+        - Etiqueta arriba, campo debajo, mensaje de error abajo.  
+        - Validaciones claras y mensajes amigables.
+
 ### 4.2. Information Architecture
+
+La arquitectura de la información de TravelMatch está diseñada para asegurar que tanto visitantes nuevos como usuarios recurrentes puedan encontrar, descubrir e interactuar con el contenido de manera natural e intuitiva. Esta estructura se adapta a las necesidades específicas de cada entorno (Landing Page, Aplicación Web y Aplicación Móvil) manteniendo consistencia visual, semántica y funcional.
+
+Los sistemas de organización, etiquetado, navegación y búsqueda han sido definidos considerando la diversidad de usuarios, el volumen de información creciente y la importancia de una experiencia centrada en el usuario.
 
 #### 4.2.1. Organization Systems
 
+La estructura de organización de contenido en TravelMatch combina distintas estrategias según el tipo de información presentada y la etapa del recorrido del usuario:
+
+- _Visual Hierarchy (Jerarquía Visual)_
+
+    Se utilizará ampliamente en todas las interfaces (Landing Page, Home de la App, Detalles de experiencia) para facilitar la comprensión inmediata del contenido. La disposición jerárquica prioriza los elementos según su importancia relativa, estableciendo tamaños, colores y posiciones diferenciadas para:    
+
+    - Títulos y encabezados principales.
+    - Imágenes destacadas (experiencias recomendadas, destinos top).
+    - Llamados a la acción (botones de "Reservar", "Explorar", "Ver más").
+
+    Esto permitirá que el usuario escanee el contenido rápidamente y entienda qué acciones tomar en cada momento.
+
+- _Sequential Organization (Organización Secuencial)_
+
+    Se aplicará principalmente en los flujos de interacción del usuario, especialmente en procesos donde se requiere una acción paso a paso, como:
+
+    - Registro de usuario y onboarding personalizado.
+    - Filtros para construir recomendaciones de experiencia.
+    - Proceso de reserva y confirmación.
+    - Creación de perfil o preferencias de viaje.
+
+    Cada uno de estos pasos se presentará de forma clara y continua, indicando el progreso del usuario y minimizando fricciones en la interacción.
+
+- _Matricial (Matrix Organization)_
+
+    Este sistema será utilizado en secciones donde el usuario debe explorar múltiples opciones simultáneamente, sin un orden específico, como:
+
+    - Búsqueda de experiencias por filtros combinables.
+    - Exploración de destinos por tipo de actividad (gastronomía, aventura, cultura, etc.).
+    - Vista de resultados personalizados o tendencias.
+
+    Los usuarios podrán elegir entre distintos atributos (ubicación, duración, tipo de experiencia, nivel de actividad, etc.) y la interfaz responderá dinámicamente.
+
+- _Categorización de Contenido_
+
+    Para optimizar la navegación y la personalización de la experiencia del usuario, TravelMatch adopta una categorización estratégica que responde tanto a las expectativas de los turistas como a las necesidades operativas de la plataforma. Los esquemas de categorización se aplicarán según el contexto de uso y el tipo de información, permitiendo al usuario filtrar, explorar y decidir con facilidad.
+
+    - **Por tópicos:** Las experiencias se agruparán por categorías temáticas (Ej. “Aventura al aire libre”, “Gastronomía local”, “Arte y cultura”).
+    - **Por audiencia:** Algunas secciones estarán personalizadas para distintos perfiles de usuario (parejas, viajeros solitarios, familias, etc.).
+    - **Cronológico:** Se utilizará en listas de reservas pasadas y próximas, así como en contenido destacado por temporada o eventos locales.
+    - **Alfabético:** Aplicable para listados largos como ciudades, destinos o idiomas disponibles en preferencias.
+
 #### 4.2.2. Labeling Systems
+
+En TravelMatch, el sistema de etiquetado ha sido diseñado para maximizar la claridad y minimizar la carga cognitiva del usuario. Todas las etiquetas empleadas en la plataforma —tanto en la navegación como en el contenido— están orientadas a la simplicidad, consistencia semántica y a un lenguaje cercano, inclusivo y fácil de comprender, sin sacrificar la precisión funcional.
+
+- _Principios clave del sistema de etiquetado:_  
+    - **Claridad ante todo:**  
+        Las etiquetas evitarán tecnicismos o ambigüedades. Se utilizarán palabras comunes para que cualquier usuario —sin importar su nivel de experiencia digital o cultural— pueda entenderlas.  
+    - **Consistencia terminológica:**  
+        Un mismo concepto se nombrará de la misma forma en todos los entornos (web, móvil, comunicaciones, emails transaccionales).  
+    - **Longitud mínima:**  
+        Se privilegiará el uso de etiquetas cortas (1 a 3 palabras), pero descriptivas.  
+    - **Prioridad visual:**  
+        Se jerarquizará tipográficamente cada tipo de etiqueta, destacando acciones o categorías principales con estilos tipográficos definidos en la guía de estilo.
+
+- _Etiquetas principales por área:_  
+    - **Navegación global:**  
+        - Explorar  
+        - Mi Perfil  
+        - Favoritos  
+        - Recomendaciones  
+        - Mis Reservas  
+        - Ayuda  
+
+    - **Landing Page:**  
+        - Encuentra tu próxima aventura  
+        - ¿Cómo funciona TravelMatch?  
+        - Experiencias destacadas  
+        - Únete como agencia  
+        - Testimonios  
+
+    - **Filtrado y búsqueda:**  
+        - Tipo de experiencia (Ej. “Cultural”, “Aventura”, “Relax”)  
+        - Duración (Ej. “Medio día”, “1 día completo”, “Fin de semana”)  
+        - Nivel de actividad (Ej. “Baja”, “Moderada”, “Alta”)  
+        - Destino  
+        - Precio  
+
+    - **Acciones del usuario:**  
+        - Reservar ahora  
+        - Guardar experiencia  
+        - Compartir  
+        - Ver más detalles  
+        - Editar perfil  
+        - Cerrar sesión  
+
+    - **Agencias (vista especial):**  
+        - Publicar nueva experiencia  
+        - Gestionar reservas  
+        - Estadísticas  
+        - Planes y visibilidad  
+        - Mensajes recibidos  
+
+- _Asociaciones entre etiquetas:_  
+    - Se utilizarán etiquetas compuestas en ciertos casos para clarificar relaciones entre conceptos, como:  
+        - “Experiencia recomendada”  
+        - “Destino popular”  
+        - “Nuevo mensaje”  
+        - “Agencia verificada”  
+
+    - Las etiquetas de acciones estarán siempre acompañadas de íconos representativos para reforzar la asociación visual y acelerar la comprensión.  
+    - En formularios y filtros, los campos estarán precedidos por etiquetas que indiquen claramente qué se espera del usuario (Ej. “Selecciona una fecha”, “Elige un destino”).
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+Para TravelMatch, contar con una estructura sólida de SEO y metadatos es esencial para maximizar la visibilidad orgánica en motores de búsqueda y mejorar la experiencia al compartir enlaces en redes sociales y otras plataformas. A continuación, se definen los valores clave que serán implementados tanto en la Landing Page como en la Web Application, alineados con nuestra propuesta de valor y el tono de la marca.
+
+- _Landing Page:_  
+    - **Title:**  
+        TravelMatch | Conecta con tu próxima experiencia de viaje personalizada  
+    - **Meta Description:**  
+        Descubre viajes únicos con agencias locales verificadas. En TravelMatch conectamos turistas con experiencias a medida, sin complicaciones.  
+    - **Meta Keywords:**  
+        viajes personalizados, agencias locales, experiencias de viaje, turismo inteligente, tours recomendados, actividades, destinos  
+    - **Meta Author:**  
+        TravelMatch Team  
+    - **Open Graph Tags (para redes sociales):**  
+        ```html
+        <meta property="og:title" content="TravelMatch | Conecta con tu próxima experiencia de viaje personalizada" />
+        <meta property="og:description" content="Descubre viajes únicos con agencias locales verificadas. En TravelMatch conectamos turistas con experiencias a medida, sin complicaciones." />
+        <meta property="og:image" content="https://travelmatch.app/assets/social-preview.jpg" />
+        <meta property="og:url" content="https://travelmatch.app" />
+        <meta property="og:type" content="website" />
+        ```
+    - **Twitter Cards (formato enriquecido):**  
+        ```html
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="TravelMatch | Conecta con tu próxima experiencia de viaje personalizada" />
+        <meta name="twitter:description" content="Descubre viajes únicos con agencias locales verificadas. En TravelMatch conectamos turistas con experiencias a medida, sin complicaciones." />
+        <meta name="twitter:image" content="https://travelmatch.app/assets/social-preview.jpg" />
+        ```
+
+- _Web Application (post-login):_  
+    - **Title:**  
+        TravelMatch | Tu espacio de viajes personalizados  
+    - **Meta Description:**  
+        Gestiona tus experiencias, descubre nuevas aventuras y mantente en contacto con agencias confiables. Todo en un solo lugar.  
+    - **Meta Keywords:**  
+        perfil viajero, gestionar reservas, recomendaciones de viaje, experiencias favoritas, viajes a medida  
+    - **Meta Author:**  
+        TravelMatch Platform  
+    - **Canonical URL:**  
+        Las páginas clave de la app tendrán URLs canónicas bien definidas para evitar problemas de contenido duplicado, especialmente en vistas filtradas.
+
+- _Consideraciones adicionales:_  
+    - Se implementarán etiquetas dinámicas en la web app para experiencias individuales y perfiles de agencia, lo cual permitirá SEO personalizado por contenido.  
+    - Se aplicarán **alt attributes** descriptivos y útiles en todas las imágenes, especialmente aquellas que se vinculen con experiencias o destinos.  
+    - Se cuidará el rendimiento de carga (**Core Web Vitals**) como parte del SEO técnico, priorizando tiempos rápidos de respuesta en dispositivos móviles. 
+
 #### 4.2.4. Searching Systems
 
+El sistema de búsqueda de TravelMatch está diseñado para facilitar a los usuarios la localización rápida y eficiente de experiencias turísticas relevantes. El objetivo es minimizar la frustración del usuario y maximizar la descubribilidad del contenido, aún ante grandes volúmenes de información y diversidad de ofertas.
+
+- _Turistas: Búsqueda de experiencias:_  
+    Los turistas acceden a un motor de búsqueda central ubicado en la vista principal de la plataforma. Este sistema incluirá:  
+    - **Barra de búsqueda por palabra clave:**  
+        - Autocompletado inteligente para sugerir términos relevantes.  
+    - **Filtros dinámicos combinables:**  
+        - Tipo de actividad (aventura, cultural, gastronómica, relajación, etc.).  
+        - Ubicación geográfica (país, ciudad, región).  
+        - Precio (rango mínimo y máximo).  
+        - Duración estimada de la experiencia.  
+        - Idioma del guía.  
+        - Fecha de disponibilidad.  
+        - Valoración promedio.  
+    - **Sistema de etiquetado (tags):**  
+        Los resultados podrán filtrarse también por etiquetas asignadas por agencias o derivadas del comportamiento de otros usuarios (ej. “para familias”, “eco-friendly”, “pet-friendly”).  
+
+    Los resultados serán presentados en formato de tarjetas visuales, que incluirán:  
+    - Imagen destacada.  
+    - Nombre de la experiencia.  
+    - Ubicación.  
+    - Duración.  
+    - Precio base.  
+    - Valoración promedio.  
+
+    Además, se ofrecerán opciones para:  
+    - Ordenar los resultados por relevancia, precio, popularidad o evaluación.  
+    - Guardar filtros personalizados para futuras búsquedas.  
+
+- _Agencias: Búsqueda en publicaciones y reservas:_  
+    Las agencias contarán con una funcionalidad de búsqueda interna dentro del panel de administración:  
+    - **Búsqueda por nombre de experiencia publicada.**  
+    - **Filtros por estado:**  
+        - Activa, inactiva, pendiente de revisión.  
+    - **Filtro por número de reservas recibidas.**  
+    - **Búsqueda en histórico de reservas:**  
+        - Por fecha, turista, experiencia o estado de pago.  
+
+    Este sistema permitirá una gestión ágil de contenido y facilitará la toma de decisiones basada en información organizada y accesible.
+
+- _Resultados adaptables y responsivos:_  
+    Todos los resultados de búsqueda están diseñados para ser responsive y adaptables a dispositivos móviles, manteniendo legibilidad, interactividad y consistencia visual. El sistema incluye:  
+    - Vista en cuadrícula o lista, según preferencia del usuario.  
+    - Indicadores visuales para destacar promociones o nuevos lanzamientos.  
+
+- _Mejoras futuras:_  
+    Está prevista la integración de un sistema de búsqueda semántica e inteligencia artificial, que permitirá sugerencias personalizadas basadas en:  
+    - Historial de navegación.  
+    - Comportamiento previo.  
+    - Perfiles similares.  
+
+    Esto enriquecerá la experiencia del usuario y aumentará la conversión de búsquedas en reservas concretadas.  
+
 #### 4.2.5. Navigation Systems
+
+La navegación en TravelMatch está diseñada para ser intuitiva, fluida y centrada en la experiencia del usuario, tanto en la Landing Page como en la Web Application. El objetivo es que cada tipo de usuario —turista o agencia— pueda alcanzar sus metas con el menor número de clics y sin fricción.
+
+- _Landing Page:_  
+    La navegación principal está orientada a captar y guiar nuevos visitantes. Se estructura mediante una barra superior fija con los siguientes elementos:  
+    - **Inicio**  
+    - **Cómo Funciona**  
+    - **Para Turistas**  
+    - **Para Agencias**  
+    - **Explorar experiencias**  
+    - **Iniciar sesión / Registrarse** (con botón destacado)  
+
+    Se emplea una navegación jerárquica horizontal con anclas que guían a secciones específicas del mismo sitio (scroll suave), y una estructura de **one-page design** para mantener la continuidad narrativa.  
+
+    Además, en la sección inferior se encuentra un footer informativo, con accesos a:  
+    - **Política de privacidad**  
+    - **Términos y condiciones**  
+    - **Contacto**  
+    - **Redes sociales**  
+
+- _Web Application (Post-login):_  
+    Una vez autenticado, el usuario accede a un entorno altamente funcional, que prioriza la usabilidad y eficiencia en la navegación.  
+
+    - **Para Turistas:**  
+        Barra lateral con:  
+        - 🏠 Inicio  
+        - 🔍 Buscar experiencias  
+        - ❤️ Mis favoritos  
+        - 🧾 Mis reservas  
+        - 👤 Perfil  
+        - 🚪 Cerrar sesión  
+
+    - **Para Agencias:**  
+        Barra lateral con:  
+        - 🏠 Panel de control  
+        - ✍️ Publicar experiencia  
+        - 📈 Mis publicaciones  
+        - 📥 Reservas recibidas  
+        - 👤 Perfil de agencia  
+        - 🚪 Cerrar sesión  
+
+    Se utilizará una navegación persistente y contextual:  
+    - **Breadcrumbs:** Se mostrarán en vistas con múltiples niveles para reforzar el contexto.  
+    - **Accesos rápidos:** Las acciones importantes estarán disponibles a través de FAB (Floating Action Button) o menús flotantes en dispositivos móviles.  
+    - **Diseño responsive:** La navegación lateral se adaptará a un menú hamburguesa en dispositivos móviles, sin perder funcionalidad.  
+
+- _Comportamientos adicionales:_  
+    - **Estado activo:** El ítem de navegación actual se resaltará para reforzar el contexto del usuario.  
+    - **Transiciones suaves:** Se aplicarán animaciones ligeras en los cambios de vista, favoreciendo la comprensión del flujo.  
+    - **Redirección inteligente:** Después del login, el usuario será redirigido al dashboard o sección de interés dependiendo de su rol (turista o agencia).  
 
 ### 4.3. Landing Page UI Design
 

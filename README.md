@@ -433,13 +433,138 @@ del turismo personalizado en la plataforma.
 
 ### 2.1. Competidores
 
+**1.- GetYourGuide** es una empresa tecnológica fundada en 2009 en Berlín que ofrece una plataforma para reservar tours, actividades y experiencias turísticas personalizadas en destinos de todo el mundo. La plataforma permite a los usuarios filtrar experiencias por ubicación, precio, duración y tipo de actividad. GetYourGuide trabaja directamente con proveedores locales, cobra una comisión por cada reserva y también ofrece servicios promocionales premium para sus socios. La empresa ha recibido importantes rondas de inversión y tiene presencia en más de 150 países.
+
+**2.- Viator** es una subsidiaria de TripAdvisor, fundada en 1995, que se especializa en la reserva de tours y actividades turísticas. Su plataforma permite a los usuarios explorar miles de experiencias guiadas y autoguiadas, personalizables por destino, temática o precio. Viator ofrece a los proveedores de servicios turísticos una herramienta para gestionar sus actividades, precios y disponibilidad en tiempo real. La plataforma monetiza mediante comisiones por reserva y programas de visibilidad para agencias destacadas.
+
+**3.- Klook** es una plataforma de viajes y actividades fundada en 2014 en Hong Kong que conecta a los viajeros con experiencias personalizadas, entradas a atracciones, transporte y paquetes turísticos. Klook permite reservar en línea con confirmación inmediata, y se enfoca en brindar experiencias locales auténticas. Los proveedores de servicios pueden gestionar su inventario mediante una herramienta integrada. Klook se financia por comisiones por venta y ha expandido su presencia a más de 100 países con apoyo de múltiples rondas de inversión.
+
 #### 2.1.1. Análisis competitivo
+##
 
-#### 2.1.2. Estrategias y tácticas frente a competidores
+<table><tr><th colspan="6" valign="top"><a name="_dns5lxqlpwhz"></a>Competitive Analysis Landscape </th></tr>
+<tr><td colspan="2" rowspan="2" valign="top"><p></p><p>¿Por qué llevar a cabo este análisis?</p></td><td colspan="4" rowspan="2" valign="top"><p>El objetivo principal de realizar este análisis de la competencia es poder identificar las fortalezas, debilidades, oportunidades y amenazas de la propia empresa en comparación con los principales competidores del mercado.</p><p>Esto nos permitirá tomar decisiones informadas sobre la mejor manera de posicionarnos, diferenciarnos y aprovechar las oportunidades que el mercado nos ofrece.</p></td></tr>
+<tr></tr>
+</table>
 
-### 2.2. Entrevistas
+<table><tr>
+    <th colspan="2" valign="top"></th>
+    <th valign="top">
+      <p>Su startup</p>
+      <img src="assets/logos/TravelMatchLogo.png" alt="Logo de TravelMatch" width="100">
+    </th>
+    <th valign="top">
+      <p>GetYourGuide</p>
+      <img src="assets/logos/GetLogo.PNG" alt="Logo de GetYourGuide" width="100">
+    </th>
+    <th valign="top">
+      <p>Viator</p>
+      <img src="assets/logos/ViatorLogo.PNG" alt="Logo de Viator" width="100">
+    </th>
+    <th valign="top">
+      <p>Klook</p>
+      <img src="assets/logos/KlookLogo.PNG" alt="Logo de Klook" width="100">
+    </th>
+  </tr>
+<tr><td rowspan="2" valign="top"><p></p><p>Perfil</p></td><td valign="top">Overview</td><td valign="top">Es una plataforma web que conecta a turistas con agencias para reservar actividades personalizadas según destino, experiencia y presupuesto. Las agencias gestionan su catálogo y reservas en tiempo real. El modelo de negocio incluye comisiones y suscripciones premium.</td><td valign="top">Es una plataforma que permite a los viajeros reservar tours y actividades en todo el mundo. Ofrece experiencias filtradas por destino, precio y tipo, y conecta a turistas con proveedores locales. Utiliza un modelo de comisión por reserva y servicios premium para agencias.. </td><td valign="top">Es una plataforma respaldada por TripAdvisor que ofrece reservas de actividades turísticas personalizadas. Permite a los usuarios buscar experiencias por ubicación y tipo, y a los proveedores gestionar su catálogo en tiempo real. Su modelo se basa en comisiones y promoción destacada.</td><td valign="top"><p>Es una app de origen asiático que facilita la reserva de experiencias locales, entradas y transporte en más de 100 países. Brinda confirmación inmediata y herramientas para que los proveedores gestionen su oferta. Monetiza mediante comisiones y servicios de visibilidad.</p><p></p></td></tr>
+<tr><td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td><td valign="top">Conecta a turistas con agencias para crear experiencias completamente personalizadas según sus preferencias y presupuesto, ofreciendo una alternativa flexible y enfocada en la personalización.</td><td valign="top">Ofrece una amplia selección de actividades verificadas en todo el mundo con una plataforma fácil de usar, lo que brinda confianza, variedad y flexibilidad a los viajeros al momento de reservar.</td><td valign="top">Permite acceder a miles de experiencias turísticas respaldadas por TripAdvisor, integrando reseñas y comparaciones que facilitan la toma de decisiones informadas al reservar.</td><td valign="top">Facilita la reserva rápida de experiencias auténticas con confirmación inmediata y precios competitivos, ideal para viajeros que buscan comodidad y eficiencia.</td></tr>
+<tr><td rowspan="2" valign="top"><p></p><p>Perfil de Marketing </p></td><td valign="top">Mercado objetivo</td><td valign="top">Agencias de turismo que desean digitalizar su oferta, turistas nacionales e internacionales que buscan actividades personalizadas, y viajeros por trabajo que desean optimizar su tiempo libre con experiencias locales.</td><td valign="top">Turistas internacionales y locales que buscan experiencias organizadas, excursiones y actividades en destinos populares, principalmente de ocio y cultura.</td><td valign="top"><p>Viajeros globales interesados en tours guiados, actividades culturales y excursiones, especialmente aquellos que valoran las reseñas y la confiabilidad de una marca reconocida como TripAdvisor.</p><p></p></td><td valign="top">Turistas jóvenes, viajeros independientes y tecnológicos, especialmente en Asia y grandes ciudades, que buscan experiencias rápidas, auténticas y accesibles desde el mó</td></tr>
+<tr><td valign="top">Estrategias de marketing</td><td valign="top"><p>Implementa campañas en redes sociales dirigidas a turistas y agencias, estrategias de posicionamiento SEO local e internacional, alianzas con agencias regionales y marketing de contenidos enfocado en experiencias personalizadas. Además, utiliza promociones cruzadas y testimonios para generar confianza y atraer nuevos usuarios.</p><p></p></td><td valign="top">Utiliza marketing digital intensivo, incluyendo SEO, publicidad en Google Ads, redes sociales y colaboraciones con influencers de viajes. También invierte en contenido optimizado y campañas en plataformas de video para generar confianza y visibilidad global.</td><td valign="top">Aprovecha la integración con TripAdvisor para captar tráfico orgánico, destacando actividades dentro de sus páginas. Además, emplea campañas de email marketing, publicidad digital y alianzas con operadores turísticos para ampliar su alcance.</td><td valign="top"><p>Se enfoca en marketing de contenidos, redes sociales y colaboraciones con influencers y youtubers de viajes, especialmente en el mercado asiático. También lanza promociones exclusivas, descuentos en fechas especiales y campañas móviles con notificaciones push.</p><p></p></td></tr>
+<tr><td rowspan="3" valign="top"><p></p><p>Perfil de producto</p></td><td valign="top">Productos & Servicios</td><td valign="top"><p>Ofrece paquetes turísticos personalizados, excursiones, actividades locales según intereses y presupuesto, sistema de reservas en tiempo real, catálogo digital para agencias, y opciones de visibilidad premium dentro de la plataforma.</p><p></p></td><td valign="top"><p>Ofrece tours guiados, entradas a atracciones turísticas, excursiones de un día, experiencias gastronómicas, actividades de aventura, traslados y servicios personalizados en múltiples destinos.</p><p></p></td><td valign="top">Brinda acceso a tours y excursiones, entradas sin colas, actividades culturales y de entretenimiento, experiencias únicas (como clases de cocina o catas), y paquetes combinados con cancelación flexible.</td><td valign="top">Proporciona entradas a atracciones, experiencias locales, transporte (trenes, buses, tarjetas SIM), actividades temáticas, eventos especiales, paquetes turísticos y servicios adicionales como seguros de viaje.</td></tr>
+<tr><td valign="top">Precios & Costos</td><td valign="top">Variados</td><td valign="top">Variados</td><td valign="top">Variados</td><td valign="top">Variados</td></tr>
+<tr><td valign="top">Canales de distribución (Web y/o Móvil)</td><td valign="top">Web/Móvil</td><td valign="top">Web/Móvil</td><td valign="top">Web/Móvil</td><td valign="top">Web/Móvil</td></tr>
+<tr><td rowspan="5" valign="top"><p></p><p>Análisis SWOT</p></td><td colspan="5" valign="top">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva</td></tr>
+<tr><td valign="top">Fortalezas</td><td valign="top"><p>Ofrece experiencias personalizadas para turistas y agencias.</p><p>Conecta directamente a agencias de turismo con clientes, eliminando intermediarios.</p><p>Sistema de reservas en tiempo real, lo que optimiza la experiencia del cliente.</p><p>Modelo de negocio flexible basado en comisiones y suscripciones.</p><p></p></td><td valign="top"><p>Gran variedad de actividades en múltiples destinos.</p><p>Reputación confiable gracias a las reseñas de usuarios.</p><p>Plataforma fácil de usar con opciones de pago flexibles.</p><p>Presencia global en más de 150 países.</p><p></p></td><td valign="top"><p>Respaldo y confianza de TripAdvisor, lo que genera credibilidad.</p><p>Amplia gama de tours y actividades a nivel mundial.</p><p>Fuerte presencia en mercados desarrollados.</p><p></p></td><td valign="top"><p>Enfoque en experiencias auténticas y locales.</p><p>Fuerte presencia en Asia y popularidad creciente en mercados occidentales.</p><p>Amplia oferta de productos (transporte, entradas, actividades).</p><p>Plataforma móvil optimizada.</p><p></p></td></tr>
+<tr><td valign="top">Debilidades</td><td valign="top"><p>Necesidad de atraer a un volumen significativo de agencias para ser competitiva.</p><p>Competencia con plataformas establecidas como Viator y GetYourGuide.</p><p>Dependencia de la calidad de las agencias asociadas.</p><p></p></td><td valign="top"><p>Alta competencia con otras plataformas de reservas de actividades.</p><p>Dependencia de las comisiones de los proveedores, lo que puede afectar los márgenes.</p><p>Limitada personalización de las experiencias en algunos casos.</p><p></p></td><td valign="top"><p>Fuerte dependencia de TripAdvisor para la generación de tráfico.</p><p>Poca flexibilidad en la personalización de experiencias para turistas.</p><p>La competencia directa de plataformas como GetYourGuide y Klook.</p><p></p></td><td valign="top"><p>Dependencia de un mercado asiático que puede volverse saturado.</p><p>Limitada presencia en algunos mercados turísticos importantes como Europa y América Latina.</p><p>Escasa personalización en algunos servicios.</p><p></p></td></tr>
+<tr><td valign="top">Oportunidades</td><td valign="top"><p>Expansión a mercados globales con un enfoque local.</p><p>Crecimiento de la demanda de experiencias personalizadas post-pandemia.</p><p>Colaboraciones con agencias de turismo locales y servicios complementarios.</p><p></p></td><td valign="top"><p>Expansión en mercados emergentes y destinos menos explotados.</p><p>Crecimiento en el turismo post-pandemia con nuevas experiencias.</p><p>Colaboraciones con agencias de turismo locales para diversificar la oferta.</p><p></p></td><td valign="top"><p>Expansión en mercados emergentes, especialmente en Asia y América Latina.</p><p>Innovación en la experiencia del usuario con tecnologías emergentes (realidad aumentada, inteligencia artificial).</p><p>Creación de alianzas estratégicas con agencias turísticas locales.</p><p></p></td><td valign="top"><p>Expansión en mercados globales fuera de Asia.</p><p>Alianzas con grandes empresas de turismo para ofrecer paquetes exclusivos.</p><p>Expansión de la oferta de servicios más allá de las actividades turísticas.</p><p></p></td></tr>
+<tr><td valign="top">Amenazas</td><td valign="top"><p>Alta competencia en el mercado de reservas de actividades turísticas.</p><p>Cambios en las regulaciones locales o internacionales de turismo.</p><p>Riesgo de no diferenciarse suficientemente en un mercado con muchas opciones similares.</p><p></p></td><td valign="top"><p>Inestabilidad en la industria del turismo debido a factores globales (crisis económicas, pandemias).</p><p>Cambios en las regulaciones de viajes y turismo en distintos países.</p><p>Competencia creciente de plataformas como Viator, Klook y nuevas startups.</p><p></p></td><td valign="top"><p>Cambios en las regulaciones turísticas o políticas de reembolsos.</p><p>La creciente demanda de experiencias personalizadas que pueden no ser completamente cubiertas por Viator.</p><p>Aumento de la competencia con plataformas más flexibles.</p><p></p></td><td valign="top"><p>Competencia fuerte con otras plataformas globales como GetYourGuide y Viator.</p><p>Cambios en las preferencias de los viajeros hacia experiencias más personalizadas y sostenibles.</p><p>Riesgo de saturación de mercado en Asia.</p><p></p></td></tr>
+</table>
+## 2.1.2. Estrategias y tácticas frente a competidores
+### **1. Estrategias de Crecimiento y Expansión:**
+**#1 Expansión de alianzas con agencias de turismo locales e internacionales:**
+` `TravelMatch forjará colaboraciones estratégicas con agencias de turismo locales y globales, permitiendo que estas se integren de manera fluida en la plataforma para ofrecer una variedad más amplia de paquetes turísticos y experiencias personalizadas. Esto impulsará el crecimiento de la plataforma al aumentar la base de agencias asociadas y diversificar la oferta para los usuarios.
 
-#### 2.2.1. Diseño de entrevistas
+**#2 Creación de un programa de fidelización para turistas frecuentes:**
+` `TravelMatch lanzará un programa de recompensas y membresía premium para turistas frecuentes. Este programa incentivará a los viajeros a realizar más reservas dentro de la plataforma, con beneficios como descuentos exclusivos, acceso anticipado a ofertas especiales y experiencias VIP, fomentando la lealtad de los usuarios a largo plazo.
+
+**#3 Expansión a mercados internacionales con enfoque local:**
+` `TravelMatch se expandirá a nuevos mercados internacionales, comenzando con destinos turísticos populares, pero ofreciendo un enfoque altamente localizado, adaptado a las preferencias culturales y necesidades de los viajeros en esas regiones. Esto permitirá captar una base de usuarios diversa y brindar experiencias altamente relevantes.
+
+### **2. Estrategias de Innovación y Diferenciación:**
+**#1 Personalización mediante análisis de preferencias del usuario:**
+` `TravelMatch implementará un sistema que permita personalizar las recomendaciones de paquetes turísticos y actividades en función de las preferencias y comportamientos de los usuarios. Aunque no se utilicen IA avanzadas, se podrán crear filtros que permitan a los usuarios explorar opciones adaptadas a su destino, tipo de experiencia y presupuesto.
+
+**#2 Mejora de la experiencia de usuario a través de un diseño optimizado y funcional:**
+` `La plataforma se diseñará de forma sencilla, intuitiva y fácil de navegar, permitiendo a los usuarios encontrar rápidamente las actividades que desean. Esto incluirá filtros detallados, clasificación de destinos y actividades, y un proceso de reserva claro y rápido, mejorando la experiencia del usuario y facilitando la toma de decisiones.
+
+**#3 Ofrecimiento de paquetes de viaje personalizados por agentes locales:**
+` `En lugar de depender de algoritmos complejos, TravelMatch ofrecerá la posibilidad de crear itinerarios de viaje personalizados con la ayuda de agentes de viajes locales que conozcan los destinos de manera profunda. Esto agregará un valor adicional, ya que los usuarios podrán recibir recomendaciones de expertos que comprendan el destino y sus necesidades.
+
+### **3. Tácticas:**
+**Desarrollo de Producto:**
+
+- **Ciclos de desarrollo ágil:** Implementar procesos ágiles para realizar iteraciones rápidas en la plataforma, mejorando constantemente la experiencia del usuario basándose en los comentarios y el feedback directo de los turistas y agencias.
+- **Pruebas A/B continuas:** Realizar pruebas A/B para optimizar la experiencia de usuario, desde la interfaz de usuario hasta las funcionalidades del sistema de reservas, asegurando que las mejoras se basen en datos reales de uso y preferencias de los usuarios.
+
+**Fidelización del Usuario:**
+
+- **Programa de lealtad y membresías premium:** Crear un sistema de recompensas para los viajeros recurrentes y agencias destacadas. Las membresías premium otorgarán beneficios exclusivos, como descuentos, acceso prioritario y visibilidad aumentada en la plataforma para las agencias de turismo.
+- **Feedback y mejora continua:** Establecer canales de comunicación directa con los usuarios (tanto turistas como agencias) para recibir sugerencias y mejorar la plataforma. Utilizar análisis de datos de interacciones pasadas para ofrecer una experiencia más satisfactoria en futuras reservas.
+
+**Expansión Tecnológica:**
+
+- **Optimización multiplataforma:** Asegurar que TravelMatch funcione de manera óptima tanto en dispositivos móviles como en plataformas web, garantizando un acceso constante y sin interrupciones a la plataforma desde cualquier dispositivo, en cualquier lugar y momento.
+# 2.2. Entrevistas
+## 2.2.1. Diseño de entrevistas
+En esta sección de preguntas, nuestro objetivo es comprender mejor las necesidades, motivaciones y preferencias de nuestros segmentos objetivos dentro del ecosistema turístico. A continuación, se muestran las preguntas:
+
+**Segmento #1: Agencias de turismo locales**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## **Preguntas principales:**
+-  ¿Qué canales usas actualmente para promocionar tus paquetes turísticos? ¿Qué tan efectivos los consideras?
+-  ¿Con qué frecuencia recibes reservas online? ¿Qué retos enfrentas en su gestión?
+-  ¿Qué importancia le das a tener una presencia digital sólida frente a la competencia?
+-  ¿Estás satisfecho con las herramientas tecnológicas actuales que usas para tu agencia? ¿Por qué?
+-  ¿Qué funcionalidades consideras más útiles en una plataforma que conecte agencias con turistas?
+-  ¿Has tenido dificultades para destacar frente a agencias más grandes o con más recursos?
+-  ¿Qué valoras más al elegir una herramienta digital: facilidad de uso, alcance de clientes, personalización o soporte técnico?
+## **Preguntas complementarias:**
+-  ¿Qué tipo de turistas suelen contratar tus servicios (edad, nacionalidad, intereses)?
+-  ¿Qué porcentaje de tus reservas proviene de canales digitales?
+-  ¿Te interesa acceder a planes premium o suscripciones que te den mayor visibilidad?
+-  ¿Cuáles son las temporadas donde más te gustaría tener apoyo digital para la gestión de tu oferta?
+-  ¿Qué tan dispuesto estarías a pagar una comisión por cada reserva concretada a través de una plataforma?
+## **Segmento #2: Turistas nacionales e internacionales**
+## **Preguntas principales:**
+-  ¿Cómo sueles planificar tus viajes dentro del Perú? ¿Qué herramientas usas para ello?
+-  ¿Qué tan importante es para ti personalizar tus experiencias de viaje según tus intereses?
+-  ¿Has tenido dificultades encontrando actividades o excursiones que se adapten a tu presupuesto o estilo de viaje?
+-  ¿Qué tipo de actividades valoras más al viajar (culturales, aventura, gastronomía, relax, etc.)?
+-  ¿Prefieres reservar todo por separado o en paquetes que combinen varias experiencias?
+-  ¿Qué tan relevante es para ti poder comparar precios, duración y valoraciones desde una sola plataforma?
+-  ¿Qué factores te dan más confianza al reservar actividades en línea (opiniones, reputación de la agencia, medios de pago, seguridad)?
+## **Preguntas complementarias:**
+-  ¿Estás dispuesto a pagar un poco más por una experiencia auténtica y personalizada?
+-  ¿Te interesaría recibir recomendaciones de actividades según tu ubicación y tus intereses?
+-  ¿Qué tan cómodo te resulta hacer reservas desde tu celular cuando estás viajando?
+-  ¿Te gustaría tener la opción de contactar directamente con la agencia antes de reservar?
+-  ¿Te ha pasado que llegaste a un destino sin saber qué actividades hacer y dónde contratarlas?
+## **Segmento #3: Viajeros por trabajo (Turismo corporativo)**
+## **Preguntas principales:**
+- ¿Con qué frecuencia viajas por motivos laborales dentro del país?
+-  ¿Sueles tener tiempo libre entre reuniones o compromisos laborales cuando viajas?
+-  ¿Qué tipo de actividades te gustaría realizar durante tu tiempo libre? (Tours cortos, experiencias gastronómicas, relajación, etc.)
+-  ¿Qué valoras más al reservar actividades durante viajes de trabajo: rapidez, ubicación cercana, disponibilidad inmediata, etc.?
+-  ¿Utilizas apps o plataformas para organizar tu tiempo libre cuando estás fuera por trabajo? ¿Cuáles?
+-  ¿Te resulta complicado encontrar actividades con horarios flexibles o compatibles con tus jornadas laborales?
+-  ¿Estás interesado en experiencias personalizadas que se adapten a tu perfil profesional y tus gustos personales?
+## **Preguntas complementarias:**
+-  ¿Prefieres reservar actividades antes de viajar o una vez ya estás en la ciudad?
+- ¿Te gustaría recibir recomendaciones automáticas según tu horario, ubicación y tipo de viaje?
+-  ¿Qué tan cómodo te sentirías usando una app que combine actividades turísticas y servicios prácticos para viajeros de negocio?
+-  ¿Qué nivel de confianza necesitas para reservar con una agencia nueva o desconocida?
+-  ¿Consideras útil una opción para generar comprobantes o facturas automáticamente al reservar?
+
 
 #### 2.2.2. Registro de entrevistas
 

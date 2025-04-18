@@ -42,182 +42,174 @@
 
 ## Registro de Versiones del Informe
 
-| Version | Fecha | <div style="width:250px">Autor(es) </div> | <div style="width:400px">Descripcion de la modificacion</div> |
-|:-------:|:-----:|:-----------------------------------------:|:-------------------------------------------------------------:|
-| 1 | 24/04/2025 | Aspajo Alvarez, Mathias<br>Briceño De La Cruz, Farid<br>Galvez Chambi, Jhon<br>Guevara Tejada, Jorge<br>Linares Bernable, Cesar |                 |
+| Versión | Fecha | <div style="width:250px">Autor(es) </div> | <div align="center" style="width:400px">Descripción de la modificación</div> |
+|:-------:|:-----:|:-----------------------------------------:|-------------------------------------------------------------|
+| TB1 | 24/04/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge<br>- Linares Bernable, Cesar | Para esta entrega se han desarrollado los siguientes capítulos: <br>- Carátula<br>- Registro de Versiones del Informe<br>- Project Report Collaboration Insights<br>- Contenido<br>- Student Outcome<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Capítulo V: Product Implementation, Validation & Deployment<br>- 5.1. Software Configuration Management<br>- 5.1.1. Software Development Environment Configuration<br>- 5.1.2. Source Code Management<br>- 5.1.3. Source Code Style Guide & Conventions<br>- 5.1.4. Software Deployment Configuration<br>- 5.2. Landing Page, Services & Applications Implementation<br>- 5.2.1. Sprint 1<br>- 5.2.1.1. Sprint Planning 1<br>- 5.2.1.2. Aspect Leaders and Collaborators<br>- 5.2.1.3. Sprint Backlog 1<br>- 5.2.1.4. Development Evidence for Sprint Review<br>- 5.2.1.5. Execution Evidence for Sprint Review<br>- 5.2.1.6. Services Documentation Evidence for Sprint Review<br>- 5.2.1.7. Software Deployment Evidence for Sprint Review<br>- 5.2.1.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos |
 
 <hr>
 
 ## Project Report Collaboration Insights  
 
+Nuestro Project Report se encuentra en el siguiente repositorio de GitHub: 
+
+🔗[https://github.com/G2-Aplicaciones-Open-Source/docs](https://github.com/G2-Aplicaciones-Open-Source/docs).
+
+- **Flujo de trabajo adoptado**
+
+    Durante el desarrollo colaborativo de este repositorio, hemos decidido adoptar el flujo de trabajo GitHub Flow, debido a su simplicidad, escalabilidad y orientación a la integración continua. Este flujo nos ha permitido:
+
+    - Crear ramas individuales por cada integrante y sección asignada.
+    - Realizar pull requests para revisión de cambios antes de integrarlos a la rama principal.
+    - Discutir observaciones mediante comentarios en los commits o PRs.
+    - Asegurar la integración progresiva, ordenada y sin conflictos del contenido en el informe final.
+
+    Además, hemos establecido una convención de nombres para las ramas utilizando el siguiente esquema: cap[numero-capitulo], lo que facilita la identificación de la sección en proceso de edición. Del mismo modo, los mensajes de commit son claros y están formulados siguiendo la semántica de los commits convencionales, lo que mejora la trazabilidad y comprensión del historial de cambios.
+
+### Colaboración por Entrega
+
+- **TB1:**
+    Para la Primera Entrega (TB1) del Project Report, cada miembro del equipo participó activamente en la redacción de secciones específicas. La coordinación se realizó de forma asincrónica y vía reuniones breves en línea para consensuar estilos de redacción y criterios de inclusión.
+
+    - Asignación de secciones por miembro:
+        - Aspajo Alvarez, Mathias (AdeXzz): Capitulo 2 (repartido), Capitulo 3
+        - Briceño De La Cruz, Farid	(InjustShin): Capitulo 4 (repartido)
+        - Galvez Chambi, Jhon (Chaomeum): Capitulo 1, Capitulo 4 (repartido)
+        - Guevara Tejada, Jorge	(Jorgito170): Capitulo 2 (repartido)
+        - Linares Bernable, Cesar (Cesar-Linares): Capitulo 4 (repartido)
+        - Todos: Capitulo 5
+
+    - A continuación, se adjuntan capturas que evidencian el trabajo distribuido:
+        - Miembros del equipo en el repositorio:
+        <p align="center">
+            <img src="assets/evidencias/repo-members.png" alt="repo-members" width=60% >
+        </p>
+        - Creación de ramas por cada capítulo:
+        <p align="center">
+            <img src="assets/evidencias/" alt="repo-branches" width=60% >
+        </p>
+        - Commits realizados en las ramas individuales:       
+        <p align="center">
+            <img src="assets/evidencias/cap1-branch-commits.png" alt="cap1-branch-commits" width=60% >
+        </p>
+        <p align="center">
+            <img src="assets/evidencias/" alt="cap2-branch-commits" width=60% >
+        </p>
+        <p align="center">
+            <img src="assets/evidencias/" alt="cap3-branch-commits" width=60% >
+        </p>
+        <p align="center">
+            <img src="assets/evidencias/" alt="cap4-branch-commits" width=60% >
+        </p>
+        <p align="center">
+            <img src="assets/evidencias/" alt="cap5-branch-commits" width=60% >
+        </p>
+        - Pull Requests y merges a la rama principal (master):
+        <p align="center">
+            <img src="assets/evidencias/" alt="master-merges" width=60% >
+        </p>
+        - Analítica del repositorio con participación de todos los miembros:
+        <p align="center">
+            <img src="assets/evidencias/repo-members.png" alt="repo-analytics" width=60% >
+        </p>        
+
 <hr>
 
 ## Tabla de Contenidos
 
-<details>
-    <summary>Capítulo I: Introducción </summary>    
-    <ul>
-        <li>
-            <a href="#11-startup-profile">1.1. Startup Profile</a>
-            <ul>
-                <li><a href="#111-descripción-de-la-startup">1.1.1. Descripción de la Startup</a></li>
-                <li><a href="#112-perfiles-de-integrantes-del-equipo">1.1.2. Perfiles de Integrantes del Equipo</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#12-solution-profile">1.2. Solution Profile</a>
-            <ul>
-                <li><a href="#121-antecedentes-y-problemática">1.2.1. Antecedentes y Problemática</a></li>
-                <li>
-                    <a href="#122-lean-ux-process">1.2.2. Lean UX Process</a>
-                    <ul>
-                        <li><a href="#1221-lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></li>
-                        <li><a href="#1222-lean-ux-assumptions">1.2.2.2. Lean UX Assumptions</a></li>
-                        <li><a href="#1223-lean-ux-hypothesis-statements">1.2.2.3. Lean UX Hypothesis Statements</a></li>
-                        <li><a href="#1224-lean-ux-canvas">1.2.2.4. Lean UX Canvas</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </li>
-        <li><a href="#13-segmentos-objetivos">1.3. Segmentos Objetivos</a></li>
-    </ul>    
-</details>
+[Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 
-<details>
-    <summary>Capítulo II: Requirements Elicitation & Analysis</summary>
-    <ul>
-        <li>
-            <a href="#21-competidores">2.1. Competidores</a>
-            <ul>
-                <li><a href="#211-análisis-competitivo">2.1.1. Análisis competitivo</a></li>
-                <li><a href="#212-estrategias-y-tácticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#22-entrevistas">2.2. Entrevistas</a>
-            <ul>
-                <li><a href="#221-diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></li>
-                <li><a href="#222-registro-de-entrevistas">2.2.2. Registro de entrevistas</a></li>
-                <li><a href="#223-análisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#23-needfinding">2.3. Needfinding</a>
-            <ul>
-                <li><a href="#231-user-personas">2.3.1. User Personas</a></li>
-                <li><a href="#232-user-task-matrix">2.3.2. User Task Matrix</a></li>
-                <li><a href="#233-user-journey-mapping">2.3.3. User Journey Mapping</a></li>
-                <li><a href="#234-empathy-mapping">2.3.4. Empathy Mapping</a></li>
-                <li><a href="#235-as-is-scenario-mapping">2.3.5. As-is Scenario Mapping</a></li>
-            </ul>
-        </li>
-        <li><a href="#24-ubiquitous-language">2.4. Ubiquitous Language</a></li>
-    </ul>
-</details>
+[Project Report Collaboration Insights](#project-report-collaboration-insights)
 
-<details>
-    <summary>Capítulo III: Requirements Specification </summary>
-        <ul>
-            <li><a href="#31-to-be-scenario-mapping">3.1. To-Be Scenario Mapping</a></li>
-            <li><a href="#32-user-stories">3.2. User Stories</a></li>
-            <li><a href="#33-impact-mapping">3.3. Impact Mapping</a></li>
-            <li><a href="#34-product-backlog">3.4. Product Backlog</a></li>
-        </ul>    
-</details>
+[Tabla de Contenidos](#tabla-de-contenidos)
 
-<details>
-    <summary>Capítulo IV: Product Design </summary>
-    <ul>
-        <li>
-            <a href="#41-style-guidelines">4.1. Style Guidelines</a>
-            <ul>
-                <li><a href="#411-general-style-guidelines">4.1.1. General Style Guidelines</a></li>
-                <li><a href="#412-web-style-guidelines">4.1.2. Web Style Guidelines</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#42-information-architecture">4.2. Information Architecture</a>
-            <ul>
-                <li><a href="#421-organization-systems">4.2.1. Organization Systems</a></li>
-                <li><a href="#422-labeling-systems">4.2.2. Labeling Systems</a></li>
-                <li><a href="#423-seo-tags-and-meta-tags">4.2.3. SEO Tags and Meta Tags</a></li>
-                <li><a href="#424-searching-systems">4.2.4. Searching Systems</a></li>
-                <li><a href="#425-navigation-systems">4.2.5. Navigation Systems</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#43-landing-page-ui-design">4.3. Landing Page UI Design</a>
-            <ul>
-                <li><a href="#431-landing-page-wireframe">4.3.1. Landing Page Wireframe</a></li>
-                <li><a href="#432-landing-page-mock-up">4.3.2. Landing Page Mock-up</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#44-web-applications-uxui-design">4.4. Web Applications UX/UI Design</a>
-            <ul>
-                <li><a href="#441-web-applications-wireframes">4.4.1. Web Applications Wireframes</a></li>
-                <li><a href="#442-web-applications-wireflow-diagrams">4.4.2. Web Applications Wireflow Diagrams</a></li>
-                <li><a href="#443-web-applications-mock-ups">4.4.3. Web Applications Mock-ups</a></li>
-                <li><a href="#444-web-applications-user-flow-diagrams">4.4.4. Web Applications User Flow Diagrams</a></li>
-            </ul>
-        </li>
-        <li><a href="#45-web-applications-prototyping">4.5. Web Applications Prototyping</a></li>
-        <li>
-            <a href="#46-domain-driven-software-architecture">4.6. Domain-Driven Software Architecture</a>
-            <ul>
-                <li><a href="#461-software-architecture-context-diagrams">4.6.1. Software Architecture Context Diagrams</a></li>
-                <li><a href="#462-software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams</a></li>
-                <li><a href="#463-software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#47-software-object-oriented-design">4.7. Software Object-Oriented Design</a>
-            <ul>
-                <li><a href="#471-class-diagrams">4.7.1. Class Diagrams</a></li>
-                <li><a href="#472-class-dictionary">4.7.2. Class Dictionary</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#48-database-design">4.8. Database Design</a>
-            <ul>
-                <li><a href="#481-database-diagram">4.8.1. Database Diagram</a></li>
-            </ul>
-        </li>
-    </ul>
-</details>
+[Student Outcome](#student-outcome)
 
-<details>
-    <summary>Capítulo V: Product Implementation, Validation & Deployment </summary>
-    <ul>
-        <li>
-            <a href="#51-software-configuration-management">5.1. Software Configuration Management</a>
-            <ul>
-                <li><a href="#511-software-development-environment-configuration">5.1.1. Software Development Environment Configuration</a></li>
-                <li><a href="#512-source-code-management">5.1.2. Source Code Management</a></li>
-                <li><a href="#513-source-code-style-guide-conventions">5.1.3. Source Code Style Guide & Conventions</a></li>
-                <li><a href="#514-software-deployment-configuration">5.1.4. Software Deployment Configuration</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#52-landing-page-services-applications-implementation">5.2. Landing Page, Services & Applications Implementation</a>
-            <ul>
-                <li>
-                    <a href="#521-sprint-1">5.2.1. Sprint 1</a>
-                    <ul>
-                        <li><a href="#5211-sprint-planning-1">5.2.1.1. Sprint Planning 1</a></li>
-                        <li><a href="#5212-aspect-leaders-and-collaborators">5.2.1.2. Aspect Leaders and Collaborators</a></li>
-                        <li><a href="#5213-sprint-backlog-1">5.2.1.3. Sprint Backlog 1</a></li>
-                        <li><a href="#5214-development-evidence-for-sprint-review">5.2.1.4. Development Evidence for Sprint Review</a></li>
-                        <li><a href="#5215-execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review</a></li>
-                        <li><a href="#5216-services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></li>
-                        <li><a href="#5217-software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></li>
-                        <li><a href="#5218-team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </li>
-    </ul>
-</details>
+[Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de Integrantes del Equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y Problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos Objetivos](#13-segmentos-objetivos)
+
+[Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+
+[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
+
+[Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagrams](#461-software-architecture-context-diagrams)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
+
+[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide-conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services-applications-implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+      - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+[Conclusiones](#conclusiones)
+
+[Bibliografía](#bibliografía)
+
+[Anexos](#anexos)
 
 <hr>
 
@@ -250,16 +242,14 @@ Ante este contexto, proponemos una plataforma web de turismo y actividades perso
 
 La propuesta de valor se centra en:
 
-    Para los turistas: una experiencia de búsqueda fluida, segura y adaptada a sus preferencias.
-
-    Para las agencias: visibilidad digital, herramientas de gestión y potencial de crecimiento.
+- Para los turistas: una experiencia de búsqueda fluida, segura y adaptada a sus preferencias.
+- Para las agencias: visibilidad digital, herramientas de gestión y potencial de crecimiento.
 
 El modelo de negocio se sustentará en:
 
-    Comisiones por cada reserva gestionada a través de la plataforma.
+- Comisiones por cada reserva gestionada a través de la plataforma.
 
-    Planes premium para agencias que deseen destacar sus servicios y acceder a beneficios adicionales.
-
+- Planes premium para agencias que deseen destacar sus servicios y acceder a beneficios adicionales.
 
 | Misión | Visión |
 |:-------:|:-------:|

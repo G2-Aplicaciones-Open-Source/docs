@@ -155,8 +155,8 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
         - [2.3.4.3. Empathy Mapping Viajeros por trabajo](#2343-empathy-mapping-viajeros-por-trabajo)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
         - [2.3.5.1. As-is Scenario Mapping Turistas nacionales e internacionales](#2351-as-is-scenario-mapping-turistas-nacionales-e-internacionales)
-        - [2.3.5.2. As-is Scenario Mapping Agencias de turismo locales](#2351-as-is-scenario-mapping-agencias-de-turismo-locales)
-        - [2.3.5.3. As-is Scenario Mapping Viajeros por trabajo](#2351-as-is-scenario-mapping-viajeros-por-trabajo)
+        - [2.3.5.2. As-is Scenario Mapping Agencias de turismo locales](#2352-as-is-scenario-mapping-agencias-de-turismo-locales)
+        - [2.3.5.3. As-is Scenario Mapping Viajeros por trabajo](#2353-as-is-scenario-mapping-viajeros-por-trabajo)
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
 [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)

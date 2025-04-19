@@ -150,7 +150,13 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+        - [2.3.4.1. Empathy Mapping Turistas nacionales e internacionales](#2341-empathy-mapping-turistas-nacionales-e-internacionales)
+        - [2.3.4.2. Empathy Mapping Agencias de turismo locales](#2342-empathy-mapping-agencias-de-turismo-locales)
+        - [2.3.4.3. Empathy Mapping Viajeros por trabajo](#2343-empathy-mapping-viajeros-por-trabajo)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+        - [2.3.5.1. As-is Scenario Mapping Turistas nacionales e internacionales](#2351-as-is-scenario-mapping-turistas-nacionales-e-internacionales)
+        - [2.3.5.2. As-is Scenario Mapping Agencias de turismo locales](#2351-as-is-scenario-mapping-agencias-de-turismo-locales)
+        - [2.3.5.3. As-is Scenario Mapping Viajeros por trabajo](#2351-as-is-scenario-mapping-viajeros-por-trabajo)
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
 [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
@@ -579,16 +585,97 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 ### 2.3. Needfinding
 
 #### 2.3.1. User Personas
+Basados en los resultados de las entrevistas y el análisis de datos, hemos definido las características clave de cada segmento objetivo estudiado. Esta información nos permitió desarrollar User Personas detallados para cada grupo, con el fin de comprender a profundidad su contexto, metas, motivaciones, dolores y perfil general. Para la creación de estos User Personas, empleamos la plataforma colaborativa UXPressia como herramienta principal de diseño.
+
+<p align="center">
+    <img src="assets/recursos/User_Persona_Adrian.jpg" alt="User-Persona-Adrian"/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/User_Persona_Tony.jpg" alt="User-Persona-Tony"/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/User_Persona_Cesar.jpg" alt="User-Persona-Cesar"/>
+</p>
 
 #### 2.3.2. User Task Matrix
 
+<p align="center">
+    <img src="assets/recursos/Task_Matrix_Turistas.jpg" alt="Task-Matrix-Turistas"/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/Task_Matrix_Agencias.jpg" alt="Task-Matrix-Agencias"/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/Task_Matrix_Viajeros.jpg" alt="Task-Matrix-Viajeros"/>
+</p>
+
 #### 2.3.3. User Journey Mapping
+
+<p align="center">
+    <img src="assets/recursos/User_Journey_Mapping.jpg" alt="User-Journey-Mapping"/>
+</p>
 
 #### 2.3.4. Empathy Mapping
 
+#### 2.3.4.1. Empathy Mapping Turistas nacionales e internacionales
+
+<p align="center">
+    <img src="assets/recursos/Empathy_Mapping_Turistas.jpg" alt="Empathy-Mapping-Turistas"/>
+</p>
+
+#### 2.3.4.2. Empathy Mapping Agencias de turismo locales
+
+<p align="center">
+    <img src="assets/recursos/Empathy_Mapping_Agencias.png" alt="Empathy-Mapping-Agencias"/>
+</p>
+
+#### 2.3.4.3. Empathy Mapping Viajeros por trabajo
+
+<p align="center">
+    <img src="assets/recursos/Empathy_Mapping_Viajeros.png" alt="Empathy-Mapping-Viajeros"/>
+</p>
+
 #### 2.3.5. As-is Scenario Mapping
 
+#### 2.3.5.1. As-is Scenario Mapping Turistas nacionales e internacionales
+
+<p align="center">
+    <img src="assets/recursos/As_is_Turistas.jpg" alt="As-is-Turistas"/>
+</p>
+
+#### 2.3.5.2. As-is Scenario Mapping Agencias de turismo locales
+
+<p align="center">
+    <img src="assets/recursos/As_is_Agencias.png" alt="As-is-Agencias"/>
+</p>
+
+#### 2.3.5.3. As-is Scenario Mapping Viajeros por trabajo
+
+<p align="center">
+    <img src="assets/recursos/As_is_Viajeros.png" alt="As-is-Viajeros"/>
+</p>
+
 ### 2.4. Ubiquitous Language
+
+| **Término (Inglés)**       | **Término (Español)**       | **Descripción** |
+|----------------------------|----------------------------|----------------|
+| **Traveler**               | Viajero                    | Usuario de la plataforma que busca descubrir, reservar o personalizar experiencias turísticas, ya sea de forma individual o en grupo. |
+| **Travel Agency**          | Agencia de viajes          | Entidad registrada en la plataforma que ofrece paquetes turísticos, experiencias personalizadas o servicios relacionados con viajes. |
+| **Experience**             | Experiencia                | Actividad o conjunto de actividades que conforman un paquete turístico (cultural, gastronómico, deportivo, etc.). |
+| **Recommended Plan**       | Plan recomendado           | Propuesta de actividades generadas automáticamente según los intereses, preferencias y perfil del viajero. |
+| **Match**                  | Coincidencia / Compatibilidad | Grado de afinidad entre un viajero y una agencia o experiencia, basado en intereses, presupuesto y ubicación. |
+| **Booking Request**        | Solicitud de reserva       | Acción mediante la cual un viajero inicia el proceso de reservar una experiencia o paquete. |
+| **Availability**           | Disponibilidad             | Periodo de tiempo y capacidad en los que una agencia puede ofrecer una experiencia. |
+| **Profile**                | Perfil                     | Datos personales y preferencias de viaje asociados a un usuario (viajero o agencia). |
+| **Feedback**               | Retroalimentación          | Opiniones, comentarios o calificaciones de los viajeros después de realizar una experiencia. |
+| **Tour Package**           | Paquete turístico          | Conjunto de servicios y actividades agrupadas (transporte, alojamiento, alimentación, etc.). |
+| **Local Partner**          | Aliado local               | Proveedor asociado a una agencia que ofrece servicios específicos (guías, restaurantes, transportistas). |
+| **Seasonality**            | Estacionalidad             | Variación en la demanda o disponibilidad según la época del año, festividades o clima. |
+| **Target Audience**        | Audiencia objetivo         | Grupo de personas con características específicas (edad, intereses) al que va dirigida una experiencia. |
 
 <hr>
 

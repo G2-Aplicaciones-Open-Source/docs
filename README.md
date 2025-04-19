@@ -990,9 +990,48 @@ La navegación en TravelMatch está diseñada para ser intuitiva, fluida y centr
 
 ### 4.3. Landing Page UI Design
 
+El Landing Page de TravelMatch representa la materialización visual de las decisiones tomadas en torno a la arquitectura de información, la identidad de marca y las guías de estilo establecidas previamente.
+
+El diseño del Landing Page ha sido pensado para captar la atención de los visitantes desde el primer momento, comunicar de forma clara el valor diferencial de la plataforma, y facilitar una navegación intuitiva y responsiva hacia los distintos componentes clave del sitio.
+
+Este diseño refleja:
+
+- La jerarquía visual establecida en los Organization Systems, priorizando elementos como el mensaje principal, el buscador de experiencias, y los llamados a la acción (CTAs).
+
+- La coherencia con el Design System de TravelMatch, respetando la paleta cromática corporativa inspirada en su logotipo, el uso tipográfico moderno y legible, y los principios de accesibilidad e inclusión.
+
+- Una arquitectura de información que orienta al usuario de manera fluida, reduciendo la carga cognitiva y facilitando la conversión desde la primera interacción.
+
+- La incorporación de patrones reconocibles en UI/UX para generar confianza, claridad y familiaridad con la experiencia.
+
 #### 4.3.1. Landing Page Wireframe
 
+Los wireframes del Landing Page de TravelMatch definen la estructura base de la interfaz, enfocándose en la distribución de contenido y elementos interactivos antes de aplicar el diseño visual definitivo. Se han diseñado versiones específicas para navegadores de escritorio y navegadores móviles, con el objetivo de garantizar una experiencia consistente, accesible y optimizada para cada tipo de dispositivo.
+Principios Aplicados
+
+- Jerarquía visual clara: Se priorizan los elementos esenciales como el hero section, buscador de experiencias, CTA de registro, y testimonios. Esto facilita la exploración progresiva del contenido por parte del usuario.
+
+- Diseño inclusivo: Las estructuras propuestas contemplan contrastes adecuados, fuentes legibles y navegación intuitiva tanto por clic como por scroll.
+
+- Consistencia estructural: Se respeta la arquitectura de información definida, agrupando secciones por tópicos (e.g., ¿cómo funciona?, beneficios para agencias, beneficios para turistas, etc.).
+
+- Adaptabilidad: Los wireframes aseguran una transición fluida entre vistas de escritorio y móviles mediante una disposición responsiva, donde los elementos se reorganizan verticalmente sin perder prioridad visual.
+
+**Desktop:**
+<p align="center">
+    <img src="assets/recursos/landing-page-wireframe-desktop.png" alt="landing-page-wireframe-desktop" width=80%/>
+</p>
+
+**Mobile:**
+
+
 #### 4.3.2. Landing Page Mock-up
+
+Los mock-ups de la Landing Page de TravelMatch representan la traducción visual completa del wireframe, incorporando la identidad visual, la paleta cromática, la tipografía, iconografía y todos los elementos del Design System previamente definido. Estos mock-ups ofrecen una vista precisa de cómo lucirá el producto final en navegadores web de escritorio y dispositivos móviles.
+
+<p align="center">
+    <img src="assets/recursos/landing-page-mockup-desktop.png" alt="landing-page-mockup-desktop" width=80%/>
+</p>
 
 ### 4.4. Web Applications UX/UI Design
 

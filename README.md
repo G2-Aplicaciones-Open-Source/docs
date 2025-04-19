@@ -278,7 +278,7 @@ Mi nombre es Mathias Aspajo, tengo 19 años y actualmente me encuentro en el 5to
 - Farid Briceño De La Cruz - u20211f211 (Ingeniería de Software)
 
 <p align="center">
-    <img src="assets/fotos/" alt="foto-farid" width="170px"/>
+    <img src="assets/fotos/faridfoto" alt="foto-farid" width="170px"/>
 </p>
 
 Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos y me gusta informmarme de las soluciones actuales, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas.

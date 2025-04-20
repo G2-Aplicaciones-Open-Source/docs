@@ -150,11 +150,20 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+        - [2.3.4.1. Empathy Mapping Turistas nacionales e internacionales](#2341-empathy-mapping-turistas-nacionales-e-internacionales)
+        - [2.3.4.2. Empathy Mapping Agencias de turismo locales](#2342-empathy-mapping-agencias-de-turismo-locales)
+        - [2.3.4.3. Empathy Mapping Viajeros por trabajo](#2343-empathy-mapping-viajeros-por-trabajo)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+        - [2.3.5.1. As-is Scenario Mapping Turistas nacionales e internacionales](#2351-as-is-scenario-mapping-turistas-nacionales-e-internacionales)
+        - [2.3.5.2. As-is Scenario Mapping Agencias de turismo locales](#2352-as-is-scenario-mapping-agencias-de-turismo-locales)
+        - [2.3.5.3. As-is Scenario Mapping Viajeros por trabajo](#2353-as-is-scenario-mapping-viajeros-por-trabajo)
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
 [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+    - [3.1.1. To-Be Scenario Mapping Turistas nacionales e internacionales](#311-to-Be-scenario-mapping-turistas-nacionales-e-internacionales)
+    - [3.1.2. To-Be Scenario Mapping Agencias de turismo locales](#312-to-Be-scenario-mapping-agencias-de-turismo-locales)
+    - [3.1.3. To-Be Scenario Mapping Viajeros por trabajo](#313-to-Be-scenario-mapping-viajeros-por-trabajo)
   - [3.2. User Stories](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
@@ -273,8 +282,7 @@ Mi nombre es Mathias Aspajo, tengo 19 años y actualmente me encuentro en el 5to
     <img src="assets/fotos/" alt="foto-farid" width="170px"/>
 </p>
 
-Descripcion
-
+Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos y me gusta informmarme de las soluciones actuales, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas.
 
 - Jhon Alexander Galvez Chambi - u202323270 (Ingeniería de Software)
 
@@ -580,16 +588,97 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 ### 2.3. Needfinding
 
 #### 2.3.1. User Personas
+Basados en los resultados de las entrevistas y el análisis de datos, hemos definido las características clave de cada segmento objetivo estudiado. Esta información nos permitió desarrollar User Personas detallados para cada grupo, con el fin de comprender a profundidad su contexto, metas, motivaciones, dolores y perfil general. Para la creación de estos User Personas, empleamos la plataforma colaborativa UXPressia como herramienta principal de diseño.
+
+<p align="center">
+    <img src="assets/recursos/User_Persona_Adrian.jpg" alt="User-Persona-Adrian"/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/User_Persona_Tony.jpg" alt="User-Persona-Tony"/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/User_Persona_Cesar.jpg" alt="User-Persona-Cesar"/>
+</p>
 
 #### 2.3.2. User Task Matrix
 
+<p align="center">
+    <img src="assets/recursos/Task_Matrix_Turistas.jpg" alt="Task-Matrix-Turistas"/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/Task_Matrix_Agencias.jpg" alt="Task-Matrix-Agencias"/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/Task_Matrix_Viajeros.jpg" alt="Task-Matrix-Viajeros"/>
+</p>
+
 #### 2.3.3. User Journey Mapping
+
+<p align="center">
+    <img src="assets/recursos/User_Journey_Mapping.jpg" alt="User-Journey-Mapping"/>
+</p>
 
 #### 2.3.4. Empathy Mapping
 
+#### 2.3.4.1. Empathy Mapping Turistas nacionales e internacionales
+
+<p align="center">
+    <img src="assets/recursos/Empathy_Mapping_Turistas.jpg" alt="Empathy-Mapping-Turistas"/>
+</p>
+
+#### 2.3.4.2. Empathy Mapping Agencias de turismo locales
+
+<p align="center">
+    <img src="assets/recursos/Empathy_Mapping_Agencias.png" alt="Empathy-Mapping-Agencias"/>
+</p>
+
+#### 2.3.4.3. Empathy Mapping Viajeros por trabajo
+
+<p align="center">
+    <img src="assets/recursos/Empathy_Mapping_Viajeros.png" alt="Empathy-Mapping-Viajeros"/>
+</p>
+
 #### 2.3.5. As-is Scenario Mapping
 
+#### 2.3.5.1. As-is Scenario Mapping Turistas nacionales e internacionales
+
+<p align="center">
+    <img src="assets/recursos/As_is_Turistas.jpg" alt="As-is-Turistas"/>
+</p>
+
+#### 2.3.5.2. As-is Scenario Mapping Agencias de turismo locales
+
+<p align="center">
+    <img src="assets/recursos/As_is_Agencias.png" alt="As-is-Agencias"/>
+</p>
+
+#### 2.3.5.3. As-is Scenario Mapping Viajeros por trabajo
+
+<p align="center">
+    <img src="assets/recursos/As_is_Viajeros.png" alt="As-is-Viajeros"/>
+</p>
+
 ### 2.4. Ubiquitous Language
+
+| **Término (Inglés)**       | **Término (Español)**       | **Descripción** |
+|----------------------------|----------------------------|----------------|
+| **Traveler**               | Viajero                    | Usuario de la plataforma que busca descubrir, reservar o personalizar experiencias turísticas, ya sea de forma individual o en grupo. |
+| **Travel Agency**          | Agencia de viajes          | Entidad registrada en la plataforma que ofrece paquetes turísticos, experiencias personalizadas o servicios relacionados con viajes. |
+| **Experience**             | Experiencia                | Actividad o conjunto de actividades que conforman un paquete turístico (cultural, gastronómico, deportivo, etc.). |
+| **Recommended Plan**       | Plan recomendado           | Propuesta de actividades generadas automáticamente según los intereses, preferencias y perfil del viajero. |
+| **Match**                  | Coincidencia / Compatibilidad | Grado de afinidad entre un viajero y una agencia o experiencia, basado en intereses, presupuesto y ubicación. |
+| **Booking Request**        | Solicitud de reserva       | Acción mediante la cual un viajero inicia el proceso de reservar una experiencia o paquete. |
+| **Availability**           | Disponibilidad             | Periodo de tiempo y capacidad en los que una agencia puede ofrecer una experiencia. |
+| **Profile**                | Perfil                     | Datos personales y preferencias de viaje asociados a un usuario (viajero o agencia). |
+| **Feedback**               | Retroalimentación          | Opiniones, comentarios o calificaciones de los viajeros después de realizar una experiencia. |
+| **Tour Package**           | Paquete turístico          | Conjunto de servicios y actividades agrupadas (transporte, alojamiento, alimentación, etc.). |
+| **Local Partner**          | Aliado local               | Proveedor asociado a una agencia que ofrece servicios específicos (guías, restaurantes, transportistas). |
+| **Seasonality**            | Estacionalidad             | Variación en la demanda o disponibilidad según la época del año, festividades o clima. |
+| **Target Audience**        | Audiencia objetivo         | Grupo de personas con características específicas (edad, intereses) al que va dirigida una experiencia. |
 
 <hr>
 
@@ -597,11 +686,106 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 
 ### 3.1. To-Be Scenario Mapping
 
+#### 3.1.1. To-Be Scenario Mapping Turistas nacionales e internacionales
+
+<p align="center">
+    <img src="assets/recursos/To_be_Turistas.jpg" alt="To-be-Turistas"/>
+</p>
+
+#### 3.1.2. To-Be Scenario Mapping Agencias de turismo locales
+
+<p align="center">
+    <img src="assets/recursos/To_be_Agencias.png" alt="To-be-Agencias"/>
+</p>
+
+#### 3.1.3. To-Be Scenario Mapping Viajeros por trabajo
+
+<p align="center">
+    <img src="assets/recursos/To_be_Viajeros.png" alt="To-be-Viajeros"/>
+</p>
+
 ### 3.2. User Stories
+#
+
+|<p><a name="_yrbaaa2wximh"></a>Epic / Story</p><p>ID</p>|Título |Descripción |Criterios de Aceptación |Relacionado con (Epic ID)|
+| :- | :- | :- | :- | :- |
+|` `EP01|Gestión de usuarios|Como usuario, quiero gestionar mi perfil y preferencias para personalizar mi experiencia.|-|-|
+|` `EP02|Búsqueda y reserva|Como turista, quiero explorar y reservar actividades fácilmente para planificar mi viaje sin estrés.|-|-|
+|` `EP03|Herramientas para agencias|Como agencia, quiero administrar mis tours y clientes para optimizar mis operaciones.|-|-|
+|US01|Registro básico|Como nuevo usuario, quiero registrarme con un email para acceder a la plataforma.|<p>- Scenario 1: Registro exitoso<br>  Dado que estoy en la pantalla de registro, cuando ingreso mi email y contraseña válida, entonces recibo un email de confirmación.</p><p>- Scenario 2: Email inválido<br>  Dado que estoy en la pantalla de registro, cuando ingreso un email sin "@", entonces el sistema muestra "Ingrese un email válido".</p>|EP01|
+|US02|Inicio de sesión|Como usuario registrado, quiero iniciar sesión para gestionar mis reservas.|<p>- Scenario 1: Credenciales correctas<br>  Dado que tengo credenciales válidas, cuando las ingreso, entonces accedo a mi perfil.</p><p>- Scenario 2: Contraseña incorrecta<br>  Dado que ingreso un email válido, cuando ingreso una contraseña errónea, entonces el sistema muestra "Credenciales inválidas".</p>|EP01|
+|US03|Perfil corporativo|Como viajero corporativo, quiero vincularme con mi empresa para obtener beneficios exclusivos.|<p>- Scenario 1: Verificación exitosa<br>  Dado que soy usuario corporativo, cuando subo mi credencial laboral válida, entonces mi perfil muestra un sello verificador.</p><p>- Scenario 2: Documento rechazado<br>  Dado que subo un documento ilegible, cuando el sistema lo revisa, entonces muestra "Documento no válido".</p>|EP01|
+|US04|Preferencias de viaje|Como turista, quiero seleccionar mis intereses para recibir recomendaciones personalizadas.|<p>- Scenario 1: Actualización exitosa<br>  Dado que actualizo mis preferencias, cuando busco actividades, entonces veo opciones relevantes.</p><p>- Scenario 2: Sin preferencias</p><p>&emsp;Dado que no selecciono intereses, cuando busco actividades, entonces veo recomendaciones generales.</p>|EP01|
+|US05|Recuperar contraseña|Como usuario, quiero restablecer mi contraseña si la olvido para recuperar el acceso.|<p>- Scenario 1: Solicitud exitosa<br>  Dado que solicito restablecer contraseña, cuando ingreso mi email registrado, entonces recibo un enlace temporal.</p><p>- Scenario 2: Email no registrado<br>  Dado que ingreso un email no existente, cuando solicito restablecer, entonces el sistema muestra "Email no encontrado".</p>|EP01|
+|US06|Verificación de identidad|Como usuario premium, quiero verificar mi identidad para desbloquear reservas exclusivas.|<p>- Scenario 1: Verificación aprobada<br>  Dado que subo mi documento de identidad válido, cuando es aprobado, entonces puedo reservar tours premium.</p><p>- Scenario 2: Documento vencido<br>  Dado que subo un DNI vencido, cuando el sistema lo revisa, entonces muestra "Documento no válido".</p>|EP01|
+|US07|Notificaciones push|Como usuario, quiero recibir alertas sobre ofertas para no perderme promociones.|<p>- Scenario 1: Notificación recibida<br>  Dado que activo notificaciones, cuando hay una oferta en mis favoritos, entonces recibo una alerta.</p><p>- Scenario 2: Notificación desactivada<br>  Dado que desactivo notificaciones, cuando hay una oferta, entonces no recibo alertas.</p>|EP01|
+|US08|Idiomas|Como usuario internacional, quiero cambiar el idioma de la app para entender mejor.|<p>- Scenario 1: Cambio a inglés<br>  Dado que selecciono "Inglés", cuando guardo los cambios, entonces toda la interfaz se traduce.</p><p>- Scenario 2: Idioma no disponible<br>  Dado que selecciono un idioma no soportado, cuando intento guardar, entonces el sistema muestra "Idioma no disponible".</p>|EP01|
+|US09|Perfil público|Como viajero, quiero compartir mis reseñas para ayudar a otros turistas.|<p>- Scenario 1: Reseña publicada<br>  Dado que completo una actividad, cuando escribo una reseña, entonces aparece en mi perfil público.</p><p>- Scenario 2: Reseña vacía<br>  Dado que no ingreso texto, cuando intento publicar, entonces el sistema muestra "Escribe tu opinión".</p>|EP01|
+|US10|Eliminar cuenta|Como usuario, quiero borrar mi cuenta para proteger mi privacidad.|<p>- Scenario 1: Eliminación confirmada<br>  Dado que solicito eliminar mi cuenta, cuando confirmo, entonces todos mis datos se borran en 72h.</p><p>- Scenario 2: Cancelación de eliminación</p><p>&emsp;Dado que inicio el proceso, cuando cancelo, entonces mi cuenta permanece activa.</p>|EP01|
+|US11|Filtros avanzados|Como turista, quiero filtrar actividades por precio y tipo para encontrar opciones relevantes.|<p>- Scenario 1: Filtrado por precio exitoso<br>  Dado que uso los filtros, cuando aplico "precio < $50", entonces veo solo tours económicos.</p><p>- Scenario 2: Sin resultados coincidentes<br>  Dado que filtro por "precio < S/.20", cuando no hay tours disponibles, entonces el sistema muestra "No encontramos coincidencias".</p>|EP02|
+|US12|Comparar tours|Como usuario, quiero comparar múltiples tours en una vista para tomar la mejor decisión.|<p>- Scenario 1: Comparación exitosa<br>  Dado que selecciono 3 tours, cuando hago clic en "Comparar", entonces veo diferencias claras en una tabla.</p><p>- Scenario 2: Selección insuficiente<br>  Dado que selecciono solo 1 tour, cuando intento comparar, entonces el sistema muestra "Seleccione al menos 2 tours".</p>|EP02|
+|US13|Reserva flexible|Como turista, quiero cancelar gratis hasta 48h antes para mayor seguridad.|<p>- Scenario 1: Cancelación dentro del plazo<br>  Dado que reservo un tour, cuando cancelo 24h antes, entonces recibo reembolso automático.</p><p>- Scenario 2: Cancelación tardía<br>  Dado que cancelo 12h antes, cuando intento reembolsar, entonces el sistema muestra "Fuera del plazo de cancelación".</p>|EP02|
+|US14|Reservas grupales|Como viajero corporativo, quiero reservar para mi equipo para simplificar la logística.|<p>- Scenario 1: Reserva grupal exitosa<br>  Dado que añado 5 participantes, cuando completo el pago, entonces todos reciben confirmación por email.</p><p>- Scenario 2: Límite excedido<br>  Dado que intento añadir 15 personas, cuando el tour tiene límite de 10, entonces el sistema muestra "Cupo máximo alcanzado".</p>|EP02|
+|US15|Favoritos|Como usuario, quiero guardar actividades interesantes para revisarlas después.|<p>- Scenario 1: Guardar en favoritos<br>  Dado que hago clic en "Guardar", cuando voy a "Mis Favoritos", entonces veo la actividad listada.</p><p>- Scenario 2: Eliminar de favoritos<br>  Dado que elimino un tour de favoritos, cuando actualizo la página, entonces desaparece de la lista.</p>|EP02|
+|US16|Chat con guías|Como usuario, quiero preguntar detalles a los guías antes de reservar para aclarar dudas.|<p>- Scenario 1: Respuesta rápida</p><p>&emsp;Dado que abro el chat, cuando envío una pregunta, entonces recibo respuesta en menos de 10 minutos.</p><p>- Scenario 2: Fuera de horario<br>  Dado que pregunto a las 3 AM, cuando el guía no está disponible, entonces el sistema muestra "Respuesta en 8-12h".</p>|EP02|
+|US17|Mapas interactivos|Como turista, quiero ver la ubicación exacta de los tours para planificar mi ruta.|<p>- Scenario 1: Visualización de ruta<br>  Dado que abro un tour, cuando hago clic en "Ver mapa", entonces se muestra la ruta exacta con puntos de interés.</p><p>- Scenario 2: Sin conexión a internet<br>  Dado que no tengo internet, cuando intento cargar el mapa, entonces el sistema muestra "Active su conexión".</p>|EP02|
+|US18|Chat con guías|Como turista, quiero previsualizar tours con RA para imaginarme la experiencia.|<p>- Scenario 1: Vista RA exitosa<br>  Dado que selecciono "Vista RA", cuando apunto mi cámara, entonces veo un modelo 3D del tour.</p><p>- Scenario 2: Dispositivo no compatible<br>  Dado que mi teléfono no soporta RA, cuando intento acceder, entonces el sistema muestra "Función no disponible".</p>|EP02|
+|US19|Realidad aumentada|Como viajero, quiero generar un itinerario diario automático para optimizar mi tiempo.|<p>- Scenario 1: Itinerario generado<br>  Dado que selecciono actividades, cuando hago clic en "Planificar", entonces recibo una agenda ordenada por horarios.</p><p>- Scenario 2: Actividades incompatibles<br>  Dado que selecciono tours con horarios superpuestos, cuando intento planificar, entonces el sistema muestra "Conflicto de horarios".</p>|EP02|
+|US20|Itinerarios automáticos|Como usuario, quiero dividir el pago en cuotas para gestionar mejor mi presupuesto.|<p>- Scenario 1: Pago fraccionado<br>  Dado que selecciono "Pagar en cuotas", cuando elijo 3 meses, entonces el monto total se divide en partes iguales.</p><p>- Scenario 2: Límite de cuotas excedido<br>  Dado que intento dividir en 12 cuotas, cuando el límite es 6, entonces el sistema muestra "Máximo 6 cuotas permitidas".</p>|EP02|
+|US21|Pago en cuotas|Como agencia, quiero subir nuevos tours con fotos y descripciones para atraer clientes.|<p>- Scenario 1: Publicación exitosa<br>  Dado que completo el formulario, cuando lo envío, entonces el tour aparece tras aprobación en 24h.</p><p>- Scenario 2: Fotos faltantes<br>  Dado que no subo imágenes, cuando intento publicar, entonces el sistema muestra "Agregue al menos 3 fotos".</p>|EP03|
+|US22|Calendario en tiempo real|Como agencia, quiero actualizar la disponibilidad para evitar sobre-reservas.|<p>- Scenario 1: Actualización exitosa<br>  Dado que modifico fechas, cuando guardo cambios, entonces los usuarios ven slots actualizados al instante.</p><p>- Scenario 2: Fechas inválidas<br>  Dado que ingreso una fecha pasada, cuando intento guardar, entonces el sistema muestra "Seleccione una fecha futura".</p>|EP03|
+|US23|Analytics|Como agencia, quiero ver métricas de reservas para mejorar mis estrategias.|<p>- Scenario 1: Visualización de datos<br>  Dado que accedo al dashboard, cuando filtro por mes, entonces veo gráficos de rendimiento con porcentajes.</p><p>- Scenario 2: Sin datos disponibles<br>  Dado que no tengo reservas en el mes, cuando reviso analytics, entonces el sistema muestra "No hay datos para mostrar".</p>|EP03|
+|US24|Alertas de reservas|Como agencia, quiero recibir notificaciones de nuevas reservas para prepararme.|<p>- Scenario 1: Notificación inmediata<br>  Dado que hay una reserva nueva, cuando se confirma, entonces recibo un email/app notification con detalles.</p><p>- Scenario 2: Notificaciones silenciadas<br>  Dado que desactivo alertas, cuando hay una reserva, entonces no recibo notificaciones.</p>|EP03|
+|US25|Crear promociones|Como agencia, quiero ofrecer descuentos en temporada baja para atraer más clientes.|<p>- Scenario 1: Promoción activada<br>  Dado que creo una promoción, cuando la publico, entonces aparece un sello "Oferta" en el tour.</p><p>- Scenario 2: Descuento inválido<br>  Dado que intento aplicar un 200% de descuento, cuando guardo, entonces el sistema muestra "Máximo 50% de descuento".</p>|EP03|
+|US26|Gestión de guías|Como agencia, quiero asignar guías a tours específicos para organizar mi equipo.|<p>- Scenario 1: Asignación exitosa<br>  Dado que asigno un guía, cuando guardo los cambios, entonces el guía recibe una notificación con detalles.</p><p>- Scenario 2: Guía no disponible<br>  Dado que selecciono un guía en otra actividad, cuando intento asignar, entonces el sistema muestra "Guía ocupado en esas fechas".</p>|EP03|
+|US27|Encuestas a clientes|Como agencia, quiero enviar encuestas post-viaje para medir la satisfacción.|<p>- Scenario 1: Encuesta enviada<br>  Dado que un tour finaliza, cuando envío la encuesta, entonces recibo respuestas en mi dashboard en 48h.</p><p>- Scenario 2: Cliente no responde<br>  Dado que pasan 7 días, cuando el cliente no contesta, entonces el sistema marca "No respondida".</p>|EP03|
+|US28|Verificación de agencia|Como agencia, quiero verificar mi negocio para ganar confianza de los clientes.|<p>- Scenario 1: Cuenta verificada<br>  Dado que subo mis documentos, cuando son aprobados, entonces mi perfil muestra un sello "Verificado".</p><p>- Scenario 2: Documentación incompleta<br>  Dado que no subo mi RUC, cuando intento verificar, entonces el sistema muestra "Falta documentación legal".</p>|EP03|
+|US29|Soporte prioritario|Como agencia, quiero acceder a soporte rápido para resolver problemas urgentes.|<p>- Scenario 1: Respuesta inmediata<br>  Dado que contacto a soporte, cuando envío mi consulta, entonces recibo respuesta en menos de 5 minutos.</p><p>- Scenario 2: Consulta no urgente</p><p>&emsp;Dado que pregunto por mejoras, cuando no marco "Urgente", entonces recibo respuesta en 24h.</p>|EP03|
+|US30|Integración con redes|Como agencia, quiero compartir mis tours en redes sociales para aumentar mi visibilidad.|<p>- Scenario 1: Publicación automática</p><p>&emsp;Dado que hago clic en "Compartir", cuando elijo Instagram, entonces se publica con fotos y descripción.</p><p>- Scenario 2: Red no conectada<br>  Dado que no vincule mi Facebook, cuando intento compartir, entonces el sistema muestra "Conecte su cuenta primero".</p>|EP03|
+#
 
 ### 3.3. Impact Mapping
 
+<p align="center">
+    <img src="assets/recursos/Impact_Mapping.png" alt="Impact-Mapping"/>
+</p>
+
 ### 3.4. Product Backlog
+
+#
+
+|<a name="_lphm1b3yegrj"></a># Orden|User Story Id|Título|Descripción|Story Points (1 / 2 / 3 / 5 / 8)|
+| :- | :- | :- | :- | :- |
+|1|US01|Gestión de usuarios|Como usuario, quiero gestionar mi perfil y preferencias para personalizar mi experiencia.|3|
+|2|US02|Búsqueda y reserva|Como turista, quiero explorar y reservar actividades fácilmente para planificar mi viaje sin estrés.|2|
+|3|US03|Herramientas para agencias|Como agencia, quiero administrar mis tours y clientes para optimizar mis operaciones.|5|
+|4|US04|Registro básico|Como nuevo usuario, quiero registrarme con un email para acceder a la plataforma.|5|
+|5|US05|Inicio de sesión|Como usuario registrado, quiero iniciar sesión para gestionar mis reservas.|8|
+|6|US06|Perfil corporativo|Como viajero corporativo, quiero vincularme con mi empresa para obtener beneficios exclusivos.|8|
+|7|US07|Preferencias de viaje|Como turista, quiero seleccionar mis intereses para recibir recomendaciones personalizadas.|5|
+|8|US08|Recuperar contraseña|Como usuario, quiero restablecer mi contraseña si la olvido para recuperar el acceso.|3|
+|9|US09|Verificación de identidad|Como usuario premium, quiero verificar mi identidad para desbloquear reservas exclusivas.|3|
+|10|US10|Notificaciones push|Como usuario, quiero recibir alertas sobre ofertas para no perderme promociones.|8|
+|11|US11|Idiomas|Como usuario internacional, quiero cambiar el idioma de la app para entender mejor.|2|
+|12|US12|Perfil público|Como viajero, quiero compartir mis reseñas para ayudar a otros turistas.|5|
+|13|US13|Eliminar cuenta|Como usuario, quiero borrar mi cuenta para proteger mi privacidad.|5|
+|14|US14|Filtros avanzados|Como turista, quiero filtrar actividades por precio y tipo para encontrar opciones relevantes.|2|
+|15|US15|Comparar tours|Como usuario, quiero comparar múltiples tours en una vista para tomar la mejor decisión.|3|
+|16|US16|Reserva flexible|Como turista, quiero cancelar gratis hasta 48h antes para mayor seguridad.|3|
+|17|US17|Reservas grupales|Como viajero corporativo, quiero reservar para mi equipo para simplificar la logística.|8|
+|18|US18|Favoritos|Como usuario, quiero guardar actividades interesantes para revisarlas después.|5|
+|19|US19|Chat con guías|Como usuario, quiero preguntar detalles a los guías antes de reservar para aclarar dudas.|5|
+|20|US20|Mapas interactivos|Como turista, quiero ver la ubicación exacta de los tours para planificar mi ruta.|3|
+|21|US21|Chat con guías|Como turista, quiero previsualizar tours con RA para imaginarme la experiencia.|5|
+|22|US22|Realidad aumentada|Como viajero, quiero generar un itinerario diario automático para optimizar mi tiempo.|3|
+|23|US23|Itinerarios automáticos|Como usuario, quiero dividir el pago en cuotas para gestionar mejor mi presupuesto.|5|
+|24|US24|Pago en cuotas|Como agencia, quiero subir nuevos tours con fotos y descripciones para atraer clientes.|2|
+|25|US25|Calendario en tiempo real|Como agencia, quiero actualizar la disponibilidad para evitar sobre-reservas.|2|
+|26|US26|Analytics|Como agencia, quiero ver métricas de reservas para mejorar mis estrategias.|5|
+|27|US27|Alertas de reservas|Como agencia, quiero recibir notificaciones de nuevas reservas para prepararme.|3|
+|28|US28|Crear promociones|Como agencia, quiero ofrecer descuentos en temporada baja para atraer más clientes.|3|
+|29|US29|Gestión de guías|Como agencia, quiero asignar guías a tours específicos para organizar mi equipo.|5|
+|30|US30|Encuestas a clientes|Como agencia, quiero enviar encuestas post-viaje para medir la satisfacción.|3|
 
 <hr>
 

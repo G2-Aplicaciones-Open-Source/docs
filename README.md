@@ -223,8 +223,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo,
 que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| <div style="width:150px">Criterio específico</div> | <div style="width:250px">Acciones Realizadas</div> | <div style="width:250px">Conclusiones</div> |
-|:-------------------:|:-------------------:|:------------:|
+| <div style="width:100px">Criterio específico</div> | <div style="width:250px" align="center">Acciones Realizadas</div> | <div style="width:250px" align="center">Conclusiones</div> |
+|:-------------------:|-------------------|:------------:|
 |Comunica oralmente con efectividad a diferentes rangos de audiencia| Jhon Galvez | Se concluye |
 |Comunica por escrito con efectividad a diferentes rangos de audiencia| Jhon Galvez | Se concluye |
 
@@ -641,15 +641,18 @@ El objetivo es garantizar una presentación unificada, profesional y alineada co
         - Subtítulo (H2): 24px / 600
         - Texto normal: 16px / 400
         - Nota o ayuda: 12px / 400
-    
-        | Nombre de fuente | Tipografia |
-        |:----------------:|:----------:|
-        | Nunito Sans | <img src="assets/recursos/nunito-sans-font.png" alt="nunito-sans-font" width=200px/> |
-        | Inter | <img src="assets/recursos/inter-font.png" alt="inter-font" width=200px/> |        
+
+<div align="center">    
+    | Nombre de fuente | Tipografia |
+    |:----------------:|:----------:|
+    | Nunito Sans | <img src="assets/recursos/nunito-sans-font.png" alt="nunito-sans-font" width=200px/> |
+    | Inter | <img src="assets/recursos/inter-font.png" alt="inter-font" width=200px/> |  
+</div>      
               
 - _Colors:_
     - La paleta de TravelMatch se basa en contrastes suaves y un color protagonista: azul marino profundo, que transmite confianza y estabilidad. Se acompaña de colores neutros y un acento cálido para llamados a la acción
-    
+
+<div align="center">    
     | Color | Hex | Uso Principal | 
     |:-----:|:---:|:-------------:|
     |Azul Marino| #1C1F2B | Texto principal, logotipo, botones|
@@ -658,7 +661,8 @@ El objetivo es garantizar una presentación unificada, profesional y alineada co
     |Azul Claro| #3A71C1 | Enlaces, botones secundarios|
     |Amarillo Arena| #FFD479| Llamado a la acción / iconos |
     |Blanco| #FFFFFF|Fondos, tarjetas, formularios|
-    
+</div>
+
 <p align="center">
     <img src="assets/recursos/system-colors.png"/ width=70%>
 </p>
@@ -672,10 +676,12 @@ El objetivo es garantizar una presentación unificada, profesional y alineada co
 
 - _Tono de comunicación y lenguaje:_
     - El tono de TravelMatch es cercano, entusiasta y profesional.
-    
+
+<div align="center">    
     | Estilo de redacción | Tono predominante |
     |---------------------|-------------------|
     | 1. Amigable y claro <br> 2. Sin tecnicismos innecesarios <br> 3. Verbos en voz activa <br> 4. Enfocado en beneficios (“Descubre experiencias únicas”, “Reserva en segundos”)| 1. Formal-casual: Respetuoso, pero no rígido. <br> 2. Entusiasta: Inspirador, motivador, acogedor. <br> 3. Directo: Frases cortas y llamadas a la acción claras. |
+</div>
 
 
 #### 4.1.2. Web Style Guidelines
@@ -942,11 +948,11 @@ La navegación en TravelMatch está diseñada para ser intuitiva, fluida y centr
 
 - _Landing Page:_  
     La navegación principal está orientada a captar y guiar nuevos visitantes. Se estructura mediante una barra superior fija con los siguientes elementos:  
-    - **Inicio**  
+    - **Logo**  
     - **Cómo Funciona**  
-    - **Para Turistas**  
+    - **Explorar**
     - **Para Agencias**  
-    - **Explorar experiencias**  
+    - **Nosotros**
     - **Iniciar sesión / Registrarse** (con botón destacado)  
 
     Se emplea una navegación jerárquica horizontal con anclas que guían a secciones específicas del mismo sitio (scroll suave), y una estructura de **one-page design** para mantener la continuidad narrativa.  
@@ -1023,15 +1029,21 @@ Principios Aplicados
 </p>
 
 **Mobile:**
-
+<p align="center">
+    <img src="assets/recursos/landing-page-wireframe-mobile.png" alt="landing-page-wireframe-desktop" width=20%/>
+</p>
 
 #### 4.3.2. Landing Page Mock-up
 
 Los mock-ups de la Landing Page de TravelMatch representan la traducción visual completa del wireframe, incorporando la identidad visual, la paleta cromática, la tipografía, iconografía y todos los elementos del Design System previamente definido. Estos mock-ups ofrecen una vista precisa de cómo lucirá el producto final en navegadores web de escritorio y dispositivos móviles.
 
+**Desktop:**
 <p align="center">
     <img src="assets/recursos/landing-page-mockup-desktop.png" alt="landing-page-mockup-desktop" width=80%/>
 </p>
+
+**Mobile:**
+
 
 ### 4.4. Web Applications UX/UI Design
 

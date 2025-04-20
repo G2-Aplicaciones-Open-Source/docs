@@ -26,7 +26,7 @@
 
 <div align="center">
 
-| <div style="width:450px">Alumno</div> | <div style="width:150px">Código</div> |
+| <div style="width:500px">Alumno</div> | <div style="width:150px">Código</div> |
 |:-------------------------------------:|:-------------------------------------:|
 |        Aspajo Alvarez, Mathias        |              u202317584               |
 |       Briceño De La Cruz, Farid       |              u20211f211               |
@@ -92,10 +92,10 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
             <img src="assets/evidencias/cap1-branch-commits.png" alt="cap1-branch-commits" width=60% >
         </p>
         <p align="center">
-            <img src="assets/evidencias/" alt="cap2-branch-commits" width=60% >
+            <img src="assets/evidencias/cap2-branch-commits.png" alt="cap2-branch-commits" width=60% >
         </p>
         <p align="center">
-            <img src="assets/evidencias/" alt="cap3-branch-commits" width=60% >
+            <img src="assets/evidencias/cap3-branch-commits.png" alt="cap3-branch-commits" width=60% >
         </p>
         <p align="center">
             <img src="assets/evidencias/" alt="cap4-branch-commits" width=60% >
@@ -1214,13 +1214,15 @@ Principios Aplicados
 - Adaptabilidad: Los wireframes aseguran una transición fluida entre vistas de escritorio y móviles mediante una disposición responsiva, donde los elementos se reorganizan verticalmente sin perder prioridad visual.
 
 **Desktop:**
+
 <p align="center">
     <img src="assets/recursos/landing-page-wireframe-desktop.png" alt="landing-page-wireframe-desktop" width=80%/>
 </p>
 
 **Mobile:**
+
 <p align="center">
-    <img src="assets/recursos/landing-page-wireframe-mobile.png" alt="landing-page-wireframe-desktop" width=20%/>
+    <img src="assets/recursos/landing-page-wireframe-mobile.png" alt="landing-page-wireframe-mobile" width=20%/>
 </p>
 
 #### 4.3.2. Landing Page Mock-up
@@ -1228,12 +1230,16 @@ Principios Aplicados
 Los mock-ups de la Landing Page de TravelMatch representan la traducción visual completa del wireframe, incorporando la identidad visual, la paleta cromática, la tipografía, iconografía y todos los elementos del Design System previamente definido. Estos mock-ups ofrecen una vista precisa de cómo lucirá el producto final en navegadores web de escritorio y dispositivos móviles.
 
 **Desktop:**
+
 <p align="center">
     <img src="assets/recursos/landing-page-mockup-desktop.png" alt="landing-page-mockup-desktop" width=80%/>
 </p>
 
 **Mobile:**
 
+<p align="center">
+    <img src="assets/recursos/landing-page-mockup-mobile.png" alt="landing-page-mockup-mobile" width=20%/>
+</p>
 
 ### 4.4. Web Applications UX/UI Design
 

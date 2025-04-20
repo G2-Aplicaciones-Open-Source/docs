@@ -279,7 +279,7 @@ Mi nombre es Mathias Aspajo, tengo 19 años y actualmente me encuentro en el 5to
 - Farid Briceño De La Cruz - u20211f211 (Ingeniería de Software)
 
 <p align="center">
-    <img src="assets/fotos/" alt="foto-farid" width="170px"/>
+    <img src="assets/fotos/faridfoto.jpg" alt="foto-farid" width="170px"/>
 </p>
 
 Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos y me gusta informmarme de las soluciones actuales, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas.
@@ -827,24 +827,28 @@ El objetivo es garantizar una presentación unificada, profesional y alineada co
         - Nota o ayuda: 12px / 400
 
 <div align="center">    
-    | Nombre de fuente | Tipografia |
-    |:----------------:|:----------:|
-    | Nunito Sans | <img src="assets/recursos/nunito-sans-font.png" alt="nunito-sans-font" width=200px/> |
-    | Inter | <img src="assets/recursos/inter-font.png" alt="inter-font" width=200px/> |  
+
+| Nombre de fuente | Tipografia |
+|:----------------:|:----------:|
+| Nunito Sans | <img src="assets/recursos/nunito-sans-font.png" alt="nunito-sans-font" width=200px/> |
+| Inter | <img src="assets/recursos/inter-font.png" alt="inter-font" width=200px/> |  
+    
 </div>      
               
 - _Colors:_
     - La paleta de TravelMatch se basa en contrastes suaves y un color protagonista: azul marino profundo, que transmite confianza y estabilidad. Se acompaña de colores neutros y un acento cálido para llamados a la acción
 
 <div align="center">    
-    | Color | Hex | Uso Principal | 
-    |:-----:|:---:|:-------------:|
-    |Azul Marino| #1C1F2B | Texto principal, logotipo, botones|
-    |Beige Claro| #F5F0E6 | Fondo base|
-    |Gris Suave| #B3B3B3 | Bordes, textos secundarios|
-    |Azul Claro| #3A71C1 | Enlaces, botones secundarios|
-    |Amarillo Arena| #FFD479| Llamado a la acción / iconos |
-    |Blanco| #FFFFFF|Fondos, tarjetas, formularios|
+
+| Color | Hex | Uso Principal | 
+|:-----:|:---:|:-------------:|
+|Azul Marino| #1C1F2B | Texto principal, logotipo, botones|
+|Beige Claro| #F5F0E6 | Fondo base|
+|Gris Suave| #B3B3B3 | Bordes, textos secundarios|
+|Azul Claro| #3A71C1 | Enlaces, botones secundarios|
+|Amarillo Arena| #FFD479| Llamado a la acción / iconos |
+|Blanco| #FFFFFF|Fondos, tarjetas, formularios|
+
 </div>
 
 <p align="center">
@@ -862,9 +866,11 @@ El objetivo es garantizar una presentación unificada, profesional y alineada co
     - El tono de TravelMatch es cercano, entusiasta y profesional.
 
 <div align="center">    
-    | Estilo de redacción | Tono predominante |
-    |---------------------|-------------------|
-    | 1. Amigable y claro <br> 2. Sin tecnicismos innecesarios <br> 3. Verbos en voz activa <br> 4. Enfocado en beneficios (“Descubre experiencias únicas”, “Reserva en segundos”)| 1. Formal-casual: Respetuoso, pero no rígido. <br> 2. Entusiasta: Inspirador, motivador, acogedor. <br> 3. Directo: Frases cortas y llamadas a la acción claras. |
+
+| Estilo de redacción | Tono predominante |
+|---------------------|-------------------|
+| 1. Amigable y claro <br> 2. Sin tecnicismos innecesarios <br> 3. Verbos en voz activa <br> 4. Enfocado en beneficios (“Descubre experiencias únicas”, “Reserva en segundos”)| 1. Formal-casual: Respetuoso, pero no rígido. <br> 2. Entusiasta: Inspirador, motivador, acogedor. <br> 3. Directo: Frases cortas y llamadas a la acción claras. |
+
 </div>
 
 

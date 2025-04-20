@@ -26,7 +26,7 @@
 
 <div align="center">
 
-| <div style="width:450px">Alumno</div> | <div style="width:150px">Código</div> |
+| <div style="width:500px">Alumno</div> | <div style="width:150px">Código</div> |
 |:-------------------------------------:|:-------------------------------------:|
 |        Aspajo Alvarez, Mathias        |              u202317584               |
 |       Briceño De La Cruz, Farid       |              u20211f211               |
@@ -92,10 +92,10 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
             <img src="assets/evidencias/cap1-branch-commits.png" alt="cap1-branch-commits" width=60% >
         </p>
         <p align="center">
-            <img src="assets/evidencias/" alt="cap2-branch-commits" width=60% >
+            <img src="assets/evidencias/cap2-branch-commits.png" alt="cap2-branch-commits" width=60% >
         </p>
         <p align="center">
-            <img src="assets/evidencias/" alt="cap3-branch-commits" width=60% >
+            <img src="assets/evidencias/cap3-branch-commits.png" alt="cap3-branch-commits" width=60% >
         </p>
         <p align="center">
             <img src="assets/evidencias/" alt="cap4-branch-commits" width=60% >
@@ -203,7 +203,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
     - [5.1.2. Source Code Management](#512-source-code-management)
     - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide-conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services-applications-implementation)
+  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
       - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
@@ -232,8 +232,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo,
 que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| <div style="width:150px">Criterio específico</div> | <div style="width:250px">Acciones Realizadas</div> | <div style="width:250px">Conclusiones</div> |
-|:-------------------:|:-------------------:|:------------:|
+| <div style="width:100px">Criterio específico</div> | <div style="width:250px" align="center">Acciones Realizadas</div> | <div style="width:250px" align="center">Conclusiones</div> |
+|:-------------------:|-------------------|:------------:|
 |Comunica oralmente con efectividad a diferentes rangos de audiencia| Jhon Galvez | Se concluye |
 |Comunica por escrito con efectividad a diferentes rangos de audiencia| Jhon Galvez | Se concluye |
 
@@ -279,7 +279,7 @@ Mi nombre es Mathias Aspajo, tengo 19 años y actualmente me encuentro en el 5to
 - Farid Briceño De La Cruz - u20211f211 (Ingeniería de Software)
 
 <p align="center">
-    <img src="assets/fotos/" alt="foto-farid" width="170px"/>
+    <img src="assets/fotos/faridfoto.jpg" alt="foto-farid" width="170px"/>
 </p>
 
 Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos y me gusta informmarme de las soluciones actuales, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas.
@@ -825,24 +825,32 @@ El objetivo es garantizar una presentación unificada, profesional y alineada co
         - Subtítulo (H2): 24px / 600
         - Texto normal: 16px / 400
         - Nota o ayuda: 12px / 400
+
+<div align="center">    
+
+| Nombre de fuente | Tipografia |
+|:----------------:|:----------:|
+| Nunito Sans | <img src="assets/recursos/nunito-sans-font.png" alt="nunito-sans-font" width=200px/> |
+| Inter | <img src="assets/recursos/inter-font.png" alt="inter-font" width=200px/> |  
     
-        | Nombre de fuente | Tipografia |
-        |:----------------:|:----------:|
-        | Nunito Sans | <img src="assets/recursos/nunito-sans-font.png" alt="nunito-sans-font" width=200px/> |
-        | Inter | <img src="assets/recursos/inter-font.png" alt="inter-font" width=200px/> |        
+</div>      
               
 - _Colors:_
     - La paleta de TravelMatch se basa en contrastes suaves y un color protagonista: azul marino profundo, que transmite confianza y estabilidad. Se acompaña de colores neutros y un acento cálido para llamados a la acción
-    
-    | Color | Hex | Uso Principal | 
-    |:-----:|:---:|:-------------:|
-    |Azul Marino| #1C1F2B | Texto principal, logotipo, botones|
-    |Beige Claro| #F5F0E6 | Fondo base|
-    |Gris Suave| #B3B3B3 | Bordes, textos secundarios|
-    |Azul Claro| #3A71C1 | Enlaces, botones secundarios|
-    |Amarillo Arena| #FFD479| Llamado a la acción / iconos |
-    |Blanco| #FFFFFF|Fondos, tarjetas, formularios|
-    
+
+<div align="center">    
+
+| Color | Hex | Uso Principal | 
+|:-----:|:---:|:-------------:|
+|Azul Marino| #1C1F2B | Texto principal, logotipo, botones|
+|Beige Claro| #F5F0E6 | Fondo base|
+|Gris Suave| #B3B3B3 | Bordes, textos secundarios|
+|Azul Claro| #3A71C1 | Enlaces, botones secundarios|
+|Amarillo Arena| #FFD479| Llamado a la acción / iconos |
+|Blanco| #FFFFFF|Fondos, tarjetas, formularios|
+
+</div>
+
 <p align="center">
     <img src="assets/recursos/system-colors.png"/ width=70%>
 </p>
@@ -856,10 +864,14 @@ El objetivo es garantizar una presentación unificada, profesional y alineada co
 
 - _Tono de comunicación y lenguaje:_
     - El tono de TravelMatch es cercano, entusiasta y profesional.
-    
-    | Estilo de redacción | Tono predominante |
-    |---------------------|-------------------|
-    | 1. Amigable y claro <br> 2. Sin tecnicismos innecesarios <br> 3. Verbos en voz activa <br> 4. Enfocado en beneficios (“Descubre experiencias únicas”, “Reserva en segundos”)| 1. Formal-casual: Respetuoso, pero no rígido. <br> 2. Entusiasta: Inspirador, motivador, acogedor. <br> 3. Directo: Frases cortas y llamadas a la acción claras. |
+
+<div align="center">    
+
+| Estilo de redacción | Tono predominante |
+|---------------------|-------------------|
+| 1. Amigable y claro <br> 2. Sin tecnicismos innecesarios <br> 3. Verbos en voz activa <br> 4. Enfocado en beneficios (“Descubre experiencias únicas”, “Reserva en segundos”)| 1. Formal-casual: Respetuoso, pero no rígido. <br> 2. Entusiasta: Inspirador, motivador, acogedor. <br> 3. Directo: Frases cortas y llamadas a la acción claras. |
+
+</div>
 
 
 #### 4.1.2. Web Style Guidelines
@@ -1126,11 +1138,11 @@ La navegación en TravelMatch está diseñada para ser intuitiva, fluida y centr
 
 - _Landing Page:_  
     La navegación principal está orientada a captar y guiar nuevos visitantes. Se estructura mediante una barra superior fija con los siguientes elementos:  
-    - **Inicio**  
+    - **Logo**  
     - **Cómo Funciona**  
-    - **Para Turistas**  
+    - **Explorar**
     - **Para Agencias**  
-    - **Explorar experiencias**  
+    - **Nosotros**
     - **Iniciar sesión / Registrarse** (con botón destacado)  
 
     Se emplea una navegación jerárquica horizontal con anclas que guían a secciones específicas del mismo sitio (scroll suave), y una estructura de **one-page design** para mantener la continuidad narrativa.  
@@ -1174,9 +1186,60 @@ La navegación en TravelMatch está diseñada para ser intuitiva, fluida y centr
 
 ### 4.3. Landing Page UI Design
 
+El Landing Page de TravelMatch representa la materialización visual de las decisiones tomadas en torno a la arquitectura de información, la identidad de marca y las guías de estilo establecidas previamente.
+
+El diseño del Landing Page ha sido pensado para captar la atención de los visitantes desde el primer momento, comunicar de forma clara el valor diferencial de la plataforma, y facilitar una navegación intuitiva y responsiva hacia los distintos componentes clave del sitio.
+
+Este diseño refleja:
+
+- La jerarquía visual establecida en los Organization Systems, priorizando elementos como el mensaje principal, el buscador de experiencias, y los llamados a la acción (CTAs).
+
+- La coherencia con el Design System de TravelMatch, respetando la paleta cromática corporativa inspirada en su logotipo, el uso tipográfico moderno y legible, y los principios de accesibilidad e inclusión.
+
+- Una arquitectura de información que orienta al usuario de manera fluida, reduciendo la carga cognitiva y facilitando la conversión desde la primera interacción.
+
+- La incorporación de patrones reconocibles en UI/UX para generar confianza, claridad y familiaridad con la experiencia.
+
 #### 4.3.1. Landing Page Wireframe
 
+Los wireframes del Landing Page de TravelMatch definen la estructura base de la interfaz, enfocándose en la distribución de contenido y elementos interactivos antes de aplicar el diseño visual definitivo. Se han diseñado versiones específicas para navegadores de escritorio y navegadores móviles, con el objetivo de garantizar una experiencia consistente, accesible y optimizada para cada tipo de dispositivo.
+Principios Aplicados
+
+- Jerarquía visual clara: Se priorizan los elementos esenciales como el hero section, buscador de experiencias, CTA de registro, y testimonios. Esto facilita la exploración progresiva del contenido por parte del usuario.
+
+- Diseño inclusivo: Las estructuras propuestas contemplan contrastes adecuados, fuentes legibles y navegación intuitiva tanto por clic como por scroll.
+
+- Consistencia estructural: Se respeta la arquitectura de información definida, agrupando secciones por tópicos (e.g., ¿cómo funciona?, beneficios para agencias, beneficios para turistas, etc.).
+
+- Adaptabilidad: Los wireframes aseguran una transición fluida entre vistas de escritorio y móviles mediante una disposición responsiva, donde los elementos se reorganizan verticalmente sin perder prioridad visual.
+
+**Desktop:**
+
+<p align="center">
+    <img src="assets/recursos/landing-page-wireframe-desktop.png" alt="landing-page-wireframe-desktop" width=80%/>
+</p>
+
+**Mobile:**
+
+<p align="center">
+    <img src="assets/recursos/landing-page-wireframe-mobile.png" alt="landing-page-wireframe-mobile" width=20%/>
+</p>
+
 #### 4.3.2. Landing Page Mock-up
+
+Los mock-ups de la Landing Page de TravelMatch representan la traducción visual completa del wireframe, incorporando la identidad visual, la paleta cromática, la tipografía, iconografía y todos los elementos del Design System previamente definido. Estos mock-ups ofrecen una vista precisa de cómo lucirá el producto final en navegadores web de escritorio y dispositivos móviles.
+
+**Desktop:**
+
+<p align="center">
+    <img src="assets/recursos/landing-page-mockup-desktop.png" alt="landing-page-mockup-desktop" width=80%/>
+</p>
+
+**Mobile:**
+
+<p align="center">
+    <img src="assets/recursos/landing-page-mockup-mobile.png" alt="landing-page-mockup-mobile" width=20%/>
+</p>
 
 ### 4.4. Web Applications UX/UI Design
 

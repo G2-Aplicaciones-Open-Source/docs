@@ -729,10 +729,10 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 |US15|Favoritos|Como usuario, quiero guardar actividades interesantes para revisarlas después.|<p>- Scenario 1: Guardar en favoritos<br>  Dado que hago clic en "Guardar", cuando voy a "Mis Favoritos", entonces veo la actividad listada.</p><p>- Scenario 2: Eliminar de favoritos<br>  Dado que elimino un tour de favoritos, cuando actualizo la página, entonces desaparece de la lista.</p>|EP02|
 |US16|Chat con guías|Como usuario, quiero preguntar detalles a los guías antes de reservar para aclarar dudas.|<p>- Scenario 1: Respuesta rápida</p><p>&emsp;Dado que abro el chat, cuando envío una pregunta, entonces recibo respuesta en menos de 10 minutos.</p><p>- Scenario 2: Fuera de horario<br>  Dado que pregunto a las 3 AM, cuando el guía no está disponible, entonces el sistema muestra "Respuesta en 8-12h".</p>|EP02|
 |US17|Mapas interactivos|Como turista, quiero ver la ubicación exacta de los tours para planificar mi ruta.|<p>- Scenario 1: Visualización de ruta<br>  Dado que abro un tour, cuando hago clic en "Ver mapa", entonces se muestra la ruta exacta con puntos de interés.</p><p>- Scenario 2: Sin conexión a internet<br>  Dado que no tengo internet, cuando intento cargar el mapa, entonces el sistema muestra "Active su conexión".</p>|EP02|
-|US18|Chat con guías|Como turista, quiero previsualizar tours con RA para imaginarme la experiencia.|<p>- Scenario 1: Vista RA exitosa<br>  Dado que selecciono "Vista RA", cuando apunto mi cámara, entonces veo un modelo 3D del tour.</p><p>- Scenario 2: Dispositivo no compatible<br>  Dado que mi teléfono no soporta RA, cuando intento acceder, entonces el sistema muestra "Función no disponible".</p>|EP02|
-|US19|Realidad aumentada|Como viajero, quiero generar un itinerario diario automático para optimizar mi tiempo.|<p>- Scenario 1: Itinerario generado<br>  Dado que selecciono actividades, cuando hago clic en "Planificar", entonces recibo una agenda ordenada por horarios.</p><p>- Scenario 2: Actividades incompatibles<br>  Dado que selecciono tours con horarios superpuestos, cuando intento planificar, entonces el sistema muestra "Conflicto de horarios".</p>|EP02|
-|US20|Itinerarios automáticos|Como usuario, quiero dividir el pago en cuotas para gestionar mejor mi presupuesto.|<p>- Scenario 1: Pago fraccionado<br>  Dado que selecciono "Pagar en cuotas", cuando elijo 3 meses, entonces el monto total se divide en partes iguales.</p><p>- Scenario 2: Límite de cuotas excedido<br>  Dado que intento dividir en 12 cuotas, cuando el límite es 6, entonces el sistema muestra "Máximo 6 cuotas permitidas".</p>|EP02|
-|US21|Pago en cuotas|Como agencia, quiero subir nuevos tours con fotos y descripciones para atraer clientes.|<p>- Scenario 1: Publicación exitosa<br>  Dado que completo el formulario, cuando lo envío, entonces el tour aparece tras aprobación en 24h.</p><p>- Scenario 2: Fotos faltantes<br>  Dado que no subo imágenes, cuando intento publicar, entonces el sistema muestra "Agregue al menos 3 fotos".</p>|EP03|
+|US18|Vista previa de tours|Como turista, quiero ver fotos y videos detallados de los tours para evaluar la experiencia antes de reservar.|<p>- Scenario 1: Visualización de multimedia exitosa<br>  Dado que selecciono un tour, cuando hago clic en "Galería", entonces veo al menos 5 fotos HD y 1 video promocional.</p><p>- Scenario 2: Contenido insuficiente<br>  Dado que un tour solo tiene 2 fotos, cuando reviso la galería, entonces el sistema muestra "Contenido en actualización".</p>|EP02|
+|US19|Itinerarios automáticos|Como viajero, quiero generar un itinerario diario automático para optimizar mi tiempo.|<p>- Scenario 1: Itinerario generado<br>  Dado que selecciono actividades, cuando hago clic en "Planificar", entonces recibo una agenda ordenada por horarios.</p><p>- Scenario 2: Actividades incompatibles<br>  Dado que selecciono tours con horarios superpuestos, cuando intento planificar, entonces el sistema muestra "Conflicto de horarios".</p>|EP02|
+|US20|Pago en cuotas|Como usuario, quiero dividir el pago en cuotas para gestionar mejor mi presupuesto.|<p>- Scenario 1: Pago fraccionado<br>  Dado que selecciono "Pagar en cuotas", cuando elijo 3 meses, entonces el monto total se divide en partes iguales.</p><p>- Scenario 2: Límite de cuotas excedido<br>  Dado que intento dividir en 12 cuotas, cuando el límite es 6, entonces el sistema muestra "Máximo 6 cuotas permitidas".</p>|EP02|
+|US21|Subir nuevos tours|Como agencia, quiero subir nuevos tours con fotos y descripciones para atraer clientes.|<p>- Scenario 1: Publicación exitosa<br>  Dado que completo el formulario, cuando lo envío, entonces el tour aparece tras aprobación en 24h.</p><p>- Scenario 2: Fotos faltantes<br>  Dado que no subo imágenes, cuando intento publicar, entonces el sistema muestra "Agregue al menos 3 fotos".</p>|EP03|
 |US22|Calendario en tiempo real|Como agencia, quiero actualizar la disponibilidad para evitar sobre-reservas.|<p>- Scenario 1: Actualización exitosa<br>  Dado que modifico fechas, cuando guardo cambios, entonces los usuarios ven slots actualizados al instante.</p><p>- Scenario 2: Fechas inválidas<br>  Dado que ingreso una fecha pasada, cuando intento guardar, entonces el sistema muestra "Seleccione una fecha futura".</p>|EP03|
 |US23|Analytics|Como agencia, quiero ver métricas de reservas para mejorar mis estrategias.|<p>- Scenario 1: Visualización de datos<br>  Dado que accedo al dashboard, cuando filtro por mes, entonces veo gráficos de rendimiento con porcentajes.</p><p>- Scenario 2: Sin datos disponibles<br>  Dado que no tengo reservas en el mes, cuando reviso analytics, entonces el sistema muestra "No hay datos para mostrar".</p>|EP03|
 |US24|Alertas de reservas|Como agencia, quiero recibir notificaciones de nuevas reservas para prepararme.|<p>- Scenario 1: Notificación inmediata<br>  Dado que hay una reserva nueva, cuando se confirma, entonces recibo un email/app notification con detalles.</p><p>- Scenario 2: Notificaciones silenciadas<br>  Dado que desactivo alertas, cuando hay una reserva, entonces no recibo notificaciones.</p>|EP03|
@@ -756,36 +756,36 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 
 |<a name="_lphm1b3yegrj"></a># Orden|User Story Id|Título|Descripción|Story Points (1 / 2 / 3 / 5 / 8)|
 | :- | :- | :- | :- | :- |
-|1|US01|Gestión de usuarios|Como usuario, quiero gestionar mi perfil y preferencias para personalizar mi experiencia.|3|
-|2|US02|Búsqueda y reserva|Como turista, quiero explorar y reservar actividades fácilmente para planificar mi viaje sin estrés.|2|
-|3|US03|Herramientas para agencias|Como agencia, quiero administrar mis tours y clientes para optimizar mis operaciones.|5|
-|4|US04|Registro básico|Como nuevo usuario, quiero registrarme con un email para acceder a la plataforma.|5|
-|5|US05|Inicio de sesión|Como usuario registrado, quiero iniciar sesión para gestionar mis reservas.|8|
-|6|US06|Perfil corporativo|Como viajero corporativo, quiero vincularme con mi empresa para obtener beneficios exclusivos.|8|
-|7|US07|Preferencias de viaje|Como turista, quiero seleccionar mis intereses para recibir recomendaciones personalizadas.|5|
-|8|US08|Recuperar contraseña|Como usuario, quiero restablecer mi contraseña si la olvido para recuperar el acceso.|3|
-|9|US09|Verificación de identidad|Como usuario premium, quiero verificar mi identidad para desbloquear reservas exclusivas.|3|
-|10|US10|Notificaciones push|Como usuario, quiero recibir alertas sobre ofertas para no perderme promociones.|8|
-|11|US11|Idiomas|Como usuario internacional, quiero cambiar el idioma de la app para entender mejor.|2|
-|12|US12|Perfil público|Como viajero, quiero compartir mis reseñas para ayudar a otros turistas.|5|
-|13|US13|Eliminar cuenta|Como usuario, quiero borrar mi cuenta para proteger mi privacidad.|5|
-|14|US14|Filtros avanzados|Como turista, quiero filtrar actividades por precio y tipo para encontrar opciones relevantes.|2|
-|15|US15|Comparar tours|Como usuario, quiero comparar múltiples tours en una vista para tomar la mejor decisión.|3|
-|16|US16|Reserva flexible|Como turista, quiero cancelar gratis hasta 48h antes para mayor seguridad.|3|
-|17|US17|Reservas grupales|Como viajero corporativo, quiero reservar para mi equipo para simplificar la logística.|8|
-|18|US18|Favoritos|Como usuario, quiero guardar actividades interesantes para revisarlas después.|5|
-|19|US19|Chat con guías|Como usuario, quiero preguntar detalles a los guías antes de reservar para aclarar dudas.|5|
-|20|US20|Mapas interactivos|Como turista, quiero ver la ubicación exacta de los tours para planificar mi ruta.|3|
-|21|US21|Chat con guías|Como turista, quiero previsualizar tours con RA para imaginarme la experiencia.|5|
-|22|US22|Realidad aumentada|Como viajero, quiero generar un itinerario diario automático para optimizar mi tiempo.|3|
-|23|US23|Itinerarios automáticos|Como usuario, quiero dividir el pago en cuotas para gestionar mejor mi presupuesto.|5|
-|24|US24|Pago en cuotas|Como agencia, quiero subir nuevos tours con fotos y descripciones para atraer clientes.|2|
-|25|US25|Calendario en tiempo real|Como agencia, quiero actualizar la disponibilidad para evitar sobre-reservas.|2|
-|26|US26|Analytics|Como agencia, quiero ver métricas de reservas para mejorar mis estrategias.|5|
-|27|US27|Alertas de reservas|Como agencia, quiero recibir notificaciones de nuevas reservas para prepararme.|3|
-|28|US28|Crear promociones|Como agencia, quiero ofrecer descuentos en temporada baja para atraer más clientes.|3|
-|29|US29|Gestión de guías|Como agencia, quiero asignar guías a tours específicos para organizar mi equipo.|5|
-|30|US30|Encuestas a clientes|Como agencia, quiero enviar encuestas post-viaje para medir la satisfacción.|3|
+|1|US01|Registro básico|Como nuevo usuario, quiero registrarme con un email para acceder a la plataforma.|3|
+|2|US02|Inicio de sesión|Como usuario registrado, quiero iniciar sesión para gestionar mis reservas.|2|
+|3|US03|Perfil corporativo|Como viajero corporativo, quiero vincularme con mi empresa para obtener beneficios exclusivos.|5|
+|4|US04|Preferencias de viaje|Como turista, quiero seleccionar mis intereses para recibir recomendaciones personalizadas.|5|
+|5|US05|Recuperar contraseña|Como usuario, quiero restablecer mi contraseña si la olvido para recuperar el acceso.|8|
+|6|US06|Verificación de identidad|Como usuario premium, quiero verificar mi identidad para desbloquear reservas exclusivas.|8|
+|7|US07|Notificaciones push|Como usuario, quiero recibir alertas sobre ofertas para no perderme promociones.|5|
+|8|US08|Idiomas|Como usuario internacional, quiero cambiar el idioma de la app para entender mejor.|3|
+|9|US09|Perfil público|Como viajero, quiero compartir mis reseñas para ayudar a otros turistas.|3|
+|10|US10|Eliminar cuenta|Como usuario, quiero borrar mi cuenta para proteger mi privacidad.|8|
+|11|US11|Filtros avanzados|Como turista, quiero filtrar actividades por precio y tipo para encontrar opciones relevantes.|2|
+|12|US12|Comparar tours|Como usuario, quiero comparar múltiples tours en una vista para tomar la mejor decisión.|5|
+|13|US13|Reserva flexible|Como turista, quiero cancelar gratis hasta 48h antes para mayor seguridad.|5|
+|14|US14|Reservas grupales|Como viajero corporativo, quiero reservar para mi equipo para simplificar la logística.|2|
+|15|US15|Favoritos|Como usuario, quiero guardar actividades interesantes para revisarlas después.|3|
+|16|US16|Chat con guías|Como usuario, quiero preguntar detalles a los guías antes de reservar para aclarar dudas.|3|
+|17|US17|Mapas interactivos|Como turista, quiero ver la ubicación exacta de los tours para planificar mi ruta.|8|
+|18|US18|Vista previa de tours|Como turista, quiero ver fotos y videos detallados de los tours para evaluar la experiencia antes de reservar.|5|
+|19|US19|Itinerarios automáticos|Como viajero, quiero generar un itinerario diario automático para optimizar mi tiempo.|5|
+|20|US20|Pago en cuotas|Como usuario, quiero dividir el pago en cuotas para gestionar mejor mi presupuesto.|3|
+|21|US21|Subir nuevos tours|Como agencia, quiero subir nuevos tours con fotos y descripciones para atraer clientes.|5|
+|22|US22|Calendario en tiempo real|Como agencia, quiero actualizar la disponibilidad para evitar sobre-reservas.|3|
+|23|US23|Analytics|Como agencia, quiero ver métricas de reservas para mejorar mis estrategias.|5|
+|24|US24|Alertas de reservas|Como agencia, quiero recibir notificaciones de nuevas reservas para prepararme.|2|
+|25|US25|Crear promociones|Como agencia, quiero ofrecer descuentos en temporada baja para atraer más clientes.|2|
+|26|US26|Gestión de guías|Como agencia, quiero asignar guías a tours específicos para organizar mi equipo.|5|
+|27|US27|Encuestas a clientes|Como agencia, quiero enviar encuestas post-viaje para medir la satisfacción.|3|
+|28|US28|Verificación de agencia|Como agencia, quiero verificar mi negocio para ganar confianza de los clientes.|3|
+|29|US29|Soporte prioritario|Como agencia, quiero acceder a soporte rápido para resolver problemas urgentes.|5|
+|30|US30|Integración con redes|Como agencia, quiero compartir mis tours en redes sociales para aumentar mi visibilidad.|3|
 
 <hr>
 

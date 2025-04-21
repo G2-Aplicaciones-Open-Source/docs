@@ -1277,15 +1277,254 @@ Los mock-ups de la Landing Page de TravelMatch representan la traducción visual
 
 ### 5.1. Software Configuration Management.
 
-Modificacion de ejemplo
+Para asegurar la consistencia, trazabilidad y calidad del producto digital TravelMatch durante todo su ciclo de vida, el equipo ha definido una estrategia de gestión de configuración de software. Esta estrategia cubre la configuración del entorno de desarrollo, la gestión del código fuente, las convenciones de codificación y la configuración del despliegue de los productos. El enfoque está alineado con buenas prácticas de ingeniería de software y metodologías ágiles.
 
 #### 5.1.1. Software Development Environment Configuration.
 
+Para facilitar la colaboración del equipo en todas las actividades del ciclo de vida de desarrollo de TravelMatch, se ha definido un entorno de desarrollo común. Este entorno está compuesto por herramientas especializadas para la gestión del proyecto, diseño UX/UI, desarrollo, documentación y despliegue. La selección de estas herramientas se basa en criterios de eficiencia, compatibilidad con tecnologías utilizadas, y alineación con prácticas recomendadas de la industria.
+
+| Categoría | Herramienta | Propósito | Tipo de acceso/enlace |
+|:----:|:----:|:----:|:----:|
+| Project Management | Trello | Gestión del backlog y tareas del equipo mediante tableros Kanban. | [https://trello.com](https://trello.com) |
+| Requirements Management | UXPressia | Creación y documentación de User Personas y customer journeys. | [https://uxpressia.com](https://uxpressia.com) |
+| Product UX/UI Design | Figma | Creación de wireframes y mockups de la interfaz de usuario. | [https://figma.com](https://figma.com) |
+| Modelado de Software | Visual Paradigm | Modelado de arquitectura de software: diagramas de contexto, Bounded Contexts, etc. | [https://visual-paradigm.com](https://visual-paradigm.com) |
+| Frontend Development | Visual Studio Code | Editor de código para el desarrollo del Landing Page y Frontend (Vue). | [https://code.visualstudio.com](https://code.visualstudio.com) |
+| Backend Development | IntelliJ IDEA | Entorno de desarrollo para el backend en Java con Spring Boot. | [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/) |
+| Version Control | GitHub | Repositorio de control de versiones para todos los productos digitales. | [https://github.com](https://github.com) |
+| Software Documentation | Markdown | Redacción de documentación técnica del proyecto. | Compatible con GitHub / editores de texto |
+
 #### 5.1.2. Source Code Management
+
+El equipo de TravelMatch utiliza Git como sistema de control de versiones y GitHub como plataforma de alojamiento y colaboración en el desarrollo de los distintos productos digitales que conforman la solución. Esta estrategia garantiza un seguimiento efectivo de los cambios realizados en el código fuente, la colaboración entre miembros del equipo, y la trazabilidad de las decisiones tomadas durante el ciclo de desarrollo.
+
+Los repositorios utilizados para el desarrollo de código fuente son los siguientes:
+
+<div align="center">
+
+| Producto Digital | URL del Repositorio | 
+|:----------------:|:-------------------:|
+| Landing Page | [https://github.com/G2-Aplicaciones-Open-Source/landing-page](https://github.com/G2-Aplicaciones-Open-Source/landing-page) | 
+| Web Services (Backend API) | [https://github.com/G2-Aplicaciones-Open-Source/backend-java](https://github.com/G2-Aplicaciones-Open-Source/backend-java)|
+| Frontend Web Application | [https://github.com/G2-Aplicaciones-Open-Source/frontend-angular](https://github.com/G2-Aplicaciones-Open-Source/frontend-angular) |
+
+</div>
+
+**Modelos de Ramificación**
+
+El equipo ha optado por utilizar distintos modelos de ramificación según el tipo de repositorio, con el fin de adecuarse a las necesidades específicas de colaboración y control de versiones:
+
+- **Repositorio de Documentación General del Proyecto (docs):**
+
+    Para el repositorio de documentación (README.md y secciones del informe final), se ha adoptado GitHub Flow. Este modelo de trabajo, orientado a la integración continua y simplicidad, ha permitido:
+
+    - Crear ramas individuales por capítulo y responsable.
+    - Realizar pull requests para revisión antes de integrar contenido a la rama principal.
+    - Discutir mejoras u observaciones mediante comentarios en los commits y PRs.
+    - Mantener una integración progresiva, ordenada y sin conflictos.
+    - **Convención de nombres de ramas:**  `cap[numero]` (por ejemplo, `cap4`), lo que facilita la identificación de la sección correspondiente.  
+    - **Mensajes de commits:**  Se sigue la especificación de **Conventional Commits**, lo que asegura claridad en el historial y facilita la generación automática de changelogs.
+
+- **Repositorios con Código Fuente (Landing Page, Frontend, Backend):**
+
+    Para estos repositorios se implementará GitFlow, un modelo de ramificación más estructurado, el cual permite separar de manera clara las etapas de desarrollo, pruebas, liberación y mantenimiento. La elección de GitFlow responde a que GitHub Flow depende en gran medida de pruebas automatizadas para validar los cambios antes de integrarlos a la rama principal, y como en este curso no se contempla la integración continua ni un pipeline de testing automatizado, GitFlow resulta más adecuado para mantener la estabilidad del código sin depender de estas herramientas externas.
+
+    **La estructura de ramas en GitFlow será:**
+
+    - _Main_: Contiene el código en estado estable y listo para producción.
+    - _Develop_: Rama de integración para desarrollo activo.
+    - _Feature branches_: Para nuevas funcionalidades.
+        - Convención: `feature/nombre-descriptivo`  
+        - Ejemplo: `feature/US007-business-profiles`
+    - _Release branches_: Para preparar versiones antes de pasar a producción.
+        - Convención: `release/X.Y.Z`  
+        - Ejemplo: `release/1.0.0`
+    - _Hotfix branches_: Para correcciones urgentes.
+        - Convención: `hotfix/X.Y.Z`  
+        - Ejemplo: `hotfix/1.0.1`        
+
+    **Versionado Semántico (Semantic Versioning)**
+
+    - Se utiliza Semantic Versioning 2.0.0, con el esquema MAJOR.MINOR.PATCH:
+
+        - **MAJOR:** Cambios incompatibles.
+        - **MINOR:** Funcionalidades nuevas retrocompatibles.
+        - **PATCH:** Correcciones retrocompatibles.
+
+        **Ejemplos de versiones:**  
+        `v1.0.0`, `v1.1.0`, `v1.1.1`.
+    
+    **Convenciones para Commits**
+
+    El equipo sigue el estándar de Conventional Commits para los mensajes de commits, lo que permite claridad en el historial y facilita la generación automática de changelogs:
+
+    `<type>[optional scope]: <description>`
+
+    Tipos comunes:
+
+    - `feat`: Nueva funcionalidad.
+    - `fix`: Corrección de errores.
+    - `docs`: Cambios en documentación.
+    - `style`: Cambios de formato sin impacto funcional.
+    - `refactor`: Reestructuración del código.
+    - `test`: Relacionados con pruebas.
+    - `chore`: Tareas de mantenimiento.
+
+    Ejemplo:
+    ```plaintext
+    feat(auth): implement login via OAuth
+    fix(api): handle null user tokens
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
+El equipo ha adoptado guías de estilo y convenciones de codificación para cada uno de los lenguajes utilizados. Estas convenciones permiten que todos los miembros del equipo desarrollen bajo un estándar común y que el código sea comprensible tanto para desarrolladores actuales como futuros.
+
+**Nomenclatura general:**
+
+- Todos los identificadores, comentarios y documentación del código se escribirán en inglés.
+- Se utilizará el sistema de control de calidad en revisiones por pull request para verificar que las convenciones se cumplan antes de fusionar el código a la rama `develop`.
+
+---
+
+**Backend: Java con Spring Boot**
+
+Para el desarrollo de los servicios web de TravelMatch, se utilizará **Java 17** junto con el framework **Spring Boot**. Se adoptan las siguientes convenciones:
+
+- **Guía de estilo base:**  
+  [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
+- **Estructura de paquetes basada en Domain-Driven Design (DDD):**  
+  - `com.travelmatch.domain`  
+  - `com.travelmatch.application`  
+  - `com.travelmatch.infrastructure`  
+  - `com.travelmatch.api`  
+
+- **Nomenclatura:**  
+  - Clases nombradas en **CamelCase**:  
+    Ejemplo: `TravelExperienceService`, `UserProfileRepository`  
+  - Métodos y variables en **lowerCamelCase**:  
+    Ejemplo: `findAllExperiences()`, `userEmail`  
+
+- **Documentación:**  
+  - Uso obligatorio de **Javadoc** para describir métodos y clases públicas.
+
+- **Separación lógica del código:**  
+  - Cada capa debe tener responsabilidades claras:  
+    - Controladores (`@RestController`)  
+    - Servicios (`@Service`)  
+    - Repositorios (`@Repository`)  
+    - Modelos  
+
+- **Anotaciones de Spring:**  
+  - Uso de anotaciones como `@RestController`, `@Service`, `@Repository` para reforzar la estructura y mantener la claridad del código.
+
+---
+
+**Frontend: Angular Framework (TypeScript, HTML, CSS)**
+
+Para el desarrollo del frontend, el equipo utilizará **Angular 17**, basado en **TypeScript**, junto con **HTML** y **CSS**. Las convenciones son:
+
+- **Guías de estilo base:**  
+  - [Angular Style Guide (Oficial)](https://angular.io/guide/styleguide)  
+  - [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+
+- **Estructura modular y escalable:**  
+  - Cada componente, servicio o módulo tendrá su propio directorio.
+
+- **Nomenclatura de archivos:**  
+  - Archivos nombrados con **kebab-case**:  
+    - Componentes: `featured-experience.component.ts`  
+    - Servicios: `auth.service.ts`  
+    - HTML y CSS asociados seguirán el mismo nombre base.
+
+- **Nomenclatura de clases y componentes:**  
+  - Componentes y clases en **UpperCamelCase**:  
+    Ejemplo: `FeaturedExperienceComponent`, `AuthService`, `UserModel`  
+  - Variables, métodos y propiedades en **lowerCamelCase**.
+
+- **Modelos de datos:**  
+  - Uso de **interfaces** para definir modelos de datos (e.g., `User`, `Experience`, `Agency`) y asegurar tipado fuerte.
+
+- **HTML:**  
+  - Buenas prácticas semánticas y accesibles:  
+    Uso de etiquetas apropiadas (`<main>`, `<section>`, `<button>`, etc.).
+
+- **CSS:**  
+  - Convenciones basadas en el [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html):  
+    - Nombres de clase descriptivos en inglés:  
+      Ejemplo: `.experience-card`, `.agency-header`  
+    - Agrupación por tipo de selector.  
+    - Estilos reutilizables mediante clases utilitarias.
+
 #### 5.1.4. Software Deployment Configuration
+
+La configuración de despliegue para TravelMatch contempla mecanismos organizados para publicar correctamente cada uno de los productos digitales del sistema: **Landing Page**, **Web Services (Backend)** y **Frontend Web Application**. Esta configuración garantiza que el equipo pueda replicar y mantener el proceso de despliegue con consistencia y trazabilidad.
+
+---
+
+**Despliegue del Landing Page**
+
+- **Tecnología:**  
+  HTML5, CSS3, JavaScript (Vanilla), diseño responsivo.
+
+- **Repositorio GitHub:**  
+  [https://github.com/G2-Aplicaciones-Open-Source/landing-page](https://github.com/G2-Aplicaciones-Open-Source/landing-page)
+
+- **Plataforma de despliegue:**  
+  GitHub Pages
+
+- **Método de despliegue:**  
+  - La rama `main` contiene la versión estable y publicada del sitio.  
+  - El contenido del directorio raíz se mantiene como fuente para GitHub Pages.  
+  - Los cambios aprobados en `develop` son fusionados a `main` mediante pull request.  
+  - GitHub Pages actualiza automáticamente la publicación al detectar cambios en `main`.
+
+---
+
+**Despliegue del Backend (Web Services)**
+
+- **Tecnología:**  
+  Java 17 + Spring Boot.
+
+- **Repositorio GitHub:**  
+  [https://github.com/G2-Aplicaciones-Open-Source/backend-java](https://github.com/G2-Aplicaciones-Open-Source/backend-java)
+
+- **Plataforma de despliegue:**  
+  Render o Railway (por definir).
+
+- **Método de despliegue:**  
+  - El backend se empaqueta como un archivo `.jar` con Gradle o Maven.  
+  - Se configura un pipeline de despliegue automático o manual desde el repositorio hacia el servicio en la nube.  
+  - Las variables de entorno (como credenciales de base de datos) se almacenan de forma segura en la plataforma de hosting.  
+  - El servicio se expone mediante una URL pública que el frontend puede consumir vía HTTP/REST.
+
+---
+
+**Despliegue del Frontend Web Application**
+
+- **Tecnología:**  
+  Angular 17 (TypeScript, HTML, SCSS/CSS).
+
+- **Repositorio GitHub:**  
+  [https://github.com/G2-Aplicaciones-Open-Source/frontend-angular](https://github.com/G2-Aplicaciones-Open-Source/frontend-angular) 
+
+- **Plataforma de despliegue:**  
+  Vercel o Netlify (por definir).
+
+- **Método de despliegue:**  
+  - Angular se compila con `ng build --prod` para generar los archivos estáticos de producción.  
+  - La rama `main` sirve como fuente para el despliegue.  
+  - La plataforma detecta cambios en `main` y publica automáticamente la nueva versión del frontend.  
+  - El archivo `environment.ts` de producción incluirá la URL pública del backend para permitir integración total.
+
+---
+
+**Consideraciones Finales**
+
+- Se documentará el procedimiento de despliegue paso a paso en la wiki del repositorio principal.  
+- Los entornos de desarrollo y producción estarán claramente separados mediante archivos de configuración.  
+- Se establecerán pruebas manuales básicas post-despliegue para verificar la disponibilidad y funcionalidad de los servicios.  
+- Si el tiempo lo permite, se evaluará la incorporación de **GitHub Actions** para automatizar los flujos de despliegue continuo (CI/CD).
 
 ### 5.2. Landing Page, Services & Applications Implementation
 

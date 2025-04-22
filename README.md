@@ -579,7 +579,189 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 
 #### 2.2.2. Registro de entrevistas
 
+<!-- Segmento objetivo 1: AGENCIAS -->
+
+- **Entrevista 1:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-maria.png" alt="entrevista-maria" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Maria Rodriguez Benites |
+|----|-----|
+|Edad|44|
+|Residencia|Lima|
+|Enlace de la entrevista| [https://youtu.be/hdzxGndELyA](https://youtu.be/hdzxGndELyA)|
+
+</div>
+
+_Resumen:_ La entrevistada menciona que en su agencia utilizan principalmente redes sociales (Facebook, Instagram, TikTok) y plataformas como Google Ads y TripAdvisor para promocionar paquetes turísticos, lo cual ha sido efectivo para atraer turistas. Ademas, menciona que la mayoría de sus reservas proviene de canales digitales, pero enfrentan retos como la sincronización en tiempo real de la disponibilidad de los paquetes, especialmente en temporadas altas como verano y feriados. Considera que si bien las herramientas tecnológicas actuales cumplen con lo básico, desea soluciones más integradas para gestionar reservas, pagos y marketing. Valora funcionalidades como disponibilidad en tiempo real, opciones de pago flexibles y un buen soporte técnico. Por ultimo, se encuentra dispuesta a pagar una comisión razonable por cada reserva si la plataforma ofrece un buen retorno en visibilidad y eficiencia.
+
+---
+
+- **Entrevista 2:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-tony.png" alt="entrevista-tony" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Tony Blades Sarmiento |
+|----|-----|
+|Edad|28|
+|Residencia|Lima|
+|Enlace de la entrevista| [https://youtu.be/zkip_T6onFg](https://youtu.be/zkip_T6onFg)|
+
+</div>
+
+_Resumen:_ El entrevistado comenta que utilizan redes sociales como Facebook, Instagram y WhatsApp. También disponen de una página web con optimizaciones limitadas para sus necesidades. Si bien considera útiles estas herramientas, no las percibe como eficientes. Además, señala que uno de los principales desafíos que enfrenta es la confirmación de pagos y la falta de coordinación cuando los clientes dudan en concretar una compra. Asimismo, menciona que le gustaría contar con una plataforma intuitiva que integre funcionalidades de pago, mensajería y análisis de datos, facilitando así la conexión con sus clientes. Finalmente, expresa su disposición a pagar una suscripción para obtener beneficios durante las temporadas de mayor demanda.
+
+---
+
+**Entrevista 3:**
+
+<p align="center">
+    <img src="assets/evidencias/" alt="entrevista-" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | xxxxx |
+|----|-----|
+|Edad|xx|
+|Residencia|xxxxx|
+|Enlace de la entrevista| [cambia el link](https://youtu.be/EetEBccMXDg)|
+
+</div>
+
+---
+
+<!-- Segmento objetivo 2: TURISTAS NACIONALES E INTERNACIONALES -->
+
+**Entrevista 4:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-adrian.png" alt="entrevista-adrian" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Adrian Yañez Mendez |
+|----|-----|
+|Edad|20|
+|Residencia|Lima|
+|Enlace de la entrevista| [https://youtu.be/EetEBccMXDg](https://youtu.be/EetEBccMXDg)|
+
+</div>
+
+---
+
+**Entrevista 5:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-sebastian.png" alt="entrevista-sebastian" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Sebastian Arevalo Torres |
+|----|-----|
+|Edad|20|
+|Residencia|Chile|
+|Enlace de la entrevista| [https://youtu.be/3z10bH6wOBY](https://youtu.be/3z10bH6wOBY)|
+
+</div>
+
+---
+
+**Entrevista 6:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-diego.png" alt="entrevista-diego" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Diego Santiago Lima |
+|----|-----|
+|Edad|21|
+|Residencia|Arequipa|
+|Enlace de la entrevista| [https://youtu.be/CLrBogoQrVM](https://youtu.be/CLrBogoQrVM)|
+
+</div>
+
+---
+
+<!-- Segmento objetivo 3: TURISTAS CORPORATIVOS -->
+
+**Entrevista 7:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-cesar.png" alt="entrevista-cesar" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Cesar Vasquez Lopez |
+|----|-----|
+|Edad|55|
+|Residencia|Lima|
+|Enlace de la entrevista| [https://youtu.be/AeP60c6hXrs](https://youtu.be/AeP60c6hXrs)|
+
+</div>
+
+_Resumen:_ El entrevistado, quien por su trabajo viaja con frecuencia a Paracas, Nazca, Chincha e Ica, tiene interés en visitar atractivos turísticos como las Líneas de Nazca, las Islas Ballestas y la Huacachina en su tiempo libre. Para él, la puntualidad del servicio es primordial en una plataforma de gestión de paquetes turísticos. Actualmente, utiliza WhatsApp y Google Maps para organizar sus itinerarios laborales, pero le resulta difícil encontrar tiempo libre. Por ello, valoraría una aplicación que se adapte a sus horarios personales y laborales, brindándole la oportunidad de realizar visitas turísticas. Finalmente, considera crucial la recomendación de otros clientes al elegir una agencia de viajes.
+
+---
+
+**Entrevista 8:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-david.png" alt="entrevista-david" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | David Perez Garcia |
+|----|-----|
+|Edad| 25 |
+|Residencia|Lima|
+|Enlace de la entrevista| [cambiar link](https://youtu.be/3z10bH6wOBY)|
+
+</div>
+
+---
+
+**Entrevista 9:**
+
+<p align="center">
+    <img src="assets/evidencias/" alt="entrevista-" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | xxxxx |
+|----|-----|
+|Edad|xx|
+|Residencia|xxxxx|
+|Enlace de la entrevista| [cambiar link](https://youtu.be/3z10bH6wOBY)|
+
+</div>
+
 #### 2.2.3. Análisis de entrevistas
+
+- **Segmento objetivo 1 - Dueños de agencia de viajes**
+    Para este segmento
+
+- **Segmento objetivo 2 - Turistas nacionales e internacionales**
+    Para este segmento
+
+- **Segmento objetivo 3 - Turistas corporativos**
+    Para este segmento
+
 
 ### 2.3. Needfinding
 

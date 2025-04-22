@@ -85,7 +85,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
         </p>
         - Creación de ramas por cada capítulo:
         <p align="center">
-            <img src="assets/evidencias/" alt="repo-branches" width=60% >
+            <img src="assets/evidencias/repo-branches.png" alt="repo-branches" width=60% >
         </p>
         - Commits realizados en las ramas individuales:       
         <p align="center">
@@ -102,11 +102,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
         </p>
         <p align="center">
             <img src="assets/evidencias/" alt="cap5-branch-commits" width=60% >
-        </p>
-        - Pull Requests y merges a la rama principal (master):
-        <p align="center">
-            <img src="assets/evidencias/" alt="master-merges" width=60% >
-        </p>
+        </p>        
         - Analítica del repositorio con participación de todos los miembros:
         <p align="center">
             <img src="assets/evidencias/repo-members.png" alt="repo-analytics" width=60% >
@@ -232,10 +228,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo,
 que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| <div style="width:100px">Criterio específico</div> | <div style="width:250px" align="center">Acciones Realizadas</div> | <div style="width:250px" align="center">Conclusiones</div> |
-|:-------------------:|-------------------|:------------:|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia| Jhon Galvez | Se concluye |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia| Jhon Galvez | Se concluye |
+| <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
+|:-------------------:|-------------------|------------|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. Adicionalmente, realice entrevistas para dos segmentos objetivos <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 1 y el Landing Page UI Design. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
 
 <hr>
 

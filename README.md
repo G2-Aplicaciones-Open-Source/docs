@@ -230,8 +230,8 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 | <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
 |:-------------------:|-------------------|------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. Adicionalmente, realice entrevistas para dos segmentos objetivos <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 1 y el Landing Page UI Design. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, participé activamente en la revisión retroactiva de los avances de mis compañeros. También apoyé en la preparación del material de presentación para nuestras reuniones internas.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. Adicionalmente, realice entrevistas para dos segmentos objetivos <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 2 y 3.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 1 y el Landing Page UI Design. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
 
 <hr>
 
@@ -425,7 +425,7 @@ del turismo personalizado en la plataforma.
 
 <hr>
 
-## Capítulo II: Requirements Elicitation & Analysis
+## Capítulo II: Requirementsgit Elicitation & Analysis
 
 ### 2.1. Competidores
 
@@ -921,10 +921,12 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 |US29|Soporte prioritario|Como agencia, quiero acceder a soporte rápido para resolver problemas urgentes.|<p>- Scenario 1: Respuesta inmediata<br>  Dado que contacto a soporte, cuando envío mi consulta, entonces recibo respuesta en menos de 5 minutos.</p><p>- Scenario 2: Consulta no urgente</p><p>&emsp;Dado que pregunto por mejoras, cuando no marco "Urgente", entonces recibo respuesta en 24h.</p>|EP03|
 |US30|Integración con redes|Como agencia, quiero compartir mis tours en redes sociales para aumentar mi visibilidad.|<p>- Scenario 1: Publicación automática</p><p>&emsp;Dado que hago clic en "Compartir", cuando elijo Instagram, entonces se publica con fotos y descripción.</p><p>- Scenario 2: Red no conectada<br>  Dado que no vincule mi Facebook, cuando intento compartir, entonces el sistema muestra "Conecte su cuenta primero".</p>|EP03|
 |US31|Navegación por el landing page|Como usuario, quiero navegar fácilmente por el landing page para acceder a todas las secciones principales.|<p>- Scenario 1: Navegación exitosa</p><p>&emsp;Dado que estoy en la página principal, cuando hago clic en cualquier item del menú, entonces soy redirigido a la sección correspondiente.</p><p>- Scenario 2: Menú desplegable en móvil<br>  Dado que accedo desde un celular, cuando toco el ícono de hamburguesa, entonces el menú se despliega correctamente.</p>|EP01|
-|US32|Ver información del startup|Como usuario interesado, quiero conocer al equipo de Finzar para entender quiénes están detrás del proyecto.|<p>- Scenario 1: Visualización de perfiles</p><p>&emsp;Dado que voy a "Nuestro equipo", cuando hago scroll, entonces veo fotos, nombres y roles de cada miembro.</p><p>- Scenario 2: Información incompleta<br>  Dado que un miembro no tiene foto, cuando veo su perfil, entonces muestra un avatar por defecto.</p>|EP01|
+|US32|Ver información del startup|Como usuario interesado, quiero conocer al equipo de Finzar para entender quiénes están detrás del proyecto.|<p>- Scenario 1: Visualización de perfiles</p><p>&emsp;Dado que voy a "Nuestro equipo", cuando hago scroll, entonces veo los nombres de cada miembro.</p><p>- Scenario 2: Información incompleta<br>  Dado que un miembro no tiene foto, cuando veo su perfil, entonces muestra un avatar por defecto.</p>|EP01|
 |US33|Conocer la misión de la startup|Como potencial cliente, quiero entender la misión y valores de Finzar para evaluar su alineación con mis necesidades.|<p>- Scenario 1: Lectura de valores</p><p>&emsp;Dado que accedo a "Sobre nosotros", cuando leo la sección de misión, entonces encuentro al menos 3 valores clave.</p><p>- Scenario 2: Versión resumida<br>  Dado que estoy en móvil, cuando veo esta sección, entonces muestra un resumen de 100 caracteres.</p>|EP01|
-|US34|Contactar al equipo de soporte|Como usuario con dudas, quiero enviar un mensaje al soporte para resolver mis inquietudes.|<p>- Scenario 1: Envío exitoso</p><p>&emsp;Dado que completo el formulario, cuando hago clic en "Enviar", entonces recibo un email de confirmación.</p><p>- Scenario 2: Campos obligatorios<br>  Dado que dejo el email vacío, cuando intento enviar, entonces el sistema muestra "Campo requerido".</p>|EP01|
-|US35|Visualización responsive|Como usuario móvil, quiero ver la página correctamente adaptada a mi pantalla para una experiencia óptima.|<p>- Scenario 1: Ajuste automático</p><p>&emsp;Cuando que accedo desde un dispositivo móvil, cuando giro la pantalla, entonces el contenido se reordena correctamente.</p><p>- Scenario 2: Menú adaptado<br>  Dado que uso una tablet, cuando navego, entonces los botones tienen tamaño táctil adecuado.</p>|EP01|
+|US34|Contactar al equipo de soporte (Versión usuario)|Como usuario con dudas, quiero enviar un mensaje al soporte para resolver mis inquietudes.|<p>- Scenario 1: Envío exitoso</p><p>&emsp;Dado que completo el formulario, cuando hago clic en "Enviar", entonces recibo un email de confirmación.</p><p>- Scenario 2: Campos obligatorios<br>  Dado que dejo el email vacío, cuando intento enviar, entonces el sistema muestra "Campo requerido".</p>|EP01|
+|US35|Visualización responsive|Como usuario móvil, quiero ver la página correctamente adaptada a mi pantalla para una experiencia óptima.|<p>- Scenario 1: Ajuste automático</p><p>&emsp;Dado que accedo desde un dispositivo móvil, cuando giro la pantalla, entonces el contenido se reordena correctamente.</p><p>- Scenario 2: Menú adaptado<br>  Dado que uso una tablet, cuando navego, entonces los botones tienen tamaño táctil adecuado.</p>|EP01|
+|US36|Contactar al equipo de soporte (Versión agencia)|Como agencia asociada, quiero contactar al soporte técnico especializado para resolver problemas operativos urgentes.|<p>- Scenario 1: Solicitud prioritaria</p><p>&emsp;Dado que selecciono "Problema operativo", cuando envío mi consulta marcando "Urgente", entonces recibo respuesta en menos de 15 minutos.</p><p>- Scenario 2: Consulta sobre API<br>  Dado que tengo dudas sobre integración, cuando adjunto capturas de error, entonces el soporte me envía documentación técnica complementaria.</p>|EP03|
+|US37|Modelo de Monetización|Como agencia turística, quiero entender claramente cómo generaré ingresos mediante la plataforma para planificar mi estrategia.|<p>- Scenario 1: Visualización de comisiones</p><p>&emsp;Dado que accedo a "Para Agencias", cuando reviso la sección monetización, entonces veo una calculadora interactiva de comisiones por reserva.</p><p>- Scenario 2: Beneficios premium<br>  Dado que soy agencia verificada, cuando consulto planes de suscripción, entonces el sistema muestra comparativas de features y costos.</p>|EP03|
 #
 
 ### 3.3. Impact Mapping
@@ -972,8 +974,10 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 |31|US31|Navegación por el landing page|Como usuario, quiero navegar fácilmente por el landing page para acceder a todas las secciones principales.|3|
 |32|US32|Ver Información del Startup|Como usuario interesado, quiero conocer al equipo de Finzar para entender quiénes están detrás del proyecto.|2|
 |33|US33|Conocer la misión de la startup|Como potencial cliente, quiero entender la misión y valores de Finzar para evaluar su alineación con mis necesidades.|1|
-|34|US34|Contactar al equipo de soporte|Como usuario con dudas, quiero enviar un mensaje al soporte para resolver mis inquietudes.|5|
+|34|US34|Contactar al equipo de soporte (Versión usuario)|Como usuario con dudas, quiero enviar un mensaje al soporte para resolver mis inquietudes.|5|
 |35|US35|Visualización responsive|Como usuario móvil, quiero ver la página correctamente adaptada a mi pantalla para una experiencia óptima.git s|8|
+|36|US36|Contactar al equipo de soporte (Versión agencia)|Como agencia asociada, quiero contactar al soporte técnico especializado para resolver problemas operativos urgentes.git s|5|
+|37|US37|Modelo de monetización|Como agencia turística, quiero entender claramente cómo generaré ingresos mediante la plataforma para planificar mi estrategia.git s|3|
 
 <hr>
 
@@ -1465,9 +1469,101 @@ Los mock-ups de la Landing Page de TravelMatch representan la traducción visual
 
 ### 5.1. Software Configuration Management.
 
+Para asegurar la consistencia, trazabilidad y calidad del producto digital TravelMatch durante todo su ciclo de vida, el equipo ha definido una estrategia de gestión de configuración de software. Esta estrategia cubre la configuración del entorno de desarrollo, la gestión del código fuente, las convenciones de codificación y la configuración del despliegue de los productos. El enfoque está alineado con buenas prácticas de ingeniería de software y metodologías ágiles.
+
 #### 5.1.1. Software Development Environment Configuration.
 
+| Categoría | Herramienta | Propósito | Tipo de acceso/enlace |
+|:----:|:----:|:----:|:----:|
+| Project Management | Trello | Gestión del backlog y tareas del equipo mediante tableros Kanban. | https://trello.com |
+| Requirements Management | UXPressia | Creación y documentación de User Personas y customer journeys. | https://uxpressia.com |
+| Product UX/UI Design | Figma | Creación de wireframes y mockups de la interfaz de usuario. | https://figma.com |
+| Modelado de Software | Visual Paradigm | Modelado de arquitectura de software: diagramas de contexto, Bounded Contexts, etc. | https://visual-paradigm.com |
+| Frontend Development | Visual Studio Code | Editor de código para el desarrollo del Landing Page y Frontend (Vue). | https://code.visualstudio.com |
+| Backend Development | IntelliJ IDEA | Entorno de desarrollo para el backend en Java con Spring Boot. | https://www.jetbrains.com/idea/ |
+| Version Control | GitHub | Repositorio de control de versiones para todos los productos digitales. | https://github.com |
+| Software Documentation | Markdown | Redacción de documentación técnica del proyecto. | Compatible con GitHub / editores de texto |
+
 #### 5.1.2. Source Code Management
+
+El equipo de TravelMatch utiliza Git como sistema de control de versiones y GitHub como plataforma de alojamiento y colaboración en el desarrollo de los distintos productos digitales que conforman la solución. Esta estrategia garantiza un seguimiento efectivo de los cambios realizados en el código fuente, la colaboración entre miembros del equipo, y la trazabilidad de las decisiones tomadas durante el ciclo de desarrollo.
+
+Los repositorios utilizados para el desarrollo de código fuente son los siguientes:
+
+<div align="center">
+
+| Producto Digital | URL del Repositorio | 
+|:----------------:|:-------------------:|
+| Landing Page | [https://github.com/G2-Aplicaciones-Open-Source/landing-page](https://github.com/G2-Aplicaciones-Open-Source/landing-page) | 
+| Web Services (Backend API) | [https://github.com/G2-Aplicaciones-Open-Source/backend-java](https://github.com/G2-Aplicaciones-Open-Source/backend-java)|
+| Frontend Web Application | [https://github.com/G2-Aplicaciones-Open-Source/frontend-angular](https://github.com/G2-Aplicaciones-Open-Source/frontend-angular) |
+
+</div>
+
+**Modelos de Ramificación**
+
+El equipo ha optado por utilizar distintos modelos de ramificación según el tipo de repositorio, con el fin de adecuarse a las necesidades específicas de colaboración y control de versiones:
+
+- **Repositorio de Documentación General del Proyecto (docs):**
+
+    Para el repositorio de documentación (README.md y secciones del informe final), se ha adoptado GitHub Flow. Este modelo de trabajo, orientado a la integración continua y simplicidad, ha permitido:
+
+    - Crear ramas individuales por capítulo y responsable.
+    - Realizar pull requests para revisión antes de integrar contenido a la rama principal.
+    - Discutir mejoras u observaciones mediante comentarios en los commits y PRs.
+    - Mantener una integración progresiva, ordenada y sin conflictos.
+    - **Convención de nombres de ramas:**  `cap[numero]` (por ejemplo, `cap4`), lo que facilita la identificación de la sección correspondiente.  
+    - **Mensajes de commits:**  Se sigue la especificación de **Conventional Commits**, lo que asegura claridad en el historial y facilita la generación automática de changelogs.
+
+- **Repositorios con Código Fuente (Landing Page, Frontend, Backend):**
+
+    Para estos repositorios se implementará GitFlow, un modelo de ramificación más estructurado, el cual permite separar de manera clara las etapas de desarrollo, pruebas, liberación y mantenimiento. La elección de GitFlow responde a que GitHub Flow depende en gran medida de pruebas automatizadas para validar los cambios antes de integrarlos a la rama principal, y como en este curso no se contempla la integración continua ni un pipeline de testing automatizado, GitFlow resulta más adecuado para mantener la estabilidad del código sin depender de estas herramientas externas.
+
+    **La estructura de ramas en GitFlow será:**
+
+    - _Main_: Contiene el código en estado estable y listo para producción.
+    - _Develop_: Rama de integración para desarrollo activo.
+    - _Feature branches_: Para nuevas funcionalidades.
+        - Convención: `feature/nombre-descriptivo`  
+        - Ejemplo: `feature/US007-business-profiles`
+    - _Release branches_: Para preparar versiones antes de pasar a producción.
+        - Convención: `release/X.Y.Z`  
+        - Ejemplo: `release/1.0.0`
+    - _Hotfix branches_: Para correcciones urgentes.
+        - Convención: `hotfix/X.Y.Z`  
+        - Ejemplo: `hotfix/1.0.1`        
+
+    **Versionado Semántico (Semantic Versioning)**
+
+    - Se utiliza Semantic Versioning 2.0.0, con el esquema MAJOR.MINOR.PATCH:
+
+        - **MAJOR:** Cambios incompatibles.
+        - **MINOR:** Funcionalidades nuevas retrocompatibles.
+        - **PATCH:** Correcciones retrocompatibles.
+
+        **Ejemplos de versiones:**  
+        `v1.0.0`, `v1.1.0`, `v1.1.1`.
+    
+    **Convenciones para Commits**
+
+    El equipo sigue el estándar de Conventional Commits para los mensajes de commits, lo que permite claridad en el historial y facilita la generación automática de changelogs:
+
+    `<type>[optional scope]: <description>`
+
+    Tipos comunes:
+
+    - `feat`: Nueva funcionalidad.
+    - `fix`: Corrección de errores.
+    - `docs`: Cambios en documentación.
+    - `style`: Cambios de formato sin impacto funcional.
+    - `refactor`: Reestructuración del código.
+    - `test`: Relacionados con pruebas.
+    - `chore`: Tareas de mantenimiento.
+
+    Ejemplo:
+    ```plaintext
+    feat(auth): implement login via OAuth
+    fix(api): handle null user tokens
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
@@ -1479,13 +1575,58 @@ Los mock-ups de la Landing Page de TravelMatch representan la traducción visual
 
 ##### 5.2.1.1. Sprint Planning 1
 
+|**Sprint #**|` `Sprint 1|
+| :- | :- |
+|` `**Date**|2025-04-23|
+|**Time**|` `1:30 PM|
+|**Location**|` `Virtual - Meet|
+|**Prepared By**|Jhon Galvez|
+|` `**Attendees (to planning meeting)**|Jhon Galvez, Mathias Aspajo, Farid Briceño, Jorge Guevara, Cesar Linares|
+|` `**Sprint n - 1 Review Summary**|Este es el primer Sprint, por lo que este campo no aplica|
+|` `**Sprint n - 1 Retrospective Summary**|Este es el primer Sprint, por lo que este campo no aplica|
+|**Sprint 1 Goal**|En este sprint, nos enfocaremos en desarrollar la landing page de nuestra aplicación, ya que consideramos que será clave para ofrecer una presentación atractiva y efectiva del producto a los potenciales usuarios. Evaluaremos el éxito de esta implementación cuando el número de visitas a la página alcance un umbral previamente establecido.|
+|` `**Sprint 1 Velocity**|Nuestro equipo puede aceptar hasta 35 story points|
+|` `**Sum of Story Points**|La suma de Story Points atendidos es de 32 story points|
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
 ##### 5.2.1.3. Sprint Backlog 1
 
+Durante la primera iteración de desarrollo, implementamos los componentes esenciales de la página de inicio, los elementos de interfaz y el menú de navegación
+
+
+|Sprint #|Sprint 1|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task|||||||
+|Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p>|Assigned To|<p>Status</p><p>(To-do /</p><p>InProcess /</p><p>ToReview /</p><p>Done)</p>|
+|` `US-01|Registro básico|T01|Desarrollar un sistema de registro de usuarios.|La página web debe incluir una funcionalidad que permita a los usuarios registrarse o crear una cuenta personal.|1|Jhon Galvez|Done|
+|` `US-02|Inicio de sesión|T02|Desarrollo del módulo de inicio de sesión|Es necesario desarrollar un sistema que permita a los usuarios ya registrados ingresar sus credenciales para acceder a su perfil personal.|1|Jhon Galvez|Done|
+|` `US-31|Navegación por el landing page|T03|Construcción de la plataforma web|Se debe desarrollar la estructura base del sitio web, garantizando su correcta navegación y funcionamiento, como punto de partida para implementar la landing page.|0\.5|Jhon Galvez|Done|
+|` `US-32|Ver información del startup|T04|Presentación del trabajo|Incluir una sección dedicada a mostrar a los miembros del equipo de desarrollo|0\.5|Jhon Galvez|Done|
+|` `US-33|Conocer la misión de la startup|T05|Información de la misión de la Startup|Agregar un apartado que exponga claramente la misión de la startup.|0\.5|Jhon Galvez|Done|
+|` `US-34|Contactar al equipo de soporte (Versión usuario)|T06|Formulario de contacto para soporte|Incorporar un formulario dentro de la landing page que permita a los usuarios enviar consultas o mensajes al equipo de atención al cliente o soporte técnico.|2|Jhon Galvez|Done|
+|` `US-35|Visualización responsive|T07|Adaptabilidad a dispositivos móviles|El sitio web debe estar optimizado para garantizar una experiencia de navegación cómoda y fluida desde smartphones y otros dispositivos móviles.|2|Jhon Galvez|Done|
+|` `US-36|Contactar al equipo de soporte (Versión agencia)|T08|Formulario de contacto para agencias|Incluir un formulario exclusivo para agencias, donde puedan realizar consultas, expresar su interés en colaborar o solicitar información adicional sobre los servicios y beneficios que ofrece la plataforma para sus operaciones.|2|Jhon Galvez|Done|
+|` `US-37|Modelo de monetización|T09|Sección informativa para agencias|Agregar una sección dedicada a explicar claramente cómo las agencias pueden generar ingresos a través del uso de la aplicación.|0.5|Jhon Galvez|Done|
+
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
+En esta parte, mostramos el proceso que seguimos para diseñar y mantener actualizada la landing page.
+
+|**Repository**|**Branch**|**Commit ID**|**Commit Message**|<p>**Commit Message**</p><p>` `**Body**</p>|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|G2-Aplicaciones-Open-Source/Landing-Page|develop|a859949|feat: Implementación de contenido en las secciones de la landing page||23/04/2025|
+|G2-Aplicaciones-Open-Source/Landing-Page|develop|645844c|feat: Implementación de navegación y redireccionamientos||23/04/2025|
+|G2-Aplicaciones-Open-Source/Landing-Page|develop|5265378|feat: Mejora de responsividad y funcionalidades interactivas||23/04/2025|
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+
+|Epic / Story ID|Título|Criterios de Aceptación|
+| :- | :- | :- |
+|` `US31|Navegación por el landing page|Dado que el usuario está en la página principal, cuando haga clic en cualquier ítem del menú, entonces va redirigido a la sección correspondiente.|
+|` `US32|Ver información del startup|Dado que voy a "Nuestro equipo", cuando hago scroll, entonces veo nombres de cada miembro.|
+|` `US33|Conocer la misión de la startup|Dado que accedo a "Sobre nosotros", cuando leo la sección de misión, entonces encuentro al menos 3 valores clave.|
+|` `US34|Contactar al equipo de soporte|Dado que completo el formulario, cuando hago clic en "Enviar", entonces recibo un email de confirmación.|
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 

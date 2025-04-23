@@ -425,7 +425,7 @@ del turismo personalizado en la plataforma.
 
 <hr>
 
-## Capítulo II: Requirementsgit Elicitation & Analysis
+## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
 

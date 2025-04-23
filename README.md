@@ -1469,11 +1469,101 @@ Los mock-ups de la Landing Page de TravelMatch representan la traducción visual
 
 ### 5.1. Software Configuration Management.
 
-Modificacion de ejemplo
+Para asegurar la consistencia, trazabilidad y calidad del producto digital TravelMatch durante todo su ciclo de vida, el equipo ha definido una estrategia de gestión de configuración de software. Esta estrategia cubre la configuración del entorno de desarrollo, la gestión del código fuente, las convenciones de codificación y la configuración del despliegue de los productos. El enfoque está alineado con buenas prácticas de ingeniería de software y metodologías ágiles.
 
 #### 5.1.1. Software Development Environment Configuration.
 
+| Categoría | Herramienta | Propósito | Tipo de acceso/enlace |
+|:----:|:----:|:----:|:----:|
+| Project Management | Trello | Gestión del backlog y tareas del equipo mediante tableros Kanban. | https://trello.com |
+| Requirements Management | UXPressia | Creación y documentación de User Personas y customer journeys. | https://uxpressia.com |
+| Product UX/UI Design | Figma | Creación de wireframes y mockups de la interfaz de usuario. | https://figma.com |
+| Modelado de Software | Visual Paradigm | Modelado de arquitectura de software: diagramas de contexto, Bounded Contexts, etc. | https://visual-paradigm.com |
+| Frontend Development | Visual Studio Code | Editor de código para el desarrollo del Landing Page y Frontend (Vue). | https://code.visualstudio.com |
+| Backend Development | IntelliJ IDEA | Entorno de desarrollo para el backend en Java con Spring Boot. | https://www.jetbrains.com/idea/ |
+| Version Control | GitHub | Repositorio de control de versiones para todos los productos digitales. | https://github.com |
+| Software Documentation | Markdown | Redacción de documentación técnica del proyecto. | Compatible con GitHub / editores de texto |
+
 #### 5.1.2. Source Code Management
+
+El equipo de TravelMatch utiliza Git como sistema de control de versiones y GitHub como plataforma de alojamiento y colaboración en el desarrollo de los distintos productos digitales que conforman la solución. Esta estrategia garantiza un seguimiento efectivo de los cambios realizados en el código fuente, la colaboración entre miembros del equipo, y la trazabilidad de las decisiones tomadas durante el ciclo de desarrollo.
+
+Los repositorios utilizados para el desarrollo de código fuente son los siguientes:
+
+<div align="center">
+
+| Producto Digital | URL del Repositorio | 
+|:----------------:|:-------------------:|
+| Landing Page | [https://github.com/G2-Aplicaciones-Open-Source/landing-page](https://github.com/G2-Aplicaciones-Open-Source/landing-page) | 
+| Web Services (Backend API) | [https://github.com/G2-Aplicaciones-Open-Source/backend-java](https://github.com/G2-Aplicaciones-Open-Source/backend-java)|
+| Frontend Web Application | [https://github.com/G2-Aplicaciones-Open-Source/frontend-angular](https://github.com/G2-Aplicaciones-Open-Source/frontend-angular) |
+
+</div>
+
+**Modelos de Ramificación**
+
+El equipo ha optado por utilizar distintos modelos de ramificación según el tipo de repositorio, con el fin de adecuarse a las necesidades específicas de colaboración y control de versiones:
+
+- **Repositorio de Documentación General del Proyecto (docs):**
+
+    Para el repositorio de documentación (README.md y secciones del informe final), se ha adoptado GitHub Flow. Este modelo de trabajo, orientado a la integración continua y simplicidad, ha permitido:
+
+    - Crear ramas individuales por capítulo y responsable.
+    - Realizar pull requests para revisión antes de integrar contenido a la rama principal.
+    - Discutir mejoras u observaciones mediante comentarios en los commits y PRs.
+    - Mantener una integración progresiva, ordenada y sin conflictos.
+    - **Convención de nombres de ramas:**  `cap[numero]` (por ejemplo, `cap4`), lo que facilita la identificación de la sección correspondiente.  
+    - **Mensajes de commits:**  Se sigue la especificación de **Conventional Commits**, lo que asegura claridad en el historial y facilita la generación automática de changelogs.
+
+- **Repositorios con Código Fuente (Landing Page, Frontend, Backend):**
+
+    Para estos repositorios se implementará GitFlow, un modelo de ramificación más estructurado, el cual permite separar de manera clara las etapas de desarrollo, pruebas, liberación y mantenimiento. La elección de GitFlow responde a que GitHub Flow depende en gran medida de pruebas automatizadas para validar los cambios antes de integrarlos a la rama principal, y como en este curso no se contempla la integración continua ni un pipeline de testing automatizado, GitFlow resulta más adecuado para mantener la estabilidad del código sin depender de estas herramientas externas.
+
+    **La estructura de ramas en GitFlow será:**
+
+    - _Main_: Contiene el código en estado estable y listo para producción.
+    - _Develop_: Rama de integración para desarrollo activo.
+    - _Feature branches_: Para nuevas funcionalidades.
+        - Convención: `feature/nombre-descriptivo`  
+        - Ejemplo: `feature/US007-business-profiles`
+    - _Release branches_: Para preparar versiones antes de pasar a producción.
+        - Convención: `release/X.Y.Z`  
+        - Ejemplo: `release/1.0.0`
+    - _Hotfix branches_: Para correcciones urgentes.
+        - Convención: `hotfix/X.Y.Z`  
+        - Ejemplo: `hotfix/1.0.1`        
+
+    **Versionado Semántico (Semantic Versioning)**
+
+    - Se utiliza Semantic Versioning 2.0.0, con el esquema MAJOR.MINOR.PATCH:
+
+        - **MAJOR:** Cambios incompatibles.
+        - **MINOR:** Funcionalidades nuevas retrocompatibles.
+        - **PATCH:** Correcciones retrocompatibles.
+
+        **Ejemplos de versiones:**  
+        `v1.0.0`, `v1.1.0`, `v1.1.1`.
+    
+    **Convenciones para Commits**
+
+    El equipo sigue el estándar de Conventional Commits para los mensajes de commits, lo que permite claridad en el historial y facilita la generación automática de changelogs:
+
+    `<type>[optional scope]: <description>`
+
+    Tipos comunes:
+
+    - `feat`: Nueva funcionalidad.
+    - `fix`: Corrección de errores.
+    - `docs`: Cambios en documentación.
+    - `style`: Cambios de formato sin impacto funcional.
+    - `refactor`: Reestructuración del código.
+    - `test`: Relacionados con pruebas.
+    - `chore`: Tareas de mantenimiento.
+
+    Ejemplo:
+    ```plaintext
+    feat(auth): implement login via OAuth
+    fix(api): handle null user tokens
 
 #### 5.1.3. Source Code Style Guide & Conventions
 

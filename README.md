@@ -85,7 +85,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
         </p>
         - Creación de ramas por cada capítulo:
         <p align="center">
-            <img src="assets/evidencias/" alt="repo-branches" width=60% >
+            <img src="assets/evidencias/repo-branches.png" alt="repo-branches" width=60% >
         </p>
         - Commits realizados en las ramas individuales:       
         <p align="center">
@@ -102,11 +102,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
         </p>
         <p align="center">
             <img src="assets/evidencias/" alt="cap5-branch-commits" width=60% >
-        </p>
-        - Pull Requests y merges a la rama principal (master):
-        <p align="center">
-            <img src="assets/evidencias/" alt="master-merges" width=60% >
-        </p>
+        </p>        
         - Analítica del repositorio con participación de todos los miembros:
         <p align="center">
             <img src="assets/evidencias/repo-members.png" alt="repo-analytics" width=60% >
@@ -232,10 +228,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo,
 que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| <div style="width:100px">Criterio específico</div> | <div style="width:250px" align="center">Acciones Realizadas</div> | <div style="width:250px" align="center">Conclusiones</div> |
-|:-------------------:|-------------------|:------------:|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia| Jhon Galvez | Se concluye |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia| Jhon Galvez | Se concluye |
+| <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
+|:-------------------:|-------------------|------------|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, participé activamente en la revisión retroactiva de los avances de mis compañeros. También apoyé en la preparación del material de presentación para nuestras reuniones internas.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. Adicionalmente, realice entrevistas para dos segmentos objetivos <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 2 y 3.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 1 y el Landing Page UI Design. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
 
 <hr>
 
@@ -429,7 +425,7 @@ del turismo personalizado en la plataforma.
 
 <hr>
 
-## Capítulo II: Requirementsgit Elicitation & Analysis
+## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
 
@@ -583,7 +579,189 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 
 #### 2.2.2. Registro de entrevistas
 
+<!-- Segmento objetivo 1: AGENCIAS -->
+
+- **Entrevista 1:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-maria.png" alt="entrevista-maria" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Maria Rodriguez Benites |
+|----|-----|
+|Edad|44|
+|Residencia|Lima|
+|Enlace de la entrevista| [https://youtu.be/hdzxGndELyA](https://youtu.be/hdzxGndELyA)|
+
+</div>
+
+_Resumen:_ La entrevistada menciona que en su agencia utilizan principalmente redes sociales (Facebook, Instagram, TikTok) y plataformas como Google Ads y TripAdvisor para promocionar paquetes turísticos, lo cual ha sido efectivo para atraer turistas. Ademas, menciona que la mayoría de sus reservas proviene de canales digitales, pero enfrentan retos como la sincronización en tiempo real de la disponibilidad de los paquetes, especialmente en temporadas altas como verano y feriados. Considera que si bien las herramientas tecnológicas actuales cumplen con lo básico, desea soluciones más integradas para gestionar reservas, pagos y marketing. Valora funcionalidades como disponibilidad en tiempo real, opciones de pago flexibles y un buen soporte técnico. Por ultimo, se encuentra dispuesta a pagar una comisión razonable por cada reserva si la plataforma ofrece un buen retorno en visibilidad y eficiencia.
+
+---
+
+- **Entrevista 2:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-tony.png" alt="entrevista-tony" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Tony Blades Sarmiento |
+|----|-----|
+|Edad|28|
+|Residencia|Lima|
+|Enlace de la entrevista| [https://youtu.be/zkip_T6onFg](https://youtu.be/zkip_T6onFg)|
+
+</div>
+
+_Resumen:_ El entrevistado comenta que utilizan redes sociales como Facebook, Instagram y WhatsApp. También disponen de una página web con optimizaciones limitadas para sus necesidades. Si bien considera útiles estas herramientas, no las percibe como eficientes. Además, señala que uno de los principales desafíos que enfrenta es la confirmación de pagos y la falta de coordinación cuando los clientes dudan en concretar una compra. Asimismo, menciona que le gustaría contar con una plataforma intuitiva que integre funcionalidades de pago, mensajería y análisis de datos, facilitando así la conexión con sus clientes. Finalmente, expresa su disposición a pagar una suscripción para obtener beneficios durante las temporadas de mayor demanda.
+
+---
+
+**Entrevista 3:**
+
+<p align="center">
+    <img src="assets/evidencias/" alt="entrevista-" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | xxxxx |
+|----|-----|
+|Edad|xx|
+|Residencia|xxxxx|
+|Enlace de la entrevista| [cambia el link](https://youtu.be/EetEBccMXDg)|
+
+</div>
+
+---
+
+<!-- Segmento objetivo 2: TURISTAS NACIONALES E INTERNACIONALES -->
+
+**Entrevista 4:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-adrian.png" alt="entrevista-adrian" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Adrian Yañez Mendez |
+|----|-----|
+|Edad|20|
+|Residencia|Lima|
+|Enlace de la entrevista| [https://youtu.be/EetEBccMXDg](https://youtu.be/EetEBccMXDg)|
+
+</div>
+
+---
+
+**Entrevista 5:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-sebastian.png" alt="entrevista-sebastian" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Sebastian Arevalo Torres |
+|----|-----|
+|Edad|20|
+|Residencia|Chile|
+|Enlace de la entrevista| [https://youtu.be/3z10bH6wOBY](https://youtu.be/3z10bH6wOBY)|
+
+</div>
+
+---
+
+**Entrevista 6:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-diego.png" alt="entrevista-diego" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Diego Santiago Lima |
+|----|-----|
+|Edad|21|
+|Residencia|Arequipa|
+|Enlace de la entrevista| [https://youtu.be/CLrBogoQrVM](https://youtu.be/CLrBogoQrVM)|
+
+</div>
+
+---
+
+<!-- Segmento objetivo 3: TURISTAS CORPORATIVOS -->
+
+**Entrevista 7:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-cesar.png" alt="entrevista-cesar" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Cesar Vasquez Lopez |
+|----|-----|
+|Edad|55|
+|Residencia|Lima|
+|Enlace de la entrevista| [https://youtu.be/AeP60c6hXrs](https://youtu.be/AeP60c6hXrs)|
+
+</div>
+
+_Resumen:_ El entrevistado, quien por su trabajo viaja con frecuencia a Paracas, Nazca, Chincha e Ica, tiene interés en visitar atractivos turísticos como las Líneas de Nazca, las Islas Ballestas y la Huacachina en su tiempo libre. Para él, la puntualidad del servicio es primordial en una plataforma de gestión de paquetes turísticos. Actualmente, utiliza WhatsApp y Google Maps para organizar sus itinerarios laborales, pero le resulta difícil encontrar tiempo libre. Por ello, valoraría una aplicación que se adapte a sus horarios personales y laborales, brindándole la oportunidad de realizar visitas turísticas. Finalmente, considera crucial la recomendación de otros clientes al elegir una agencia de viajes.
+
+---
+
+**Entrevista 8:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-david.png" alt="entrevista-david" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | David Perez Garcia |
+|----|-----|
+|Edad| 25 |
+|Residencia|Lima|
+|Enlace de la entrevista| [cambiar link](https://youtu.be/3z10bH6wOBY)|
+
+</div>
+
+---
+
+**Entrevista 9:**
+
+<p align="center">
+    <img src="assets/evidencias/" alt="entrevista-" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | xxxxx |
+|----|-----|
+|Edad|xx|
+|Residencia|xxxxx|
+|Enlace de la entrevista| [cambiar link](https://youtu.be/3z10bH6wOBY)|
+
+</div>
+
 #### 2.2.3. Análisis de entrevistas
+
+- **Segmento objetivo 1 - Dueños de agencia de viajes**
+    Para este segmento
+
+- **Segmento objetivo 2 - Turistas nacionales e internacionales**
+    Para este segmento
+
+- **Segmento objetivo 3 - Turistas corporativos**
+    Para este segmento
+
 
 ### 2.3. Needfinding
 
@@ -742,6 +920,13 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 |US28|Verificación de agencia|Como agencia, quiero verificar mi negocio para ganar confianza de los clientes.|<p>- Scenario 1: Cuenta verificada<br>  Dado que subo mis documentos, cuando son aprobados, entonces mi perfil muestra un sello "Verificado".</p><p>- Scenario 2: Documentación incompleta<br>  Dado que no subo mi RUC, cuando intento verificar, entonces el sistema muestra "Falta documentación legal".</p>|EP03|
 |US29|Soporte prioritario|Como agencia, quiero acceder a soporte rápido para resolver problemas urgentes.|<p>- Scenario 1: Respuesta inmediata<br>  Dado que contacto a soporte, cuando envío mi consulta, entonces recibo respuesta en menos de 5 minutos.</p><p>- Scenario 2: Consulta no urgente</p><p>&emsp;Dado que pregunto por mejoras, cuando no marco "Urgente", entonces recibo respuesta en 24h.</p>|EP03|
 |US30|Integración con redes|Como agencia, quiero compartir mis tours en redes sociales para aumentar mi visibilidad.|<p>- Scenario 1: Publicación automática</p><p>&emsp;Dado que hago clic en "Compartir", cuando elijo Instagram, entonces se publica con fotos y descripción.</p><p>- Scenario 2: Red no conectada<br>  Dado que no vincule mi Facebook, cuando intento compartir, entonces el sistema muestra "Conecte su cuenta primero".</p>|EP03|
+|US31|Navegación por el landing page|Como usuario, quiero navegar fácilmente por el landing page para acceder a todas las secciones principales.|<p>- Scenario 1: Navegación exitosa</p><p>&emsp;Dado que estoy en la página principal, cuando hago clic en cualquier item del menú, entonces soy redirigido a la sección correspondiente.</p><p>- Scenario 2: Menú desplegable en móvil<br>  Dado que accedo desde un celular, cuando toco el ícono de hamburguesa, entonces el menú se despliega correctamente.</p>|EP01|
+|US32|Ver información del startup|Como usuario interesado, quiero conocer al equipo de Finzar para entender quiénes están detrás del proyecto.|<p>- Scenario 1: Visualización de perfiles</p><p>&emsp;Dado que voy a "Nuestro equipo", cuando hago scroll, entonces veo los nombres de cada miembro.</p><p>- Scenario 2: Información incompleta<br>  Dado que un miembro no tiene foto, cuando veo su perfil, entonces muestra un avatar por defecto.</p>|EP01|
+|US33|Conocer la misión de la startup|Como potencial cliente, quiero entender la misión y valores de Finzar para evaluar su alineación con mis necesidades.|<p>- Scenario 1: Lectura de valores</p><p>&emsp;Dado que accedo a "Sobre nosotros", cuando leo la sección de misión, entonces encuentro al menos 3 valores clave.</p><p>- Scenario 2: Versión resumida<br>  Dado que estoy en móvil, cuando veo esta sección, entonces muestra un resumen de 100 caracteres.</p>|EP01|
+|US34|Contactar al equipo de soporte (Versión usuario)|Como usuario con dudas, quiero enviar un mensaje al soporte para resolver mis inquietudes.|<p>- Scenario 1: Envío exitoso</p><p>&emsp;Dado que completo el formulario, cuando hago clic en "Enviar", entonces recibo un email de confirmación.</p><p>- Scenario 2: Campos obligatorios<br>  Dado que dejo el email vacío, cuando intento enviar, entonces el sistema muestra "Campo requerido".</p>|EP01|
+|US35|Visualización responsive|Como usuario móvil, quiero ver la página correctamente adaptada a mi pantalla para una experiencia óptima.|<p>- Scenario 1: Ajuste automático</p><p>&emsp;Dado que accedo desde un dispositivo móvil, cuando giro la pantalla, entonces el contenido se reordena correctamente.</p><p>- Scenario 2: Menú adaptado<br>  Dado que uso una tablet, cuando navego, entonces los botones tienen tamaño táctil adecuado.</p>|EP01|
+|US36|Contactar al equipo de soporte (Versión agencia)|Como agencia asociada, quiero contactar al soporte técnico especializado para resolver problemas operativos urgentes.|<p>- Scenario 1: Solicitud prioritaria</p><p>&emsp;Dado que selecciono "Problema operativo", cuando envío mi consulta marcando "Urgente", entonces recibo respuesta en menos de 15 minutos.</p><p>- Scenario 2: Consulta sobre API<br>  Dado que tengo dudas sobre integración, cuando adjunto capturas de error, entonces el soporte me envía documentación técnica complementaria.</p>|EP03|
+|US37|Modelo de Monetización|Como agencia turística, quiero entender claramente cómo generaré ingresos mediante la plataforma para planificar mi estrategia.|<p>- Scenario 1: Visualización de comisiones</p><p>&emsp;Dado que accedo a "Para Agencias", cuando reviso la sección monetización, entonces veo una calculadora interactiva de comisiones por reserva.</p><p>- Scenario 2: Beneficios premium<br>  Dado que soy agencia verificada, cuando consulto planes de suscripción, entonces el sistema muestra comparativas de features y costos.</p>|EP03|
 #
 
 ### 3.3. Impact Mapping
@@ -786,6 +971,13 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 |28|US28|Verificación de agencia|Como agencia, quiero verificar mi negocio para ganar confianza de los clientes.|3|
 |29|US29|Soporte prioritario|Como agencia, quiero acceder a soporte rápido para resolver problemas urgentes.|5|
 |30|US30|Integración con redes|Como agencia, quiero compartir mis tours en redes sociales para aumentar mi visibilidad.|3|
+|31|US31|Navegación por el landing page|Como usuario, quiero navegar fácilmente por el landing page para acceder a todas las secciones principales.|3|
+|32|US32|Ver Información del Startup|Como usuario interesado, quiero conocer al equipo de Finzar para entender quiénes están detrás del proyecto.|2|
+|33|US33|Conocer la misión de la startup|Como potencial cliente, quiero entender la misión y valores de Finzar para evaluar su alineación con mis necesidades.|1|
+|34|US34|Contactar al equipo de soporte (Versión usuario)|Como usuario con dudas, quiero enviar un mensaje al soporte para resolver mis inquietudes.|5|
+|35|US35|Visualización responsive|Como usuario móvil, quiero ver la página correctamente adaptada a mi pantalla para una experiencia óptima.git s|8|
+|36|US36|Contactar al equipo de soporte (Versión agencia)|Como agencia asociada, quiero contactar al soporte técnico especializado para resolver problemas operativos urgentes.git s|5|
+|37|US37|Modelo de monetización|Como agencia turística, quiero entender claramente cómo generaré ingresos mediante la plataforma para planificar mi estrategia.git s|3|
 
 <hr>
 
@@ -1256,20 +1448,86 @@ Los mock-ups de la Landing Page de TravelMatch representan la traducción visual
 ### 4.6. Domain-Driven Software Architecture
 
 #### 4.6.1. Software Architecture Context Diagrams
+<p align="center">
+    <img src="assets/recursos/diagrama de contexto.png" alt="Diagrama de Contexto"/>
+</p>
 
 #### 4.6.2. Software Architecture Container Diagrams
+ <img src="assets/recursos/diagrama de contenedores.png" alt="Diagrama de Contenedores"/>
 
 #### 4.6.3. Software Architecture Components Diagrams
 
+<img src="assets/recursos/diagrama de componentes 1.png" alt="Diagrama de Contenedores"/>
+<br></br>
+<br></br>
+<img src="assets/recursos/diagrama de componentes 2.png" alt="Diagrama de Contenedores"/>
+<br></br>
+<br></br>
+<img src="assets/recursos/diagrama de componentes 3.png" alt="Diagrama de Contenedores"/>
+<br></br>
+<br></br>
+<img src="assets/recursos/diagrama de componentes 4.png" alt="Diagrama de Contenedores"/>
+<br></br>
+
 ### 4.7. Software Object-Oriented Design
+
+La orientación a objetos será fundamental en nuestro proyecto. Organizamos el software siguiendo nuestras reglas de negocio, lo que nos permite desarrollar componentes claros para su implementación en un sistema real, además de facilitar su adaptación y mantenimiento.
 
 #### 4.7.1. Class Diagrams
 
+<p align="center">
+    <img src="assets/recursos/class_diagram.png" alt="Class-Diagram"/>
+</p>
+
 #### 4.7.2. Class Dictionary
+
+| **Clase** | **Nombre de atributo** | **Descripción** | **Tipo de dato**
+|:---------:|:----------------------:|:---------------:|:----------------:|
+| Usuario | id | Identificador único | String |
+| Usuario | nombre | Nombre de usuario | String |
+| Usuario | email | Correo electrónicio del usuario | String |
+| Usuario | contrasenia | Contraseña encriptada | String |
+| Usuario | telefono | Contacto opcional | String |
+| Turista | nacionalidad | País de origen | String |
+| Turista | pasaporte | Número de documento | String |
+| ViajeroCorporativo | empresa | Nombre de la compañía | String |
+| ViajeroCorporativo | ruc | Identificador fiscal | String |
+| AgenciaTurismo | ruc | Identificador fiscal | String |
+| AgenciaTurismo | direccionLegal | Domicilio registrado | String |
+| AgenciaTurismo | licenciaTuristica | Número de autorización | String |
+| Reserva | fechaCreacion | Fecha de registro | Date |
+| Reserva | fechaServicio | Fecha agendada | Date |
+| Reserva | estado | El estado de la reserva (Pendiente/Confirmada/Cancelada) | ENUM |
+| Reserva | montoTotal | Precio final | Float |
+| Pago | metodo | El método de pago usado en la reserva (Tarjeta/Transferencia/Efectivo) | ENUM |
+| Pago | monto | Valor pagado | Float |
+| Pago | fecha | Fecha de realización del pago | Date |
+| Pago | estado | Estado del pago (Pendiente/Confirmado/Denegado) | ENUM |
+| Disponibilidad | fechaInicio | Fecha del inicio del rango disponible | Date |
+| Disponibilidad | fechaFin | Fecha del fin del rango disponible | Date |
+| Disponibilidad | cuposDisponibles | Cantidad restante de cupos | Int |
+| ServicioTuristico | nombre | Título del servicio | String |
+| ServicioTuristico | descripcion | Descripción concisa del servicio | String |
+| ServicioTuristico | precioBase | Precio del servicio | Float |
+| Ubicacion | direccion | Ubicación exacta | String |
+| Ubicacion | coordenadas | Latitud/Longitud | String |
+| Notificacion | fecha | Fecha de generación de la notificación | Date |
+| Notificacion | contenido | Texto personalizado | String |
+| Notificacion | canal | Medio en el que se envían las notificaciones (Email/SMS) | ENUM |
+| Notificacion | estado | Estado de la notificación (Enviada, Pendiente, Fallida) | ENUM |
+| PlantillaNotificacion | asunto | Línea de asunto | String |
+| PlantillaNotificacion | cuerpo | Texto base con placeholders | String |
+| PlantillaNotificacion | tipo | Tipo de notificación enviada (Mantenimiento, Noticias) | ENUM |
 
 ### 4.8. Database Design
 
+El diseño de base de datos es funamental para estructurar y almacenar todos los datos a utilizar en el proyecto. Su propósito principal es el de organizar los datos de forma lógica y cohesiva, permitiendo el recuperar, modificar o borrar según las acciones de los usuarios.
+
 #### 4.8.1. Database Diagram
+
+<p align="center">
+    <img src="assets/recursos/database_diagram.png" alt="Database-Diagram"/>
+</p>
 
 <hr>
 
@@ -1281,17 +1539,15 @@ Para asegurar la consistencia, trazabilidad y calidad del producto digital Trave
 
 #### 5.1.1. Software Development Environment Configuration.
 
-Para facilitar la colaboración del equipo en todas las actividades del ciclo de vida de desarrollo de TravelMatch, se ha definido un entorno de desarrollo común. Este entorno está compuesto por herramientas especializadas para la gestión del proyecto, diseño UX/UI, desarrollo, documentación y despliegue. La selección de estas herramientas se basa en criterios de eficiencia, compatibilidad con tecnologías utilizadas, y alineación con prácticas recomendadas de la industria.
-
 | Categoría | Herramienta | Propósito | Tipo de acceso/enlace |
 |:----:|:----:|:----:|:----:|
-| Project Management | Trello | Gestión del backlog y tareas del equipo mediante tableros Kanban. | [https://trello.com](https://trello.com) |
-| Requirements Management | UXPressia | Creación y documentación de User Personas y customer journeys. | [https://uxpressia.com](https://uxpressia.com) |
-| Product UX/UI Design | Figma | Creación de wireframes y mockups de la interfaz de usuario. | [https://figma.com](https://figma.com) |
-| Modelado de Software | Visual Paradigm | Modelado de arquitectura de software: diagramas de contexto, Bounded Contexts, etc. | [https://visual-paradigm.com](https://visual-paradigm.com) |
-| Frontend Development | Visual Studio Code | Editor de código para el desarrollo del Landing Page y Frontend (Vue). | [https://code.visualstudio.com](https://code.visualstudio.com) |
-| Backend Development | IntelliJ IDEA | Entorno de desarrollo para el backend en Java con Spring Boot. | [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/) |
-| Version Control | GitHub | Repositorio de control de versiones para todos los productos digitales. | [https://github.com](https://github.com) |
+| Project Management | Trello | Gestión del backlog y tareas del equipo mediante tableros Kanban. | https://trello.com |
+| Requirements Management | UXPressia | Creación y documentación de User Personas y customer journeys. | https://uxpressia.com |
+| Product UX/UI Design | Figma | Creación de wireframes y mockups de la interfaz de usuario. | https://figma.com |
+| Modelado de Software | Visual Paradigm | Modelado de arquitectura de software: diagramas de contexto, Bounded Contexts, etc. | https://visual-paradigm.com |
+| Frontend Development | Visual Studio Code | Editor de código para el desarrollo del Landing Page y Frontend (Angular). | https://code.visualstudio.com |
+| Backend Development | IntelliJ IDEA | Entorno de desarrollo para el backend en Java con Spring Boot. | https://www.jetbrains.com/idea/ |
+| Version Control | GitHub | Repositorio de control de versiones para todos los productos digitales. | https://github.com |
 | Software Documentation | Markdown | Redacción de documentación técnica del proyecto. | Compatible con GitHub / editores de texto |
 
 #### 5.1.2. Source Code Management
@@ -1376,7 +1632,6 @@ El equipo ha optado por utilizar distintos modelos de ramificación según el ti
     fix(api): handle null user tokens
 
 #### 5.1.3. Source Code Style Guide & Conventions
-
 El equipo ha adoptado guías de estilo y convenciones de codificación para cada uno de los lenguajes utilizados. Estas convenciones permiten que todos los miembros del equipo desarrollen bajo un estándar común y que el código sea comprensible tanto para desarrolladores actuales como futuros.
 
 **Nomenclatura general:**
@@ -1457,7 +1712,6 @@ Para el desarrollo del frontend, el equipo utilizará **Angular 17**, basado en 
     - Estilos reutilizables mediante clases utilitarias.
 
 #### 5.1.4. Software Deployment Configuration
-
 La configuración de despliegue para TravelMatch contempla mecanismos organizados para publicar correctamente cada uno de los productos digitales del sistema: **Landing Page**, **Web Services (Backend)** y **Frontend Web Application**. Esta configuración garantiza que el equipo pueda replicar y mantener el proceso de despliegue con consistencia y trazabilidad.
 
 ---
@@ -1532,19 +1786,176 @@ La configuración de despliegue para TravelMatch contempla mecanismos organizado
 
 ##### 5.2.1.1. Sprint Planning 1
 
+|**Sprint #**|` `Sprint 1|
+| :- | :- |
+|` `**Date**|2025-04-23|
+|**Time**|` `1:30 PM|
+|**Location**|` `Virtual - Meet|
+|**Prepared By**|Jhon Galvez|
+|` `**Attendees (to planning meeting)**|Jhon Galvez, Mathias Aspajo, Farid Briceño, Jorge Guevara, Cesar Linares|
+|` `**Sprint n - 1 Review Summary**|Este es el primer Sprint, por lo que este campo no aplica|
+|` `**Sprint n - 1 Retrospective Summary**|Este es el primer Sprint, por lo que este campo no aplica|
+|**Sprint 1 Goal**|En este sprint, nos enfocaremos en desarrollar la landing page de nuestra aplicación, ya que consideramos que será clave para ofrecer una presentación atractiva y efectiva del producto a los potenciales usuarios. Evaluaremos el éxito de esta implementación cuando el número de visitas a la página alcance un umbral previamente establecido.|
+|` `**Sprint 1 Velocity**|Nuestro equipo puede aceptar hasta 35 story points|
+|` `**Sum of Story Points**|La suma de Story Points atendidos es de 32 story points|
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
 ##### 5.2.1.3. Sprint Backlog 1
 
+Durante la primera iteración de desarrollo, implementamos los componentes esenciales de la página de inicio, los elementos de interfaz y el menú de navegación
+
+
+|Sprint #|Sprint 1|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task|||||||
+|Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p>|Assigned To|<p>Status</p><p>(To-do /</p><p>InProcess /</p><p>ToReview /</p><p>Done)</p>|
+|` `US-01|Registro básico|T01|Desarrollar un sistema de registro de usuarios.|La página web debe incluir una funcionalidad que permita a los usuarios registrarse o crear una cuenta personal.|1|Jhon Galvez|Done|
+|` `US-02|Inicio de sesión|T02|Desarrollo del módulo de inicio de sesión|Es necesario desarrollar un sistema que permita a los usuarios ya registrados ingresar sus credenciales para acceder a su perfil personal.|1|Jhon Galvez|Done|
+|` `US-31|Navegación por el landing page|T03|Construcción de la plataforma web|Se debe desarrollar la estructura base del sitio web, garantizando su correcta navegación y funcionamiento, como punto de partida para implementar la landing page.|0\.5|Jhon Galvez|Done|
+|` `US-32|Ver información del startup|T04|Presentación del trabajo|Incluir una sección dedicada a mostrar a los miembros del equipo de desarrollo|0\.5|Jhon Galvez|Done|
+|` `US-33|Conocer la misión de la startup|T05|Información de la misión de la Startup|Agregar un apartado que exponga claramente la misión de la startup.|0\.5|Jhon Galvez|Done|
+|` `US-34|Contactar al equipo de soporte (Versión usuario)|T06|Formulario de contacto para soporte|Incorporar un formulario dentro de la landing page que permita a los usuarios enviar consultas o mensajes al equipo de atención al cliente o soporte técnico.|2|Jhon Galvez|Done|
+|` `US-35|Visualización responsive|T07|Adaptabilidad a dispositivos móviles|El sitio web debe estar optimizado para garantizar una experiencia de navegación cómoda y fluida desde smartphones y otros dispositivos móviles.|2|Jhon Galvez|Done|
+|` `US-36|Contactar al equipo de soporte (Versión agencia)|T08|Formulario de contacto para agencias|Incluir un formulario exclusivo para agencias, donde puedan realizar consultas, expresar su interés en colaborar o solicitar información adicional sobre los servicios y beneficios que ofrece la plataforma para sus operaciones.|2|Jhon Galvez|Done|
+|` `US-37|Modelo de monetización|T09|Sección informativa para agencias|Agregar una sección dedicada a explicar claramente cómo las agencias pueden generar ingresos a través del uso de la aplicación.|0.5|Jhon Galvez|Done|
+
 ##### 5.2.1.4. Development Evidence for Sprint Review
+
+En esta parte, mostramos el proceso que seguimos para diseñar y mantener actualizada la landing page.
+
+|**Repository**|**Branch**|**Commit ID**|**Commit Message**|<p>**Commit Message**</p><p>` `**Body**</p>|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|G2-Aplicaciones-Open-Source/Landing-Page|develop|a859949|feat: Implementación de contenido en las secciones de la landing page||23/04/2025|
+|G2-Aplicaciones-Open-Source/Landing-Page|develop|645844c|feat: Implementación de navegación y redireccionamientos||23/04/2025|
+|G2-Aplicaciones-Open-Source/Landing-Page|develop|5265378|feat: Mejora de responsividad y funcionalidades interactivas||23/04/2025|
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
+|Epic / Story ID|Título|Criterios de Aceptación|
+| :- | :- | :- |
+|` `US31|Navegación por el landing page|Dado que el usuario está en la página principal, cuando haga clic en cualquier ítem del menú, entonces va redirigido a la sección correspondiente.|
+|` `US32|Ver información del startup|Dado que voy a "Nuestro equipo", cuando hago scroll, entonces veo nombres de cada miembro.|
+|` `US33|Conocer la misión de la startup|Dado que accedo a "Sobre nosotros", cuando leo la sección de misión, entonces encuentro al menos 3 valores clave.|
+|` `US34|Contactar al equipo de soporte|Dado que completo el formulario, cuando hago clic en "Enviar", entonces recibo un email de confirmación.|
+
+Demo del Landing Page: [upc-pre-202510-1asi0729-4328-Pandora-landing-navigation-sprint-1 ](https://youtu.be/ijkidI-RlOQ)
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En este Sprint, el foco estuvo centrado exclusivamente en el desarrollo del frontend estático (Landing Page) del proyecto TravelMatch. Por esta razón, no se han trabajado endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
+
+La documentación de Web Services utilizando OpenAPI/Swagger será considerada en futuros Sprints, una vez que se inicie la implementación del backend del sistema.
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+Durante este Sprint, se llevó a cabo el despliegue de la landing page del proyecto TravelMatch, como primer paso en la publicación progresiva de los productos del sistema. Esta actividad se enmarca dentro del objetivo de validar visualmente los avances de diseño e interacción con el cliente y equipo docente.
+
+**Actividades Realizadas**
+
+- Configuración del repositorio GitHub y estructura inicial de carpetas.
+- Implementación de flujo de trabajo con Git Flow, manteniendo los cambios en la rama develop.
+- Realización de un merge desde develop hacia la rama main, de acuerdo a las convenciones definidas en la sección 5.1.2.
+- Activación de GitHub Pages como servicio de despliegue estático, apuntando al contenido de la rama main.
+- Publicación exitosa de la landing page accesible a través de una URL pública.
+
+**URL de la landing page desplegada:** https://g2-aplicaciones-open-source.github.io/landing-page/
+
+**Evidencias visuales**
+
+- Configuración del repositorio GitHub y estructura inicial de carpetas.
+
+    - Creamos un repositorio para la landing page dentro de la organizacion. La configuramos para que sea de tipo publico
+    <p align="center">
+        <img src="assets/evidencias/repo-config.png" alt="repo-config"/>
+    </p>
+
+    - Una vez dentro copiamos la direccion HTTPS del repositorio y la clonamos en nuestro entorno local con el comando `git clone`. Preparamos una estructura de carpetas similar a la siguiente en nuestra maquina:
+    <p align="center">
+        <img src="assets/evidencias/folders-struct.png" alt="folders-struct"/>
+    </p>
+
+- Implementación de flujo de trabajo con Git Flow, manteniendo los cambios en la rama `develop`.
+    - Desde la consola, creamos un push inicial en la rama remota `main` usando el comando `git push origin main` con un mensaje commit descriptivo.
+    <p align="center">
+        <img src="assets/evidencias/initial-commit-landing.png" alt="initial-commit-landing"/>
+    </p>
+
+    - El siguiente paso es crear la rama local `develop` usando el comando `git checkout -b develop`, la creamos de manera remota con `git push origin develop`. Las ramas `feature/*` se crearan de la misma forma, pero hay que tener en cuenta que siempre se deben crear a partir de la rama `develop`, por lo que un paso previo es asegurarnos que estamos en la rama correcta con `git checkout develop`. El resultado de este proceso es el siguiente:
+    <p align="center">
+        <img src="assets/evidencias/landing-repo-branches.png" alt="landing-repo-branches"/>
+    </p>
+
+- Realización de un merge desde develop hacia la rama main, de acuerdo a las convenciones definidas en la sección 5.1.2.
+    - Antes de realizar el merge, se revisaron los cambios mediante un pull request en GitHub, asegurando que no existieran conflictos y que el código cumpliera con los estándares definidos.        
+    - Se realizaron pruebas manuales usando la extension Live Server para verificar la funcionalidad de la landing page antes de fusionar los cambios.    
+
+- Activación de GitHub Pages como servicio de despliegue estático, apuntando al contenido de la rama main.
+    - En la configuración del repositorio, se seleccionó la rama `main` como fuente para GitHub Pages. Esto se realizó desde la pestaña "Settings" > "Pages" en GitHub.    
+    - Se verificó que la URL generada por GitHub Pages estuviera activa y mostrara correctamente el contenido de la landing page.
+    <p align="center">
+        <img src="assets/evidencias/landing-page-deploy-config.png" alt="landing-deploy-config"/>
+    </p>
+
+- Publicación exitosa de la landing page accesible a través de una URL pública.
+
+<p align="center">
+    <img src="assets/evidencias/landing-demo-index1.png" alt="landing-demo1"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-demo-index2.png" alt="landing-demo2"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-demo-signup.png" alt="landing-demo3"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-demo-login.png" alt="landing-demo4"/>    
+</p>
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Durante este Sprint, el equipo colaboró activamente en el desarrollo de la landing page de TravelMatch, siguiendo las buenas prácticas de control de versiones con Git, estructuración del trabajo bajo el flujo Git Flow, y división de responsabilidades alineada con los roles de desarrollo y diseño definidos desde el inicio del proyecto.
+
+**Estrategia de colaboración empleada:**
+
+- Uso de ramas específicas (feature/, develop, main) para el desarrollo organizado de funcionalidades.
+
+- Implementación de convenciones de commits mediante Conventional Commits, facilitando la trazabilidad.
+
+- Pull requests revisadas por otros miembros antes de integrarse a develop.
+
+- Reuniones cortas (dailys o check-ins semanales) para seguimiento y desbloqueo de tareas.
+
+- Evidencia de avance por miembro:
+
+    - Jhon Galvez: Commits relacionados a hojas de estilo, assets y index principal
+    <p align="center">
+        <img src="assets/evidencias/landinv2-commits-jhon.png" alt="landingv2-commits-jhon"/>    
+    </p>
+
+    - Mathias Aspajo: Commits relacionados a la vista del login y su hoja de estilo
+    <p align="center">
+        <img src="assets/evidencias/" alt="landingv2-commits-mathias"/>    
+    </p>
+
+    - Jorge Guevara: Commits relacionados a las vistas de registro y su hoja de estilo
+    <p align="center">
+        <img src="assets/evidencias/" alt="landingv2-commits-jorge"/>    
+    </p>
+
+    - Cesar Linares: Commits relacionados a scripts de la pagina
+    <p align="center">
+        <img src="assets/evidencias/" alt="landingv2-commits-cesar"/>    
+    </p>
+
+    - Farid Briceño: Commits relacionados al desarrollo de la vista del index para agencias
+    <p align="center">
+        <img src="assets/evidencias/" alt="landingv2-commits-farid"/>    
+    </p>
+
 
 <hr>
 

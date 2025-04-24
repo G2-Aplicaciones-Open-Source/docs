@@ -1850,15 +1850,15 @@ Durante la primera iteración de desarrollo, implementamos los componentes esenc
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story|Work-Item / Task|||||||
 |Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p>|Assigned To|<p>Status</p><p>(To-do /</p><p>InProcess /</p><p>ToReview /</p><p>Done)</p>|
-|` `US-01|Registro básico|T01|Desarrollar un sistema de registro de usuarios.|La página web debe incluir una funcionalidad que permita a los usuarios registrarse o crear una cuenta personal.|1|Jhon Galvez|Done|
-|` `US-02|Inicio de sesión|T02|Desarrollo del módulo de inicio de sesión|Es necesario desarrollar un sistema que permita a los usuarios ya registrados ingresar sus credenciales para acceder a su perfil personal.|1|Jhon Galvez|Done|
-|` `US-31|Navegación por el landing page|T03|Construcción de la plataforma web|Se debe desarrollar la estructura base del sitio web, garantizando su correcta navegación y funcionamiento, como punto de partida para implementar la landing page.|0\.5|Jhon Galvez|Done|
+|` `US-01|Registro básico|T01|Desarrollar un sistema de registro de usuarios.|La página web debe incluir una funcionalidad que permita a los usuarios registrarse o crear una cuenta personal.|1|Jorge Guevara|Done|
+|` `US-02|Inicio de sesión|T02|Desarrollo del módulo de inicio de sesión|Es necesario desarrollar un sistema que permita a los usuarios ya registrados ingresar sus credenciales para acceder a su perfil personal.|1|Mathias Aspajo|Done|
+|` `US-31|Navegación por el landing page|T03|Construcción de la plataforma web|Se debe desarrollar la estructura base del sitio web, garantizando su correcta navegación y funcionamiento, como punto de partida para implementar la landing page.|0\.5|Jhon Galvez, Cesar Linares|Done|
 |` `US-32|Ver información del startup|T04|Presentación del trabajo|Incluir una sección dedicada a mostrar a los miembros del equipo de desarrollo|0\.5|Jhon Galvez|Done|
-|` `US-33|Conocer la misión de la startup|T05|Información de la misión de la Startup|Agregar un apartado que exponga claramente la misión de la startup.|0\.5|Jhon Galvez|Done|
+|` `US-33|Conocer la misión de la startup|T05|Información de la misión de la Startup|Agregar un apartado que exponga claramente la misión de la startup.|0\.5|Jhon Galvez, Farid Briceño|Done|
 |` `US-34|Contactar al equipo de soporte (Versión usuario)|T06|Formulario de contacto para soporte|Incorporar un formulario dentro de la landing page que permita a los usuarios enviar consultas o mensajes al equipo de atención al cliente o soporte técnico.|2|Jhon Galvez|Done|
-|` `US-35|Visualización responsive|T07|Adaptabilidad a dispositivos móviles|El sitio web debe estar optimizado para garantizar una experiencia de navegación cómoda y fluida desde smartphones y otros dispositivos móviles.|2|Jhon Galvez|Done|
-|` `US-36|Contactar al equipo de soporte (Versión agencia)|T08|Formulario de contacto para agencias|Incluir un formulario exclusivo para agencias, donde puedan realizar consultas, expresar su interés en colaborar o solicitar información adicional sobre los servicios y beneficios que ofrece la plataforma para sus operaciones.|2|Jhon Galvez|Done|
-|` `US-37|Modelo de monetización|T09|Sección informativa para agencias|Agregar una sección dedicada a explicar claramente cómo las agencias pueden generar ingresos a través del uso de la aplicación.|0.5|Jhon Galvez|Done|
+|` `US-35|Visualización responsive|T07|Adaptabilidad a dispositivos móviles|El sitio web debe estar optimizado para garantizar una experiencia de navegación cómoda y fluida desde smartphones y otros dispositivos móviles.|2|Jhon Galvez, Cesar Linares|Done|
+|` `US-36|Contactar al equipo de soporte (Versión agencia)|T08|Formulario de contacto para agencias|Incluir un formulario exclusivo para agencias, donde puedan realizar consultas, expresar su interés en colaborar o solicitar información adicional sobre los servicios y beneficios que ofrece la plataforma para sus operaciones.|2|Farid Briceño|Done|
+|` `US-37|Modelo de monetización|T09|Sección informativa para agencias|Agregar una sección dedicada a explicar claramente cómo las agencias pueden generar ingresos a través del uso de la aplicación.|0.5|Farid Briceño|Done|
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 

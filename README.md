@@ -1448,20 +1448,86 @@ Los mock-ups de la Landing Page de TravelMatch representan la traducción visual
 ### 4.6. Domain-Driven Software Architecture
 
 #### 4.6.1. Software Architecture Context Diagrams
+<p align="center">
+    <img src="assets/recursos/diagrama de contexto.png" alt="Diagrama de Contexto"/>
+</p>
 
 #### 4.6.2. Software Architecture Container Diagrams
+ <img src="assets/recursos/diagrama de contenedores.png" alt="Diagrama de Contenedores"/>
 
 #### 4.6.3. Software Architecture Components Diagrams
 
+<img src="assets/recursos/diagrama de componentes 1.png" alt="Diagrama de Contenedores"/>
+<br></br>
+<br></br>
+<img src="assets/recursos/diagrama de componentes 2.png" alt="Diagrama de Contenedores"/>
+<br></br>
+<br></br>
+<img src="assets/recursos/diagrama de componentes 3.png" alt="Diagrama de Contenedores"/>
+<br></br>
+<br></br>
+<img src="assets/recursos/diagrama de componentes 4.png" alt="Diagrama de Contenedores"/>
+<br></br>
+
 ### 4.7. Software Object-Oriented Design
+
+La orientación a objetos será fundamental en nuestro proyecto. Organizamos el software siguiendo nuestras reglas de negocio, lo que nos permite desarrollar componentes claros para su implementación en un sistema real, además de facilitar su adaptación y mantenimiento.
 
 #### 4.7.1. Class Diagrams
 
+<p align="center">
+    <img src="assets/recursos/class_diagram.png" alt="Class-Diagram"/>
+</p>
+
 #### 4.7.2. Class Dictionary
+
+| **Clase** | **Nombre de atributo** | **Descripción** | **Tipo de dato**
+|:---------:|:----------------------:|:---------------:|:----------------:|
+| Usuario | id | Identificador único | String |
+| Usuario | nombre | Nombre de usuario | String |
+| Usuario | email | Correo electrónicio del usuario | String |
+| Usuario | contrasenia | Contraseña encriptada | String |
+| Usuario | telefono | Contacto opcional | String |
+| Turista | nacionalidad | País de origen | String |
+| Turista | pasaporte | Número de documento | String |
+| ViajeroCorporativo | empresa | Nombre de la compañía | String |
+| ViajeroCorporativo | ruc | Identificador fiscal | String |
+| AgenciaTurismo | ruc | Identificador fiscal | String |
+| AgenciaTurismo | direccionLegal | Domicilio registrado | String |
+| AgenciaTurismo | licenciaTuristica | Número de autorización | String |
+| Reserva | fechaCreacion | Fecha de registro | Date |
+| Reserva | fechaServicio | Fecha agendada | Date |
+| Reserva | estado | El estado de la reserva (Pendiente/Confirmada/Cancelada) | ENUM |
+| Reserva | montoTotal | Precio final | Float |
+| Pago | metodo | El método de pago usado en la reserva (Tarjeta/Transferencia/Efectivo) | ENUM |
+| Pago | monto | Valor pagado | Float |
+| Pago | fecha | Fecha de realización del pago | Date |
+| Pago | estado | Estado del pago (Pendiente/Confirmado/Denegado) | ENUM |
+| Disponibilidad | fechaInicio | Fecha del inicio del rango disponible | Date |
+| Disponibilidad | fechaFin | Fecha del fin del rango disponible | Date |
+| Disponibilidad | cuposDisponibles | Cantidad restante de cupos | Int |
+| ServicioTuristico | nombre | Título del servicio | String |
+| ServicioTuristico | descripcion | Descripción concisa del servicio | String |
+| ServicioTuristico | precioBase | Precio del servicio | Float |
+| Ubicacion | direccion | Ubicación exacta | String |
+| Ubicacion | coordenadas | Latitud/Longitud | String |
+| Notificacion | fecha | Fecha de generación de la notificación | Date |
+| Notificacion | contenido | Texto personalizado | String |
+| Notificacion | canal | Medio en el que se envían las notificaciones (Email/SMS) | ENUM |
+| Notificacion | estado | Estado de la notificación (Enviada, Pendiente, Fallida) | ENUM |
+| PlantillaNotificacion | asunto | Línea de asunto | String |
+| PlantillaNotificacion | cuerpo | Texto base con placeholders | String |
+| PlantillaNotificacion | tipo | Tipo de notificación enviada (Mantenimiento, Noticias) | ENUM |
 
 ### 4.8. Database Design
 
+El diseño de base de datos es funamental para estructurar y almacenar todos los datos a utilizar en el proyecto. Su propósito principal es el de organizar los datos de forma lógica y cohesiva, permitiendo el recuperar, modificar o borrar según las acciones de los usuarios.
+
 #### 4.8.1. Database Diagram
+
+<p align="center">
+    <img src="assets/recursos/database_diagram.png" alt="Database-Diagram"/>
+</p>
 
 <hr>
 

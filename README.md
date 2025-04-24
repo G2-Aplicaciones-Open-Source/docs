@@ -593,6 +593,7 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 |----|-----|
 |Edad|44|
 |Residencia|Lima|
+|Segmento|Agencia|
 |Enlace de la entrevista| [https://youtu.be/hdzxGndELyA](https://youtu.be/hdzxGndELyA)|
 
 </div>
@@ -613,6 +614,7 @@ _Resumen:_ La entrevistada menciona que en su agencia utilizan principalmente re
 |----|-----|
 |Edad|28|
 |Residencia|Lima|
+|Segmento|Agencia|
 |Enlace de la entrevista| [https://youtu.be/zkip_T6onFg](https://youtu.be/zkip_T6onFg)|
 
 </div>
@@ -653,9 +655,12 @@ _Resumen:_ El entrevistado comenta que utilizan redes sociales como Facebook, In
 |----|-----|
 |Edad|20|
 |Residencia|Lima|
+|Segmento|Turista Nacional|
 |Enlace de la entrevista| [https://youtu.be/EetEBccMXDg](https://youtu.be/EetEBccMXDg)|
 
 </div>
+
+_Resumen:_ El entrevistado, un turista limeño de 20 años, organiza sus viajes inspirándose en redes sociales como Instagram y TikTok, y complementa su planificación con Google Maps, TripAdvisor y blogs de viaje. Le da gran importancia a la personalización de sus experiencias, priorizando actividades culturales, de aventura y fotografía. Aunque prefiere paquetes turísticos bien estructurados, a menudo encuentra opciones costosas o genéricas, por lo que valora plataformas que permitan comparar precios, duración y opiniones en un solo lugar. Está dispuesto a pagar más por experiencias auténticas y personalizadas, y le resulta cómodo hacer reservas desde su celular, siempre que la app sea intuitiva. También considera esencial poder comunicarse con la agencia antes de reservar y recibir recomendaciones según su ubicación e intereses.
 
 ---
 
@@ -671,9 +676,12 @@ _Resumen:_ El entrevistado comenta que utilizan redes sociales como Facebook, In
 |----|-----|
 |Edad|20|
 |Residencia|Chile|
+|Segmento|Turista Internacional|
 |Enlace de la entrevista| [https://youtu.be/3z10bH6wOBY](https://youtu.be/3z10bH6wOBY)|
 
 </div>
+
+_Resumen:_ El entrevistado, turista chileno de 23 años, organiza sus viajes por Perú con anticipación usando Google Travel, Booking.com y YouTube, priorizando experiencias auténticas alejadas del turismo convencional. Valora especialmente las actividades culturales y gastronómicas, como visitar mercados y museos, y suele reservar por separado para tener mayor control, aunque considera paquetes si están bien estructurados. Le resulta esencial comparar precios, duración y opiniones desde una sola plataforma, y confía principalmente en las reseñas de otros viajeros. Está dispuesto a pagar más por experiencias únicas que beneficien a comunidades locales, y aprecia recibir recomendaciones personalizadas según su ubicación e intereses. Además, considera muy cómodo hacer reservas desde su celular y le parece crucial poder contactar a la agencia antes de reservar, especialmente para resolver dudas sobre idioma, disponibilidad o detalles del tour.
 
 ---
 
@@ -689,9 +697,12 @@ _Resumen:_ El entrevistado comenta que utilizan redes sociales como Facebook, In
 |----|-----|
 |Edad|21|
 |Residencia|Arequipa|
+|Segmento|Turista Nacional|
 |Enlace de la entrevista| [https://youtu.be/CLrBogoQrVM](https://youtu.be/CLrBogoQrVM)|
 
 </div>
+
+_Resumen:_ El entrevistado, mochilero arequipeño de 21 años, organiza sus viajes de forma espontánea utilizando grupos de Facebook, Telegram y TikTok para encontrar recomendaciones de última hora. Valora la personalización de sus experiencias y prefiere improvisar sobre la marcha, adaptando sus actividades según su estado de ánimo, el clima o la gente que conoce. Sus intereses se centran en la gastronomía y actividades culturales accesibles o gratuitas. Prefiere reservar servicios por separado para mantener flexibilidad y controlar su presupuesto. Considera crucial poder comparar precios y valoraciones en una sola plataforma, y confía en las opiniones de otros jóvenes mochileros. Aunque busca opciones económicas, está dispuesto a pagar más por experiencias únicas. Para él, es fundamental recibir recomendaciones personalizadas según su ubicación y contar con opciones de pago como Yape o Plin. Además, valora poder contactar con la agencia antes de reservar y suele llegar a destinos sin itinerario fijo, confiando en su celular como herramienta principal para planificar y reservar en el camino.
 
 ---
 
@@ -754,10 +765,39 @@ _Resumen:_ El entrevistado, quien por su trabajo viaja con frecuencia a Paracas,
 #### 2.2.3. Análisis de entrevistas
 
 - **Segmento objetivo 1 - Dueños de agencia de viajes**
-    Para este segmento
+   <br></br>
+    **Entrevista 1: María Rodríguez Benites**
+
+    Análisis de la entrevista:
+María representa el perfil de una profesional del sector turístico que valora profundamente el uso de canales digitales como redes sociales y plataformas como Google Ads y TripAdvisor para atraer clientes. Reconoce la efectividad de estos medios, pero también evidencia una necesidad operativa no resuelta: la falta de sincronización en tiempo real de la disponibilidad de paquetes, especialmente durante temporadas altas. Esto muestra una oportunidad clara de mejora tecnológica en el sector. María busca una solución más integrada que combine reservas, pagos y marketing en una sola plataforma eficiente. Valora funcionalidades como métodos de pago flexibles, disponibilidad en tiempo real y soporte técnico confiable. Está dispuesta a pagar una comisión por reserva si la plataforma le garantiza retorno en visibilidad, eficiencia operativa y ventas, lo cual refleja un enfoque orientado a resultados y sostenibilidad del negocio.
+
+
+  **Entrevista 2: Tony Blades Sarmiento**
+    
+    Análisis de la entrevista:
+Tony refleja la perspectiva de un agente turístico que utiliza herramientas digitales como redes sociales y una página web, aunque con limitaciones en su funcionamiento actual. Si bien reconoce su utilidad, considera que no son del todo eficientes para satisfacer las necesidades operativas de su negocio. Un punto crítico que menciona es la confirmación de pagos y la falta de coordinación con clientes indecisos, lo cual evidencia la necesidad de una mejor gestión de la comunicación y los procesos de compra. Tony muestra interés en contar con una plataforma integral e intuitiva que le permita unificar funciones clave como pagos, mensajería directa y análisis de datos. Además, está dispuesto a pagar una suscripción, especialmente si la herramienta le ofrece mejores resultados en temporadas altas, lo que indica un enfoque estratégico hacia la eficiencia y la conversión durante periodos clave de demanda.
+
 
 - **Segmento objetivo 2 - Turistas nacionales e internacionales**
-    Para este segmento
+<br></br>
+    **Entrevista 4: Adrián David Yañez Méndez**
+
+    Análisis de la entrevista:
+Adrián organiza sus viajes influenciado principalmente por redes sociales, lo que muestra una fuerte conexión con plataformas visuales y modernas. A pesar de preferir paquetes turísticos, sufre por la falta de opciones personalizadas a precios accesibles. Su perfil revela una clara disposición a pagar por experiencias auténticas y de calidad, pero exige plataformas que le faciliten la comparación de precios y comentarios, y que sean intuitivas en el celular. La posibilidad de recibir recomendaciones personalizadas y contactar directamente a la agencia es clave para él, ya que busca tener certeza y control antes de reservar. Su comportamiento refleja una necesidad de tecnología práctica, confiable y adaptada a sus intereses culturales y fotográficos.
+
+
+
+    **Entrevista 5: Sebastian Alonso Arevalo Torres**
+    
+    Análisis de la entrevista:
+Sebastián planifica con antelación y valora mucho la autenticidad de sus experiencias. Se informa extensamente a través de plataformas tradicionales como Google Travel y YouTube, lo cual indica que es un viajero meticuloso. Tiende a organizar por su cuenta, pero está abierto a paquetes si estos se ajustan a sus intereses. Considera esencial la posibilidad de comparar precios y opiniones en una sola plataforma, lo que indica su preferencia por una toma de decisiones informada. También demuestra conciencia social, ya que está dispuesto a pagar más por experiencias que beneficien a comunidades locales. Su comportamiento exige una plataforma confiable, con buenas reseñas y atención personalizada que funcione eficientemente desde su celular.
+
+
+    **Entrevista 6:Diego Edinson Santiago Lima**
+
+    Análisis de la entrevista:
+Diego representa al viajero mochilero espontáneo que prefiere descubrir actividades sobre la marcha. Usa principalmente redes sociales y grupos comunitarios como fuentes de información, lo cual evidencia una fuerte conexión con herramientas informales y colaborativas. Valora la flexibilidad, las actividades accesibles y la posibilidad de personalización en tiempo real. Aunque tiene un presupuesto ajustado, está dispuesto a invertir más en experiencias auténticas. Busca plataformas que le permitan comparar fácilmente precios y opiniones, y que acepten métodos de pago locales como Yape o Plin. Su perfil muestra una necesidad urgente de una app que funcione bien en celular, que ofrezca recomendaciones basadas en ubicación y que permita contacto directo con las agencias para asegurar confianza y rapidez en la toma de decisiones.
+
 
 - **Segmento objetivo 3 - Turistas corporativos**
     Para este segmento

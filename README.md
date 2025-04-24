@@ -1566,8 +1566,153 @@ El equipo ha optado por utilizar distintos modelos de ramificación según el ti
     fix(api): handle null user tokens
 
 #### 5.1.3. Source Code Style Guide & Conventions
+El equipo ha adoptado guías de estilo y convenciones de codificación para cada uno de los lenguajes utilizados. Estas convenciones permiten que todos los miembros del equipo desarrollen bajo un estándar común y que el código sea comprensible tanto para desarrolladores actuales como futuros.
+
+**Nomenclatura general:**
+
+- Todos los identificadores, comentarios y documentación del código se escribirán en inglés.
+- Se utilizará el sistema de control de calidad en revisiones por pull request para verificar que las convenciones se cumplan antes de fusionar el código a la rama `develop`.
+
+---
+
+**Backend: Java con Spring Boot**
+
+Para el desarrollo de los servicios web de TravelMatch, se utilizará **Java 17** junto con el framework **Spring Boot**. Se adoptan las siguientes convenciones:
+
+- **Guía de estilo base:**  
+  [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
+- **Estructura de paquetes basada en Domain-Driven Design (DDD):**  
+  - `com.travelmatch.domain`  
+  - `com.travelmatch.application`  
+  - `com.travelmatch.infrastructure`  
+  - `com.travelmatch.api`  
+
+- **Nomenclatura:**  
+  - Clases nombradas en **CamelCase**:  
+    Ejemplo: `TravelExperienceService`, `UserProfileRepository`  
+  - Métodos y variables en **lowerCamelCase**:  
+    Ejemplo: `findAllExperiences()`, `userEmail`  
+
+- **Documentación:**  
+  - Uso obligatorio de **Javadoc** para describir métodos y clases públicas.
+
+- **Separación lógica del código:**  
+  - Cada capa debe tener responsabilidades claras:  
+    - Controladores (`@RestController`)  
+    - Servicios (`@Service`)  
+    - Repositorios (`@Repository`)  
+    - Modelos  
+
+- **Anotaciones de Spring:**  
+  - Uso de anotaciones como `@RestController`, `@Service`, `@Repository` para reforzar la estructura y mantener la claridad del código.
+
+---
+
+**Frontend: Angular Framework (TypeScript, HTML, CSS)**
+
+Para el desarrollo del frontend, el equipo utilizará **Angular 17**, basado en **TypeScript**, junto con **HTML** y **CSS**. Las convenciones son:
+
+- **Guías de estilo base:**  
+  - [Angular Style Guide (Oficial)](https://angular.io/guide/styleguide)  
+  - [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+
+- **Estructura modular y escalable:**  
+  - Cada componente, servicio o módulo tendrá su propio directorio.
+
+- **Nomenclatura de archivos:**  
+  - Archivos nombrados con **kebab-case**:  
+    - Componentes: `featured-experience.component.ts`  
+    - Servicios: `auth.service.ts`  
+    - HTML y CSS asociados seguirán el mismo nombre base.
+
+- **Nomenclatura de clases y componentes:**  
+  - Componentes y clases en **UpperCamelCase**:  
+    Ejemplo: `FeaturedExperienceComponent`, `AuthService`, `UserModel`  
+  - Variables, métodos y propiedades en **lowerCamelCase**.
+
+- **Modelos de datos:**  
+  - Uso de **interfaces** para definir modelos de datos (e.g., `User`, `Experience`, `Agency`) y asegurar tipado fuerte.
+
+- **HTML:**  
+  - Buenas prácticas semánticas y accesibles:  
+    Uso de etiquetas apropiadas (`<main>`, `<section>`, `<button>`, etc.).
+
+- **CSS:**  
+  - Convenciones basadas en el [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html):  
+    - Nombres de clase descriptivos en inglés:  
+      Ejemplo: `.experience-card`, `.agency-header`  
+    - Agrupación por tipo de selector.  
+    - Estilos reutilizables mediante clases utilitarias.
 
 #### 5.1.4. Software Deployment Configuration
+La configuración de despliegue para TravelMatch contempla mecanismos organizados para publicar correctamente cada uno de los productos digitales del sistema: **Landing Page**, **Web Services (Backend)** y **Frontend Web Application**. Esta configuración garantiza que el equipo pueda replicar y mantener el proceso de despliegue con consistencia y trazabilidad.
+
+---
+
+**Despliegue del Landing Page**
+
+- **Tecnología:**  
+  HTML5, CSS3, JavaScript (Vanilla), diseño responsivo.
+
+- **Repositorio GitHub:**  
+  [https://github.com/G2-Aplicaciones-Open-Source/landing-page](https://github.com/G2-Aplicaciones-Open-Source/landing-page)
+
+- **Plataforma de despliegue:**  
+  GitHub Pages
+
+- **Método de despliegue:**  
+  - La rama `main` contiene la versión estable y publicada del sitio.  
+  - El contenido del directorio raíz se mantiene como fuente para GitHub Pages.  
+  - Los cambios aprobados en `develop` son fusionados a `main` mediante pull request.  
+  - GitHub Pages actualiza automáticamente la publicación al detectar cambios en `main`.
+
+---
+
+**Despliegue del Backend (Web Services)**
+
+- **Tecnología:**  
+  Java 17 + Spring Boot.
+
+- **Repositorio GitHub:**  
+  [https://github.com/G2-Aplicaciones-Open-Source/backend-java](https://github.com/G2-Aplicaciones-Open-Source/backend-java)
+
+- **Plataforma de despliegue:**  
+  Render o Railway (por definir).
+
+- **Método de despliegue:**  
+  - El backend se empaqueta como un archivo `.jar` con Gradle o Maven.  
+  - Se configura un pipeline de despliegue automático o manual desde el repositorio hacia el servicio en la nube.  
+  - Las variables de entorno (como credenciales de base de datos) se almacenan de forma segura en la plataforma de hosting.  
+  - El servicio se expone mediante una URL pública que el frontend puede consumir vía HTTP/REST.
+
+---
+
+**Despliegue del Frontend Web Application**
+
+- **Tecnología:**  
+  Angular 17 (TypeScript, HTML, SCSS/CSS).
+
+- **Repositorio GitHub:**  
+  [https://github.com/G2-Aplicaciones-Open-Source/frontend-angular](https://github.com/G2-Aplicaciones-Open-Source/frontend-angular) 
+
+- **Plataforma de despliegue:**  
+  Vercel o Netlify (por definir).
+
+- **Método de despliegue:**  
+  - Angular se compila con `ng build --prod` para generar los archivos estáticos de producción.  
+  - La rama `main` sirve como fuente para el despliegue.  
+  - La plataforma detecta cambios en `main` y publica automáticamente la nueva versión del frontend.  
+  - El archivo `environment.ts` de producción incluirá la URL pública del backend para permitir integración total.
+
+---
+
+**Consideraciones Finales**
+
+- Se documentará el procedimiento de despliegue paso a paso en la wiki del repositorio principal.  
+- Los entornos de desarrollo y producción estarán claramente separados mediante archivos de configuración.  
+- Se establecerán pruebas manuales básicas post-despliegue para verificar la disponibilidad y funcionalidad de los servicios.  
+- Si el tiempo lo permite, se evaluará la incorporación de **GitHub Actions** para automatizar los flujos de despliegue continuo (CI/CD).
 
 ### 5.2. Landing Page, Services & Applications Implementation
 

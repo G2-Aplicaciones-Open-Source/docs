@@ -1585,7 +1585,7 @@ Para asegurar la consistencia, trazabilidad y calidad del producto digital Trave
 | Requirements Management | UXPressia | Creación y documentación de User Personas y customer journeys. | https://uxpressia.com |
 | Product UX/UI Design | Figma | Creación de wireframes y mockups de la interfaz de usuario. | https://figma.com |
 | Modelado de Software | Visual Paradigm | Modelado de arquitectura de software: diagramas de contexto, Bounded Contexts, etc. | https://visual-paradigm.com |
-| Frontend Development | Visual Studio Code | Editor de código para el desarrollo del Landing Page y Frontend (Vue). | https://code.visualstudio.com |
+| Frontend Development | Visual Studio Code | Editor de código para el desarrollo del Landing Page y Frontend (Angular). | https://code.visualstudio.com |
 | Backend Development | IntelliJ IDEA | Entorno de desarrollo para el backend en Java con Spring Boot. | https://www.jetbrains.com/idea/ |
 | Version Control | GitHub | Repositorio de control de versiones para todos los productos digitales. | https://github.com |
 | Software Documentation | Markdown | Redacción de documentación técnica del proyecto. | Compatible con GitHub / editores de texto |
@@ -1880,11 +1880,123 @@ En esta parte, mostramos el proceso que seguimos para diseñar y mantener actual
 |` `US33|Conocer la misión de la startup|Dado que accedo a "Sobre nosotros", cuando leo la sección de misión, entonces encuentro al menos 3 valores clave.|
 |` `US34|Contactar al equipo de soporte|Dado que completo el formulario, cuando hago clic en "Enviar", entonces recibo un email de confirmación.|
 
+Demo del Landing Page: [upc-pre-202510-1asi0729-4328-Pandora-landing-navigation-sprint-1 ](https://youtu.be/ijkidI-RlOQ)
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En este Sprint, el foco estuvo centrado exclusivamente en el desarrollo del frontend estático (Landing Page) del proyecto TravelMatch. Por esta razón, no se han trabajado endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
+
+La documentación de Web Services utilizando OpenAPI/Swagger será considerada en futuros Sprints, una vez que se inicie la implementación del backend del sistema.
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+Durante este Sprint, se llevó a cabo el despliegue de la landing page del proyecto TravelMatch, como primer paso en la publicación progresiva de los productos del sistema. Esta actividad se enmarca dentro del objetivo de validar visualmente los avances de diseño e interacción con el cliente y equipo docente.
+
+**Actividades Realizadas**
+
+- Configuración del repositorio GitHub y estructura inicial de carpetas.
+- Implementación de flujo de trabajo con Git Flow, manteniendo los cambios en la rama develop.
+- Realización de un merge desde develop hacia la rama main, de acuerdo a las convenciones definidas en la sección 5.1.2.
+- Activación de GitHub Pages como servicio de despliegue estático, apuntando al contenido de la rama main.
+- Publicación exitosa de la landing page accesible a través de una URL pública.
+
+**URL de la landing page desplegada:** https://g2-aplicaciones-open-source.github.io/landing-page/
+
+**Evidencias visuales**
+
+- Configuración del repositorio GitHub y estructura inicial de carpetas.
+
+    - Creamos un repositorio para la landing page dentro de la organizacion. La configuramos para que sea de tipo publico
+    <p align="center">
+        <img src="assets/evidencias/repo-config.png" alt="repo-config"/>
+    </p>
+
+    - Una vez dentro copiamos la direccion HTTPS del repositorio y la clonamos en nuestro entorno local con el comando `git clone`. Preparamos una estructura de carpetas similar a la siguiente en nuestra maquina:
+    <p align="center">
+        <img src="assets/evidencias/folders-struct.png" alt="folders-struct"/>
+    </p>
+
+- Implementación de flujo de trabajo con Git Flow, manteniendo los cambios en la rama `develop`.
+    - Desde la consola, creamos un push inicial en la rama remota `main` usando el comando `git push origin main` con un mensaje commit descriptivo.
+    <p align="center">
+        <img src="assets/evidencias/initial-commit-landing.png" alt="initial-commit-landing"/>
+    </p>
+
+    - El siguiente paso es crear la rama local `develop` usando el comando `git checkout -b develop`, la creamos de manera remota con `git push origin develop`. Las ramas `feature/*` se crearan de la misma forma, pero hay que tener en cuenta que siempre se deben crear a partir de la rama `develop`, por lo que un paso previo es asegurarnos que estamos en la rama correcta con `git checkout develop`. El resultado de este proceso es el siguiente:
+    <p align="center">
+        <img src="assets/evidencias/landing-repo-branches.png" alt="landing-repo-branches"/>
+    </p>
+
+- Realización de un merge desde develop hacia la rama main, de acuerdo a las convenciones definidas en la sección 5.1.2.
+    - Antes de realizar el merge, se revisaron los cambios mediante un pull request en GitHub, asegurando que no existieran conflictos y que el código cumpliera con los estándares definidos.        
+    - Se realizaron pruebas manuales usando la extension Live Server para verificar la funcionalidad de la landing page antes de fusionar los cambios.    
+
+- Activación de GitHub Pages como servicio de despliegue estático, apuntando al contenido de la rama main.
+    - En la configuración del repositorio, se seleccionó la rama `main` como fuente para GitHub Pages. Esto se realizó desde la pestaña "Settings" > "Pages" en GitHub.    
+    - Se verificó que la URL generada por GitHub Pages estuviera activa y mostrara correctamente el contenido de la landing page.
+    <p align="center">
+        <img src="assets/evidencias/landing-page-deploy-config.png" alt="landing-deploy-config"/>
+    </p>
+
+- Publicación exitosa de la landing page accesible a través de una URL pública.
+
+<p align="center">
+    <img src="assets/evidencias/landing-demo-index1.png" alt="landing-demo1"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-demo-index2.png" alt="landing-demo2"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-demo-signup.png" alt="landing-demo3"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-demo-login.png" alt="landing-demo4"/>    
+</p>
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Durante este Sprint, el equipo colaboró activamente en el desarrollo de la landing page de TravelMatch, siguiendo las buenas prácticas de control de versiones con Git, estructuración del trabajo bajo el flujo Git Flow, y división de responsabilidades alineada con los roles de desarrollo y diseño definidos desde el inicio del proyecto.
+
+**Estrategia de colaboración empleada:**
+
+- Uso de ramas específicas (feature/, develop, main) para el desarrollo organizado de funcionalidades.
+
+- Implementación de convenciones de commits mediante Conventional Commits, facilitando la trazabilidad.
+
+- Pull requests revisadas por otros miembros antes de integrarse a develop.
+
+- Reuniones cortas (dailys o check-ins semanales) para seguimiento y desbloqueo de tareas.
+
+- Evidencia de avance por miembro:
+
+    - Jhon Galvez: Commits relacionados a hojas de estilo, assets y index principal
+    <p align="center">
+        <img src="assets/evidencias/landinv2-commits-jhon.png" alt="landingv2-commits-jhon"/>    
+    </p>
+
+    - Mathias Aspajo: Commits relacionados a la vista del login y su hoja de estilo
+    <p align="center">
+        <img src="assets/evidencias/" alt="landingv2-commits-mathias"/>    
+    </p>
+
+    - Jorge Guevara: Commits relacionados a las vistas de registro y su hoja de estilo
+    <p align="center">
+        <img src="assets/evidencias/" alt="landingv2-commits-jorge"/>    
+    </p>
+
+    - Cesar Linares: Commits relacionados a scripts de la pagina
+    <p align="center">
+        <img src="assets/evidencias/" alt="landingv2-commits-cesar"/>    
+    </p>
+
+    - Farid Briceño: Commits relacionados al desarrollo de la vista del index para agencias
+    <p align="center">
+        <img src="assets/evidencias/" alt="landingv2-commits-farid"/>    
+    </p>
+
 
 <hr>
 

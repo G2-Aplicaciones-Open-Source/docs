@@ -1318,10 +1318,26 @@ Los mock-ups de la Landing Page de TravelMatch representan la traducción visual
 ### 4.6. Domain-Driven Software Architecture
 
 #### 4.6.1. Software Architecture Context Diagrams
+<p align="center">
+    <img src="assets/recursos/diagrama de contexto.png" alt="Diagrama de Contexto"/>
+</p>
 
 #### 4.6.2. Software Architecture Container Diagrams
+ <img src="assets/recursos/diagrama de contenedores.png" alt="Diagrama de Contenedores"/>
 
 #### 4.6.3. Software Architecture Components Diagrams
+
+<img src="assets/recursos/diagrama de componentes 1.png" alt="Diagrama de Contenedores"/>
+<br></br>
+<br></br>
+<img src="assets/recursos/diagrama de componentes 2.png" alt="Diagrama de Contenedores"/>
+<br></br>
+<br></br>
+<img src="assets/recursos/diagrama de componentes 3.png" alt="Diagrama de Contenedores"/>
+<br></br>
+<br></br>
+<img src="assets/recursos/diagrama de componentes 4.png" alt="Diagrama de Contenedores"/>
+<br></br>
 
 ### 4.7. Software Object-Oriented Design
 

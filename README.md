@@ -1618,6 +1618,7 @@ En esta parte, mostramos el proceso que seguimos para diseñar y mantener actual
 |G2-Aplicaciones-Open-Source/Landing-Page|develop|a859949|feat: Implementación de contenido en las secciones de la landing page||23/04/2025|
 |G2-Aplicaciones-Open-Source/Landing-Page|develop|645844c|feat: Implementación de navegación y redireccionamientos||23/04/2025|
 |G2-Aplicaciones-Open-Source/Landing-Page|develop|5265378|feat: Mejora de responsividad y funcionalidades interactivas||23/04/2025|
+|G2-Aplicaciones-Open-Source/Landing-Page|develop|7ab1366|feat: Implementación de las vistas para el registro e inicio de sesion||23/04/2025|
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 

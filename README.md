@@ -232,7 +232,9 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 | <div style="width:150px">Criterio específico</div> | <div style="width:250px">Acciones Realizadas</div> | <div style="width:250px">Conclusiones</div> |
 |:-------------------:|:-------------------:|:------------:|
 |Comunica oralmente con efectividad a diferentes rangos de audiencia| Jhon Galvez | Se concluye |
+|En el proyecto, cumplí con mi parte asignada, haciendo que el proyecto avance de buena manera | César Linares |
 |Comunica por escrito con efectividad a diferentes rangosde audiencia| Jhon Galvez | Se concluye |
+|Desarrollé el diagrama de clases y base de datos, permitiendo mostrar los datos a utilizar de forma estructurada. Además, el Software Development Environment Configuration y el Source Code Management, mencionando los software o aplicaciones utilizados para la realización del proyecto e informe, como también la estructura y razón de ser de cada rama de github, respectivamente | César Linares |
 
 <hr>
 
@@ -302,10 +304,10 @@ Soy un estudiante que se caracteriza por su alto sentido de la responsabilidad y
 - Cesar Linares Bernable - u202019409 (Ingeniería de Software)
 
 <p align="center">
-    <img src="assets/fotos/" alt="foto-cesar" width="170px"/>
+    <img src="assets/fotos/cesarfoto.jpg" alt="foto-cesar" width="170px"/>
 </p>
 
-Descripcion
+Soy César Alejandro Linares Bernable y me encuentro estudiando la carrera de Ingeniería de Software en el 5to ciclo. Tengo conocimientos en c++, angular, sql, html y lo básico de css. Me considero responsable y puntual con lo que respecta a cumplir con las tareas encomendadas. Tengo un manejo intermedio del idioma inglés.
 
 
 #### 1.2. Solution Profile

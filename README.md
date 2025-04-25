@@ -849,7 +849,7 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 #### 2.3.4.1. Empathy Mapping Turistas nacionales e internacionales
 
 <p align="center">
-    <img src="assets/recursos/Empathy_Mapping_Turistas.jpg" alt="Empathy-Mapping-Turistas"/>
+    <img src="assets/recursos/Empathy_Mapping_Turistass.jpg" alt="Empathy-Mapping-Turistas"/>
 </p>
 
 #### 2.3.4.2. Empathy Mapping Agencias de turismo locales

@@ -98,14 +98,17 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
             <img src="assets/evidencias/cap3-branch-commits.png" alt="cap3-branch-commits" width=60% >
         </p>
         <p align="center">
-            <img src="assets/evidencias/" alt="cap4-branch-commits" width=60% >
+            <img src="assets/evidencias/cap4-branch-commits.png" alt="cap4-branch-commits" width=60% >
         </p>
         <p align="center">
-            <img src="assets/evidencias/" alt="cap5-branch-commits" width=60% >
+            <img src="assets/evidencias/cap5-branch-commits.png" alt="cap5-branch-commits" width=60% >
         </p>        
         - Analítica del repositorio con participación de todos los miembros:
         <p align="center">
-            <img src="assets/evidencias/repo-members.png" alt="repo-analytics" width=60% >
+            <img src="assets/evidencias/repo-docs-analytics.png" alt="repo-analytics" width=60% >
+        </p> 
+        <p align="center">
+            <img src="assets/evidencias/repo-docs-network.png" alt="repo-network" width=60% >
         </p>        
 
 <hr>
@@ -445,7 +448,7 @@ del turismo personalizado en la plataforma.
 <table><tr>
     <th colspan="2" valign="top"></th>
     <th valign="top">
-      <p>Su startup</p>
+      <p>TravelMatch</p>
       <img src="assets/logos/TravelMatchLogo.png" alt="Logo de TravelMatch" width="100">
     </th>
     <th valign="top">
@@ -621,7 +624,7 @@ _Resumen:_ La entrevistada menciona que en su agencia utilizan principalmente re
 
 _Resumen:_ El entrevistado comenta que utilizan redes sociales como Facebook, Instagram y WhatsApp. También disponen de una página web con optimizaciones limitadas para sus necesidades. Si bien considera útiles estas herramientas, no las percibe como eficientes. Además, señala que uno de los principales desafíos que enfrenta es la confirmación de pagos y la falta de coordinación cuando los clientes dudan en concretar una compra. Asimismo, menciona que le gustaría contar con una plataforma intuitiva que integre funcionalidades de pago, mensajería y análisis de datos, facilitando así la conexión con sus clientes. Finalmente, expresa su disposición a pagar una suscripción para obtener beneficios durante las temporadas de mayor demanda.
 
----
+<!-- ---
 
 **Entrevista 3:**
 
@@ -639,7 +642,7 @@ _Resumen:_ El entrevistado comenta que utilizan redes sociales como Facebook, In
 
 </div>
 
----
+--- -->
 
 <!-- Segmento objetivo 2: TURISTAS NACIONALES E INTERNACIONALES -->
 
@@ -726,6 +729,7 @@ _Resumen:_ El entrevistado, mochilero arequipeño de 21 años, organiza sus viaj
 
 _Resumen:_ El entrevistado, quien por su trabajo viaja con frecuencia a Paracas, Nazca, Chincha e Ica, tiene interés en visitar atractivos turísticos como las Líneas de Nazca, las Islas Ballestas y la Huacachina en su tiempo libre. Para él, la puntualidad del servicio es primordial en una plataforma de gestión de paquetes turísticos. Actualmente, utiliza WhatsApp y Google Maps para organizar sus itinerarios laborales, pero le resulta difícil encontrar tiempo libre. Por ello, valoraría una aplicación que se adapte a sus horarios personales y laborales, brindándole la oportunidad de realizar visitas turísticas. Finalmente, considera crucial la recomendación de otros clientes al elegir una agencia de viajes.
 
+<!-- 
 ---
 
 **Entrevista 8:**
@@ -760,7 +764,7 @@ _Resumen:_ El entrevistado, quien por su trabajo viaja con frecuencia a Paracas,
 |Residencia|xxxxx|
 |Enlace de la entrevista| [cambiar link](https://youtu.be/3z10bH6wOBY)|
 
-</div>
+</div> -->
 
 #### 2.2.3. Análisis de entrevistas
 
@@ -1477,7 +1481,15 @@ Los mock-ups de la Landing Page de TravelMatch representan la traducción visual
 
 #### 4.4.1. Web Applications Wireframes.
 
+<p align="center">
+    <img src="assets/recursos/travelmatch-frontend.png" alt="travelmatch-frontend" width=80%/>
+</p>
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+<p align="center">
+    <img src="assets/recursos/travelmatch-frontend-wireflow.png" alt="travelmatch-frontend-wireflow" width=80%/>
+</p>
 
 #### 4.4.3. Web Applications Mock-ups
 
@@ -1600,7 +1612,7 @@ Los repositorios utilizados para el desarrollo de código fuente son los siguien
 
 | Producto Digital | URL del Repositorio | 
 |:----------------:|:-------------------:|
-| Landing Page | [https://github.com/G2-Aplicaciones-Open-Source/landing-page](https://github.com/G2-Aplicaciones-Open-Source/landing-page) | 
+| Landing Page | [https://github.com/G2-Aplicaciones-Open-Source/landing-page-v2](https://github.com/G2-Aplicaciones-Open-Source/landing-page-v2) | 
 | Web Services (Backend API) | [https://github.com/G2-Aplicaciones-Open-Source/backend-java](https://github.com/G2-Aplicaciones-Open-Source/backend-java)|
 | Frontend Web Application | [https://github.com/G2-Aplicaciones-Open-Source/frontend-angular](https://github.com/G2-Aplicaciones-Open-Source/frontend-angular) |
 
@@ -1717,7 +1729,7 @@ Para el desarrollo de los servicios web de TravelMatch, se utilizará **Java 17*
 
 **Frontend: Angular Framework (TypeScript, HTML, CSS)**
 
-Para el desarrollo del frontend, el equipo utilizará **Angular 17**, basado en **TypeScript**, junto con **HTML** y **CSS**. Las convenciones son:
+Para el desarrollo del frontend, el equipo utilizará **Angular 19**, basado en **TypeScript**, junto con **HTML** y **CSS**. Las convenciones son:
 
 - **Guías de estilo base:**  
   - [Angular Style Guide (Oficial)](https://angular.io/guide/styleguide)  
@@ -1797,7 +1809,7 @@ La configuración de despliegue para TravelMatch contempla mecanismos organizado
 **Despliegue del Frontend Web Application**
 
 - **Tecnología:**  
-  Angular 17 (TypeScript, HTML, SCSS/CSS).
+  Angular 19 (TypeScript, HTML, SCSS/CSS).
 
 - **Repositorio GitHub:**  
   [https://github.com/G2-Aplicaciones-Open-Source/frontend-angular](https://github.com/G2-Aplicaciones-Open-Source/frontend-angular) 
@@ -1880,7 +1892,7 @@ En esta parte, mostramos el proceso que seguimos para diseñar y mantener actual
 |` `US33|Conocer la misión de la startup|Dado que accedo a "Sobre nosotros", cuando leo la sección de misión, entonces encuentro al menos 3 valores clave.|
 |` `US34|Contactar al equipo de soporte|Dado que completo el formulario, cuando hago clic en "Enviar", entonces recibo un email de confirmación.|
 
-Demo del Landing Page: [upc-pre-202510-1asi0729-4328-Pandora-landing-navigation-sprint-1 ](https://youtu.be/ijkidI-RlOQ)
+Demo del Landing Page: [upc-pre-202510-1asi0729-4328-Pandora-landing-navigation-sprint-1](https://youtu.be/ijkidI-RlOQ)
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1900,7 +1912,7 @@ Durante este Sprint, se llevó a cabo el despliegue de la landing page del proye
 - Activación de GitHub Pages como servicio de despliegue estático, apuntando al contenido de la rama main.
 - Publicación exitosa de la landing page accesible a través de una URL pública.
 
-**URL de la landing page desplegada:** https://g2-aplicaciones-open-source.github.io/landing-page/
+**URL de la landing page desplegada:** https://g2-aplicaciones-open-source.github.io/landing-page-v2/
 
 **Evidencias visuales**
 
@@ -1979,32 +1991,46 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo de la land
 
     - Mathias Aspajo: Commits relacionados a la vista del login y su hoja de estilo
     <p align="center">
-        <img src="assets/evidencias/" alt="landingv2-commits-mathias"/>    
+        <img src="assets/evidencias/landingv2-commits-mathias.png" alt="landingv2-commits-mathias"/>    
     </p>
 
     - Jorge Guevara: Commits relacionados a las vistas de registro y su hoja de estilo
     <p align="center">
-        <img src="assets/evidencias/" alt="landingv2-commits-jorge"/>    
+        <img src="assets/evidencias/landingv2-commits-jorge.png" alt="landingv2-commits-jorge"/>    
     </p>
 
     - Cesar Linares: Commits relacionados a scripts de la pagina
     <p align="center">
-        <img src="assets/evidencias/" alt="landingv2-commits-cesar"/>    
-    </p>
-
-    - Farid Briceño: Commits relacionados al desarrollo de la vista del index para agencias
-    <p align="center">
-        <img src="assets/evidencias/" alt="landingv2-commits-farid"/>    
-    </p>
-
+        <img src="assets/evidencias/landingv2-commits-cesar.png" alt="landingv2-commits-cesar"/>    
+    </p>   
 
 <hr>
 
 ## Conclusiones
 
+- _Colaboración efectiva del equipo:_
+    La implementación del flujo de trabajo GitHub Flow y GitFlow permitió una colaboración organizada y eficiente entre los miembros del equipo. Cada integrante asumió responsabilidades específicas, lo que facilitó el desarrollo de la landing page y la integración de funcionalidades clave.
+
+- _Desarrollo exitoso de la landing page:_
+    Durante el Sprint 1, se logró implementar una landing page funcional, responsiva y alineada con los objetivos del proyecto. Esto incluye la navegación principal, formularios de contacto, vistas de registro e inicio de sesión, y una estructura visual coherente con la identidad de TravelMatch.
+
+- _Adopción de buenas prácticas de desarrollo:_
+    El uso de convenciones de commits, control de versiones con Git, y estándares de codificación garantizó un código limpio, organizado y fácil de mantener. Además, la estructura modular y el diseño responsivo aseguran una experiencia de usuario óptima en diferentes dispositivos.
+
+- _Despliegue exitoso:_
+    La publicación de la landing page en GitHub Pages permitió validar visualmente los avances del proyecto y establecer un punto de partida sólido para futuras iteraciones. Esto demuestra la capacidad del equipo para gestionar el ciclo completo de desarrollo y despliegue.
+
+- _Enfoque centrado en el usuario:_
+    La arquitectura de información y el diseño de la landing page reflejan un enfoque claro en las necesidades del usuario, priorizando la claridad, accesibilidad y facilidad de navegación. Esto sienta las bases para una experiencia de usuario positiva en el producto final.
+
+- _Lecciones aprendidas:_
+    Durante este Sprint, se identificaron áreas de mejora en la coordinación de tareas y la gestión del tiempo. Estas lecciones serán aplicadas en futuros Sprints para optimizar la productividad y asegurar el cumplimiento de los objetivos del proyecto.
+
 <hr>
 
 ## Bibliografía
+
+- 
 
 <hr>
 

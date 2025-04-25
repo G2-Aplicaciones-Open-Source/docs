@@ -1265,16 +1265,7 @@ Los mock-ups de la Landing Page de TravelMatch representan la traducción visual
 
 #### 4.6.3. Software Architecture Components Diagrams
 
-<img src="assets/recursos/diagrama de componentes 1.png" alt="Diagrama de Contenedores"/>
-<br></br>
-<br></br>
-<img src="assets/recursos/diagrama de componentes 2.png" alt="Diagrama de Contenedores"/>
-<br></br>
-<br></br>
-<img src="assets/recursos/diagrama de componentes 3.png" alt="Diagrama de Contenedores"/>
-<br></br>
-<br></br>
-<img src="assets/recursos/diagrama de componentes 4.png" alt="Diagrama de Contenedores"/>
+<img src="assets/recursos/diagrama de componentes.png" alt="Diagrama de Contenedores"/>
 <br></br>
 
 ### 4.7. Software Object-Oriented Design

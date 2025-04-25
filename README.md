@@ -855,13 +855,13 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 #### 2.3.4.2. Empathy Mapping Agencias de turismo locales
 
 <p align="center">
-    <img src="assets/recursos/Empathy_Mapping_Agencias.png" alt="Empathy-Mapping-Agencias"/>
+    <img src="assets/recursos/Empathy_Mapping_Agencias.jpg" alt="Empathy-Mapping-Agencias"/>
 </p>
 
 #### 2.3.4.3. Empathy Mapping Viajeros por trabajo
 
 <p align="center">
-    <img src="assets/recursos/Empathy_Mapping_Viajeros.png" alt="Empathy-Mapping-Viajeros"/>
+    <img src="assets/recursos/Empathy_Mapping_Viajeros.jpg" alt="Empathy-Mapping-Viajeros"/>
 </p>
 
 #### 2.3.5. As-is Scenario Mapping
@@ -976,7 +976,7 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 ### 3.3. Impact Mapping
 
 <p align="center">
-    <img src="assets/recursos/Impact_Mapping.png" alt="Impact-Mapping"/>
+    <img src="assets/recursos/Impact_Mapping.jpg" alt="Impact-Mapping"/>
 </p>
 
 ### 3.4. Product Backlog

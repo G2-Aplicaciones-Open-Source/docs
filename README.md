@@ -160,9 +160,9 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
 
 [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-    - [3.1.1. To-Be Scenario Mapping Turistas nacionales e internacionales](#311-to-Be-scenario-mapping-turistas-nacionales-e-internacionales)
-    - [3.1.2. To-Be Scenario Mapping Agencias de turismo locales](#312-to-Be-scenario-mapping-agencias-de-turismo-locales)
-    - [3.1.3. To-Be Scenario Mapping Viajeros por trabajo](#313-to-Be-scenario-mapping-viajeros-por-trabajo)
+    - [3.1.1. To-Be Scenario Mapping Turistas nacionales e internacionales](#311-to-be-scenario-mapping-turistas-nacionales-e-internacionales)
+    - [3.1.2. To-Be Scenario Mapping Agencias de turismo locales](#312-to-be-scenario-mapping-agencias-de-turismo-locales)
+    - [3.1.3. To-Be Scenario Mapping Viajeros por trabajo](#313-to-be-scenario-mapping-viajeros-por-trabajo)
   - [3.2. User Stories](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
@@ -200,7 +200,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide-conventions)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint 1](#521-sprint-1)
@@ -233,8 +233,8 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 | <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
 |:-------------------:|-------------------|------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, participé activamente en la revisión retroactiva de los avances de mis compañeros. También apoyé en la preparación del material de presentación para nuestras reuniones internas.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. Adicionalmente, realice entrevistas para dos segmentos objetivos <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, realicé tres entrevistas enfocadas en el segmento de turistas nacionales e internacionales, con el propósito de entender mejor sus necesidades y expectativas. Asimismo, colaboré con la revisión retroactiva de los avances de mis compañeros, brindándoles observaciones sobre los puntos de la documentación que podrían ser mejorados. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 2 y 3.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 1 y el Landing Page UI Design. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** Colabore con la elaboración de los alineamientos que el equipo seguiría durante el proceso de desarrollo. También, me encargue de hacer los capítulos 2 y 4.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, participé activamente en la revisión retroactiva de los avances de mis compañeros. También apoyé en la preparación del material de presentación para nuestras reuniones internas.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. Adicionalmente, realice entrevistas para dos segmentos objetivos <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, realicé tres entrevistas enfocadas en el segmento de turistas nacionales e internacionales, con el propósito de entender mejor sus necesidades y expectativas. Asimismo, colaboré con la revisión retroactiva de los avances de mis compañeros, brindándoles observaciones sobre los puntos de la documentación que podrían ser mejorados. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** En esta entrega, me encargué de escuchar lo que el equipo quiere que haga y avancé con mis mandatos para una colaboración amena <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 2 y 3.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 1 y el Landing Page UI Design. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** Colabore con la elaboración de los alineamientos que el equipo seguiría durante el proceso de desarrollo. También, me encargue de hacer los capítulos 2 y 4.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** En esta entrega, me encargué de la creación del class y database diagram, en orden de tener un modelo físico y estructurado de todos nuestros datos almacenados. También, con el punto 5.1.1 y 5.1.2, los cuales listan las tecnologías que hemos usado para la realización del proyecto <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
 
 <hr>
 
@@ -302,10 +302,10 @@ Soy un estudiante que se caracteriza por su alto sentido de la responsabilidad y
 - Cesar Linares Bernable - u202019409 (Ingeniería de Software)
 
 <p align="center">
-    <img src="assets/fotos/" alt="foto-cesar" width="170px"/>
+    <img src="assets/fotos/cesarfoto.jpg" alt="foto-cesar" width="170px"/>
 </p>
 
-Descripcion
+Soy una persona responsable y trabajadora que cumple las tareas encomendadas cuanto antes sea posible. Tengo conocimientos en SQL, C++, Python y lo básico de CSS y Javascript. Me gusta aprender por mi cuenta lenguajes de programación como Rust y uso ese conocimiento para ayudar a mi equipo.
 
 
 #### 1.2. Solution Profile
@@ -1526,9 +1526,59 @@ Los mock-ups de la Landing Page de TravelMatch representan la traducción visual
 
 #### 4.4.3. Web Applications Mock-ups
 
+<p align="center">
+    <img src="assets/recursos/TravelMatchFrontend.png" alt="travelmatch-frontend-mockup" width=80%/>
+</p>
+
 #### 4.4.4. Web Applications User Flow Diagrams
 
+<p align="center">
+    <img src="assets/recursos/TravelMatchFrontendWireflow.png" alt="travelmatch-frontend-mockup-wireflow" width=80%/>
+</p>
+
+Enlace al Figma de desarrollo de Web Application: https://www.figma.com/design/GYNFGzIxOsYoaH4UDZpRne/TravelMatch---Frontend?node-id=2039-83&t=MJXW7lJoEYDmKuW2-1
+
 ### 4.5. Web Applications Prototyping
+
+- Usuario encuentra un paquete turistico y accede a la operacion de compra
+
+    - El usuario inicia en la vista home de la pagina principal:
+        <p align="center">
+            <img src="assets/recursos/front-user-flow-1.png" alt="front-user-flow-1" width=80%/>
+        </p>
+    
+    - El usuario desciende hasta la zona de experiencias filtradas por categoria. Cuando se interesa en una experiencia, hace clic sobre una de ellas para revisar mas detalles:
+        <p align="center">
+            <img src="assets/recursos/front-user-flow-2.png" alt="front-user-flow-2" width=80%/>
+        </p>
+
+    - El usuario accede a la vista detalla en donde se muestra informacion detallada sobre la experiencia:
+        <p align="center">
+            <img src="assets/recursos/front-user-flow-3.png" alt="front-user-flow-3" width=80%/>
+        </p>
+
+    - El usuario visualiza una seccion con el precio y el boton "Revisar disponibilidad" que redirige a una seccion para que filtre resultados de paquetes turisticos:
+        <p align="center">
+            <img src="assets/recursos/front-user-flow-4.png" alt="front-user-flow-4" width=80%/>
+        </p>
+
+    - El usuario ingresa valores para ambos campos y presiona el boton revisar disponibilidad:
+        <p align="center">
+            <img src="assets/recursos/front-user-flow-5.png" alt="front-user-flow-5" width=80%/>
+        </p>
+
+    - Se muestran los resultados obtenidos y se brinda la opcion de agregar el paquete a un carrito de compras:
+        <p align="center">
+            <img src="assets/recursos/front-user-flow-6.png" alt="front-user-flow-6" width=80%/>
+        </p>
+
+    - El usuario accede a la vista del carrito de compras donde decide que hara con el paquete elegido:
+        <p align="center">
+            <img src="assets/recursos/front-user-flow-7.png" alt="front-user-flow-7" width=80%/>
+        </p>
+
+
+    Enlace a la prueba de prototipo: [upc-pre-202510-1asi0729-4328-Pandora-prototype-navigation-sprint-1](https://youtu.be/a66X-oEHVRI)
 
 ### 4.6. Domain-Driven Software Architecture
 

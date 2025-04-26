@@ -168,33 +168,34 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
   - [3.4. Product Backlog](#34-product-backlog)
 
 [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [4.1. Style Guidelines](#41-style-guidelines)
+- [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-  - [4.2. Information Architecture](#42-information-architecture)
+- [4.2. Information Architecture](#42-information-architecture)
     - [4.2.1. Organization Systems](#421-organization-systems)
     - [4.2.2. Labeling Systems](#422-labeling-systems)
     - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
     - [4.2.4. Searching Systems](#424-searching-systems)
     - [4.2.5. Navigation Systems](#425-navigation-systems)
-  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+- [4.3. Landing Page UI Design](#43-landing-page-ui-design)
     - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
     - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+- [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
     - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
     - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
     - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+- [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+- [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
     - [4.6.1. Software Architecture Context Diagrams](#461-software-architecture-context-diagrams)
     - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
     - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+- [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.7.2. Class Dictionary](#472-class-dictionary)
-  - [4.8. Database Design](#48-database-design)
+- [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
+
 
 [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
@@ -998,8 +999,8 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 |US29|Soporte prioritario|Como agencia, quiero acceder a soporte rápido para resolver problemas urgentes.|<p>- Scenario 1: Respuesta inmediata<br>  Dado que contacto a soporte, cuando envío mi consulta, entonces recibo respuesta en menos de 5 minutos.</p><p>- Scenario 2: Consulta no urgente</p><p>&emsp;Dado que pregunto por mejoras, cuando no marco "Urgente", entonces recibo respuesta en 24h.</p>|EP03|
 |US30|Integración con redes|Como agencia, quiero compartir mis tours en redes sociales para aumentar mi visibilidad.|<p>- Scenario 1: Publicación automática</p><p>&emsp;Dado que hago clic en "Compartir", cuando elijo Instagram, entonces se publica con fotos y descripción.</p><p>- Scenario 2: Red no conectada<br>  Dado que no vincule mi Facebook, cuando intento compartir, entonces el sistema muestra "Conecte su cuenta primero".</p>|EP03|
 |US31|Navegación por el landing page|Como usuario, quiero navegar fácilmente por el landing page para acceder a todas las secciones principales.|<p>- Scenario 1: Navegación exitosa</p><p>&emsp;Dado que estoy en la página principal, cuando hago clic en cualquier item del menú, entonces soy redirigido a la sección correspondiente.</p><p>- Scenario 2: Menú desplegable en móvil<br>  Dado que accedo desde un celular, cuando toco el ícono de hamburguesa, entonces el menú se despliega correctamente.</p>|EP01|
-|US32|Ver información del startup|Como usuario interesado, quiero conocer al equipo de Finzar para entender quiénes están detrás del proyecto.|<p>- Scenario 1: Visualización de perfiles</p><p>&emsp;Dado que voy a "Nuestro equipo", cuando hago scroll, entonces veo los nombres de cada miembro.</p><p>- Scenario 2: Información incompleta<br>  Dado que un miembro no tiene foto, cuando veo su perfil, entonces muestra un avatar por defecto.</p>|EP01|
-|US33|Conocer la misión de la startup|Como potencial cliente, quiero entender la misión y valores de Finzar para evaluar su alineación con mis necesidades.|<p>- Scenario 1: Lectura de valores</p><p>&emsp;Dado que accedo a "Sobre nosotros", cuando leo la sección de misión, entonces encuentro al menos 3 valores clave.</p><p>- Scenario 2: Versión resumida<br>  Dado que estoy en móvil, cuando veo esta sección, entonces muestra un resumen de 100 caracteres.</p>|EP01|
+|US32|Ver información del startup|Como usuario interesado, quiero conocer al equipo para entender quiénes están detrás del proyecto.|<p>- Scenario 1: Visualización de perfiles</p><p>&emsp;Dado que voy a "Nuestro equipo", cuando hago scroll, entonces veo los nombres de cada miembro.</p><p>- Scenario 2: Información incompleta<br>  Dado que un miembro no tiene foto, cuando veo su perfil, entonces muestra un avatar por defecto.</p>|EP01|
+|US33|Conocer la misión de la startup|Como potencial cliente, quiero entender la misión y valores para evaluar su alineación con mis necesidades.|<p>- Scenario 1: Lectura de valores</p><p>&emsp;Dado que accedo a "Sobre nosotros", cuando leo la sección de misión, entonces encuentro al menos 3 valores clave.</p><p>- Scenario 2: Versión resumida<br>  Dado que estoy en móvil, cuando veo esta sección, entonces muestra un resumen de 100 caracteres.</p>|EP01|
 |US34|Contactar al equipo de soporte (Versión usuario)|Como usuario con dudas, quiero enviar un mensaje al soporte para resolver mis inquietudes.|<p>- Scenario 1: Envío exitoso</p><p>&emsp;Dado que completo el formulario, cuando hago clic en "Enviar", entonces recibo un email de confirmación.</p><p>- Scenario 2: Campos obligatorios<br>  Dado que dejo el email vacío, cuando intento enviar, entonces el sistema muestra "Campo requerido".</p>|EP01|
 |US35|Visualización responsive|Como usuario móvil, quiero ver la página correctamente adaptada a mi pantalla para una experiencia óptima.|<p>- Scenario 1: Ajuste automático</p><p>&emsp;Dado que accedo desde un dispositivo móvil, cuando giro la pantalla, entonces el contenido se reordena correctamente.</p><p>- Scenario 2: Menú adaptado<br>  Dado que uso una tablet, cuando navego, entonces los botones tienen tamaño táctil adecuado.</p>|EP01|
 |US36|Contactar al equipo de soporte (Versión agencia)|Como agencia asociada, quiero contactar al soporte técnico especializado para resolver problemas operativos urgentes.|<p>- Scenario 1: Solicitud prioritaria</p><p>&emsp;Dado que selecciono "Problema operativo", cuando envío mi consulta marcando "Urgente", entonces recibo respuesta en menos de 15 minutos.</p><p>- Scenario 2: Consulta sobre API<br>  Dado que tengo dudas sobre integración, cuando adjunto capturas de error, entonces el soporte me envía documentación técnica complementaria.</p>|EP03|
@@ -1049,12 +1050,12 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 |29|US29|Soporte prioritario|Como agencia, quiero acceder a soporte rápido para resolver problemas urgentes.|5|
 |30|US30|Integración con redes|Como agencia, quiero compartir mis tours en redes sociales para aumentar mi visibilidad.|3|
 |31|US31|Navegación por el landing page|Como usuario, quiero navegar fácilmente por el landing page para acceder a todas las secciones principales.|3|
-|32|US32|Ver Información del Startup|Como usuario interesado, quiero conocer al equipo de Finzar para entender quiénes están detrás del proyecto.|2|
-|33|US33|Conocer la misión de la startup|Como potencial cliente, quiero entender la misión y valores de Finzar para evaluar su alineación con mis necesidades.|1|
+|32|US32|Ver Información del Startup|Como usuario interesado, quiero conocer al equipo para entender quiénes están detrás del proyecto.|2|
+|33|US33|Conocer la misión de la startup|Como potencial cliente, quiero entender la misión y valores para evaluar su alineación con mis necesidades.|1|
 |34|US34|Contactar al equipo de soporte (Versión usuario)|Como usuario con dudas, quiero enviar un mensaje al soporte para resolver mis inquietudes.|5|
-|35|US35|Visualización responsive|Como usuario móvil, quiero ver la página correctamente adaptada a mi pantalla para una experiencia óptima.git s|8|
-|36|US36|Contactar al equipo de soporte (Versión agencia)|Como agencia asociada, quiero contactar al soporte técnico especializado para resolver problemas operativos urgentes.git s|5|
-|37|US37|Modelo de monetización|Como agencia turística, quiero entender claramente cómo generaré ingresos mediante la plataforma para planificar mi estrategia.git s|3|
+|35|US35|Visualización responsive|Como usuario móvil, quiero ver la página correctamente adaptada a mi pantalla para una experiencia óptima.|8|
+|36|US36|Contactar al equipo de soporte (Versión agencia)|Como agencia asociada, quiero contactar al soporte técnico especializado para resolver problemas operativos urgentes.|5|
+|37|US37|Modelo de monetización|Como agencia turística, quiero entender claramente cómo generaré ingresos mediante la plataforma para planificar mi estrategia.|3|
 
 <hr>
 

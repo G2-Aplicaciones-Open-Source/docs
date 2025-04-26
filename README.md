@@ -26,7 +26,7 @@
 
 <div align="center">
 
-| <div style="width:500px">Alumno</div> | <div style="width:150px">Código</div> |
+| <div style="width:500px">Alumno</div> | <div style="width:200px">Código</div> |
 |:-------------------------------------:|:-------------------------------------:|
 |        Aspajo Alvarez, Mathias        |              u202317584               |
 |       Briceño De La Cruz, Farid       |              u20211f211               |
@@ -44,7 +44,7 @@
 
 | Versión | Fecha | <div style="width:250px">Autor(es) </div> | <div align="center" style="width:400px">Descripción de la modificación</div> |
 |:-------:|:-----:|:-----------------------------------------:|-------------------------------------------------------------|
-| TB1 | 24/04/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge<br>- Linares Bernable, Cesar | Para esta entrega se han desarrollado los siguientes capítulos: <br>- Carátula<br>- Registro de Versiones del Informe<br>- Project Report Collaboration Insights<br>- Contenido<br>- Student Outcome<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Capítulo V: Product Implementation, Validation & Deployment<br>- 5.1. Software Configuration Management<br>- 5.1.1. Software Development Environment Configuration<br>- 5.1.2. Source Code Management<br>- 5.1.3. Source Code Style Guide & Conventions<br>- 5.1.4. Software Deployment Configuration<br>- 5.2. Landing Page, Services & Applications Implementation<br>- 5.2.1. Sprint 1<br>- 5.2.1.1. Sprint Planning 1<br>- 5.2.1.2. Aspect Leaders and Collaborators<br>- 5.2.1.3. Sprint Backlog 1<br>- 5.2.1.4. Development Evidence for Sprint Review<br>- 5.2.1.5. Execution Evidence for Sprint Review<br>- 5.2.1.6. Services Documentation Evidence for Sprint Review<br>- 5.2.1.7. Software Deployment Evidence for Sprint Review<br>- 5.2.1.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos |
+| TB1 | 26/04/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge<br>- Linares Bernable, Cesar | Para esta entrega se han desarrollado los siguientes capítulos: <br>- Carátula<br>- Registro de Versiones del Informe<br>- Project Report Collaboration Insights<br>- Contenido<br>- Student Outcome<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Capítulo V: Product Implementation, Validation & Deployment<br>- 5.1. Software Configuration Management<br>- 5.1.1. Software Development Environment Configuration<br>- 5.1.2. Source Code Management<br>- 5.1.3. Source Code Style Guide & Conventions<br>- 5.1.4. Software Deployment Configuration<br>- 5.2. Landing Page, Services & Applications Implementation<br>- 5.2.1. Sprint 1<br>- 5.2.1.1. Sprint Planning 1<br>- 5.2.1.2. Aspect Leaders and Collaborators<br>- 5.2.1.3. Sprint Backlog 1<br>- 5.2.1.4. Development Evidence for Sprint Review<br>- 5.2.1.5. Execution Evidence for Sprint Review<br>- 5.2.1.6. Services Documentation Evidence for Sprint Review<br>- 5.2.1.7. Software Deployment Evidence for Sprint Review<br>- 5.2.1.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos |
 
 <hr>
 
@@ -624,25 +624,27 @@ _Resumen:_ La entrevistada menciona que en su agencia utilizan principalmente re
 
 _Resumen:_ El entrevistado comenta que utilizan redes sociales como Facebook, Instagram y WhatsApp. También disponen de una página web con optimizaciones limitadas para sus necesidades. Si bien considera útiles estas herramientas, no las percibe como eficientes. Además, señala que uno de los principales desafíos que enfrenta es la confirmación de pagos y la falta de coordinación cuando los clientes dudan en concretar una compra. Asimismo, menciona que le gustaría contar con una plataforma intuitiva que integre funcionalidades de pago, mensajería y análisis de datos, facilitando así la conexión con sus clientes. Finalmente, expresa su disposición a pagar una suscripción para obtener beneficios durante las temporadas de mayor demanda.
 
-<!-- ---
+---
 
 **Entrevista 3:**
 
 <p align="center">
-    <img src="assets/evidencias/" alt="entrevista-" width=60% >
+    <img src="assets/evidencias/entrevista-david.png" alt="entrevista-david" width=60% >
 </p>
 
 <div align="center">
 
-| Entrevistado | xxxxx |
+| Entrevistado | David Perez Garcia |
 |----|-----|
-|Edad|xx|
-|Residencia|xxxxx|
-|Enlace de la entrevista| [cambia el link](https://youtu.be/EetEBccMXDg)|
+|Edad|22|
+|Residencia|Lima|
+|Enlace de la entrevista| [https://youtu.be/5S-RLPOGsRA](https://youtu.be/5S-RLPOGsRA)|
 
 </div>
 
---- -->
+_Resumen:_ El entrevistado trabaja para una agencia de turismo peruana, utiliza redes sociales y WhatsApp para promocionar sus servicios, lo cual es efectivo para clientes jóvenes y locales, pero limitado para turistas extranjeros. Aunque las reservas online son comunes en temporada alta, la gestión de múltiples canales genera problemas. Pérez reconoce la necesidad de una sólida presencia digital y herramientas integradas con calendarios en tiempo real, chat directo, gestión de pagos, estadísticas y un perfil completo para competir y generar confianza. Su agencia se enfoca en jóvenes de 20 a 35 años interesados en experiencias auténticas, con un 70% de reservas online. Está dispuesto a invertir en soluciones digitales transparentes y fáciles de usar que mejoren la visibilidad, especialmente en temporadas altas.
+
+---
 
 <!-- Segmento objetivo 2: TURISTAS NACIONALES E INTERNACIONALES -->
 
@@ -677,7 +679,7 @@ _Resumen:_ El entrevistado, un turista limeño de 20 años, organiza sus viajes 
 
 | Entrevistado | Sebastian Arevalo Torres |
 |----|-----|
-|Edad|20|
+|Edad|23|
 |Residencia|Chile|
 |Segmento|Turista Internacional|
 |Enlace de la entrevista| [https://youtu.be/3z10bH6wOBY](https://youtu.be/3z10bH6wOBY)|
@@ -729,82 +731,113 @@ _Resumen:_ El entrevistado, mochilero arequipeño de 21 años, organiza sus viaj
 
 _Resumen:_ El entrevistado, quien por su trabajo viaja con frecuencia a Paracas, Nazca, Chincha e Ica, tiene interés en visitar atractivos turísticos como las Líneas de Nazca, las Islas Ballestas y la Huacachina en su tiempo libre. Para él, la puntualidad del servicio es primordial en una plataforma de gestión de paquetes turísticos. Actualmente, utiliza WhatsApp y Google Maps para organizar sus itinerarios laborales, pero le resulta difícil encontrar tiempo libre. Por ello, valoraría una aplicación que se adapte a sus horarios personales y laborales, brindándole la oportunidad de realizar visitas turísticas. Finalmente, considera crucial la recomendación de otros clientes al elegir una agencia de viajes.
 
-<!-- 
 ---
 
 **Entrevista 8:**
 
 <p align="center">
-    <img src="assets/evidencias/entrevista-david.png" alt="entrevista-david" width=60% >
+    <img src="assets/evidencias/entrevista-eduardo.jpg" alt="entrevista-eduardo" width=60% >
 </p>
 
 <div align="center">
 
-| Entrevistado | David Perez Garcia |
+| Entrevistado | Eduardo Montalvo |
 |----|-----|
 |Edad| 25 |
 |Residencia|Lima|
-|Enlace de la entrevista| [cambiar link](https://youtu.be/3z10bH6wOBY)|
+|Enlace de la entrevista| [https://youtu.be/_GoZZZpl_5c](https://youtu.be/_GoZZZpl_5c)|
 
 </div>
+
+_Resumen:_ El entrevistado es un viajero corporativo en Perú que viaja laboralmente dos veces al mes (Lima, Trujillo, Arequipa, ocasionalmente Cusco/Chiclayo) y a veces tiene tiempo libre. Prefiere tours cortos o gastronomía local cerca de su alojamiento, valorando la rapidez y disponibilidad inmediata. Usa Google Maps y TripAdvisor, pero desearía una app para viajeros de negocios con horarios flexibles y recomendaciones personalizadas según su ubicación y agenda, idealmente con reserva en destino. Le atraería una app que combine actividades, servicios y facturación automática, confiando en agencias con buenas reseñas y contacto claro.
 
 ---
 
 **Entrevista 9:**
 
 <p align="center">
-    <img src="assets/evidencias/" alt="entrevista-" width=60% >
+    <img src="assets/evidencias/entrevista-abigail.jpg" alt="entrevista-abigail" width=60% >
 </p>
 
 <div align="center">
 
-| Entrevistado | xxxxx |
+| Entrevistado | Abigail Goñe |
 |----|-----|
-|Edad|xx|
-|Residencia|xxxxx|
-|Enlace de la entrevista| [cambiar link](https://youtu.be/3z10bH6wOBY)|
+|Edad|21|
+|Residencia|Lima|
+|Enlace de la entrevista| [https://www.youtube.com/watch?v=XB2zMZLNVMY](https://www.youtube.com/watch?v=XB2zMZLNVMY)|
 
-</div> -->
+</div>
+
+_Resumen:_  La entrevistada viaja laboralmente tres veces al mes (Arequipa, Trujillo, Piura) y a veces tiene 1-2 horas libres. Prefiere visitas cortas a sitios arqueológicos o gastronomía local, valorando rapidez y cercanía. Usa Google Maps, Yelp y TikTok, pero desearía una app con opciones turísticas, tiempos y reservas integradas. Le cuesta encontrar actividades con horarios flexibles. Le interesan sugerencias personalizadas y prefiere reservar en destino por cambios de agenda. Idealmente, busca una app con recomendaciones automáticas según su ubicación y horario, que combine actividades y servicios prácticos, incluyendo facturación automática. Confía en agencias nuevas con buenas opiniones, web actualizada y atención rápida.
+
+---
 
 #### 2.2.3. Análisis de entrevistas
 
 - **Segmento objetivo 1 - Dueños de agencia de viajes**
-   <br></br>
-    **Entrevista 1: María Rodríguez Benites**
 
-    Análisis de la entrevista:
-María representa el perfil de una profesional del sector turístico que valora profundamente el uso de canales digitales como redes sociales y plataformas como Google Ads y TripAdvisor para atraer clientes. Reconoce la efectividad de estos medios, pero también evidencia una necesidad operativa no resuelta: la falta de sincronización en tiempo real de la disponibilidad de paquetes, especialmente durante temporadas altas. Esto muestra una oportunidad clara de mejora tecnológica en el sector. María busca una solución más integrada que combine reservas, pagos y marketing en una sola plataforma eficiente. Valora funcionalidades como métodos de pago flexibles, disponibilidad en tiempo real y soporte técnico confiable. Está dispuesta a pagar una comisión por reserva si la plataforma le garantiza retorno en visibilidad, eficiencia operativa y ventas, lo cual refleja un enfoque orientado a resultados y sostenibilidad del negocio.
+    Las entrevistas con María Rodríguez, Tony Blades y David Pérez revelan puntos en común significativos que validan la propuesta de valor de TravelMatch para las agencias de turismo locales.
 
+    - _Dependencia de Canales Digitales y Limitaciones:_ Las tres fuentes coinciden en la importancia de los canales digitales para la captación de clientes. El 100% de las agencias entrevistadas utilizan activamente redes sociales (Facebook e Instagram son recurrentes), y al menos una de ellas (33%) menciona el uso de plataformas de publicidad online como Google Ads y TripAdvisor. Sin embargo, a pesar de su efectividad para ciertos segmentos, reconocen limitaciones para alcanzar audiencias más amplias (turistas extranjeros) o para una gestión integral de sus operaciones.
 
-  **Entrevista 2: Tony Blades Sarmiento**
-    
-    Análisis de la entrevista:
-Tony refleja la perspectiva de un agente turístico que utiliza herramientas digitales como redes sociales y una página web, aunque con limitaciones en su funcionamiento actual. Si bien reconoce su utilidad, considera que no son del todo eficientes para satisfacer las necesidades operativas de su negocio. Un punto crítico que menciona es la confirmación de pagos y la falta de coordinación con clientes indecisos, lo cual evidencia la necesidad de una mejor gestión de la comunicación y los procesos de compra. Tony muestra interés en contar con una plataforma integral e intuitiva que le permita unificar funciones clave como pagos, mensajería directa y análisis de datos. Además, está dispuesto a pagar una suscripción, especialmente si la herramienta le ofrece mejores resultados en temporadas altas, lo que indica un enfoque estratégico hacia la eficiencia y la conversión durante periodos clave de demanda.
+    - _Prevalencia de Reservas Online y Desafíos de Gestión:_ Tanto María como David señalan que una parte significativa de sus reservas proviene de canales digitales (María indica "la mayoría" y David un 70%). No obstante, esto conlleva desafíos importantes. El 67% de las agencias (María y David) experimentan problemas con la sincronización en tiempo real de la disponibilidad, especialmente en temporadas altas. Además, la gestión de múltiples canales (redes sociales, WhatsApp, web propia, plataformas de publicidad) genera ineficiencias y dificulta la coordinación, como lo destaca Tony con los problemas en la confirmación de pagos y el seguimiento de clientes indecisos.
 
+    - _Necesidad de Soluciones Integradas:_ Existe un consenso unánime (100% de las agencias) en la necesidad de herramientas tecnológicas más integradas. Expresan el deseo de funcionalidades que vayan más allá de las soluciones básicas que utilizan actualmente (mencionado por María).
+
+    - _Disposición a Invertir por Valor:_ Las tres fuentes muestran una disposición a invertir en una plataforma como TravelMatch si esta ofrece un valor claro. María está dispuesta a pagar una comisión "razonable" por un buen retorno en visibilidad y eficiencia. Tony considera pagar una suscripción por beneficios en temporadas altas. David también está dispuesto a invertir en soluciones "transparentes y fáciles de usar" que mejoren la visibilidad y los resultados, especialmente en temporadas de alta demanda. Esto sugiere una sensibilidad al modelo de negocio propuesto (comisiones y planes premium), siempre y cuando se demuestre un retorno tangible.
+
+    - **Conclusiones**
+
+        - Existe una clara validación de la problemática identificada: la fragmentación de la gestión y la necesidad de canales digitales más eficientes e integrados para las agencias locales.
+        - La propuesta de valor de TravelMatch resuena con las necesidades expresadas, especialmente en cuanto a la integración de funcionalidades clave como la gestión de disponibilidad, pagos y comunicación con los clientes.
+        - El modelo de negocio basado en comisiones y planes premium parece viable, dado la disposición de las agencias a invertir a cambio de mayor visibilidad y eficiencia, especialmente en temporadas altas.
+        - La facilidad de uso y un buen soporte técnico serán cruciales para la adopción y el éxito de la plataforma entre las agencias.
 
 - **Segmento objetivo 2 - Turistas nacionales e internacionales**
-<br></br>
-    **Entrevista 4: Adrián David Yañez Méndez**
-
-    Análisis de la entrevista:
-Adrián organiza sus viajes influenciado principalmente por redes sociales, lo que muestra una fuerte conexión con plataformas visuales y modernas. A pesar de preferir paquetes turísticos, sufre por la falta de opciones personalizadas a precios accesibles. Su perfil revela una clara disposición a pagar por experiencias auténticas y de calidad, pero exige plataformas que le faciliten la comparación de precios y comentarios, y que sean intuitivas en el celular. La posibilidad de recibir recomendaciones personalizadas y contactar directamente a la agencia es clave para él, ya que busca tener certeza y control antes de reservar. Su comportamiento refleja una necesidad de tecnología práctica, confiable y adaptada a sus intereses culturales y fotográficos.
-
-
-
-    **Entrevista 5: Sebastian Alonso Arevalo Torres**
     
-    Análisis de la entrevista:
-Sebastián planifica con antelación y valora mucho la autenticidad de sus experiencias. Se informa extensamente a través de plataformas tradicionales como Google Travel y YouTube, lo cual indica que es un viajero meticuloso. Tiende a organizar por su cuenta, pero está abierto a paquetes si estos se ajustan a sus intereses. Considera esencial la posibilidad de comparar precios y opiniones en una sola plataforma, lo que indica su preferencia por una toma de decisiones informada. También demuestra conciencia social, ya que está dispuesto a pagar más por experiencias que beneficien a comunidades locales. Su comportamiento exige una plataforma confiable, con buenas reseñas y atención personalizada que funcione eficientemente desde su celular.
+    Las entrevistas con Adrián Yáñez, Sebastián Arévalo y Diego Santiago, a pesar de sus diferencias en estilo de viaje, revelan necesidades y comportamientos comunes que TravelMatch puede abordar.
 
+    - _Influencia de Plataformas Digitales en la Planificación:_ Los tres entrevistados utilizan activamente plataformas digitales para inspirarse y planificar sus viajes. El 100% menciona redes sociales (Instagram y TikTok son populares), y herramientas como Google Maps, TripAdvisor, Google Travel, YouTube, blogs de viaje y grupos de Facebook/Telegram también son relevantes. Esto subraya la importancia de una sólida presencia online y la capacidad de TravelMatch para integrarse o ser descubierto a través de estos canales.
 
-    **Entrevista 6:Diego Edinson Santiago Lima**
+    - _Valoración de la Personalización y la Autenticidad:_ Los tres turistas demuestran un fuerte interés en la personalización de sus experiencias. Adrián prioriza actividades culturales, de aventura y fotografía; Sebastián busca experiencias auténticas alejadas del turismo convencional, con foco en lo cultural y gastronómico; y Diego valora la improvisación y actividades gastronómicas y culturales accesibles. El 100% busca experiencias que se adapten a sus intereses específicos y valoran la autenticidad.
 
-    Análisis de la entrevista:
-Diego representa al viajero mochilero espontáneo que prefiere descubrir actividades sobre la marcha. Usa principalmente redes sociales y grupos comunitarios como fuentes de información, lo cual evidencia una fuerte conexión con herramientas informales y colaborativas. Valora la flexibilidad, las actividades accesibles y la posibilidad de personalización en tiempo real. Aunque tiene un presupuesto ajustado, está dispuesto a invertir más en experiencias auténticas. Busca plataformas que le permitan comparar fácilmente precios y opiniones, y que acepten métodos de pago locales como Yape o Plin. Su perfil muestra una necesidad urgente de una app que funcione bien en celular, que ofrezca recomendaciones basadas en ubicación y que permita contacto directo con las agencias para asegurar confianza y rapidez en la toma de decisiones.
+    - _Necesidad de Comparación y Transparencia:_ Los tres entrevistados resaltan la importancia de poder comparar precios, duración y opiniones en un solo lugar. Adrián y Sebastián lo mencionan explícitamente, mientras que Diego considera crucial comparar precios y valoraciones. Esto indica una necesidad de TravelMatch de ofrecer una interfaz clara y completa para la comparación de opciones.
 
+    - _Disposición a Pagar por Experiencias de Valor:_ Si bien Diego busca opciones económicas, los tres están dispuestos a pagar más por experiencias auténticas, personalizadas o únicas. Adrián menciona estar dispuesto a pagar más por experiencias auténticas y personalizadas, Sebastián por experiencias únicas que beneficien a comunidades locales, y Diego por experiencias únicas. Esto sugiere que el precio no es el único factor determinante, y que TravelMatch puede ofrecer experiencias premium si el valor percibido es alto.
 
+    - _Importancia de la Reserva Móvil y la Comunicación:_ Los tres consideran cómodo o esencial poder hacer reservas desde su celular y valoran la posibilidad de comunicarse con la agencia antes de reservar. Adrián y Sebastián lo mencionan directamente, y Diego confía en su celular para planificar y reservar en el camino. Esto enfatiza la necesidad de una app móvil intuitiva y funcionalidades de comunicación directa dentro de la plataforma.
+
+    - _Preferencias de Pago:_ Diego menciona la importancia de opciones de pago locales como Yape o Plin, lo cual es un factor a considerar para la adopción local.
+
+    - **Conclusiones**
+
+        - Preferencias de Pago: Diego menciona la importancia de opciones de pago locales como Yape o Plin, lo cual es un factor a considerar para la adopción local.
+        - La propuesta de valor de TravelMatch de ofrecer una experiencia de búsqueda fluida, segura y adaptada a las preferencias del turista es altamente relevante para este segmento.
+        - La funcionalidad de comparación de precios, duración y opiniones será crucial para atraer y retener a los usuarios.        
+        - TravelMatch debe ser lo suficientemente flexible para atender tanto a viajeros que planifican con anticipación como a aquellos más espontáneos.
+
+    
 - **Segmento objetivo 3 - Turistas corporativos**
-    Para este segmento
+    
+    Las entrevistas con César Vásquez, Eduardo Montalvo y Abigail Goñe ofrecen una perspectiva sobre las necesidades de los viajeros corporativos que buscan aprovechar su tiempo libre durante sus desplazamientos laborales.
+
+    - _Oportunidades de Turismo en Tiempo Libre Limitado:_ César Vásquez, quien viaja con frecuencia por trabajo en la región de Ica, expresa un claro interés en visitar atractivos turísticos locales en su tiempo libre, aunque actualmente le resulta difícil encontrarlo. Esto sugiere una oportunidad para TravelMatch de ofrecer actividades que se ajusten a las ventanas de tiempo libre de los viajeros corporativos. Eduardo y Abigail también mencionan tener tiempo libre limitado entre sus compromisos laborales.
+
+    - _Valoración de la Puntualidad y la Adaptabilidad Horaria:_ Para César, la puntualidad del servicio es primordial. Además, valora una aplicación que se adapte a sus horarios personales y laborales. Esta necesidad de flexibilidad horaria y confiabilidad en los tiempos es un factor clave para este segmento. Eduardo y Abigail también resaltan la dificultad de encontrar actividades con horarios compatibles con sus jornadas laborales.
+
+    - _Uso de Herramientas Digitales Básicas y Deseo de Integración:_ César utiliza WhatsApp y Google Maps para su logística laboral, pero no para actividades turísticas. Eduardo y Abigail utilizan Google Maps y otras plataformas generales (TripAdvisor, Yelp, TikTok) pero expresan el deseo de una app específica para viajeros de negocios que integre opciones turísticas, tiempos estimados y reservas. Esto refuerza la necesidad de una plataforma integrada como TravelMatch que simplifique la búsqueda y reserva de actividades.
+
+    - _Interés en Experiencias Específicas:_ Eduardo prefiere tours cortos o gastronomía local, mientras que Abigail se inclina por visitas cortas a sitios arqueológicos o gastronomía local. Esto sugiere que, si bien el tiempo es limitado, existe un interés en experiencias culturales y gastronómicas concisas.
+
+    - _Relevancia de la Personalización y las Recomendaciones Automáticas:_ Eduardo y Abigail desean recomendaciones personalizadas según su ubicación, horario e intereses. Abigail también busca recomendaciones automáticas. Esto valida la importancia de un motor de recomendaciones inteligente dentro de TravelMatch que considere el contexto del viaje de negocios.
+
+    - **Conclusiones**
+
+        - Existe una oportunidad para TravelMatch de atender las necesidades de los viajeros corporativos que desean aprovechar sus limitados periodos de tiempo libre para realizar actividades turísticas.
+        - La plataforma debe priorizar la puntualidad, la flexibilidad horaria y la conveniencia de ubicación de las actividades ofrecidas.
+        - Un sistema de recomendaciones basado en la ubicación, el horario disponible y los intereses del viajero corporativo es crucial.       
+        - Generar confianza a través de reseñas y perfiles de agencia detallados es fundamental para la adopción.
 
 
 ### 2.3. Needfinding
@@ -1584,7 +1617,7 @@ Para asegurar la consistencia, trazabilidad y calidad del producto digital Trave
 
 | Categoría | Herramienta | Propósito | Tipo de acceso/enlace |
 |:----:|:----:|:----:|:----:|
-| Project Management | Trello | Gestión del backlog y tareas del equipo mediante tableros Kanban. | https://trello.com |
+| Project Management | Trello | Gestión del backlog y tareas del equipo mediante tableros Scrum. | https://trello.com |
 | Requirements Management | UXPressia | Creación y documentación de User Personas y customer journeys. | https://uxpressia.com |
 | Product UX/UI Design | Figma | Creación de wireframes y mockups de la interfaz de usuario. | https://figma.com |
 | Modelado de Software | Visual Paradigm | Modelado de arquitectura de software: diagramas de contexto, Bounded Contexts, etc. | https://visual-paradigm.com |

@@ -213,6 +213,8 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
 
 [Conclusiones](#conclusiones)
 
@@ -2080,6 +2082,71 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo de la land
     </p>   
 
 <hr>
+
+#### 5.2.2. Sprint 2
+
+##### 5.2.2.1. Sprint Planning 2
+
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 2 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 12/05/2025 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 23:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Zoom) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Galvez Chambi, Jhon </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Aspajo Alvarez, Mathias<br>
+      Briceño De La Cruz, Farid<br>
+      Galvez Chambi, Jhon<br>
+      Guevara Tejada, Jorge<br>
+      Linares Bernable, Cesar
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+    <td> Durante este sprint, nos concentramos en la construcción del front-end y la implementación inicial de la plataforma TravelMatch. Logramos finalizar las funcionalidades esenciales de la landing page, brindando a los usuarios una primera experiencia de navegación y descubrimiento del servicio. El equipo alcanzó los objetivos de entrega dentro del cronograma establecido, consolidando además las bases de la interfaz gráfica para próximas iteraciones. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+    <td> Este sprint, aunque centrado en el desarrollo técnico, reveló oportunidades para optimizar nuestra dinámica colaborativa. El análisis retrospectivo destacó en optimizar la duración de las sincronizaciones diarias, rebalancear la asignación de tareas según especialidades e implementar planning individual con hitos verificables. Estas acciones buscan aumentar la eficiencia en próximas iteraciones. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Goal </td>
+    <td> Este ciclo de desarrollo está focalizado en la construcción e implementación de la interfaz front-end para TravelMatch, con el propósito de ofrecer una experiencia de navegación fluida e intuitiva, presentar las funcionalidades clave de la plataforma y entregar una Landing Page operativa que comunique efectivamente el valor diferencial del servicio </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+    <td> <strong>10 </strong><br> El equipo ha definido una capacidad de 10 Story Points para este sprint, basándose en la complejidad de las tareas de front-end, la disponibilidad real de horas y el aprendizaje de sprints anteriores </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 10 </td>
+  </tr>
+</table>
+
 
 ## Conclusiones
 

@@ -1061,6 +1061,15 @@ Experiencia y Feedback: Buscan disfrutar sin complicaciones logísticas, pero la
 |US35|Visualización responsive|Como usuario móvil, quiero ver la página correctamente adaptada a mi pantalla para una experiencia óptima.|<p>- Scenario 1: Ajuste automático</p><p>&emsp;Dado que accedo desde un dispositivo móvil, cuando giro la pantalla, entonces el contenido se reordena correctamente.</p><p>- Scenario 2: Menú adaptado<br>  Dado que uso una tablet, cuando navego, entonces los botones tienen tamaño táctil adecuado.</p>|EP01|
 |US36|Contactar al equipo de soporte (Versión agencia)|Como agencia asociada, quiero contactar al soporte técnico especializado para resolver problemas operativos urgentes.|<p>- Scenario 1: Solicitud prioritaria</p><p>&emsp;Dado que selecciono "Problema operativo", cuando envío mi consulta marcando "Urgente", entonces recibo respuesta en menos de 15 minutos.</p><p>- Scenario 2: Consulta sobre API<br>  Dado que tengo dudas sobre integración, cuando adjunto capturas de error, entonces el soporte me envía documentación técnica complementaria.</p>|EP03|
 |US37|Modelo de Monetización|Como agencia turística, quiero entender claramente cómo generaré ingresos mediante la plataforma para planificar mi estrategia.|<p>- Scenario 1: Visualización de comisiones</p><p>&emsp;Dado que accedo a "Para Agencias", cuando reviso la sección monetización, entonces veo una calculadora interactiva de comisiones por reserva.</p><p>- Scenario 2: Beneficios premium<br>  Dado que soy agencia verificada, cuando consulto planes de suscripción, entonces el sistema muestra comparativas de features y costos.</p>|EP03|
+| US38 | Explorar servicios disponibles | Como visitante del segmento de viajeros, quiero explorar los servicios disponibles para encontrar opciones que se adapten a mis intereses de viaje. | <p>Escenario: Exploración de servicios</p><p>Dado que el visitante accede a la sección "Nuestros Servicios"</p><p>Cuando revisa esta sección</p><p>Entonces puede identificar servicios relevantes para su próxima experiencia de viaje</p> | EP01 |
+| US39 | Revisar testimonios de otros viajeros | Como visitante del segmento de viajeros, quiero leer testimonios de otros usuarios para tener confianza en las experiencias ofrecidas. | <p>Escenario: Revisión de testimonios</p><p>Dado que el visitante accede a la sección "Testimonios"</p><p>Cuando revisa los comentarios de otros viajeros</p><p>Entonces puede evaluar la calidad de las experiencias</p> | EP01 |
+| US40 | Contactar para más información | Como visitante del segmento de viajeros, quiero poder enviar un mensaje para resolver dudas sobre los servicios ofrecidos. | <p>Escenario: Envío de mensaje</p><p>Dado que el visitante accede a la sección "Contáctanos"</p><p>Cuando completa el formulario de contacto</p><p>Entonces puede enviar una consulta al equipo</p> | EP02 |
+| US41 | Registro para viajeros | Como visitante del segmento de viajeros, quiero registrarme fácilmente desde la landing para comenzar a explorar experiencias de viaje. | <p>Escenario: Registro desde botón</p><p>Dado que la opción "Registrarse" está visible</p><p>Cuando el visitante hace clic en ella</p><p>Entonces es redirigido al formulario de registro para viajeros</p> | EP02 |
+| US42 | Conocer cómo funciona la plataforma | Como visitante del segmento de agencias, quiero entender cómo funciona la plataforma para saber si es compatible con mis servicios. | <p>Escenario: Lectura de “Cómo Funciona”</p><p>Dado que el visitante accede a esa sección</p><p>Cuando lee los pasos indicados</p><p>Entonces comprende el flujo de uso general</p> | EP03 |
+| US43 | Revisar testimonios de otros usuarios | Como visitante del segmento de agencias, quiero leer testimonios de otros usuarios para validar la efectividad de la plataforma. | <p>Escenario: Revisión de testimonios</p><p>Dado que el visitante accede a la sección "Testimonios"</p><p>Cuando revisa los comentarios</p><p>Entonces puede evaluar la experiencia de otros usuarios</p> | EP01 |
+| US44 | Contactar para consultas comerciales | Como visitante del segmento de agencias, quiero usar el formulario de contacto para hacer consultas o proponer colaboraciones. | <p>Escenario: Envío de mensaje</p><p>Dado que el visitante llega a la sección "Contáctanos"</p><p>Cuando completa los campos</p><p>Entonces puede enviar una consulta al equipo</p> | EP02 |
+| US45 | Cambiar vista a viajeros | Como visitante del segmento de agencias, quiero cambiar a la vista de viajeros para conocer el contenido y servicios disponibles para ese público. | <p>Escenario: Cambio de vista</p><p>Dado que la opción "Para Viajeros" está visible</p><p>Cuando hace clic en esa opción</p><p>Entonces la vista cambia para mostrar contenido para viajeros</p> | EP01 |
+| US46 | Registro para agencias | Como visitante del segmento de agencias, quiero registrarme desde la landing para empezar a formar parte de la plataforma. | <p>Escenario: Registro desde botón</p><p>Dado que la opción "Registrarse" está visible</p><p>Cuando el visitante hace clic en ella</p><p>Entonces es redirigido al formulario de registro para agencias</p> | EP02 |
 #
 
 ### 3.3. Impact Mapping
@@ -1969,6 +1978,8 @@ La configuración de despliegue para TravelMatch contempla mecanismos organizado
 
 ##### 5.2.1.1. Sprint Planning 1
 
+En este primer sprint, el equipo se reunió para planificar el alcance del desarrollo inicial del proyecto. El objetivo principal es establecer las bases para una aplicación efectiva y bien estructurada, comenzando con la creación de una página de aterrizaje (landing page) que sirva como el primer punto de contacto con los usuarios. Este enfoque permitirá validar las ideas iniciales del producto, medir el interés del público objetivo y generar una presencia digital sólida desde las primeras etapas del proyecto.
+
 |**Sprint #**|` `Sprint 1|
 | :- | :- |
 |` `**Date**|2025-04-23|
@@ -1984,9 +1995,28 @@ La configuración de despliegue para TravelMatch contempla mecanismos organizado
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
+En el Sprint 1 se definieron los siguientes aspectos clave para la implementación del Landing Page:
+
+1. **UI/UX Design**  
+2. **Maquetación HTML/CSS**  
+3. **Desarrollo JavaScript**  
+4. **Documentación de Servicios**  
+5. **Despliegue**  
+
+A continuación la matriz de Liderazgo y Colaboración (LACX), donde “L” indica el líder de cada aspecto y “C” a sus colaboradores:
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **UI/UX Design** | **Maquetación HTML/CSS** | **Desarrollo JavaScript** | **Documentación de Servicios** | **Despliegue** |
+|-----------------------------------------|---------------------|:----------------:|:------------------------:|:-------------------------:|:------------------------------:|:--------------:|
+| Aspajo Alvarez, Mathias        | AdeXzz             | C                | L                        | C                         | C                              | C              |
+| Galvez Chambi, Jhon                  | Chaomeum           | C                | C                        | L                         | C                              | C              |
+| Guevara Tejada, Jorge           | Jorgito170              | C                | C                        | C                         | L                              | C              |
+| Linares Bernable, Cesar           | Jorgito170          | L                | C                        | C                         | C                              | L              |
+|
+
+
 ##### 5.2.1.3. Sprint Backlog 1
 
-Durante la primera iteración de desarrollo, implementamos los componentes esenciales de la página de inicio, los elementos de interfaz y el menú de navegación
+El Sprint Backlog 1 representa la lista de tareas y elementos de trabajo priorizados para la primera iteración del proyecto. En esta fase inicial, el enfoque principal es construir los componentes esenciales de la página de inicio, asegurar una experiencia de usuario fluida y establecer una base sólida para las futuras iteraciones. El objetivo es crear una landing page atractiva y funcional que permita a los usuarios registrarse, conocer la misión de la startup y navegar de manera intuitiva, mientras se incorporan funcionalidades críticas como formularios de contacto y optimización para dispositivos móviles.
 
 
 |Sprint #|Sprint 1|||||||
@@ -2002,6 +2032,8 @@ Durante la primera iteración de desarrollo, implementamos los componentes esenc
 |` `US-35|Visualización responsive|T07|Adaptabilidad a dispositivos móviles|El sitio web debe estar optimizado para garantizar una experiencia de navegación cómoda y fluida desde smartphones y otros dispositivos móviles.|2|Jhon Galvez, Cesar Linares|Done|
 |` `US-36|Contactar al equipo de soporte (Versión agencia)|T08|Formulario de contacto para agencias|Incluir un formulario exclusivo para agencias, donde puedan realizar consultas, expresar su interés en colaborar o solicitar información adicional sobre los servicios y beneficios que ofrece la plataforma para sus operaciones.|2|Farid Briceño|Done|
 |` `US-37|Modelo de monetización|T09|Sección informativa para agencias|Agregar una sección dedicada a explicar claramente cómo las agencias pueden generar ingresos a través del uso de la aplicación.|0.5|Farid Briceño|Done|
+
+
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 

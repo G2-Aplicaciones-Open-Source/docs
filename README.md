@@ -2260,13 +2260,32 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo de la land
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators.
 
+En el Sprint 2 se definieron los siguientes aspectos clave para la implementación del Landing Page:
+
+1. **UI/UX Design**  
+2. **Maquetación HTML/CSS**  
+3. **Desarrollo TypeScript**  
+4. **Documentación de Servicios**  
+5. **Despliegue**  
+
+A continuación la matriz de Liderazgo y Colaboración (LACX), donde “L” indica el líder de cada aspecto y “C” a sus colaboradores:
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **UI/UX Design** | **Maquetación HTML/CSS** | **Desarrollo JavaScript** | **Documentación de Servicios** | **Despliegue** |
+|-----------------------------------------|---------------------|:----------------:|:------------------------:|:-------------------------:|:------------------------------:|:--------------:|
+| Aspajo Alvarez, Mathias        | AdeXzz             | C                | L                        | C                         | C                              | C              	|
+| Briceño De la Cruz, Farid	| InjustShin	| C			| C		| C			| C		 | C							|
+| Galvez Chambi, Jhon                  | Chaomeum           | C                | C                        | L                         | C                              | L              |
+| Guevara Tejada, Jorge           | Jorgito170              | C                | C                        | C                         | L                              | C              |
+| Linares Bernable, Cesar           | Jorgito170          | L                | C                        | C                         | C                              | C             	|
+
+
 
 ##### 5.2.2.3. Sprint Backlog 2
 
 El Sprint Backlog 2 se enfoca en la mejora continua del frontend tras el despliegue de la primera versión. En esta fase, se priorizan tareas para optimizar la experiencia del usuario, incorporar nuevas funcionalidades y refinar aspectos visuales y de rendimiento. El objetivo es consolidar las bases establecidas en el primer sprint, ajustando elementos clave en la interfaz, mejorando la navegación y añadiendo nuevas secciones para ofrecer una experiencia más completa y atractiva.
 
 
-|Sprint #|Sprint 1|||||||
+|Sprint #|Sprint 2|||||||
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story|Work-Item / Task|||||||
 |Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p>|Assigned To|<p>Status</p><p>(To-do /</p><p>InProcess /</p><p>ToReview /</p><p>Done)</p>|
@@ -2279,6 +2298,13 @@ El Sprint Backlog 2 se enfoca en la mejora continua del frontend tras el desplie
 |` `US03|Perfil corporativo|T16|Información del perfil corporativo|Incluye detalles adicionales para perfiles corporativos.|2|Jhon Galvez, Cesar Linares|Done|
 |` `US09|Perfil público|T17|Información del perfil público| Permite compartir experiencias y opiniones, formando parte del perfil.|2|Farid Briceño|Done|
 |` `US15|Favoritos|T18|Sección informativa de favoritos|Permite guardar y gestionar actividades interesantes para revisarlas después.|0.5|Farid Briceño|Done|
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+|Epic / Story ID|Título|Criterios de Aceptación|
+| :- | :- | :- |
+|` `US09|Perfil público|Dado que me encuentro dentro del front, cuando accedo a "Profile", podré acceder a mi perfil y modificar mis datos.|
+|` `US15|Favoritos|Dado que me encuentro en el Home, cuando hago clic en "Favoritos", entonces veo las experiencias que marqué como favoritas.|
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 

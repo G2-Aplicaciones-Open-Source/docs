@@ -862,22 +862,64 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 
 #### 2.3.2. User Task Matrix
 
-<p align="center">
-    <img src="assets/recursos/Task_Matrix_Turistas.jpg" alt="Task-Matrix-Turistas"/>
-</p>
+***Segmento 1: Dueños de agencia de viajes***
 
-<p align="center">
-    <img src="assets/recursos/Task_Matrix_Agencias.jpg" alt="Task-Matrix-Agencias"/>
-</p>
+|**Tony Blades**|||
+| :-: | :- | :- |
+|**Actividades**|**Frecuencia**|**Importancia**|
+|Gestionar y actualizar catálogo de tours en tiempo real|Alta|Alta|
+|Sincronizar disponibilidad de tours en múltiples canales|Alta|Alta|
+|Responder consultas de clientes a través de la plataforma|Alta|Alta|
+|Generar reportes de reservas y rendimiento financiero|Media|Alta|
+|Promocionar tours en redes sociales integradas|Media|Media|
+|Configurar precios dinámicos según temporada|Media|Alta|
+|Capacitar al equipo en el uso de la plataforma|Baja|Media|
 
-<p align="center">
-    <img src="assets/recursos/Task_Matrix_Viajeros.jpg" alt="Task-Matrix-Viajeros"/>
-</p>
+***Segmento 2: Turistas nacionales e internacionales***
+
+|**Adrián Méndez**|||
+| :-: | :- | :- |
+|**Actividades**|**Frecuencia**|**Importancia**|
+|Buscar actividades filtradas por destino, presupuesto e intereses|Alta|Alta|
+|Comparar precios, reseñas y duración de tours	|Alta|Alta|
+|Reservar actividades con confirmación instantánea|Alta|Alta|
+|Comunicarse con guías/agencias para personalizar tours|Media|Alta|
+|Gestionar itinerarios de viaje integrados|Media|Alta|
+|Compartir experiencias en redes sociales desde la app|Media|Media|
+|Calificar tours y dejar reseñas detalladas|Media|Alta|
+
+***Segmento 3: Turistas corporativos***
+
+|**César Vásquez**|||
+| :-: | :- | :- |
+|**Actividades**|**Frecuencia**|**Importancia**|
+|Encontrar actividades cercanas a su ubicación laboral|Alta|Alta|
+|Recibir recomendaciones automáticas basadas en horario disponible|Alta|Alta|
+|Reservar tours cortos con flexibilidad horaria|Alta|Alta|
+|Verificar puntualidad y confiabilidad de las agencias|Alta|Alta|
+|Acceder a opciones de pago rápido|Media|Alta|
+|Gestionar reservas desde la app móvil en tiempo real|Alta|Alta|
+|Recibir alertas de actividades compatibles con su agenda|Media|Media|
+
 
 #### 2.3.3. User Journey Mapping
 
+***Segmento 1: Dueños de agencia de viajes***
+
 <p align="center">
-    <img src="assets/recursos/User_Journey_Mapping.jpg" alt="User-Journey-Mapping"/>
+    <img src="assets/recursos/User_Journey_Mapping1.png" alt="User-Journey-Mapping"/>
+</p>
+
+***Segmento 2: Turistas nacionales e internacionales***
+
+<p align="center">
+    <img src="assets/recursos/User_Journey_Mapping2.png" alt="User-Journey-Mapping"/>
+</p>
+
+***Segmento 3: Turistas corporativos***
+
+<p align="center">
+    <img src="assets/recursos/User_Journey_Mapping3.png" alt="User-Journey-Mapping"/>
 </p>
 
 #### 2.3.4. Empathy Mapping
@@ -905,7 +947,7 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 #### 2.3.5.1. As-is Scenario Mapping Turistas nacionales e internacionales
 
 <p align="center">
-    <img src="assets/recursos/As_is_Turistas.jpg" alt="As-is-Turistas"/>
+    <img src="assets/recursos/As_is_Turistas.png" alt="As-is-Turistas"/>
 </p>
 
 #### 2.3.5.2. As-is Scenario Mapping Agencias de turismo locales
@@ -947,7 +989,7 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 #### 3.1.1. To-Be Scenario Mapping Turistas nacionales e internacionales
 
 <p align="center">
-    <img src="assets/recursos/To_be_Turistas.jpg" alt="To-be-Turistas"/>
+    <img src="assets/recursos/To_be_Turistas.png" alt="To-be-Turistas"/>
 </p>
 
 #### 3.1.2. To-Be Scenario Mapping Agencias de turismo locales
@@ -2146,7 +2188,6 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo de la land
     <td> 10 </td>
   </tr>
 </table>
-
 
 ## Conclusiones
 

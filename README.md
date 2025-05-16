@@ -2306,15 +2306,15 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo del fronte
 
 	-Insights:
 
-  	<img src="assets/recursos/sprint2insights.png" alt="sprint2insights"/>
+  	<img src="assets/evidencias/sprint2insights.png" alt="sprint2insights"/>
 
   	-Analíticas:
 
-  	<img src="assets/recursos/sprint2analiticas.png" alt="sprint2analiticas"/>
+  	<img src="assets/evidencias/sprint2analiticas.png" alt="sprint2analiticas"/>
 
   	-Gitflow:
 
-	<img src="assets/recursos/sprint2gitflow.png" alt="sprint2gitflow"/>
+	<img src="assets/evidencias/sprint2gitflow.png" alt="sprint2gitflow"/>
 
 ## Conclusiones
 

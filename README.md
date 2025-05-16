@@ -2280,7 +2280,13 @@ El Sprint Backlog 2 se enfoca en la mejora continua del frontend tras el desplie
 |` `US09|Perfil público|T17|Información del perfil público| Permite compartir experiencias y opiniones, formando parte del perfil.|2|Farid Briceño|Done|
 |` `US15|Favoritos|T18|Sección informativa de favoritos|Permite guardar y gestionar actividades interesantes para revisarlas después.|0.5|Farid Briceño|Done|
 
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+En este Sprint, el foco estuvo centrado exclusivamente en el desarrollo del frontend del proyecto TravelMatch. Se trabajaron los siguientes endpoints para este sprint:
+
+<img src="assets/recursos/endpoints.png" alt="endpoints "/>
+
+La documentación de Web Services utilizando OpenAPI/Swagger será considerada en futuros Sprints, una vez que se inicie la implementación del backend del sistema.
 
 ## Conclusiones
 

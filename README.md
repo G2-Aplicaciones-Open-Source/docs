@@ -2251,6 +2251,30 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo de la land
   </tr>
 </table>
 
+##### 5.2.2.2. Aspect Leaders and Collaborators.
+
+
+##### 5.2.2.3. Sprint Backlog 2
+
+El Sprint Backlog 2 se enfoca en la mejora continua del frontend tras el despliegue de la primera versión. En esta fase, se priorizan tareas para optimizar la experiencia del usuario, incorporar nuevas funcionalidades y refinar aspectos visuales y de rendimiento. El objetivo es consolidar las bases establecidas en el primer sprint, ajustando elementos clave en la interfaz, mejorando la navegación y añadiendo nuevas secciones para ofrecer una experiencia más completa y atractiva.
+
+
+|Sprint #|Sprint 1|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task|||||||
+|Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p>|Assigned To|<p>Status</p><p>(To-do /</p><p>InProcess /</p><p>ToReview /</p><p>Done)</p>|
+|` `US11|Filtros avanzados|T10|Desarrollar un sistema de filtros avanzados.|Permite a los usuarios filtrar actividades por precio y tipo para encontrar opciones relevantes.|1|Jorge Guevara|InProcess|
+|` `US09|Perfil público|T11|Desarrollo del módulo de perfil público|Permite compartir reseñas que pueden llevar a páginas de detalles.|1|Mathias Aspajo|Done|
+|` `US18|Vista previa de tours|T12|Desarrollo de la vista previa de experiencias|Muestra fotos y videos detallados, lo que implica navegar al detalle del tour.|0\.5|Jhon Galvez, Cesar Linares|Done|
+|` `US17|Mapas interactivos|T13|Presentación de la ubicación de la experiencia|Muestra la ubicación exacta de los tours, típicamente en la vista de detalle.|0\.5|Jhon Galvez|TO-DO|
+|` `US19|Itinerarios automáticos|T14|Información de los itinerarios|Incluye lógica para seleccionar actividades y planificar rutas, que normalmente requieren detalles.|0\.5|Jhon Galvez, Farid Briceño|TO-DO|
+|` `US02|Inicio de sesión|T15|Formulario inicio de sesión|Necesario para acceder a la gestión de perfiles.|2|Jhon Galvez|TO-DO|
+|` `US03|Perfil corporativo|T16|Información del perfil corporativo|Incluye detalles adicionales para perfiles corporativos.|2|Jhon Galvez, Cesar Linares|Done|
+|` `US09|Perfil público|T17|Información del perfil público| Permite compartir experiencias y opiniones, formando parte del perfil.|2|Farid Briceño|Done|
+|` `US15|Favoritos|T18|Sección informativa de favoritos|Permite guardar y gestionar actividades interesantes para revisarlas después.|0.5|Farid Briceño|Done|
+
+
+
 ## Conclusiones
 
 - _Colaboración efectiva del equipo:_

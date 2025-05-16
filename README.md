@@ -2288,6 +2288,20 @@ En este Sprint, el foco estuvo centrado exclusivamente en el desarrollo del fron
 
 La documentación de Web Services utilizando OpenAPI/Swagger será considerada en futuros Sprints, una vez que se inicie la implementación del backend del sistema.
 
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Durante este Sprint, se llevó a cabo el despliegue del frontend del proyecto TravelMatch, como segundo paso en la publicación progresiva de los productos del sistema. Esta actividad se enmarca dentro del objetivo de validar las funcionalidades del frontend e interacción con el cliente y equipo docente.
+
+**Actividades Realizadas**
+
+- Configuración del repositorio GitHub y estructura inicial de carpetas.
+- Implementación de flujo de trabajo con Git Flow, manteniendo los cambios en la rama develop.
+- Realización de un merge desde develop hacia la rama main, de acuerdo a las convenciones definidas en la sección 5.1.2.
+- Se utilizará firebase para el despliegue del frontend, apuntando al contenido de la rama main.
+- Publicación exitosa del frontend accesible a través de una URL pública.
+
+**URL de la landing page desplegada:** link-del-frontend
+
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Durante este Sprint, el equipo colaboró activamente en el desarrollo del frontend de TravelMatch, siguiendo las buenas prácticas de control de versiones con Git, estructuración del trabajo bajo el flujo Git Flow, y división de responsabilidades alineada con los roles de desarrollo y diseño definidos desde el inicio del proyecto.

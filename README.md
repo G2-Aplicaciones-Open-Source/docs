@@ -2198,7 +2198,6 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo de la land
 
 ##### 5.2.2.1. Sprint Planning 2
 
-
 <table>
   <tr>
     <th> Sprint # </th>
@@ -2279,7 +2278,6 @@ A continuación la matriz de Liderazgo y Colaboración (LACX), donde “L” ind
 | Linares Bernable, Cesar           | Jorgito170          | L                | C                        | C                         | C                              | C             	|
 
 
-
 ##### 5.2.2.3. Sprint Backlog 2
 
 El Sprint Backlog 2 se enfoca en la mejora continua del frontend tras el despliegue de la primera versión. En esta fase, se priorizan tareas para optimizar la experiencia del usuario, incorporar nuevas funcionalidades y refinar aspectos visuales y de rendimiento. El objetivo es consolidar las bases establecidas en el primer sprint, ajustando elementos clave en la interfaz, mejorando la navegación y añadiendo nuevas secciones para ofrecer una experiencia más completa y atractiva.
@@ -2299,12 +2297,28 @@ El Sprint Backlog 2 se enfoca en la mejora continua del frontend tras el desplie
 |` `US09|Perfil público|T17|Información del perfil público| Permite compartir experiencias y opiniones, formando parte del perfil.|2|Farid Briceño|Done|
 |` `US15|Favoritos|T18|Sección informativa de favoritos|Permite guardar y gestionar actividades interesantes para revisarlas después.|0.5|Farid Briceño|Done|
 
+##### 5.2.2.4. Development Evidence for Sprint Review
+
+En esta parte, mostramos el proceso que seguimos para diseñar y mantener actualizada nuestro Frontend.
+
+|**Repository**|**Branch**|**Commit ID**|**Commit Message**|<p>**Commit Message**</p><p>` `**Body**</p>|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|G2-Aplicaciones-Open-Source/frontend-angular|develop|33ff4ac|feat: add configuration for routes, navbar component, and language switcher||15/05/2025|
+|G2-Aplicaciones-Open-Source/frontend-angular|develop|9194e1d|feat: add home component view, public components and language switcher|15/05/2025|
+|G2-Aplicaciones-Open-Source/frontend-angular|develop|312c4dd|feat: add favorite service functionalities|15/05/2025|
+|G2-Aplicaciones-Open-Source/frontend-angular|develop|0f39be0|feat: add cart component|15/05/2025|
+|G2-Aplicaciones-Open-Source/frontend-angular|develop|0fd285d|feat: demo version for profile component|15/05/2025|
+|G2-Aplicaciones-Open-Source/frontend-angular|develop|5f4f9e1|feat: add faves component|15/05/2025|
+|G2-Aplicaciones-Open-Source/frontend-angular|develop|58df3a5|feat: add i18n assets, components translation and production env setup|15/05/2025|
+
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
 |Epic / Story ID|Título|Criterios de Aceptación|
 | :- | :- | :- |
 |` `US09|Perfil público|Dado que me encuentro dentro del front, cuando accedo a "Profile", podré acceder a mi perfil y modificar mis datos.|
 |` `US15|Favoritos|Dado que me encuentro en el Home, cuando hago clic en "Favoritos", entonces veo las experiencias que marqué como favoritas.|
+
+Demo del Frontend Web Application: [Enlace](https://youtu.be/GDcZcjMXcGM)
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2326,7 +2340,26 @@ Durante este Sprint, se llevó a cabo el despliegue del frontend del proyecto Tr
 - Se utilizará firebase para el despliegue del frontend, apuntando al contenido de la rama main.
 - Publicación exitosa del frontend accesible a través de una URL pública.
 
-**URL de la landing page desplegada:** link-del-frontend
+**Evidencias del despliegue**
+
+<p align="center">
+    <img src="assets/evidencias/frontend-evidence-1.png" alt="frontend-evidence-1"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/frontend-evidence-2.png" alt="frontend-evidence-2"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/frontend-evidence-3.png" alt="frontend-evidence-3"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/frontend-evidence-4.png" alt="frontend-evidence-4"/>    
+</p>
+
+
+**URL de la landing page desplegada:** [Travel Match en Firebase](https://travel-match-1f187.web.app)
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 

@@ -2288,6 +2288,20 @@ En este Sprint, el foco estuvo centrado exclusivamente en el desarrollo del fron
 
 La documentación de Web Services utilizando OpenAPI/Swagger será considerada en futuros Sprints, una vez que se inicie la implementación del backend del sistema.
 
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante este Sprint, el equipo colaboró activamente en el desarrollo del frontend de TravelMatch, siguiendo las buenas prácticas de control de versiones con Git, estructuración del trabajo bajo el flujo Git Flow, y división de responsabilidades alineada con los roles de desarrollo y diseño definidos desde el inicio del proyecto.
+
+**Estrategia de colaboración empleada:**
+
+- Uso de ramas específicas (feature/, develop, main) para el desarrollo organizado de funcionalidades.
+
+- Implementación de convenciones de commits mediante Conventional Commits, facilitando la trazabilidad.
+
+- Pull requests revisadas por otros miembros antes de integrarse a develop.
+
+- Reuniones cortas (dailys o check-ins semanales) para seguimiento y desbloqueo de tareas.
+
 ## Conclusiones
 
 - _Colaboración efectiva del equipo:_

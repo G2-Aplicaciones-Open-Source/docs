@@ -236,8 +236,8 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 | <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
 |:-------------------:|-------------------|------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, participé activamente en la revisión retroactiva de los avances de mis compañeros. También apoyé en la preparación del material de presentación para nuestras reuniones internas.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. Adicionalmente, realice entrevistas para dos segmentos objetivos <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, realicé tres entrevistas enfocadas en el segmento de turistas nacionales e internacionales, con el propósito de entender mejor sus necesidades y expectativas. Asimismo, colaboré con la revisión retroactiva de los avances de mis compañeros, brindándoles observaciones sobre los puntos de la documentación que podrían ser mejorados. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** En esta entrega, me encargué de escuchar lo que el equipo quiere que haga y avancé con mis mandatos para una colaboración amena <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 2 y 3.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 1 y el Landing Page UI Design. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** Colabore con la elaboración de los alineamientos que el equipo seguiría durante el proceso de desarrollo. También, me encargue de hacer los capítulos 2 y 4.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** En esta entrega, me encargué de la creación del class y database diagram, en orden de tener un modelo físico y estructurado de todos nuestros datos almacenados. También, con el punto 5.1.1 y 5.1.2, los cuales listan las tecnologías que hemos usado para la realización del proyecto <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, participé activamente en la revisión retroactiva de los avances de mis compañeros. También apoyé en la preparación del material de presentación para nuestras reuniones internas.<br> **TP:** Durante esta etapa participé en la organización del repositorio para el despliegue del frontend. Apoyé en la verificación del correcto funcionamiento de los componentes visuales y validé que la interfaz se adaptara a los lineamientos definidos por el equipo. También colaboré en la revisión final antes del despliegue en el entorno productivo.  <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** No aplica <br> **TP:** Me encargué de configurar el entorno de desarrollo para el frontend y realicé el despliegue de la primera versión en la plataforma seleccionada. También solucioné errores relacionados con la carga de componentes y aseguré que los recursos estáticos se visualizaran correctamente en producción. <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. Adicionalmente, realice entrevistas para dos segmentos objetivos <br> **TP:** Apoyé en la implementación inicial de las vistas principales del frontend. Verifiqué la correcta integración entre las rutas del sitio y revisé que la interfaz reflejara fielmente el diseño propuesto. También contribuí a la solución de errores menores durante el proceso de despliegue. <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, realicé tres entrevistas enfocadas en el segmento de turistas nacionales e internacionales, con el propósito de entender mejor sus necesidades y expectativas. Asimismo, colaboré con la revisión retroactiva de los avances de mis compañeros, brindándoles observaciones sobre los puntos de la documentación que podrían ser mejorados. <br> **TP:** Participé en la revisión funcional del frontend antes del despliegue. Verifiqué que las secciones clave estuvieran alineadas con las necesidades de los usuarios identificadas en entrevistas anteriores. Además, brindé soporte para validar la experiencia de usuario final tras el despliegue. <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** En esta entrega, me encargué de escuchar lo que el equipo quiere que haga y avancé con mis mandatos para una colaboración amena <br> **TP:** Contribuí en la implementación visual de la interfaz del frontend, asegurando que los estilos y elementos gráficos fueran consistentes. También colaboré en pruebas de visualización desde distintos dispositivos antes del despliegue para asegurar su correcto comportamiento. <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos <br> **TP:** En esta etapa, cada integrante del equipo asumió un rol activo en el desarrollo y despliegue de la primera versión del frontend. La colaboración constante permitió resolver obstáculos técnicos con agilidad y asegurar una interfaz funcional y coherente con los objetivos del proyecto. El compromiso colectivo facilitó un despliegue exitoso y fortaleció nuestras capacidades de coordinación técnica y trabajo en equipo. <br>|
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 2 y 3.<br> **TP:** <br> **TB2:** En esta entrega, me encargué de documentar el apartado 5.2.2.1 relacionado con el Sprint Planning 2, detallando las tareas priorizadas, objetivos del sprint y planificación del equipo. Además, participé activamente en los apartados grupales, como la evidencia de desarrollo, ejecución, despliegue y colaboración del equipo durante el sprint. <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** No aplica <br> **TP:** Durante esta etapa, colaboré con la redacción del apartado 5.2.2.6, aportando evidencia documentada de los servicios implementados para el Sprint Review. Asimismo, contribuí en la elaboración conjunta de los puntos sobre la evidencia de desarrollo, ejecución, despliegue del software y reflexiones sobre el trabajo en equipo. <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 1 y el Landing Page UI Design. <br> **TP:** Me encargué de desarrollar el punto 5.2.2.6, donde se presenta la evidencia documentada de los servicios implementados y su funcionalidad para el Sprint Review. Además, participé activamente en la construcción colectiva de la documentación sobre el desarrollo, ejecución, despliegue del software y dinámica de trabajo colaborativo. <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** Colabore con la elaboración de los alineamientos que el equipo seguiría durante el proceso de desarrollo. También, me encargue de hacer los capítulos 2 y 4.<br> **TP:** En esta entrega, desarrollé el punto 5.2.2.3 referente al Sprint Backlog 2, detallando las tareas seleccionadas, responsables y tiempos estimados. Asimismo, participé junto al equipo en los apartados grupales relacionados con la evidencia de desarrollo, ejecución, despliegue del software y aprendizajes del trabajo colaborativo. <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** En esta entrega, me encargué de la creación del class y database diagram, en orden de tener un modelo físico y estructurado de todos nuestros datos almacenados. También, con el punto 5.1.1 y 5.1.2, los cuales listan las tecnologías que hemos usado para la realización del proyecto <br> **TP:** Me encargué de redactar el apartado 5.2.2.2 sobre los Aspect Leaders and Collaborators, detallando los roles asumidos por cada miembro del equipo durante el sprint. Asimismo, colaboré en la elaboración de los contenidos colectivos que evidencian el desarrollo, ejecución, despliegue del software y reflexiones sobre la colaboración del equipo. <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos<br> **TP:** Cada miembro asumió con responsabilidad sus tareas durante el despliegue de la primera versión del frontend, cumpliendo con los entregables asignados. La coordinación fluida y el enfoque en objetivos comunes permitieron lograr una implementación técnica exitosa. Además, el trabajo conjunto en la documentación, pruebas y despliegue fortaleció la dinámica del equipo y reafirmó nuestro compromiso con la calidad del producto. <br> |
 
 <hr>
 
@@ -339,11 +339,11 @@ Por consiguiente, con el propósito de obtener una comprensión más precisa de 
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-Nuestra plataforma fue diseñada para facilitar la conexión entre turistas que buscan experiencias personalizadas y agencias de viaje locales que desean digitalizar sus servicios. A través de nuestra solución, buscamos ofrecer un espacio seguro, confiable y fácil de usar para descubrir, comparar y reservar actividades turísticas en Perú.
+Actualmente, los turistas enfrentan dificultades para encontrar opciones de actividades turísticas que se alineen con sus intereses y necesidades específicas. Esta falta de acceso a información clara, organizada y relevante limita su capacidad de tomar decisiones informadas.
 
-Hemos observado que los turistas no logran encontrar fácilmente opciones que se ajusten a sus intereses y necesidades específicas, mientras que muchas agencias formales enfrentan dificultades para ganar visibilidad y competir con la oferta informal que prolifera en redes sociales y plataformas no reguladas. Esta situación está limitando el crecimiento del sector formal y generando desconfianza en los usuarios.
+Por otro lado, muchas agencias de viaje locales, a pesar de ser formales, tienen problemas para obtener visibilidad en un mercado donde predomina la oferta informal difundida principalmente a través de redes sociales y plataformas no reguladas. Esta situación reduce su competitividad, afecta su sostenibilidad y contribuye a la desconfianza general en los servicios turísticos disponibles.
 
-_¿Cómo podríamos mejorar nuestra plataforma para que turistas y agencias se conecten de manera más eficiente y segura, aumentando la tasa de reservas y fomentando la formalización del sector turístico?_
+Esta desconexión entre turistas y agencias está afectando negativamente la confianza de los usuarios y el desarrollo del sector turístico formal en Perú.
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -867,42 +867,54 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 |**Tony Blades**|||
 | :-: | :- | :- |
 |**Actividades**|**Frecuencia**|**Importancia**|
-|Gestionar y actualizar catálogo de tours en tiempo real|Alta|Alta|
-|Sincronizar disponibilidad de tours en múltiples canales|Alta|Alta|
-|Responder consultas de clientes a través de la plataforma|Alta|Alta|
-|Generar reportes de reservas y rendimiento financiero|Media|Alta|
-|Promocionar tours en redes sociales integradas|Media|Media|
-|Configurar precios dinámicos según temporada|Media|Alta|
-|Capacitar al equipo en el uso de la plataforma|Baja|Media|
+|Publicar en 3-5 redes sociales|Alta|Alta|
+|Crear anuncios en Google Ads de forma manual|Alta|Alta|
+|Recibir consultas por WhatsApp/email|Alta|Alta|
+|Actualizar disponibilidad en hojas de cálculo|Media|Alta|
+|Coordinar con proveedores por teléfono|Media|Media|
+|Imprimir vouchers manualmente|Media|Alta|
 
 ***Segmento 2: Turistas nacionales e internacionales***
 
 |**Adrián Méndez**|||
 | :-: | :- | :- |
 |**Actividades**|**Frecuencia**|**Importancia**|
-|Buscar actividades filtradas por destino, presupuesto e intereses|Alta|Alta|
-|Comparar precios, reseñas y duración de tours	|Alta|Alta|
-|Reservar actividades con confirmación instantánea|Alta|Alta|
-|Comunicarse con guías/agencias para personalizar tours|Media|Alta|
-|Gestionar itinerarios de viaje integrados|Media|Alta|
-|Compartir experiencias en redes sociales desde la app|Media|Media|
-|Calificar tours y dejar reseñas detalladas|Media|Alta|
+|Buscar en Google, blogs y TikTok|Alta|Alta|
+|Guardar opciones en favoritos|Alta|Alta|
+|Abrir 5 pestañas para comparar precios|Alta|Alta|
+|Preguntar a amigos por WhatsApp|Media|Alta|
+|Reservar en 3 plataformas distintas|Media|Alta|
+|Descargar vouchers en PDF|Media|Media|
+|Coordinar transporte y horarios por separado|Media|Alta|
 
 ***Segmento 3: Turistas corporativos***
 
 |**César Vásquez**|||
 | :-: | :- | :- |
 |**Actividades**|**Frecuencia**|**Importancia**|
-|Encontrar actividades cercanas a su ubicación laboral|Alta|Alta|
-|Recibir recomendaciones automáticas basadas en horario disponible|Alta|Alta|
-|Reservar tours cortos con flexibilidad horaria|Alta|Alta|
-|Verificar puntualidad y confiabilidad de las agencias|Alta|Alta|
-|Acceder a opciones de pago rápido|Media|Alta|
-|Gestionar reservas desde la app móvil en tiempo real|Alta|Alta|
-|Recibir alertas de actividades compatibles con su agenda|Media|Media|
+|Usar Google Maps para encontrar atracciones cercanas|Alta|Alta|
+|Revisar TripAdvisor en el celular|Alta|Alta|
+|LLamar a agencias para confirmar disponibilidad|Alta|Alta|
+|Enviar emails con detalles de horarios|Alta|Alta|
+|Usar Uber para llegar al tour|Media|Alta|
+|Revisar itinerario en notas del móvil|Alta|Alta|
+|Buscar WiFi para subir fotos a LinkedIn|Media|Media|
+|Intentar reclamar por servicio deficiente|Media|Media|
+
 
 
 #### 2.3.3. User Journey Mapping
+
+Introducción al End-to-End Journey:
+El viaje del usuario ilustrado abarca un ciclo completo desde la exploración inicial hasta la retroalimentación post-experiencia, enfocándose en facilitar actividades adaptadas a necesidades específicas, como agendas laborales ajustadas o preferencias personales.
+
+Descubrimiento: Los usuarios buscan actividades alineadas con sus intereses y disponibilidad, enfrentando desafíos como catálogos desorganizados, horarios inflexibles y descripciones poco claras.
+
+Selección: Comparan opciones basándose en opiniones, ubicación y duración, pero tropiezan con información contradictoria o métodos de pago no locales que ralentizan la decisión.
+
+Reserva: Priorizan rapidez y seguridad, especialmente en contextos corporativos, aunque procesos largos de verificación y falta de integración con plataformas de pago ágiles generan fricción.
+
+Experiencia y Feedback: Buscan disfrutar sin complicaciones logísticas, pero la falta de incentivos o mecanismos simplificados para compartir opiniones resulta en baja participación.
 
 ***Segmento 1: Dueños de agencia de viajes***
 

@@ -867,42 +867,54 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 |**Tony Blades**|||
 | :-: | :- | :- |
 |**Actividades**|**Frecuencia**|**Importancia**|
-|Gestionar y actualizar catálogo de tours en tiempo real|Alta|Alta|
-|Sincronizar disponibilidad de tours en múltiples canales|Alta|Alta|
-|Responder consultas de clientes a través de la plataforma|Alta|Alta|
-|Generar reportes de reservas y rendimiento financiero|Media|Alta|
-|Promocionar tours en redes sociales integradas|Media|Media|
-|Configurar precios dinámicos según temporada|Media|Alta|
-|Capacitar al equipo en el uso de la plataforma|Baja|Media|
+|Publicar en 3-5 redes sociales|Alta|Alta|
+|Crear anuncios en Google Ads de forma manual|Alta|Alta|
+|Recibir consultas por WhatsApp/email|Alta|Alta|
+|Actualizar disponibilidad en hojas de cálculo|Media|Alta|
+|Coordinar con proveedores por teléfono|Media|Media|
+|Imprimir vouchers manualmente|Media|Alta|
 
 ***Segmento 2: Turistas nacionales e internacionales***
 
 |**Adrián Méndez**|||
 | :-: | :- | :- |
 |**Actividades**|**Frecuencia**|**Importancia**|
-|Buscar actividades filtradas por destino, presupuesto e intereses|Alta|Alta|
-|Comparar precios, reseñas y duración de tours	|Alta|Alta|
-|Reservar actividades con confirmación instantánea|Alta|Alta|
-|Comunicarse con guías/agencias para personalizar tours|Media|Alta|
-|Gestionar itinerarios de viaje integrados|Media|Alta|
-|Compartir experiencias en redes sociales desde la app|Media|Media|
-|Calificar tours y dejar reseñas detalladas|Media|Alta|
+|Buscar en Google, blogs y TikTok|Alta|Alta|
+|Guardar opciones en favoritos|Alta|Alta|
+|Abrir 5 pestañas para comparar precios|Alta|Alta|
+|Preguntar a amigos por WhatsApp|Media|Alta|
+|Reservar en 3 plataformas distintas|Media|Alta|
+|Descargar vouchers en PDF|Media|Media|
+|Coordinar transporte y horarios por separado|Media|Alta|
 
 ***Segmento 3: Turistas corporativos***
 
 |**César Vásquez**|||
 | :-: | :- | :- |
 |**Actividades**|**Frecuencia**|**Importancia**|
-|Encontrar actividades cercanas a su ubicación laboral|Alta|Alta|
-|Recibir recomendaciones automáticas basadas en horario disponible|Alta|Alta|
-|Reservar tours cortos con flexibilidad horaria|Alta|Alta|
-|Verificar puntualidad y confiabilidad de las agencias|Alta|Alta|
-|Acceder a opciones de pago rápido|Media|Alta|
-|Gestionar reservas desde la app móvil en tiempo real|Alta|Alta|
-|Recibir alertas de actividades compatibles con su agenda|Media|Media|
+|Usar Google Maps para encontrar atracciones cercanas|Alta|Alta|
+|Revisar TripAdvisor en el celular|Alta|Alta|
+|LLamar a agencias para confirmar disponibilidad|Alta|Alta|
+|Enviar emails con detalles de horarios|Alta|Alta|
+|Usar Uber para llegar al tour|Media|Alta|
+|Revisar itinerario en notas del móvil|Alta|Alta|
+|Buscar WiFi para subir fotos a LinkedIn|Media|Media|
+|Intentar reclamar por servicio deficiente|Media|Media|
+
 
 
 #### 2.3.3. User Journey Mapping
+
+Introducción al End-to-End Journey:
+El viaje del usuario ilustrado abarca un ciclo completo desde la exploración inicial hasta la retroalimentación post-experiencia, enfocándose en facilitar actividades adaptadas a necesidades específicas, como agendas laborales ajustadas o preferencias personales.
+
+Descubrimiento: Los usuarios buscan actividades alineadas con sus intereses y disponibilidad, enfrentando desafíos como catálogos desorganizados, horarios inflexibles y descripciones poco claras.
+
+Selección: Comparan opciones basándose en opiniones, ubicación y duración, pero tropiezan con información contradictoria o métodos de pago no locales que ralentizan la decisión.
+
+Reserva: Priorizan rapidez y seguridad, especialmente en contextos corporativos, aunque procesos largos de verificación y falta de integración con plataformas de pago ágiles generan fricción.
+
+Experiencia y Feedback: Buscan disfrutar sin complicaciones logísticas, pero la falta de incentivos o mecanismos simplificados para compartir opiniones resulta en baja participación.
 
 ***Segmento 1: Dueños de agencia de viajes***
 

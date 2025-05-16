@@ -998,6 +998,8 @@ Experiencia y Feedback: Buscan disfrutar sin complicaciones logísticas, pero la
 
 ### 3.1. To-Be Scenario Mapping
 
+El equipo realizó un análisis detallado para definir los futuros escenarios de uso de la plataforma, considerando los diferentes perfiles de usuarios y sus necesidades específicas. Para esto, se identificaron tres segmentos clave que representan los principales grupos de usuarios:
+
 #### 3.1.1. To-Be Scenario Mapping Turistas nacionales e internacionales
 
 <p align="center">
@@ -1018,6 +1020,10 @@ Experiencia y Feedback: Buscan disfrutar sin complicaciones logísticas, pero la
 
 ### 3.2. User Stories
 #
+
+En esta sección se presentan las historias de usuario que describen las necesidades y expectativas de los diferentes perfiles que interactúan con la plataforma, incluyendo usuarios generales, turistas y agencias. Cada historia detalla los objetivos, acciones esperadas y criterios de aceptación para asegurar que se cumplan los requisitos funcionales del sistema, promoviendo una experiencia óptima y personalizada para cada tipo de usuario.
+
+
 
 |<p><a name="_yrbaaa2wximh"></a>Epic / Story</p><p>ID</p>|Título |Descripción |Criterios de Aceptación |Relacionado con (Epic ID)|
 | :- | :- | :- | :- | :- |

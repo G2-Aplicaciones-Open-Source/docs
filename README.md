@@ -213,6 +213,8 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
 
 [Conclusiones](#conclusiones)
 
@@ -860,22 +862,64 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 
 #### 2.3.2. User Task Matrix
 
-<p align="center">
-    <img src="assets/recursos/Task_Matrix_Turistas.jpg" alt="Task-Matrix-Turistas"/>
-</p>
+***Segmento 1: Dueños de agencia de viajes***
 
-<p align="center">
-    <img src="assets/recursos/Task_Matrix_Agencias.jpg" alt="Task-Matrix-Agencias"/>
-</p>
+|**Tony Blades**|||
+| :-: | :- | :- |
+|**Actividades**|**Frecuencia**|**Importancia**|
+|Gestionar y actualizar catálogo de tours en tiempo real|Alta|Alta|
+|Sincronizar disponibilidad de tours en múltiples canales|Alta|Alta|
+|Responder consultas de clientes a través de la plataforma|Alta|Alta|
+|Generar reportes de reservas y rendimiento financiero|Media|Alta|
+|Promocionar tours en redes sociales integradas|Media|Media|
+|Configurar precios dinámicos según temporada|Media|Alta|
+|Capacitar al equipo en el uso de la plataforma|Baja|Media|
 
-<p align="center">
-    <img src="assets/recursos/Task_Matrix_Viajeros.jpg" alt="Task-Matrix-Viajeros"/>
-</p>
+***Segmento 2: Turistas nacionales e internacionales***
+
+|**Adrián Méndez**|||
+| :-: | :- | :- |
+|**Actividades**|**Frecuencia**|**Importancia**|
+|Buscar actividades filtradas por destino, presupuesto e intereses|Alta|Alta|
+|Comparar precios, reseñas y duración de tours	|Alta|Alta|
+|Reservar actividades con confirmación instantánea|Alta|Alta|
+|Comunicarse con guías/agencias para personalizar tours|Media|Alta|
+|Gestionar itinerarios de viaje integrados|Media|Alta|
+|Compartir experiencias en redes sociales desde la app|Media|Media|
+|Calificar tours y dejar reseñas detalladas|Media|Alta|
+
+***Segmento 3: Turistas corporativos***
+
+|**César Vásquez**|||
+| :-: | :- | :- |
+|**Actividades**|**Frecuencia**|**Importancia**|
+|Encontrar actividades cercanas a su ubicación laboral|Alta|Alta|
+|Recibir recomendaciones automáticas basadas en horario disponible|Alta|Alta|
+|Reservar tours cortos con flexibilidad horaria|Alta|Alta|
+|Verificar puntualidad y confiabilidad de las agencias|Alta|Alta|
+|Acceder a opciones de pago rápido|Media|Alta|
+|Gestionar reservas desde la app móvil en tiempo real|Alta|Alta|
+|Recibir alertas de actividades compatibles con su agenda|Media|Media|
+
 
 #### 2.3.3. User Journey Mapping
 
+***Segmento 1: Dueños de agencia de viajes***
+
 <p align="center">
-    <img src="assets/recursos/User_Journey_Mapping.jpg" alt="User-Journey-Mapping"/>
+    <img src="assets/recursos/User_Journey_Mapping1.png" alt="User-Journey-Mapping"/>
+</p>
+
+***Segmento 2: Turistas nacionales e internacionales***
+
+<p align="center">
+    <img src="assets/recursos/User_Journey_Mapping2.png" alt="User-Journey-Mapping"/>
+</p>
+
+***Segmento 3: Turistas corporativos***
+
+<p align="center">
+    <img src="assets/recursos/User_Journey_Mapping3.png" alt="User-Journey-Mapping"/>
 </p>
 
 #### 2.3.4. Empathy Mapping
@@ -903,7 +947,7 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 #### 2.3.5.1. As-is Scenario Mapping Turistas nacionales e internacionales
 
 <p align="center">
-    <img src="assets/recursos/As_is_Turistas.jpg" alt="As-is-Turistas"/>
+    <img src="assets/recursos/As_is_Turistas.png" alt="As-is-Turistas"/>
 </p>
 
 #### 2.3.5.2. As-is Scenario Mapping Agencias de turismo locales
@@ -945,7 +989,7 @@ Basados en los resultados de las entrevistas y el análisis de datos, hemos defi
 #### 3.1.1. To-Be Scenario Mapping Turistas nacionales e internacionales
 
 <p align="center">
-    <img src="assets/recursos/To_be_Turistas.jpg" alt="To-be-Turistas"/>
+    <img src="assets/recursos/To_be_Turistas.png" alt="To-be-Turistas"/>
 </p>
 
 #### 3.1.2. To-Be Scenario Mapping Agencias de turismo locales
@@ -2080,6 +2124,70 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo de la land
     </p>   
 
 <hr>
+
+#### 5.2.2. Sprint 2
+
+##### 5.2.2.1. Sprint Planning 2
+
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 2 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 12/05/2025 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 23:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Zoom) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Galvez Chambi, Jhon </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Aspajo Alvarez, Mathias<br>
+      Briceño De La Cruz, Farid<br>
+      Galvez Chambi, Jhon<br>
+      Guevara Tejada, Jorge<br>
+      Linares Bernable, Cesar
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+    <td> Durante este sprint, nos concentramos en la construcción del front-end y la implementación inicial de la plataforma TravelMatch. Logramos finalizar las funcionalidades esenciales de la landing page, brindando a los usuarios una primera experiencia de navegación y descubrimiento del servicio. El equipo alcanzó los objetivos de entrega dentro del cronograma establecido, consolidando además las bases de la interfaz gráfica para próximas iteraciones. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+    <td> Este sprint, aunque centrado en el desarrollo técnico, reveló oportunidades para optimizar nuestra dinámica colaborativa. El análisis retrospectivo destacó en optimizar la duración de las sincronizaciones diarias, rebalancear la asignación de tareas según especialidades e implementar planning individual con hitos verificables. Estas acciones buscan aumentar la eficiencia en próximas iteraciones. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Goal </td>
+    <td> Este ciclo de desarrollo está focalizado en la construcción e implementación de la interfaz front-end para TravelMatch, con el propósito de ofrecer una experiencia de navegación fluida e intuitiva, presentar las funcionalidades clave de la plataforma y entregar una Landing Page operativa que comunique efectivamente el valor diferencial del servicio </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+    <td> <strong>10 </strong><br> El equipo ha definido una capacidad de 10 Story Points para este sprint, basándose en la complejidad de las tareas de front-end, la disponibilidad real de horas y el aprendizaje de sprints anteriores </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 10 </td>
+  </tr>
+</table>
 
 ## Conclusiones
 

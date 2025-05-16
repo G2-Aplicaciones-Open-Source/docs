@@ -2302,6 +2302,20 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo del fronte
 
 - Reuniones cortas (dailys o check-ins semanales) para seguimiento y desbloqueo de tareas.
 
+- Evidencia de avances del sprint:
+
+	-Insights:
+
+  	<img src="assets/recursos/sprint2insights.png" alt="sprint2insights"/>
+
+  	-Analíticas:
+
+  	<img src="assets/recursos/sprint2analiticas.png" alt="sprint2analiticas"/>
+
+  	-Gitflow:
+
+	<img src="assets/recursos/sprint2gitflow.png" alt="sprint2gitflow"/>
+
 ## Conclusiones
 
 - _Colaboración efectiva del equipo:_

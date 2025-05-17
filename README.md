@@ -2388,6 +2388,9 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo del fronte
   	-Gitflow:
 
 	<img src="assets/evidencias/sprint2gitflow.png" alt="sprint2gitflow"/>
+ 
+ ***NO OLVIDES CERRAR TU CUENTA DE GITHUB:3****
+ SINO PASA ESTOOOOO :V 
 
 ## Conclusiones
 

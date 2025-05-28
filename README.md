@@ -1110,52 +1110,69 @@ En esta sección se presentan las historias de usuario que describen las necesid
 
 | Orden | User Story Id | Título                                | Descripción                                                                                                                                         | Story Points |
 | ----- | ------------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 1     | US38          | Explorar servicios disponibles        | Como visitante del segmento de viajeros, quiero explorar los servicios disponibles para encontrar opciones que se adapten a mis intereses de viaje. | 3            |
-| 2     | US39          | Revisar testimonios de otros viajeros | Como visitante del segmento de viajeros, quiero leer testimonios de otros usuarios para tener confianza en las experiencias ofrecidas.              | 5            |
-| 3     | US40          | Contactar para más información        | Como visitante del segmento de viajeros, quiero poder enviar un mensaje para resolver dudas sobre los servicios ofrecidos.                          | 3            |
-| 4     | US41          | Registro para viajeros                | Como visitante del segmento de viajeros, quiero registrarme fácilmente desde la landing para comenzar a explorar experiencias de viaje.             | 2            |
-| 5     | US42          | Conocer cómo funciona la plataforma   | Como visitante del segmento de agencias, quiero entender cómo funciona la plataforma para saber si es compatible con mis servicios.                 | 5            |
-| 6     | US43          | Revisar testimonios de otros usuarios | Como visitante del segmento de agencias, quiero leer testimonios de otros usuarios para validar la efectividad de la plataforma.                    | 3            |
-| 7     | US44          | Contactar para consultas comerciales  | Como visitante del segmento de agencias, quiero usar el formulario de contacto para hacer consultas o proponer colaboraciones.                      | 8            |
-| 8     | US45          | Cambiar vista a viajeros              | Como visitante del segmento de agencias, quiero cambiar a la vista de viajeros para conocer el contenido y servicios disponibles para ese público.  | 5            |
-| 9     | US46          | Registro para agencias                | Como visitante del segmento de agencias, quiero registrarme desde la landing para empezar a formar parte de la plataforma.                          | 3            |
-| 10    | US01          | Registro básico         | Como nuevo usuario, quiero registrarme con un email para acceder a la plataforma.                              | 3            |
-| 11    | US02          | Inicio de sesión        | Como usuario registrado, quiero iniciar sesión para gestionar mis reservas.                                    | 2            |
-| 12    | US05          | Recuperar contraseña    | Como usuario, quiero restablecer mi contraseña si la olvido para recuperar el acceso.                          | 8            |
-| 13    | US10          | Eliminar cuenta         | Como usuario, quiero borrar mi cuenta para proteger mi privacidad.                                             | 8            |
-| 14    | US03          | Perfil corporativo      | Como viajero corporativo, quiero vincularme con mi empresa para obtener beneficios exclusivos.                 | 5            |
-| 15    | US09          | Perfil público          | Como viajero, quiero compartir mis reseñas para ayudar a otros turistas.                                       | 3            |
-| 16    | US14          | Reservas grupales       | Como viajero corporativo, quiero reservar para mi equipo para simplificar la logística.                        | 2            |
-| 17    | US11          | Filtros avanzados       | Como turista, quiero filtrar actividades por precio y tipo para encontrar opciones relevantes.                 | 2            |
-| 18    | US12          | Comparar tours          | Como usuario, quiero comparar múltiples tours en una vista para tomar la mejor decisión.                       | 5            |
-| 19    | US13          | Reserva flexible        | Como turista, quiero cancelar gratis hasta 48h antes para mayor seguridad.                                     | 5            |
-| 20    | US15          | Favoritos               | Como usuario, quiero guardar actividades interesantes para revisarlas después.                                 | 3            |
-| 21    | US16          | Chat con guías          | Como usuario, quiero preguntar detalles a los guías antes de reservar para aclarar dudas.                      | 3            |
-| 22    | US17          | Mapas interactivos      | Como turista, quiero ver la ubicación exacta de los tours para planificar mi ruta.                             | 8            |
-| 23    | US18          | Vista previa de tours   | Como turista, quiero ver fotos y videos detallados de los tours para evaluar la experiencia antes de reservar. | 5            |
-| 24    | US19          | Itinerarios automáticos | Como viajero, quiero generar un itinerario diario automático para optimizar mi tiempo.                         | 5            |
-| 25    | US20          | Pago en cuotas          | Como usuario, quiero dividir el pago en cuotas para gestionar mejor mi presupuesto.                            | 3            |
-| 26    | US21          | Subir nuevos tours                               | Como agencia, quiero subir nuevos tours con fotos y descripciones para atraer clientes.                                         | 5            |
-| 27    | US22          | Calendario en tiempo real                        | Como agencia, quiero actualizar la disponibilidad para evitar sobre-reservas.                                                   | 3            |
-| 28    | US23          | Analytics                                        | Como agencia, quiero ver métricas de reservas para mejorar mis estrategias.                                                     | 5            |
-| 29    | US24          | Alertas de reservas                              | Como agencia, quiero recibir notificaciones de nuevas reservas para prepararme.                                                 | 2            |
-| 30    | US25          | Crear promociones                                | Como agencia, quiero ofrecer descuentos en temporada baja para atraer más clientes.                                             | 2            |
-| 31    | US26          | Gestión de guías                                 | Como agencia, quiero asignar guías a tours específicos para organizar mi equipo.                                                | 5            |
-| 32    | US27          | Encuestas a clientes                             | Como agencia, quiero enviar encuestas post-viaje para medir la satisfacción.                                                    | 3            |
-| 33    | US28          | Verificación de agencia                          | Como agencia, quiero verificar mi negocio para ganar confianza de los clientes.                                                 | 3            |
-| 34    | US29          | Soporte prioritario                              | Como agencia, quiero acceder a soporte rápido para resolver problemas urgentes.                                                 | 5            |
-| 35    | US30          | Integración con redes                            | Como agencia, quiero compartir mis tours en redes sociales para aumentar mi visibilidad.                                        | 3            |
-| 36    | US37          | Modelo de monetización                           | Como agencia turística, quiero entender claramente cómo generaré ingresos mediante la plataforma para planificar mi estrategia. | 3            |
-| 37    | US36          | Contactar al equipo de soporte (Versión agencia) | Como agencia asociada, quiero contactar al soporte técnico especializado para resolver problemas operativos urgentes.           | 5            |
-| 38    | US04          | Preferencias de viaje                            | Como turista, quiero seleccionar mis intereses para recibir recomendaciones personalizadas.                 | 5            |
-| 39    | US06          | Verificación de identidad                        | Como usuario premium, quiero verificar mi identidad para desbloquear reservas exclusivas.                   | 8            |
-| 40    | US07          | Notificaciones push                              | Como usuario, quiero recibir alertas sobre ofertas para no perderme promociones.                            | 5            |
-| 41    | US08          | Idiomas                                          | Como usuario internacional, quiero cambiar el idioma de la app para entender mejor.                         | 3            |
-| 42    | US31          | Navegación por el landing page                   | Como usuario, quiero navegar fácilmente por el landing page para acceder a todas las secciones principales. | 3            |
-| 43    | US32          | Ver Información del Startup                      | Como usuario interesado, quiero conocer al equipo para entender quiénes están detrás del proyecto.          | 2            |
-| 44    | US33          | Conocer la misión de la startup                  | Como potencial cliente, quiero entender la misión y valores para evaluar su alineación con mis necesidades. | 1            |
-| 45    | US34          | Contactar al equipo de soporte (Versión usuario) | Como usuario con dudas, quiero enviar un mensaje al soporte para resolver mis inquietudes.                  | 5            |
-| 46    | US35          | Visualización responsive                         | Como usuario móvil, quiero ver la página correctamente adaptada a mi pantalla para una experiencia óptima.  | 8            |
+| 1     | US39          | Navegación por el landing page        | Como visitante, quiero navegar fácilmente por el landing page para acceder a todas las secciones principales. | 2            |
+| 2     | US40          | Ver información del startup        | Como visitante, quiero conocer al equipo para entender quiénes están detrás del proyecto. | 3            |
+| 3     | US41          | Conocer la misión de la startup        | Como visitante, quiero entender la misión y valores para evaluar su alineación con mis necesidades. | 3            |
+| 4     | US42          | Visualización responsive        | Como visitante, quiero ver la página correctamente adaptada a mi pantalla para una experiencia óptima. | 5            |
+| 5     | US43          | Modelo de Monetización        | Como agencia turística, quiero entender claramente cómo generaré ingresos mediante la plataforma para planificar mi estrategia. | 5            |
+| 6     | US44          | Explorar servicios disponibles        | Como visitante del segmento de viajeros, quiero explorar los servicios disponibles para encontrar opciones que se adapten a mis intereses de viaje. | 3            |
+| 7     | US45          | Revisar testimonios de otros viajeros        | Como visitante del segmento de viajeros, quiero leer testimonios de otros usuarios para tener confianza en las experiencias ofrecidas. | 3            |
+| 8     | US46          | Contactar para más información        | Como visitante del segmento de viajeros, quiero poder enviar un mensaje para resolver dudas sobre los servicios ofrecidos. | 5            |
+| 9     | US47          | Registro para viajeros        | Como visitante del segmento de viajeros, quiero registrarme fácilmente desde la landing para comenzar a explorar experiencias de viaje. | 3            |
+| 10     | US48          | Conocer cómo funciona la plataforma        | Como visitante del segmento de agencias, quiero entender cómo funciona la plataforma para saber si es compatible con mis servicios. | 3            |
+| 11     | US49          | Revisar testimonios de otras agencias        | Como visitante del segmento de agencias, quiero leer testimonios de otros usuarios para validar la efectividad de la plataforma. | 3            |
+| 12     | US50          | Cambiar vista a viajeros        | Como visitante del segmento de agencias, quiero cambiar a la vista de viajeros para conocer el contenido y servicios disponibles para ese público. | 2            |
+| 13     | US51          | Registro para agencias        | Como visitante del segmento de agencias, quiero registrarme desde la landing para empezar a formar parte de la plataforma. | 3            |
+| 14     | US24          | Subir nuevos tours        | Como agencia, quiero subir nuevos tours con fotos y descripciones para atraer clientes. | 8            |
+| 15     | US25          | Editar Detalles de Tour        | Como agencia, quiero editar los detalles de un tour publicado (descripción, puntos de encuentro, inclusiones) para mantener la información actualizada. | 5            |
+| 16     | US09          | Publicar reseñas        | Como viajero, quiero compartir mis reseñas para ayudar a otros turistas a elegir sus experiencias. | 5            |
+| 17     | US10          | Editar/Eliminar reseñas        | Como viajero, quiero modificar o eliminar mis reseñas para asegurar que reflejen mi experiencia con precisión. | 5            |
+| 18     | US11          | Eliminar cuenta        | Como viajero, quiero borrar mi cuenta para proteger mi privacidad. | 8            |
+| 19     | US14          | Filtros avanzados        | Como turista, quiero filtrar actividades por precio y tipo para encontrar opciones relevantes. | 8            |
+| 20     | US15          | Comparar tours        | Como usuario, quiero comparar múltiples tours en una vista para tomar la mejor decisión. | 8            |
+| 21     | US16          | Gestión de Cancelación de Reservas        | Como turista, quiero cancelar una reserva con anticipación para ajustar mis planes de viaje. | 8            |
+| 22     | US17          | Reservas grupales        | Como viajero corporativo, quiero reservar para mi equipo para simplificar la logística. | 8            |
+| 23     | US18          | Favoritos        | Como usuario, quiero guardar actividades interesantes para revisarlas después. | 5            |
+| 24     | US19          | Chat con guías        | Como usuario, quiero preguntar detalles a los guías antes de reservar para aclarar dudas. | 8            |
+| 25     | US20          | Mapas interactivos        | Como turista, quiero ver la ubicación exacta de los tours para planificar mi ruta. | 8            |
+| 26     | US21          | Vista previa de tours        | Como turista, quiero ver fotos y videos detallados de los tours para evaluar la experiencia antes de reservar. | 5            |
+| 27     | US22          | Itinerarios automáticos        | Como viajero, quiero generar un itinerario diario automático para optimizar mi tiempo. | 8            |
+| 28     | US26          | Calendario en tiempo real        | Como agencia, quiero actualizar la disponibilidad para evitar sobre-reservas. | 8            |
+| 29     | US27          | Analytics        | Como agencia, quiero ver métricas de reservas para mejorar mis estrategias. | 8            |
+| 30     | US28          | Alertas de reservas        | Como agencia, quiero recibir notificaciones de nuevas reservas para prepararme. | 5            |
+| 31     | US29          | Crear promociones        | Como agencia, quiero ofrecer descuentos en temporada baja para atraer más clientes. | 8            |
+| 32     | US30          | Gestión de Precios por Categoría        | Como agencia, quiero definir precios diferentes para adultos y niños en mis tours para ajustarme a la demanda. | 8            |
+| 33     | US31          | Gestión de guías        | Como agencia, quiero asignar guías a tours específicos para organizar mi equipo. | 8            |
+| 34     | US32          | Encuestas a clientes        | Como agencia, quiero enviar encuestas post-viaje para medir la satisfacción. | 8            |
+| 35     | US34          | Integración con redes        | Como agencia, quiero compartir mis tours en redes sociales para aumentar mi visibilidad. | 8            |
+| 36     | US36          | Verificación de Agencia        | Como agencia, quiero verificar mi negocio para ganar la confianza de los clientes. | 8            |
+| 37     | US37          | Pago en Cuotas        | Como usuario, quiero dividir el pago en cuotas para gestionar mejor mi presupuesto. | 8            |
+| 38     | US38          | Reportar Problemas o Fraude        | Como usuario, quiero reportar tours inapropiados o actividades sospechosas para mantener la seguridad y calidad de la plataforma. | 5            |
+| 39     | TS01          | API: Registro de usuarios        | Como Developer, quiero una API para registrar nuevos usuarios para soportar la funcionalidad de registro de la plataforma. | 5            |
+| 40     | TS02          | API: Inicio de sesión de usuarios        | Como Developer, quiero una API para autenticar usuarios para permitirles acceder a sus perfiles. | 5            |
+| 41     | TS03          | API: Gestión de Perfil de Usuario        | Como Developer, quiero una API para que los usuarios gestionen sus datos de perfil para permitir la actualización de información personal. | 8            |
+| 42     | TS04          | API: Carga de Tours por Agencia        | Como Developer, quiero una API para que las agencias suban información de tours para mostrar su oferta en la plataforma. | 8            |
+| 43     | TS05          | API: Consulta de Tours        | Como Developer, quiero una API para consultar tours con filtros para soportar la búsqueda de actividades por parte de los usuarios. | 8            |
+| 44     | TS06          | API: Creación de Reservas        | Como Developer, quiero una API para crear reservas de tours para registrar las transacciones de los usuarios. | 8            |
+| 45     | TS07          | API: Procesamiento de Pagos        | Como Developer, quiero una API para procesar pagos de reservas de manera segura para manejar las transacciones financieras. | 8            |
+| 46     | TS08          | API: Gestión de Disponibilidad de Tours        | Como Developer, quiero una API para que las agencias actualicen la disponibilidad de sus tours para evitar sobre-reservas. | 8            |
+| 47     | TS09          | API: Moderación de Contenido (Reseñas/Tours)        | Como Developer, quiero una API para que los administradores moderen reseñas y tours para asegurar la calidad y formalidad de la plataforma. | 8            |
+| 48     | TS10         | API: Gestión de Usuarios Corporativos        | Como Developer, quiero una API para gestionar la vinculación de usuarios corporativos para aplicar beneficios exclusivos. | 8            |
+| 49     | TS11          | API: Sincronización de Inventario        | Como Developer, quiero una API que permita a los sistemas de agencias sincronizar automáticamente su inventario y precios con TravelMatch para reducir la carga manual de gestión. | 8            |
+| 50     | US01          | Registro básico        | Como nuevo usuario, quiero registrarme con un email para acceder a la plataforma. | 5            |
+| 51     | US02          | Inicio de sesión        | Como usuario registrado, quiero iniciar sesión para gestionar mis reservas. | 5            |
+| 52     | US03          | Perfil corporativo        | Como viajero corporativo, quiero vincularme con mi empresa para obtener beneficios exclusivos. | 8            |
+| 53     | US04          | Preferencias de viaje        | Como turista, quiero seleccionar mis intereses para recibir recomendaciones personalizadas. | 5            |
+| 54     | US05          | Recuperar contraseña        | Como usuario, quiero restablecer mi contraseña si la olvido para recuperar el acceso. | 5            |
+| 55     | US06          | Verificación de identidad        | Como usuario premium, quiero verificar mi identidad para desbloquear reservas exclusivas. | 8            |
+| 56     | US07          | Notificaciones push        | Como usuario, quiero recibir alertas sobre ofertas para no perderme promociones. | 5            |
+| 57     | US08          | Idiomas        | Como usuario internacional, quiero cambiar el idioma de la app para entender mejor. | 5            |
+| 58     | US12          | Acceso a boletos digitales        | Como usuario, quiero acceder a mis boletos/vouchers con código QR para facilitar el check-in en las actividades. | 8            |
+| 59     | US13          | Contactar al equipo de soporte (versión usuario)        | Como usuario con dudas, quiero enviar un mensaje al soporte para resolver mis inquietudes. | 5            |
+| 60     | US23          | Contactar para consultas comerciales        | Como visitante del segmento de agencias, quiero usar el formulario de contacto para hacer consultas o proponer colaboraciones. | 5            |
+| 61     | US33          | Soporte prioritario        | Como agencia, quiero acceder a soporte rápido para resolver problemas urgentes. | 5            |
+| 62     | US35          | Contactar al equipo de soporte (Versión agencia)        | Como agencia asociada, quiero contactar al soporte técnico especializado para resolver problemas operativos urgentes. | 5            |
+
 
 <hr>
 

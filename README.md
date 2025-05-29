@@ -2066,7 +2066,7 @@ A continuación la matriz de Liderazgo y Colaboración (LACX), donde “L” ind
 | Aspajo Alvarez, Mathias        | AdeXzz             | C                | L                        | C                         | C                              | C              |
 | Galvez Chambi, Jhon                  | Chaomeum           | C                | C                        | L                         | C                              | C              |
 | Guevara Tejada, Jorge           | Jorgito170              | C                | C                        | C                         | L                              | C              |
-| Linares Bernable, Cesar           | Jorgito170          | L                | C                        | C                         | C                              | L              |
+| Linares Bernable, Cesar           | Cesar-Linares          | L                | C                        | C                         | C                              | L              |
 |
 
 
@@ -2104,6 +2104,9 @@ En esta parte, mostramos el proceso que seguimos para diseñar y mantener actual
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
+Durante el Sprint 1, se logró implementar completamente la página de aterrizaje (landing page) de la aplicación, cumpliendo con todos los criterios de aceptación definidos en las historias de usuario. El equipo desarrolló un sitio web funcional, atractivo y adaptable a diferentes dispositivos, incluyendo secciones clave como el registro e inicio de sesión, información del equipo y misión de la startup, formularios de contacto diferenciados para usuarios y agencias, así como una sección informativa sobre el modelo de monetización. Este entregable constituye un primer paso fundamental para validar el producto con usuarios reales y establecer una presencia sólida en línea.
+
+
 |Epic / Story ID|Título|Criterios de Aceptación|
 | :- | :- | :- |
 |` `US31|Navegación por el landing page|Dado que el usuario está en la página principal, cuando haga clic en cualquier ítem del menú, entonces va redirigido a la sección correspondiente.|
@@ -2112,6 +2115,32 @@ En esta parte, mostramos el proceso que seguimos para diseñar y mantener actual
 |` `US34|Contactar al equipo de soporte|Dado que completo el formulario, cuando hago clic en "Enviar", entonces recibo un email de confirmación.|
 
 Demo del Landing Page: [upc-pre-202510-1asi0729-4328-Pandora-landing-navigation-sprint-1](https://youtu.be/ijkidI-RlOQ)
+
+**Evidencias visuales**
+
+<p align="center">
+    <img src="assets/evidencias/landing-principal1.png" alt="landing-demo1"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-principal2.png" alt="landing-demo2"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-principal3.png" alt="landing-demo3"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-principal4.png" alt="landing-demo4"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-principal5.png" alt="landing-demo4"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-principal6.png" alt="landing-demo4"/>    
+</p>
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 

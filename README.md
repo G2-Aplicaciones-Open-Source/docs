@@ -313,6 +313,7 @@ Soy un estudiante que se caracteriza por su alto sentido de la responsabilidad y
 
 <p align="center">
     <img src="assets/fotos/cesarfoto.jpg" alt="foto-cesar" width="170px"/>
+    <img src="assets/fotos/cesarfoto.jpg" alt="foto-cesar" width="170px"/>
 </p>
 
 Soy una persona responsable y trabajadora que cumple las tareas encomendadas cuanto antes sea posible. Tengo conocimientos en SQL, C++, Python y lo básico de CSS y Javascript. Me gusta aprender por mi cuenta lenguajes de programación como Rust y uso ese conocimiento para ayudar a mi equipo.
@@ -1772,6 +1773,9 @@ El diseño de base de datos es funamental para estructurar y almacenar todos los
 <p align="center">
     <img src="assets/recursos/database_diagram.png" alt="Database-Diagram"/>
 </p>
+
+Enlace del diagrama elaborado en Lucidchart: 
+https://lucid.app/lucidchart/6497903f-9318-4fee-af17-767b96f4ed6d/edit?viewport_loc=-888%2C-68%2C5601%2C2030%2C0_0&invitationId=inv_65a78cce-432f-486d-aaa1-6ab80aae3a48
 
 <hr>
 

@@ -1773,6 +1773,9 @@ El diseño de base de datos es funamental para estructurar y almacenar todos los
     <img src="assets/recursos/database_diagram.png" alt="Database-Diagram"/>
 </p>
 
+Enlace del diagrama elaborado en Lucidchart: 
+https://lucid.app/lucidchart/6497903f-9318-4fee-af17-767b96f4ed6d/edit?viewport_loc=-888%2C-68%2C5601%2C2030%2C0_0&invitationId=inv_65a78cce-432f-486d-aaa1-6ab80aae3a48
+
 <hr>
 
 ## Capítulo V: Product Implementation, Validation & Deployment

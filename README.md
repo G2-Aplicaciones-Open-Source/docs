@@ -313,6 +313,7 @@ Soy un estudiante que se caracteriza por su alto sentido de la responsabilidad y
 
 <p align="center">
     <img src="assets/fotos/cesarfoto.jpg" alt="foto-cesar" width="170px"/>
+    <img src="assets/fotos/cesarfoto.jpg" alt="foto-cesar" width="170px"/>
 </p>
 
 Soy una persona responsable y trabajadora que cumple las tareas encomendadas cuanto antes sea posible. Tengo conocimientos en SQL, C++, Python y lo básico de CSS y Javascript. Me gusta aprender por mi cuenta lenguajes de programación como Rust y uso ese conocimiento para ayudar a mi equipo.

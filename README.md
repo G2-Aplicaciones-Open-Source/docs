@@ -2368,6 +2368,10 @@ El Sprint Backlog 2 se enfoca en la mejora continua del frontend tras el desplie
 
 Enlace del board donde se trabajo el Sprint Backlog #2: https://trello.com/invite/b/6826db6e08d45246c899ed3d/ATTI962f63ff73675acf8c8c469dc078ac353023599A/travelmatch-sprint-2
 
+<p align="center">
+        <img src="assets/evidencias/trello-sprint-2.png" alt="repo-config"/>
+    </p>
+
 |**Sprint #**|**Sprint 2**|||||||
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |**User Story**||**Work-Item / Task**||||||
@@ -2379,13 +2383,13 @@ Enlace del board donde se trabajo el Sprint Backlog #2: https://trello.com/invit
 |US-14|Filtros avanzados|T14-1|Diseñar componentes de filtro UI|Crear los elementos visuales (dropdowns, checkboxes) para los diferentes criterios de búsqueda avanzada.|1\.5|Guevara Tejada, Jorge|In-Progress|
 |US-14|Filtros avanzados|T14-2|Implementar lógica de filtrado backend|Desarrollar la API y la lógica de base de datos para aplicar múltiples filtros a los resultados de búsqueda.|1\.5|Guevara Tejada, Jorge|In-Progress|
 |US-18|Favoritos|T18-1|Implementar funcionalidad "Añadir a Favoritos"|Desarrollar la lógica para guardar ítems en una lista de favoritos del usuario.|1|Linares Bernable, Cesar|Done|
-|US-18|Favoritos|T18-2|Mostrar lista de ítems favoritos|Crear la interfaz donde el usuario puede ver, organizar y eliminar sus elementos guardados como favoritos.|1|Linares Bernable, Cesar|Done|
-|US-20|Mapas interactivos|T20-1|Implementar renderizado de mapas base|Configurar la visualización inicial de mapas con zoom y desplazamiento.|1|Linares Bernable, Cesar|To-do|
-|US-20|Mapas interactivos|T20-2|Añadir marcadores para puntos de interés|Desarrollar la funcionalidad para colocar pines interactivos en el mapa que representen lugares relevantes.|1|Linares Bernable, Cesar|To-do|
+|US-18|Favoritos|T18-2|Mostrar lista de ítems favoritos|Crear la interfaz donde el usuario puede ver, organizar y eliminar sus elementos guardados como favoritos.|1|Briceño De La Cruz, Farid|Done|
+|US-20|Mapas interactivos|T20-1|Implementar renderizado de mapas base|Configurar la visualización inicial de mapas con zoom y desplazamiento.|1|Guevara Tejada, Jorge|To-do|
+|US-20|Mapas interactivos|T20-2|Añadir marcadores para puntos de interés|Desarrollar la funcionalidad para colocar pines interactivos en el mapa que representen lugares relevantes.|1|Guevara Tejada, Jorge|To-do|
 |US-21|Vista previa de tours|T21-1|Desarrollar componente de vista previa de tours|Crear el módulo UI para mostrar un resumen atractivo de cada tour.|0\.5|Galvez Chambi, Jhon|Done|
 |US-21|Vista previa de tours|T21-2|Implementar navegación a detalle del tour|Asegurar que al seleccionar la vista previa, se redirija a la página de detalles completos del tour.|0\.5|Galvez Chambi, Jhon|Done|
 |US-22|Itinerarios automáticos|T22-1|Desarrollar algoritmo de generación de itinerarios|Implementar la lógica para crear rutas y actividades sugeridas basadas en preferencias del usuario.|1\.5|Briceño De La Cruz, Farid|To-do|
-|US-22|Itinerarios automáticos|T22-2|Integrar con API de mapas para visualización|Conectar el algoritmo con un servicio de mapas para mostrar los itinerarios de forma visual.|1\.5|Linares Bernable, Cesar|To-do|
+|US-22|Itinerarios automáticos|T22-2|Integrar con API de mapas para visualización|Conectar el algoritmo con un servicio de mapas para mostrar los itinerarios de forma visual.|1\.5|Galvez Chambi, Jhon|To-do|
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 

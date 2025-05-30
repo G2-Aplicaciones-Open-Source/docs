@@ -2366,20 +2366,26 @@ A continuación la matriz de Liderazgo y Colaboración (LACX), donde “L” ind
 
 El Sprint Backlog 2 se enfoca en la mejora continua del frontend tras el despliegue de la primera versión. En esta fase, se priorizan tareas para optimizar la experiencia del usuario, incorporar nuevas funcionalidades y refinar aspectos visuales y de rendimiento. El objetivo es consolidar las bases establecidas en el primer sprint, ajustando elementos clave en la interfaz, mejorando la navegación y añadiendo nuevas secciones para ofrecer una experiencia más completa y atractiva.
 
+Enlace del board donde se trabajo el Sprint Backlog #2: https://trello.com/invite/b/6826db6e08d45246c899ed3d/ATTI962f63ff73675acf8c8c469dc078ac353023599A/travelmatch-sprint-2
 
-|Sprint #|Sprint 2|||||||
+|**Sprint #**|**Sprint 2**|||||||
 | :- | :- | :- | :- | :- | :- | :- | :- |
-|User Story|Work-Item / Task|||||||
-|Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p>|Assigned To|<p>Status</p><p>(To-do /</p><p>InProcess /</p><p>ToReview /</p><p>Done)</p>|
-|` `US11|Filtros avanzados|T10|Desarrollar un sistema de filtros avanzados.|Permite a los usuarios filtrar actividades por precio y tipo para encontrar opciones relevantes.|1|Jorge Guevara|InProcess|
-|` `US09|Perfil público|T11|Desarrollo del módulo de perfil público|Permite compartir reseñas que pueden llevar a páginas de detalles.|1|Mathias Aspajo|Done|
-|` `US18|Vista previa de tours|T12|Desarrollo de la vista previa de experiencias|Muestra fotos y videos detallados, lo que implica navegar al detalle del tour.|0\.5|Jhon Galvez, Cesar Linares|Done|
-|` `US17|Mapas interactivos|T13|Presentación de la ubicación de la experiencia|Muestra la ubicación exacta de los tours, típicamente en la vista de detalle.|0\.5|Jhon Galvez|TO-DO|
-|` `US19|Itinerarios automáticos|T14|Información de los itinerarios|Incluye lógica para seleccionar actividades y planificar rutas, que normalmente requieren detalles.|0\.5|Jhon Galvez, Farid Briceño|TO-DO|
-|` `US02|Inicio de sesión|T15|Formulario inicio de sesión|Necesario para acceder a la gestión de perfiles.|2|Jhon Galvez|TO-DO|
-|` `US03|Perfil corporativo|T16|Información del perfil corporativo|Incluye detalles adicionales para perfiles corporativos.|2|Jhon Galvez, Cesar Linares|Done|
-|` `US09|Perfil público|T17|Información del perfil público| Permite compartir experiencias y opiniones, formando parte del perfil.|2|Farid Briceño|Done|
-|` `US15|Favoritos|T18|Sección informativa de favoritos|Permite guardar y gestionar actividades interesantes para revisarlas después.|0.5|Farid Briceño|Done|
+|**User Story**||**Work-Item / Task**||||||
+|**ID**|**Title**|**Id**|**Title**|**Description**|**Estimation (Hrs)**|**Assigned To**|**Status**|
+|US-02|Inicio de sesión|T02-1|Diseñar y maquetar interfaz de login|Crear la interfaz visual de la pantalla de inicio de sesión con campos de usuario/contraseña.|0\.5|Aspajo Alvarez, Mathias|To-do|
+|US-02|Inicio de sesión|T02-2|Implementar lógica de autenticación|Desarrollar la funcionalidad de validación de credenciales y generación de token de sesión.|0\.5|Aspajo Alvarez, Mathias|To-do|
+|US-03|Perfil corporativo|T03-2|Diseñar y maquetar vista de perfil corporativo|Crear la interfaz para la visualización de la información de la empresa.|1|Galvez Chambi, Jhon|Done|
+|US-03|Perfil corporativo|T03-2|Implementar edición de datos corporativos|Desarrollar la funcionalidad para que la empresa pueda actualizar su información de perfil.|1|Aspajo Alvarez, Mathias|Done|
+|US-14|Filtros avanzados|T14-1|Diseñar componentes de filtro UI|Crear los elementos visuales (dropdowns, checkboxes) para los diferentes criterios de búsqueda avanzada.|1\.5|Guevara Tejada, Jorge|In-Progress|
+|US-14|Filtros avanzados|T14-2|Implementar lógica de filtrado backend|Desarrollar la API y la lógica de base de datos para aplicar múltiples filtros a los resultados de búsqueda.|1\.5|Guevara Tejada, Jorge|In-Progress|
+|US-18|Favoritos|T18-1|Implementar funcionalidad "Añadir a Favoritos"|Desarrollar la lógica para guardar ítems en una lista de favoritos del usuario.|1|Linares Bernable, Cesar|Done|
+|US-18|Favoritos|T18-2|Mostrar lista de ítems favoritos|Crear la interfaz donde el usuario puede ver, organizar y eliminar sus elementos guardados como favoritos.|1|Linares Bernable, Cesar|Done|
+|US-20|Mapas interactivos|T20-1|Implementar renderizado de mapas base|Configurar la visualización inicial de mapas con zoom y desplazamiento.|1|Linares Bernable, Cesar|To-do|
+|US-20|Mapas interactivos|T20-2|Añadir marcadores para puntos de interés|Desarrollar la funcionalidad para colocar pines interactivos en el mapa que representen lugares relevantes.|1|Linares Bernable, Cesar|To-do|
+|US-21|Vista previa de tours|T21-1|Desarrollar componente de vista previa de tours|Crear el módulo UI para mostrar un resumen atractivo de cada tour.|0\.5|Galvez Chambi, Jhon|Done|
+|US-21|Vista previa de tours|T21-2|Implementar navegación a detalle del tour|Asegurar que al seleccionar la vista previa, se redirija a la página de detalles completos del tour.|0\.5|Galvez Chambi, Jhon|Done|
+|US-22|Itinerarios automáticos|T22-1|Desarrollar algoritmo de generación de itinerarios|Implementar la lógica para crear rutas y actividades sugeridas basadas en preferencias del usuario.|1\.5|Briceño De La Cruz, Farid|To-do|
+|US-22|Itinerarios automáticos|T22-2|Integrar con API de mapas para visualización|Conectar el algoritmo con un servicio de mapas para mostrar los itinerarios de forma visual.|1\.5|Linares Bernable, Cesar|To-do|
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 

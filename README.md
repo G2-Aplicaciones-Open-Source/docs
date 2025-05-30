@@ -2074,20 +2074,44 @@ A continuación la matriz de Liderazgo y Colaboración (LACX), donde “L” ind
 
 El Sprint Backlog 1 representa la lista de tareas y elementos de trabajo priorizados para la primera iteración del proyecto. En esta fase inicial, el enfoque principal es construir los componentes esenciales de la página de inicio, asegurar una experiencia de usuario fluida y establecer una base sólida para las futuras iteraciones. El objetivo es crear una landing page atractiva y funcional que permita a los usuarios registrarse, conocer la misión de la startup y navegar de manera intuitiva, mientras se incorporan funcionalidades críticas como formularios de contacto y optimización para dispositivos móviles.
 
+Enlace del board donde se trabajo el Sprint Backlog #1: https://trello.com/invite/b/6838d8b7029ba5c316ca24aa/ATTI952051c0dd3aa65a5c203ecc4c9c04ccB68B8104/travelmatch-sprint-1
 
-|Sprint #|Sprint 1|||||||
-| :- | :- | :- | :- | :- | :- | :- | :- |
-|User Story|Work-Item / Task|||||||
-|Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p>|Assigned To|<p>Status</p><p>(To-do /</p><p>InProcess /</p><p>ToReview /</p><p>Done)</p>|
-|` `US-01|Registro básico|T01|Desarrollar un sistema de registro de usuarios.|La página web debe incluir una funcionalidad que permita a los usuarios registrarse o crear una cuenta personal.|1|Jorge Guevara|Done|
-|` `US-02|Inicio de sesión|T02|Desarrollo del módulo de inicio de sesión|Es necesario desarrollar un sistema que permita a los usuarios ya registrados ingresar sus credenciales para acceder a su perfil personal.|1|Mathias Aspajo|Done|
-|` `US-31|Navegación por el landing page|T03|Construcción de la plataforma web|Se debe desarrollar la estructura base del sitio web, garantizando su correcta navegación y funcionamiento, como punto de partida para implementar la landing page.|0\.5|Jhon Galvez, Cesar Linares|Done|
-|` `US-32|Ver información del startup|T04|Presentación del trabajo|Incluir una sección dedicada a mostrar a los miembros del equipo de desarrollo|0\.5|Jhon Galvez|Done|
-|` `US-33|Conocer la misión de la startup|T05|Información de la misión de la Startup|Agregar un apartado que exponga claramente la misión de la startup.|0\.5|Jhon Galvez, Farid Briceño|Done|
-|` `US-34|Contactar al equipo de soporte (Versión usuario)|T06|Formulario de contacto para soporte|Incorporar un formulario dentro de la landing page que permita a los usuarios enviar consultas o mensajes al equipo de atención al cliente o soporte técnico.|2|Jhon Galvez|Done|
-|` `US-35|Visualización responsive|T07|Adaptabilidad a dispositivos móviles|El sitio web debe estar optimizado para garantizar una experiencia de navegación cómoda y fluida desde smartphones y otros dispositivos móviles.|2|Jhon Galvez, Cesar Linares|Done|
-|` `US-36|Contactar al equipo de soporte (Versión agencia)|T08|Formulario de contacto para agencias|Incluir un formulario exclusivo para agencias, donde puedan realizar consultas, expresar su interés en colaborar o solicitar información adicional sobre los servicios y beneficios que ofrece la plataforma para sus operaciones.|2|Farid Briceño|Done|
-|` `US-37|Modelo de monetización|T09|Sección informativa para agencias|Agregar una sección dedicada a explicar claramente cómo las agencias pueden generar ingresos a través del uso de la aplicación.|0.5|Farid Briceño|Done|
+
+<p align="center">
+        <img src="assets/evidencias/trello-sprint-1.png" alt="repo-config"/>
+    </p>
+
+
+| Sprint #       | Sprint 1                              |                    |                                    |                                                               |                     |                 |            |
+| -------------- | ------------------------------------- | ------------------ | ---------------------------------- | ------------------------------------------------------------- | ------------------- | --------------- | ---------- |
+| **User Story** |                                       | **Work-Item/task** |                                    |                                                               |                     |                 |            |
+| **ID**         | **Title**                             | **Id**             | **Title**                          | **Description**                                               | **Estimation(Hrs)** | **Assigned To** | **Status** |
+| US-39          | Navegación por el landing page        | T39-1              | Implementar navegación anclada     | Programar redirección a secciones por ítems del menú          | 1                   | Linares Bernable, Cesar            | Done       |
+| US-39          | Navegación por el landing page        | T39-2              | Adaptar menú móvil                 | Implementar menú hamburguesa y desplegable en móviles         | 1                   | Linares Bernable, Cesar            | Done       |
+| US-40          | Ver información del startup           | T40-1              | Diseñar layout del equipo          | Crear diseño para sección "Nuestro equipo"                    | 0.5                 | Linares Bernable, Cesar            | To-do       |
+| US-40          | Ver información del startup           | T40-2              | Mostrar perfiles                   | Mostrar nombre y rol por cada miembro del equipo              | 0.5                 | Linares Bernable, Cesar            | To-do       |
+| US-40          | Ver información del startup           | T40-3              | Mostrar avatar por defecto         | Mostrar imagen por defecto si no hay foto disponible          | 0.5                 | Linares Bernable, Cesar            | To-do       |
+| US-41          | Conocer la misión de la startup       | T41-1              | Redactar valores clave             | Redactar 3 valores clave en sección misión                    | 0.5                 | Linares Bernable, Cesar            | To-do       |
+| US-41          | Conocer la misión de la startup       | T41-2              | Adaptar contenido a móvil          | Asegurar visualización adaptativa en pantallas pequeñas       | 0.5                 | Linares Bernable, Cesar            | To-do       |
+| US-42          | Visualización responsive              | T42-1              | Reorganizar contenido en rotación  | Usar media queries para reordenar contenido al rotar pantalla | 1                   | Guevara Tejada, Jorge            | Done       |
+| US-42          | Visualización responsive              | T42-2              | Ajustar botones táctiles           | Ampliar botones y mejorar su disposición en tablets           | 0.5                 | Guevara Tejada, Jorge            | Done       |
+| US-43          | Modelo de Monetización                | T43-1              | Mostrar calculadora de comisiones  | Implementar calculadora interactiva de comisiones             | 1.5                 | Galvez Chambi, Jhon            | In-Progress       |
+| US-43          | Modelo de Monetización                | T43-2              | Comparativa de planes              | Mostrar tabla comparativa de features/costos para agencias    | 1                   | Galvez Chambi, Jhon            | In-Progress       |
+| US-44          | Explorar servicios disponibles        | T44-1              | Crear sección de servicios         | Diseñar e implementar sección de servicios para viajeros      | 0.5                 | Galvez Chambi, Jhon            | Done       |
+| US-44          | Explorar servicios disponibles        | T44-2              | Mostrar categorías principales     | Mostrar lista de categorías con íconos o etiquetas            | 0.5                 | Galvez Chambi, Jhon            | Done       |
+| US-45          | Revisar testimonios de otros viajeros | T45-1              | Implementar sección de testimonios | Mostrar al menos 5 testimonios con nombre y puntaje           | 1                   | Galvez Chambi, Jhon            | Done       |
+| US-46          | Contactar para más información        | T46-1              | Crear formulario de contacto       | Crear formulario con campos básicos y botón de envío          | 0.5                 | Galvez Chambi, Jhon            | Done       |
+| US-46          | Contactar para más información        | T46-2              | Implementar notificación           | Mostrar confirmación tras enviar el mensaje                   | 0.5                 | Aspajo Alvarez, Mathias            | Done       |
+| US-47          | Registro para viajeros                | T47-1              | Agregar botón de registro          | Añadir botón visible "Registrarse" en el landing              | 0.5                 | Aspajo Alvarez, Mathias            | Done       |
+| US-47          | Registro para viajeros                | T47-2              | Redireccionar a formulario         | Programar redirección al formulario de registro               | 0.5                 | Aspajo Alvarez, Mathias            | Done       |
+| US-48          | Conocer cómo funciona la plataforma   | T48-1              | Crear sección "Cómo funciona"      | Redactar y estructurar pasos claros para agencias             | 1                   | Aspajo Alvarez, Mathias            | Done       |
+| US-49          | Revisar testimonios de otras agencias | T49-1              | Agregar testimonios de agencias    | Mostrar al menos 3 testimonios de agencias con comentarios    | 1                   | Guevara Tejada, Jorge            | Done       |
+| US-50          | Cambiar vista a viajeros              | T50-1              | Implementar botón “Para Viajeros”  | Agregar botón visible en vista agencia                        | 0.5                 | Guevara Tejada, Jorge            | Done       |
+| US-50          | Cambiar vista a viajeros              | T50-2              | Redireccionar vista                | Redirigir correctamente al landing de viajeros                | 0.5                 | Guevara Tejada, Jorge            | Done       |
+| US-51          | Registro para agencias | T51-1              | Agregar botón “Registrarse”         | Añadir botón visible en el landing para agencias         | 0.5                 | Guevara Tejada, Jorge            | Done       |
+| US-51          | Registro para agencias | T51-2              | Redirigir al formulario de registro | Redireccionar al visitante al formulario correspondiente | 0.5                 | Guevara Tejada, Jorge            | Done       |
+
+
 
 
 

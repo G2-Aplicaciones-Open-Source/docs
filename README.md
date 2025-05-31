@@ -2082,7 +2082,7 @@ A continuación la matriz de Liderazgo y Colaboración (LACX), donde “L” ind
 | Aspajo Alvarez, Mathias        | AdeXzz             | C                | L                        | C                         | C                              | C              |
 | Galvez Chambi, Jhon                  | Chaomeum           | C                | C                        | L                         | C                              | C              |
 | Guevara Tejada, Jorge           | Jorgito170              | C                | C                        | C                         | L                              | C              |
-| Linares Bernable, Cesar           | Jorgito170          | L                | C                        | C                         | C                              | L              |
+| Linares Bernable, Cesar           | Cesar-Linares          | L                | C                        | C                         | C                              | L              |
 |
 
 
@@ -2090,20 +2090,44 @@ A continuación la matriz de Liderazgo y Colaboración (LACX), donde “L” ind
 
 El Sprint Backlog 1 representa la lista de tareas y elementos de trabajo priorizados para la primera iteración del proyecto. En esta fase inicial, el enfoque principal es construir los componentes esenciales de la página de inicio, asegurar una experiencia de usuario fluida y establecer una base sólida para las futuras iteraciones. El objetivo es crear una landing page atractiva y funcional que permita a los usuarios registrarse, conocer la misión de la startup y navegar de manera intuitiva, mientras se incorporan funcionalidades críticas como formularios de contacto y optimización para dispositivos móviles.
 
+Enlace del board donde se trabajo el Sprint Backlog #1: https://trello.com/invite/b/6838d8b7029ba5c316ca24aa/ATTI952051c0dd3aa65a5c203ecc4c9c04ccB68B8104/travelmatch-sprint-1
 
-|Sprint #|Sprint 1|||||||
-| :- | :- | :- | :- | :- | :- | :- | :- |
-|User Story|Work-Item / Task|||||||
-|Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p>|Assigned To|<p>Status</p><p>(To-do /</p><p>InProcess /</p><p>ToReview /</p><p>Done)</p>|
-|` `US-01|Registro básico|T01|Desarrollar un sistema de registro de usuarios.|La página web debe incluir una funcionalidad que permita a los usuarios registrarse o crear una cuenta personal.|1|Jorge Guevara|Done|
-|` `US-02|Inicio de sesión|T02|Desarrollo del módulo de inicio de sesión|Es necesario desarrollar un sistema que permita a los usuarios ya registrados ingresar sus credenciales para acceder a su perfil personal.|1|Mathias Aspajo|Done|
-|` `US-31|Navegación por el landing page|T03|Construcción de la plataforma web|Se debe desarrollar la estructura base del sitio web, garantizando su correcta navegación y funcionamiento, como punto de partida para implementar la landing page.|0\.5|Jhon Galvez, Cesar Linares|Done|
-|` `US-32|Ver información del startup|T04|Presentación del trabajo|Incluir una sección dedicada a mostrar a los miembros del equipo de desarrollo|0\.5|Jhon Galvez|Done|
-|` `US-33|Conocer la misión de la startup|T05|Información de la misión de la Startup|Agregar un apartado que exponga claramente la misión de la startup.|0\.5|Jhon Galvez, Farid Briceño|Done|
-|` `US-34|Contactar al equipo de soporte (Versión usuario)|T06|Formulario de contacto para soporte|Incorporar un formulario dentro de la landing page que permita a los usuarios enviar consultas o mensajes al equipo de atención al cliente o soporte técnico.|2|Jhon Galvez|Done|
-|` `US-35|Visualización responsive|T07|Adaptabilidad a dispositivos móviles|El sitio web debe estar optimizado para garantizar una experiencia de navegación cómoda y fluida desde smartphones y otros dispositivos móviles.|2|Jhon Galvez, Cesar Linares|Done|
-|` `US-36|Contactar al equipo de soporte (Versión agencia)|T08|Formulario de contacto para agencias|Incluir un formulario exclusivo para agencias, donde puedan realizar consultas, expresar su interés en colaborar o solicitar información adicional sobre los servicios y beneficios que ofrece la plataforma para sus operaciones.|2|Farid Briceño|Done|
-|` `US-37|Modelo de monetización|T09|Sección informativa para agencias|Agregar una sección dedicada a explicar claramente cómo las agencias pueden generar ingresos a través del uso de la aplicación.|0.5|Farid Briceño|Done|
+
+<p align="center">
+        <img src="assets/evidencias/trello-sprint-1.png" alt="repo-config"/>
+    </p>
+
+
+| Sprint #       | Sprint 1                              |                    |                                    |                                                               |                     |                 |            |
+| -------------- | ------------------------------------- | ------------------ | ---------------------------------- | ------------------------------------------------------------- | ------------------- | --------------- | ---------- |
+| **User Story** |                                       | **Work-Item/task** |                                    |                                                               |                     |                 |            |
+| **ID**         | **Title**                             | **Id**             | **Title**                          | **Description**                                               | **Estimation(Hrs)** | **Assigned To** | **Status** |
+| US-39          | Navegación por el landing page        | T39-1              | Implementar navegación anclada     | Programar redirección a secciones por ítems del menú          | 1                   | Linares Bernable, Cesar            | Done       |
+| US-39          | Navegación por el landing page        | T39-2              | Adaptar menú móvil                 | Implementar menú hamburguesa y desplegable en móviles         | 1                   | Linares Bernable, Cesar            | Done       |
+| US-40          | Ver información del startup           | T40-1              | Diseñar layout del equipo          | Crear diseño para sección "Nuestro equipo"                    | 0.5                 | Linares Bernable, Cesar            | To-do       |
+| US-40          | Ver información del startup           | T40-2              | Mostrar perfiles                   | Mostrar nombre y rol por cada miembro del equipo              | 0.5                 | Linares Bernable, Cesar            | To-do       |
+| US-40          | Ver información del startup           | T40-3              | Mostrar avatar por defecto         | Mostrar imagen por defecto si no hay foto disponible          | 0.5                 | Linares Bernable, Cesar            | To-do       |
+| US-41          | Conocer la misión de la startup       | T41-1              | Redactar valores clave             | Redactar 3 valores clave en sección misión                    | 0.5                 | Linares Bernable, Cesar            | To-do       |
+| US-41          | Conocer la misión de la startup       | T41-2              | Adaptar contenido a móvil          | Asegurar visualización adaptativa en pantallas pequeñas       | 0.5                 | Linares Bernable, Cesar            | To-do       |
+| US-42          | Visualización responsive              | T42-1              | Reorganizar contenido en rotación  | Usar media queries para reordenar contenido al rotar pantalla | 1                   | Guevara Tejada, Jorge            | Done       |
+| US-42          | Visualización responsive              | T42-2              | Ajustar botones táctiles           | Ampliar botones y mejorar su disposición en tablets           | 0.5                 | Guevara Tejada, Jorge            | Done       |
+| US-43          | Modelo de Monetización                | T43-1              | Mostrar calculadora de comisiones  | Implementar calculadora interactiva de comisiones             | 1.5                 | Galvez Chambi, Jhon            | In-Progress       |
+| US-43          | Modelo de Monetización                | T43-2              | Comparativa de planes              | Mostrar tabla comparativa de features/costos para agencias    | 1                   | Galvez Chambi, Jhon            | In-Progress       |
+| US-44          | Explorar servicios disponibles        | T44-1              | Crear sección de servicios         | Diseñar e implementar sección de servicios para viajeros      | 0.5                 | Galvez Chambi, Jhon            | Done       |
+| US-44          | Explorar servicios disponibles        | T44-2              | Mostrar categorías principales     | Mostrar lista de categorías con íconos o etiquetas            | 0.5                 | Galvez Chambi, Jhon            | Done       |
+| US-45          | Revisar testimonios de otros viajeros | T45-1              | Implementar sección de testimonios | Mostrar al menos 5 testimonios con nombre y puntaje           | 1                   | Galvez Chambi, Jhon            | Done       |
+| US-46          | Contactar para más información        | T46-1              | Crear formulario de contacto       | Crear formulario con campos básicos y botón de envío          | 0.5                 | Galvez Chambi, Jhon            | Done       |
+| US-46          | Contactar para más información        | T46-2              | Implementar notificación           | Mostrar confirmación tras enviar el mensaje                   | 0.5                 | Aspajo Alvarez, Mathias            | Done       |
+| US-47          | Registro para viajeros                | T47-1              | Agregar botón de registro          | Añadir botón visible "Registrarse" en el landing              | 0.5                 | Aspajo Alvarez, Mathias            | Done       |
+| US-47          | Registro para viajeros                | T47-2              | Redireccionar a formulario         | Programar redirección al formulario de registro               | 0.5                 | Aspajo Alvarez, Mathias            | Done       |
+| US-48          | Conocer cómo funciona la plataforma   | T48-1              | Crear sección "Cómo funciona"      | Redactar y estructurar pasos claros para agencias             | 1                   | Aspajo Alvarez, Mathias            | Done       |
+| US-49          | Revisar testimonios de otras agencias | T49-1              | Agregar testimonios de agencias    | Mostrar al menos 3 testimonios de agencias con comentarios    | 1                   | Guevara Tejada, Jorge            | Done       |
+| US-50          | Cambiar vista a viajeros              | T50-1              | Implementar botón “Para Viajeros”  | Agregar botón visible en vista agencia                        | 0.5                 | Guevara Tejada, Jorge            | Done       |
+| US-50          | Cambiar vista a viajeros              | T50-2              | Redireccionar vista                | Redirigir correctamente al landing de viajeros                | 0.5                 | Guevara Tejada, Jorge            | Done       |
+| US-51          | Registro para agencias | T51-1              | Agregar botón “Registrarse”         | Añadir botón visible en el landing para agencias         | 0.5                 | Guevara Tejada, Jorge            | Done       |
+| US-51          | Registro para agencias | T51-2              | Redirigir al formulario de registro | Redireccionar al visitante al formulario correspondiente | 0.5                 | Guevara Tejada, Jorge            | Done       |
+
+
 
 
 
@@ -2120,6 +2144,9 @@ En esta parte, mostramos el proceso que seguimos para diseñar y mantener actual
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
+Durante el Sprint 1, se logró implementar completamente la página de aterrizaje (landing page) de la aplicación, cumpliendo con todos los criterios de aceptación definidos en las historias de usuario. El equipo desarrolló un sitio web funcional, atractivo y adaptable a diferentes dispositivos, incluyendo secciones clave como el registro e inicio de sesión, información del equipo y misión de la startup, formularios de contacto diferenciados para usuarios y agencias, así como una sección informativa sobre el modelo de monetización. Este entregable constituye un primer paso fundamental para validar el producto con usuarios reales y establecer una presencia sólida en línea.
+
+
 |Epic / Story ID|Título|Criterios de Aceptación|
 | :- | :- | :- |
 |` `US31|Navegación por el landing page|Dado que el usuario está en la página principal, cuando haga clic en cualquier ítem del menú, entonces va redirigido a la sección correspondiente.|
@@ -2128,6 +2155,32 @@ En esta parte, mostramos el proceso que seguimos para diseñar y mantener actual
 |` `US34|Contactar al equipo de soporte|Dado que completo el formulario, cuando hago clic en "Enviar", entonces recibo un email de confirmación.|
 
 Demo del Landing Page: [upc-pre-202510-1asi0729-4328-Pandora-landing-navigation-sprint-1](https://youtu.be/ijkidI-RlOQ)
+
+**Evidencias visuales**
+
+<p align="center">
+    <img src="assets/evidencias/landing-principal1.png" alt="landing-demo1"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-principal2.png" alt="landing-demo2"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-principal3.png" alt="landing-demo3"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-principal4.png" alt="landing-demo4"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-principal5.png" alt="landing-demo4"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/landing-principal6.png" alt="landing-demo4"/>    
+</p>
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2329,20 +2382,30 @@ A continuación la matriz de Liderazgo y Colaboración (LACX), donde “L” ind
 
 El Sprint Backlog 2 se enfoca en la mejora continua del frontend tras el despliegue de la primera versión. En esta fase, se priorizan tareas para optimizar la experiencia del usuario, incorporar nuevas funcionalidades y refinar aspectos visuales y de rendimiento. El objetivo es consolidar las bases establecidas en el primer sprint, ajustando elementos clave en la interfaz, mejorando la navegación y añadiendo nuevas secciones para ofrecer una experiencia más completa y atractiva.
 
+Enlace del board donde se trabajo el Sprint Backlog #2: https://trello.com/invite/b/6826db6e08d45246c899ed3d/ATTI962f63ff73675acf8c8c469dc078ac353023599A/travelmatch-sprint-2
 
-|Sprint #|Sprint 2|||||||
+<p align="center">
+        <img src="assets/evidencias/trello-sprint-2.png" alt="repo-config"/>
+    </p>
+
+|**Sprint #**|**Sprint 2**|||||||
 | :- | :- | :- | :- | :- | :- | :- | :- |
-|User Story|Work-Item / Task|||||||
-|Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p>|Assigned To|<p>Status</p><p>(To-do /</p><p>InProcess /</p><p>ToReview /</p><p>Done)</p>|
-|` `US11|Filtros avanzados|T10|Desarrollar un sistema de filtros avanzados.|Permite a los usuarios filtrar actividades por precio y tipo para encontrar opciones relevantes.|1|Jorge Guevara|InProcess|
-|` `US09|Perfil público|T11|Desarrollo del módulo de perfil público|Permite compartir reseñas que pueden llevar a páginas de detalles.|1|Mathias Aspajo|Done|
-|` `US18|Vista previa de tours|T12|Desarrollo de la vista previa de experiencias|Muestra fotos y videos detallados, lo que implica navegar al detalle del tour.|0\.5|Jhon Galvez, Cesar Linares|Done|
-|` `US17|Mapas interactivos|T13|Presentación de la ubicación de la experiencia|Muestra la ubicación exacta de los tours, típicamente en la vista de detalle.|0\.5|Jhon Galvez|TO-DO|
-|` `US19|Itinerarios automáticos|T14|Información de los itinerarios|Incluye lógica para seleccionar actividades y planificar rutas, que normalmente requieren detalles.|0\.5|Jhon Galvez, Farid Briceño|TO-DO|
-|` `US02|Inicio de sesión|T15|Formulario inicio de sesión|Necesario para acceder a la gestión de perfiles.|2|Jhon Galvez|TO-DO|
-|` `US03|Perfil corporativo|T16|Información del perfil corporativo|Incluye detalles adicionales para perfiles corporativos.|2|Jhon Galvez, Cesar Linares|Done|
-|` `US09|Perfil público|T17|Información del perfil público| Permite compartir experiencias y opiniones, formando parte del perfil.|2|Farid Briceño|Done|
-|` `US15|Favoritos|T18|Sección informativa de favoritos|Permite guardar y gestionar actividades interesantes para revisarlas después.|0.5|Farid Briceño|Done|
+|**User Story**||**Work-Item / Task**||||||
+|**ID**|**Title**|**Id**|**Title**|**Description**|**Estimation (Hrs)**|**Assigned To**|**Status**|
+|US-02|Inicio de sesión|T02-1|Diseñar y maquetar interfaz de login|Crear la interfaz visual de la pantalla de inicio de sesión con campos de usuario/contraseña.|0\.5|Aspajo Alvarez, Mathias|To-do|
+|US-02|Inicio de sesión|T02-2|Implementar lógica de autenticación|Desarrollar la funcionalidad de validación de credenciales y generación de token de sesión.|0\.5|Aspajo Alvarez, Mathias|To-do|
+|US-03|Perfil corporativo|T03-2|Diseñar y maquetar vista de perfil corporativo|Crear la interfaz para la visualización de la información de la empresa.|1|Galvez Chambi, Jhon|Done|
+|US-03|Perfil corporativo|T03-2|Implementar edición de datos corporativos|Desarrollar la funcionalidad para que la empresa pueda actualizar su información de perfil.|1|Aspajo Alvarez, Mathias|Done|
+|US-14|Filtros avanzados|T14-1|Diseñar componentes de filtro UI|Crear los elementos visuales (dropdowns, checkboxes) para los diferentes criterios de búsqueda avanzada.|1\.5|Guevara Tejada, Jorge|In-Progress|
+|US-14|Filtros avanzados|T14-2|Implementar lógica de filtrado backend|Desarrollar la API y la lógica de base de datos para aplicar múltiples filtros a los resultados de búsqueda.|1\.5|Guevara Tejada, Jorge|In-Progress|
+|US-18|Favoritos|T18-1|Implementar funcionalidad "Añadir a Favoritos"|Desarrollar la lógica para guardar ítems en una lista de favoritos del usuario.|1|Linares Bernable, Cesar|Done|
+|US-18|Favoritos|T18-2|Mostrar lista de ítems favoritos|Crear la interfaz donde el usuario puede ver, organizar y eliminar sus elementos guardados como favoritos.|1|Briceño De La Cruz, Farid|Done|
+|US-20|Mapas interactivos|T20-1|Implementar renderizado de mapas base|Configurar la visualización inicial de mapas con zoom y desplazamiento.|1|Guevara Tejada, Jorge|To-do|
+|US-20|Mapas interactivos|T20-2|Añadir marcadores para puntos de interés|Desarrollar la funcionalidad para colocar pines interactivos en el mapa que representen lugares relevantes.|1|Guevara Tejada, Jorge|To-do|
+|US-21|Vista previa de tours|T21-1|Desarrollar componente de vista previa de tours|Crear el módulo UI para mostrar un resumen atractivo de cada tour.|0\.5|Galvez Chambi, Jhon|Done|
+|US-21|Vista previa de tours|T21-2|Implementar navegación a detalle del tour|Asegurar que al seleccionar la vista previa, se redirija a la página de detalles completos del tour.|0\.5|Galvez Chambi, Jhon|Done|
+|US-22|Itinerarios automáticos|T22-1|Desarrollar algoritmo de generación de itinerarios|Implementar la lógica para crear rutas y actividades sugeridas basadas en preferencias del usuario.|1\.5|Briceño De La Cruz, Farid|To-do|
+|US-22|Itinerarios automáticos|T22-2|Integrar con API de mapas para visualización|Conectar el algoritmo con un servicio de mapas para mostrar los itinerarios de forma visual.|1\.5|Galvez Chambi, Jhon|To-do|
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 

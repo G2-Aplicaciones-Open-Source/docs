@@ -1121,7 +1121,7 @@ En esta sección se presentan las historias de usuario que describen las necesid
 ### 3.3. Impact Mapping
 
 <p align="center">
-    <img src="assets/recursos/Impact_Mapping.jpg" alt="Impact-Mapping"/>
+    <img src="assets/recursos/impact_map_v2.png" alt="impact-map-v2"/>
 </p>
 
 ### 3.4. Product Backlog

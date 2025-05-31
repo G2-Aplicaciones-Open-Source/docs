@@ -222,8 +222,24 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](#531-diseno-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-segun-heuristicas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 [Conclusiones](#conclusiones)
+  - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+  - [Video About-The-Team](#video-about-the-team)
 
 [Bibliografía](#bibliografía)
 
@@ -1766,7 +1782,7 @@ La orientación a objetos será fundamental en nuestro proyecto. Organizamos el 
 
 ### 4.8. Database Design
 
-El diseño de base de datos es funamental para estructurar y almacenar todos los datos a utilizar en el proyecto. Su propósito principal es el de organizar los datos de forma lógica y cohesiva, permitiendo el recuperar, modificar o borrar según las acciones de los usuarios.
+El diseño de base de datos es fundamental para estructurar y almacenar todos los datos a utilizar en el proyecto. Su propósito principal es el de organizar los datos de forma lógica y cohesiva, permitiendo el recuperar, modificar o borrar según las acciones de los usuarios.
 
 #### 4.8.1. Database Diagram
 
@@ -1775,7 +1791,7 @@ El diseño de base de datos es funamental para estructurar y almacenar todos los
 </p>
 
 Enlace del diagrama elaborado en Lucidchart: 
-https://lucid.app/lucidchart/6497903f-9318-4fee-af17-767b96f4ed6d/edit?viewport_loc=-888%2C-68%2C5601%2C2030%2C0_0&invitationId=inv_65a78cce-432f-486d-aaa1-6ab80aae3a48
+https://lucid.app/lucidchart/6497903f-9318-4fee-af17-767b96f4ed6d/edit?viewport_loc=-1038%2C173%2C4955%2C1796%2C0_0&invitationId=inv_65a78cce-432f-486d-aaa1-6ab80aae3a48
 
 <hr>
 
@@ -2420,10 +2436,53 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo del fronte
 
 	<img src="assets/evidencias/sprint2gitflow.png" alt="sprint2gitflow"/>
  
- ***NO OLVIDES CERRAR TU CUENTA DE GITHUB:3****
- SINO PASA ESTOOOOO :V 
+
+#### 5.2.3. Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3.
+
+##### 5.2.3.3. Sprint Backlog 3.
+
+##### 5.2.3.4. Development Evidence for Sprint Review.
+
+##### 5.2.3.5. Execution Evidence for Sprint Review.
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas
+
+#### 5.3.2. Registro de Entrevistas.
+
+#### 5.3.3. Evaluaciones según heurísticas.
+
+### 5.4. Video About-the-Product
+
+**Reemplazar**
+En esta sección el equipo introduce y describe el contenido del Video About-the-
+Product, el cual tiene como público objetivo los visitantes al Landing Page, quienes
+desean conocer sobre el modelo de negocio y las características principales de los
+productos de software, al igual que los usuarios de las Aplicaciones, quienes desean
+realizar tareas relacionadas con los procesos soportados por la solución. El tono que
+utilice en la comunicación debe ser consistente con el tono adoptado para el
+producto y debe incluirse al menos un testimonio positivo de un usuario que haya
+participado en las entrevistas de validación. Debe incluirse también en esta sección
+un screenshot del Video, el URL de la versión publicada en Microsoft Stream (y
+además, el URL de la versión publicada en YouTube utilizada para incrustarse en el
+Landing Page), así como el timing (duración) del mismo. Ver otras indicaciones
+importantes en el Anexo C. Indicaciones para secciones que incluyen Videos.
+
+URL del video: []
 
 ## Conclusiones
+
+### Conclusiones y Recomendaciones
 
 - _Colaboración efectiva del equipo:_
     La implementación del flujo de trabajo GitHub Flow y GitFlow permitió una colaboración organizada y eficiente entre los miembros del equipo. Cada integrante asumió responsabilidades específicas, lo que facilitó el desarrollo de la landing page y la integración de funcionalidades clave.
@@ -2442,6 +2501,22 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo del fronte
 
 - _Lecciones aprendidas:_
     Durante este Sprint, se identificaron áreas de mejora en la coordinación de tareas y la gestión del tiempo. Estas lecciones serán aplicadas en futuros Sprints para optimizar la productividad y asegurar el cumplimiento de los objetivos del proyecto.
+
+### Video About-The-Team 
+
+**Reemplazar**
+En esta sección el equipo elabora un resumen de los aspectos más relevantes del
+video About-The-Team, la pauta de secuencias de contenido (secciones con el timing
+de inicio de cada una, es decir hh:mm:ss de cada sección dentro del video)
+incluyendo además un cuadro de video representativo del mismo, junto con el URL
+de la versión publicada en Microsoft Stream (y además, el URL de la versión
+publicada en YouTube utilizada para incrustarse en el Landing Page).
+Este video resume el proceso de trabajo realizado, incluyendo escenas con imágenes
+o video de sesiones de trabajo real del equipo, complementando con narración (voz
+en off) del proceso. Incluye además el testimonio ante cámara de cada participante
+describiendo actividades realizadas, logro de outcomes y desarrollo de competencias
+alcanzados. Ver otras indicaciones importantes en el Anexo C. Indicaciones para
+secciones que incluyen Videos.
 
 <hr>
 

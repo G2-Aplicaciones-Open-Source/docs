@@ -44,7 +44,9 @@
 
 | Versión | Fecha | <div style="width:250px">Autor(es) </div> | <div align="center" style="width:400px">Descripción de la modificación</div> |
 |:-------:|:-----:|:-----------------------------------------:|-------------------------------------------------------------|
-| TB1 | 26/04/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge<br>- Linares Bernable, Cesar | Para esta entrega se han desarrollado los siguientes capítulos: <br>- Carátula<br>- Registro de Versiones del Informe<br>- Project Report Collaboration Insights<br>- Contenido<br>- Student Outcome<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Capítulo V: Product Implementation, Validation & Deployment<br>- 5.1. Software Configuration Management<br>- 5.1.1. Software Development Environment Configuration<br>- 5.1.2. Source Code Management<br>- 5.1.3. Source Code Style Guide & Conventions<br>- 5.1.4. Software Deployment Configuration<br>- 5.2. Landing Page, Services & Applications Implementation<br>- 5.2.1. Sprint 1<br>- 5.2.1.1. Sprint Planning 1<br>- 5.2.1.2. Aspect Leaders and Collaborators<br>- 5.2.1.3. Sprint Backlog 1<br>- 5.2.1.4. Development Evidence for Sprint Review<br>- 5.2.1.5. Execution Evidence for Sprint Review<br>- 5.2.1.6. Services Documentation Evidence for Sprint Review<br>- 5.2.1.7. Software Deployment Evidence for Sprint Review<br>- 5.2.1.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos |
+| TB1 | 26/04/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br><br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge<br>- Linares Bernable, Cesar | Para esta entrega se han desarrollado los siguientes capítulos: <br>- Carátula<br>- Registro de Versiones del Informe<br>- Project Report Collaboration Insights<br>- Contenido<br>- Student Outcome<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Capítulo V: Product Implementation, Validation & Deployment<br>- 5.1. Software Configuration Management<br>- 5.1.1. Software Development Environment Configuration<br>- 5.1.2. Source Code Management<br>- 5.1.3. Source Code Style Guide & Conventions<br>- 5.1.4. Software Deployment Configuration<br>- 5.2. Landing Page, Services & Applications Implementation<br>- 5.2.1. Sprint 1<br>- 5.2.1.1. Sprint Planning 1<br>- 5.2.1.2. Aspect Leaders and Collaborators<br>- 5.2.1.3. Sprint Backlog 1<br>- 5.2.1.4. Development Evidence for Sprint Review<br>- 5.2.1.5. Execution Evidence for Sprint Review<br>- 5.2.1.6. Services Documentation Evidence for Sprint Review<br>- 5.2.1.7. Software Deployment Evidence for Sprint Review<br>- 5.2.1.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos |
+| TP1 | 16/05/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge<br>- Linares Bernable, Cesar | Para esta entrega se han desarrollado los siguiente capítulos: <br>- Correciones de la entrega TB1 <br>- Capítulo V: Product Implementation, Validation & Deployment<br> - 5.2.2. Sprint 2<br>- 5.2.2.1. Sprint Planning 2<br>- 5.2.2.2. Aspect Leaders and Collaborators<br>- 5.2.2.3. Sprint Backlog 2<br>- 5.2.2.4. Development Evidence for Sprint Review<br>- 5.2.2.5. Execution Evidence for Sprint Review<br>- 5.2.2.6. Services Documentation Evidence for Sprint Review<br>- 5.2.2.7. Software Deployment Evidence for Sprint Review<br>- 5.2.2.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos <br><br> Asimismo, se han actualizado se han actualizado las secciones Registro de Versiones del Informe, Project Report Collaboration Insights y Sección Student Outcome.<br><br>Con respecto a los artefactos, se han desarrollado: <br>- Versión inicial del Frontend Web Applications|
+| TB2 | 20/06/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge<br>- Linares Bernable, Cesar | Para esta entrega se han desarrollado los siguiente capítulos: <br>- Correciones de la entrega TP1 <br>- Capítulo V: Product Implementation, Validation & Deployment<br> - 5.2.3. Sprint 3<br>- 5.2.3.1. Sprint Planning 3<br>- 5.2.3.2. Aspect Leaders and Collaborators<br>- 5.2.3.3. Sprint Backlog 3<br>- 5.2.3.4. Development Evidence for Sprint Review<br>- 5.2.3.5. Execution Evidence for Sprint Review<br>- 5.2.3.6. Services Documentation Evidence for Sprint Review<br>- 5.2.3.7. Software Deployment Evidence for Sprint Review<br>- 5.2.3.8. Team Collaboration Insights during Sprint<br>- 5.3. Validation Interviews<br>- 5.3.1. Diseño de Entrevistas<br>- 5.3.2. Registro  de Entrevistas<br>- 5.3.3. Evaluaciones según heurísticas<br>- 5.4. Video About-the-Product<br>- Avance de Conclusiones, Bibliografía y Anexos <br><br> Asimismo, se han actualizado se han actualizado las secciones Registro de Versiones del Informe, Project Report Collaboration Insights y Sección Student Outcome.<br><br>Con respecto a los artefactos, se han desarrollado: <br>- Versión nueva del Landing Page <br>- Versión nueva del Frontend Web Applications<br>- Versión inicial del Backend Web Services<br>- Versión inicial del Video About-The-Product<br>- Versión inicial del Video About-The-Team|
 
 <hr>
 
@@ -232,7 +234,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseno-de-entrevistas)
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-segun-heuristicas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
@@ -328,8 +330,7 @@ Soy un estudiante que se caracteriza por su alto sentido de la responsabilidad y
 - Cesar Linares Bernable - u202019409 (Ingeniería de Software)
 
 <p align="center">
-    <img src="assets/fotos/cesarfoto.jpg" alt="foto-cesar" width="170px"/>
-    <img src="assets/fotos/cesarfoto.jpg" alt="foto-cesar" width="170px"/>
+    <img src="assets/fotos/cesarfoto.jpg" alt="foto-cesar" width="170px"/>    
 </p>
 
 Soy una persona responsable y trabajadora que cumple las tareas encomendadas cuanto antes sea posible. Tengo conocimientos en SQL, C++, Python y lo básico de CSS y Javascript. Me gusta aprender por mi cuenta lenguajes de programación como Rust y uso ese conocimiento para ayudar a mi equipo.
@@ -2503,6 +2504,8 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo del fronte
 #### 5.2.3. Sprint 3
 
 ##### 5.2.3.1. Sprint Planning 3.
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
 
 ##### 5.2.3.3. Sprint Backlog 3.
 

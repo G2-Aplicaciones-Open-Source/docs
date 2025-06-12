@@ -984,19 +984,19 @@ Experiencia y Feedback: Buscan disfrutar sin complicaciones logísticas, pero la
 #### 2.3.5.1. As-is Scenario Mapping Turistas nacionales e internacionales
 
 <p align="center">
-    <img src="assets/recursos/As_is_Turistas.png" alt="As-is-Turistas"/>
+    <img src="assets/recursos/as-is-turistas_v2.png" alt="as-is-turistas_v2"/>
 </p>
 
 #### 2.3.5.2. As-is Scenario Mapping Agencias de turismo locales
 
 <p align="center">
-    <img src="assets/recursos/As_is_Agencias.png" alt="As-is-Agencias"/>
+    <img src="assets/recursos/as-is-agencias_v2.png" alt="as-is-agencias_v2"/>
 </p>
 
 #### 2.3.5.3. As-is Scenario Mapping Viajeros por trabajo
 
 <p align="center">
-    <img src="assets/recursos/As_is_Viajeros.png" alt="As-is-Viajeros"/>
+    <img src="assets/recursos/as-is-viajeros_v2.png" alt="as-is-viajeros_v2"/>
 </p>
 
 ### 2.4. Ubiquitous Language
@@ -1028,19 +1028,19 @@ El equipo realizó un análisis detallado para definir los futuros escenarios de
 #### 3.1.1. To-Be Scenario Mapping Turistas nacionales e internacionales
 
 <p align="center">
-    <img src="assets/recursos/To_be_Turistas.png" alt="To-be-Turistas"/>
+    <img src="assets/recursos/to-be-turistas_v2.png" alt="to-be-turistas_v2"/>
 </p>
 
 #### 3.1.2. To-Be Scenario Mapping Agencias de turismo locales
 
 <p align="center">
-    <img src="assets/recursos/To_be_Agencias.png" alt="To-be-Agencias"/>
+    <img src="assets/recursos/to-be-agencias_v2.png" alt="to-be-agencias_v2"/>
 </p>
 
 #### 3.1.3. To-Be Scenario Mapping Viajeros por trabajo
 
 <p align="center">
-    <img src="assets/recursos/To_be_Viajeros.png" alt="To-be-Viajeros"/>
+    <img src="assets/recursos/to-be-viajeros_v2.png" alt="to-be-viajeros_v2"/>
 </p>
 
 ### 3.2. User Stories
@@ -1121,7 +1121,7 @@ En esta sección se presentan las historias de usuario que describen las necesid
 ### 3.3. Impact Mapping
 
 <p align="center">
-    <img src="assets/recursos/Impact_Mapping.jpg" alt="Impact-Mapping"/>
+    <img src="assets/recursos/impact_map_v2.png" alt="impact-map-v2"/>
 </p>
 
 ### 3.4. Product Backlog

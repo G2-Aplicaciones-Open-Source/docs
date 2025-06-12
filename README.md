@@ -198,7 +198,6 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
 - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
 
-
 [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
@@ -1719,17 +1718,34 @@ Enlace al Figma de desarrollo de Web Application: https://www.figma.com/design/G
 ### 4.6. Domain-Driven Software Architecture
 
 #### 4.6.1. Software Architecture Context Diagrams
+
 <p align="center">
-    <img src="assets/recursos/diagrama de contexto.png" alt="Diagrama de Contexto"/>
+    <img src="assets/recursos/diagrama_contexto.png" alt="Diagrama de Contexto"/>
 </p>
 
 #### 4.6.2. Software Architecture Container Diagrams
- <img src="assets/recursos/diagrama de contenedores.png" alt="Diagrama de Contenedores"/>
+
+<p align="center">
+ <img src="assets/recursos/diagrama_contenedores.png" alt="Diagrama de Contenedores"/>
+</p>
 
 #### 4.6.3. Software Architecture Components Diagrams
 
-<img src="assets/recursos/diagrama de componentes.png" alt="Diagrama de Contenedores"/>
-<br></br>
+- Bounded Context IAM
+
+<p align="center">
+    <img src="assets/recursos/diagrama_componentes_iam.png" alt="Diagrama de Componentes IAM Bounded Context"/>
+</p>
+
+- Bounded Context Profiles
+<p align="center">
+    <img src="assets/recursos/diagrama_componentes_profiles.png" alt="Diagrama de Componentes Profiles Bounded Context"/>
+</p>
+
+- Bounded Context Events
+<p align="center">
+    <img src="assets/recursos/diagrama_componentes_events.png" alt="Diagrama de Componentes Events Bounded Context"/>
+</p>
 
 ### 4.7. Software Object-Oriented Design
 
@@ -1738,8 +1754,10 @@ La orientación a objetos será fundamental en nuestro proyecto. Organizamos el 
 #### 4.7.1. Class Diagrams
 
 <p align="center">
-    <img src="assets/recursos/class_diagram.png" alt="Class-Diagram"/>
+    <img src="assets/recursos/uml_class_diagram.jpeg" alt="Diagrama de Clases UML"/>
 </p>
+
+Enlace del diagrama de clases elaborado en Lucidchart: https://lucid.app/lucidchart/5c82ad83-e062-47f4-8289-d3979877fb1e/edit?invitationId=inv_38e8006a-95da-4b3f-86b2-2d30cfb7cd0b
 
 #### 4.7.2. Class Dictionary
 
@@ -2053,18 +2071,18 @@ La configuración de despliegue para TravelMatch contempla mecanismos organizado
 
 En este primer sprint, el equipo se reunió para planificar el alcance del desarrollo inicial del proyecto. El objetivo principal es establecer las bases para una aplicación efectiva y bien estructurada, comenzando con la creación de una página de aterrizaje (landing page) que sirva como el primer punto de contacto con los usuarios. Este enfoque permitirá validar las ideas iniciales del producto, medir el interés del público objetivo y generar una presencia digital sólida desde las primeras etapas del proyecto.
 
-|**Sprint #**|` `Sprint 1|
+|**Sprint #**|Sprint 1|
 | :- | :- |
-|` `**Date**|2025-04-23|
-|**Time**|` `1:30 PM|
-|**Location**|` `Virtual - Meet|
+|**Date**|2025-04-23|
+|**Time**|1:30 PM|
+|**Location**|Virtual - Meet|
 |**Prepared By**|Jhon Galvez|
-|` `**Attendees (to planning meeting)**|Jhon Galvez, Mathias Aspajo, Farid Briceño, Jorge Guevara, Cesar Linares|
-|` `**Sprint n - 1 Review Summary**|Este es el primer Sprint, por lo que este campo no aplica|
-|` `**Sprint n - 1 Retrospective Summary**|Este es el primer Sprint, por lo que este campo no aplica|
+|**Attendees (to planning meeting)**|Jhon Galvez, Mathias Aspajo, Farid Briceño, Jorge Guevara, Cesar Linares|
+|**Sprint n - 1 Review Summary**|Este es el primer Sprint, por lo que este campo no aplica|
+|**Sprint n - 1 Retrospective Summary**|Este es el primer Sprint, por lo que este campo no aplica|
 |**Sprint 1 Goal**|En este sprint, nos enfocaremos en desarrollar la landing page de nuestra aplicación, ya que consideramos que será clave para ofrecer una presentación atractiva y efectiva del producto a los potenciales usuarios. Evaluaremos el éxito de esta implementación cuando el número de visitas a la página alcance un umbral previamente establecido.|
-|` `**Sprint 1 Velocity**|Nuestro equipo puede aceptar hasta 35 story points|
-|` `**Sum of Story Points**|La suma de Story Points atendidos es de 32 story points|
+|**Sprint 1 Velocity**|Nuestro equipo puede aceptar hasta 35 story points|
+|**Sum of Story Points**|La suma de Story Points atendidos es de 32 story points|
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -2095,8 +2113,8 @@ Enlace del board donde se trabajo el Sprint Backlog #1: https://trello.com/invit
 
 
 <p align="center">
-        <img src="assets/evidencias/trello-sprint-1.png" alt="repo-config"/>
-    </p>
+    <img src="assets/evidencias/trello-sprint-1.png" alt="repo-config"/>
+</p>
 
 
 | Sprint #       | Sprint 1                              |                    |                                    |                                                               |                     |                 |            |
@@ -2129,9 +2147,6 @@ Enlace del board donde se trabajo el Sprint Backlog #1: https://trello.com/invit
 | US-51          | Registro para agencias | T51-2              | Redirigir al formulario de registro | Redireccionar al visitante al formulario correspondiente | 0.5                 | Guevara Tejada, Jorge            | Done       |
 
 
-
-
-
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
 En esta parte, mostramos el proceso que seguimos para diseñar y mantener actualizada la landing page.
@@ -2147,13 +2162,6 @@ En esta parte, mostramos el proceso que seguimos para diseñar y mantener actual
 
 Durante el Sprint 1, se logró implementar completamente la página de aterrizaje (landing page) de la aplicación, cumpliendo con todos los criterios de aceptación definidos en las historias de usuario. El equipo desarrolló un sitio web funcional, atractivo y adaptable a diferentes dispositivos, incluyendo secciones clave como el registro e inicio de sesión, información del equipo y misión de la startup, formularios de contacto diferenciados para usuarios y agencias, así como una sección informativa sobre el modelo de monetización. Este entregable constituye un primer paso fundamental para validar el producto con usuarios reales y establecer una presencia sólida en línea.
 
-
-|Epic / Story ID|Título|Criterios de Aceptación|
-| :- | :- | :- |
-|` `US31|Navegación por el landing page|Dado que el usuario está en la página principal, cuando haga clic en cualquier ítem del menú, entonces va redirigido a la sección correspondiente.|
-|` `US32|Ver información del startup|Dado que voy a "Nuestro equipo", cuando hago scroll, entonces veo nombres de cada miembro.|
-|` `US33|Conocer la misión de la startup|Dado que accedo a "Sobre nosotros", cuando leo la sección de misión, entonces encuentro al menos 3 valores clave.|
-|` `US34|Contactar al equipo de soporte|Dado que completo el formulario, cuando hago clic en "Enviar", entonces recibo un email de confirmación.|
 
 Demo del Landing Page: [upc-pre-202510-1asi0729-4328-Pandora-landing-navigation-sprint-1](https://youtu.be/ijkidI-RlOQ)
 
@@ -2293,11 +2301,18 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo de la land
         <img src="assets/evidencias/landingv2-commits-cesar.png" alt="landingv2-commits-cesar"/>    
     </p>   
 
+    - Insights del repositorio
+    <p align="center">
+        <img src="assets/evidencias/insights-landing-repo.png" alt="insights-landing-repo"/>    
+    </p>  
+
 <hr>
 
 #### 5.2.2. Sprint 2
 
 ##### 5.2.2.1. Sprint Planning 2
+
+Tras establecer la landing page en el Sprint 1, el Sprint Planning 2 se centró en la construcción y la implementación de la interfaz front-end de TravelMatch. El equipo priorizó la experiencia de usuario fluida e intuitiva, desarrollando funcionalidades clave como el inicio de sesión, el perfil corporativo, filtros avanzados, favoritos y vistas previas de tours, sentando así las bases visuales y funcionales de la aplicación.
 
 <table>
   <tr>
@@ -2424,34 +2439,12 @@ En esta parte, mostramos el proceso que seguimos para diseñar y mantener actual
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
-|Epic / Story ID|Título|Criterios de Aceptación|
-| :- | :- | :- |
-|` `US09|Perfil público|Dado que me encuentro dentro del front, cuando accedo a "Profile", podré acceder a mi perfil y modificar mis datos.|
-|` `US15|Favoritos|Dado que me encuentro en el Home, cuando hago clic en "Favoritos", entonces veo las experiencias que marqué como favoritas.|
+Durante el Sprint 2, el equipo de desarrollo de TravelMatch se centró en la construcción e implementación del front-end, logrando avances significativos en la interfaz de usuario. Se completaron funcionalidades clave que enriquecen la interacción del usuario con la plataforma, incluyendo el diseño y maquetación de la interfaz de inicio de sesión, y la implementación de la lógica para el perfil corporativo, permitiendo la visualización y edición de datos. Además, se desarrolló la funcionalidad para añadir y mostrar ítems favoritos, proporcionando una experiencia más personalizada. Se avanzó en la creación de componentes UI para filtros avanzados y se trabajó en la vista previa de tours, asegurando una navegación más fluida y una presentación atractiva del contenido. Este sprint consolidó la interfaz gráfica, integrando las bases visuales para las futuras iteraciones y ampliando la funcionalidad más allá de la landing page inicial
 
 Demo del Frontend Web Application: [Enlace](https://youtu.be/GDcZcjMXcGM)
 
-##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-En este Sprint, el foco estuvo centrado exclusivamente en el desarrollo del frontend del proyecto TravelMatch. Se trabajaron los siguientes endpoints para este sprint:
-
-<img src="assets/recursos/endpoints.png" alt="endpoints "/>
-
-La documentación de Web Services utilizando OpenAPI/Swagger será considerada en futuros Sprints, una vez que se inicie la implementación del backend del sistema.
-
-##### 5.2.2.7. Software Deployment Evidence for Sprint Review
-
-Durante este Sprint, se llevó a cabo el despliegue del frontend del proyecto TravelMatch, como segundo paso en la publicación progresiva de los productos del sistema. Esta actividad se enmarca dentro del objetivo de validar las funcionalidades del frontend e interacción con el cliente y equipo docente.
-
-**Actividades Realizadas**
-
-- Configuración del repositorio GitHub y estructura inicial de carpetas.
-- Implementación de flujo de trabajo con Git Flow, manteniendo los cambios en la rama develop.
-- Realización de un merge desde develop hacia la rama main, de acuerdo a las convenciones definidas en la sección 5.1.2.
-- Se utilizará firebase para el despliegue del frontend, apuntando al contenido de la rama main.
-- Publicación exitosa del frontend accesible a través de una URL pública.
-
-**Evidencias del despliegue**
+Evidencias de las vistas implementadas
 
 <p align="center">
     <img src="assets/evidencias/frontend-evidence-1.png" alt="frontend-evidence-1"/>    
@@ -2470,7 +2463,122 @@ Durante este Sprint, se llevó a cabo el despliegue del frontend del proyecto Tr
 </p>
 
 
-**URL de la landing page desplegada:** [Travel Match en Firebase](https://travel-match-1f187.web.app)
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En este Sprint, el foco estuvo centrado exclusivamente en el desarrollo del frontend del proyecto TravelMatch. Se trabajaron los siguientes endpoints para este sprint:
+
+<img src="assets/recursos/endpoints.png" alt="endpoints "/>
+
+La documentación de Web Services utilizando OpenAPI/Swagger será considerada en futuros Sprints, una vez que se inicie la implementación del backend del sistema.
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Durante este Sprint, se llevó a cabo el despliegue del frontend del proyecto TravelMatch utilizando Firebase Hosting, marcando el segundo paso en la publicación progresiva de los productos del sistema. Esta actividad fue crucial para validar las funcionalidades del frontend desarrolladas durante el Sprint 2 y permitir la interacción con el cliente y el equipo docente en un entorno accesible.
+
+**Actividades Realizadas**
+
+* **Configuración del repositorio GitHub y estructura inicial de carpetas:**
+
+  * Se mantuvo la estructura de repositorio existente, con la rama `main` conteniendo la versión desplegable y la rama `develop` para el trabajo en progreso.
+
+  * Se aseguró la consistencia del proyecto local con el repositorio remoto.
+
+* **Implementación de flujo de trabajo con Git Flow, manteniendo los cambios en la rama `develop`:**
+
+  * Todo el desarrollo del frontend se realizó en ramas de características (`feature/*`) a partir de `develop`, siguiendo las convenciones de Git Flow.
+
+  * Se realizaron commits frecuentes y mensajes descriptivos para mantener la trazabilidad de los cambios.
+
+* **Realización de un merge desde `develop` hacia la rama `main`, de acuerdo a las convenciones definidas en la sección 5.1.2:**
+
+  * Antes del despliegue, se realizó un Pull Request (PR) desde `develop` a `main` para asegurar la revisión del código por parte del equipo.
+
+  * Se verificó la ausencia de conflictos y se realizaron las pruebas finales de integración antes de la fusión.
+
+  * El merge se llevó a cabo una vez que todas las pruebas de funcionalidad del frontend fueron exitosas.
+
+* **Configuración de Firebase para el despliegue del frontend, apuntando al contenido de la rama `main`:**
+
+  * **Creación y configuración del proyecto Firebase:** Se creó un nuevo proyecto en la consola de Firebase específicamente para el frontend de TravelMatch.
+
+    <p align="center">
+      <img src="assets/evidencias/firebase-project-creation.png" alt="Creación del proyecto Firebase"/>
+    </p>
+
+  * **Inicialización de Firebase en el proyecto local:** Se utilizó el comando `firebase init` en el directorio raíz del proyecto frontend para configurar Firebase Hosting. Esto incluyó la selección del proyecto Firebase creado y la especificación del directorio público (`build` o `dist`, según la configuración del proyecto).
+
+    <p align="center">
+      <img src="assets/evidencias/firebase-init-command.png" alt="Firebase init command"/>
+    </p>
+
+  * **Conexión de Firebase Hosting con el repositorio GitHub (si aplica):** Se configuró la integración continua (CI/CD) de Firebase Hosting con el repositorio de GitHub para que cada fusión a la rama `main` activara automáticamente un nuevo despliegue. *(Nota: si no se configuró CI/CD automático, este punto puede omitirse o ajustarse).*
+
+    <p align="center">
+      <img src="assets/evidencias/firebase-github-integration.png" alt="Integración Firebase con GitHub"/>
+    </p>
+
+* **Publicación exitosa del frontend accesible a través de una URL pública:**
+
+  * Una vez configurado y desplegado, el frontend de TravelMatch estuvo accesible a través de la URL generada por Firebase Hosting.
+
+  * 
+
+---
+
+**URL del Frontend desplegado:** https://travel-match-1f187.web.app
+
+---
+
+**Evidencias visuales**
+
+* **Configuración del repositorio GitHub y estructura inicial de carpetas:**
+
+  * La organización del repositorio se mantuvo, con el código del frontend reflejando los avances del Sprint 2 en la rama `develop`.
+
+    <p align="center">
+      <img src="assets/evidencias/repo-frontend-struct.png" alt="Estructura del repositorio de frontend"/>
+    </p>
+
+* **Implementación de flujo de trabajo con Git Flow:**
+
+  * Visualización de las ramas de desarrollo y la rama `develop` actualizada con los cambios del Sprint 2.
+
+    <p align="center">
+      <img src="assets/evidencias/git-flow-branches-sprint2.png" alt="Ramas de Git Flow para Sprint 2"/>
+    </p>
+
+* **Realización de un merge desde `develop` hacia la rama `main`:**
+
+  * Captura de pantalla de la fusión exitosa del Pull Request en GitHub.
+
+    <p align="center">
+      <img src="assets/evidencias/pull-request-merge-sprint2.png" alt="Merge de Pull Request en GitHub"/>
+    </p>
+
+* **Configuración de Firebase para el despliegue del frontend:**
+
+  * Panel de control de Firebase Hosting mostrando el estado del despliegue y la URL pública.
+
+    <p align="center">
+      <img src="assets/evidencias/firebase-hosting-dashboard.png" alt="Dashboard de Firebase Hosting"/>
+    </p>
+
+* **Publicación exitosa del frontend accesible a través de una URL pública:**
+
+  * Capturas de pantalla del frontend desplegado, mostrando las nuevas funcionalidades como la página de login o el perfil de usuario.
+
+    <p align="center">
+      <img src="assets/evidencias/frontend-deploy-login.png" alt="Página de Login desplegada"/>
+    </p>
+
+    <p align="center">
+      <img src="assets/evidencias/frontend-deploy-profile.png" alt="Página de Perfil desplegada"/>
+    </p>
+
+    <p align="center">
+      <img src="assets/evidencias/frontend-deploy-favorites.png" alt="Sección de Favoritos desplegada"/>
+    </p>
+
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -2488,15 +2596,15 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo del fronte
 
 - Evidencia de avances del sprint:
 
-	-Insights:
+	- Insights:
 
   	<img src="assets/evidencias/sprint2insights.png" alt="sprint2insights"/>
 
-  	-Analíticas:
+  	- Analíticas:
 
   	<img src="assets/evidencias/sprint2analiticas.png" alt="sprint2analiticas"/>
 
-  	-Gitflow:
+  	- Gitflow:
 
 	<img src="assets/evidencias/sprint2gitflow.png" alt="sprint2gitflow"/>
  

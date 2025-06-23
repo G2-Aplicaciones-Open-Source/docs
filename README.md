@@ -2643,6 +2643,21 @@ En este Sprint, el equipo se centró prioritariamente en el desarrollo del backe
 
 ##### 5.2.3.3. Sprint Backlog 3.
 
+El objetivo principal del sprint backlog 3 es desarrollar nuestro backend considerando los bounded context del negocio, permitiendo guardar sus datos,a cceder a ellos y modificarlos. Para la entrega de este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias tecnicas y basandonos en los diagramas resaltando los puntos clave del negocio, y se ha asignado el trabajo de forma equitativa para cumplir en los tiempos estimados.
+
+Sprint Backlog 3 en Trello: https://trello.com/invite/b/68590a2aaf436102a3815e63/ATTIa032c0c0f6503f68f55e28a50b2544f60A17AF93/sprint-3-open-source
+
+<p align="center">
+    <img src="assets/evidencias/sprint-backlog-3.png" alt="sprint-backlog-3" width=80%/>
+</p>
+
+|  **Sprint3**   |       |        |            |                 |                |                 |            |
+| -------------- | ----- | ------ | ---------- | --------------- | -------------- | --------------- | ---------- |
+| **User Story** | **Work-Item / Task**  |        |         |           |                        |                 |            |
+| **ID**      |  **Title**    | **Id** | **Title**   | **Description**  | **Estimation (Hours)** | **Assigned to** | **Status** |
+|        US-27          | Ver recetas del plan | T-23 | Crear nueva receta | Crear nueva receta | 2 | Jhon Galvez Chambi  | Done  | 
+
+
 ##### 5.2.3.4. Development Evidence for Sprint Review.
 
 A continuación, se presenta un cuadro con los commits realizados en el repositorio del backend de TravelMatch durante el sprint. Esta evidencia refleja el trabajo de implementación y mejoras en la aplicación, incluyendo endpoints, estructura modular, configuración de despliegue y documentación técnica. Cada commit corresponde a una funcionalidad o ajuste clave desarrollado en la rama principal del proyecto.
@@ -2714,7 +2729,7 @@ En esta sección se presenta la evidencia de ejecución correspondiente al sprin
 
 En esta sección se presenta la evidencia de documentación de los servicios desarrollados durante el sprint, los cuales están disponibles y visibles mediante Swagger en la aplicación TravelMatch, una plataforma de turismo y viajes personalizados. A continuación, se detallan los principales endpoints implementados para cada uno de los módulos funcionales, incluyendo su método HTTP, ruta y descripción correspondiente.
 
-### Experience Media
+- _Experience Media_
 
 | Método     | Endpoint                                                    | Descripción                              |
 | ---------- | ----------------------------------------------------------- | ---------------------------------------- |
@@ -2725,14 +2740,18 @@ En esta sección se presenta la evidencia de documentación de los servicios des
 | **DELETE** | `/api/v1/experience-media/{id}`                             | Eliminar media por ID                    |
 
 ---
-### Authentication
+
+- _Authentication_
+
 | Método   | Endpoint                         | Descripción             |
 | -------- | -------------------------------- | ----------------------- |
 | **POST** | `/api/v1/authentication/sign-up` | Registrar nuevo usuario |
 | **POST** | `/api/v1/authentication/sign-in` | Iniciar sesión          |
 
 ---
-### Agency Staff
+
+- _Agency Staff_
+
 | Método     | Endpoint                                      | Descripción                                 |
 | ---------- | --------------------------------------------- | ------------------------------------------- |
 | **POST**   | `/api/v1/agencies/{agencyId}/staff`           | Crear personal para la agencia              |
@@ -2742,7 +2761,9 @@ En esta sección se presenta la evidencia de documentación de los servicios des
 | **DELETE** | `/api/v1/agencies/{agencyId}/staff/{staffId}` | Eliminar personal de la agencia             |
 
 ---
-### Agency Documents
+
+- _Agency Documents_
+
 | Método     | Endpoint                                             | Descripción                     |
 | ---------- | ---------------------------------------------------- | ------------------------------- |
 | **POST**   | `/api/v1/agencies/{agencyId}/documents`              | Subir documento de agencia      |
@@ -2752,7 +2773,9 @@ En esta sección se presenta la evidencia de documentación de los servicios des
 | **DELETE** | `/api/v1/agencies/{agencyId}/documents/{documentId}` | Eliminar documento de agencia   |
 
 ---
-### Availabilities
+
+- _Availabilities_
+
 | Método     | Endpoint                                               | Descripción                              |
 | ---------- | ------------------------------------------------------ | ---------------------------------------- |
 | **POST**   | `/api/v1/experiences/{experienceId}/availabilities`    | Crear disponibilidad para experiencia    |
@@ -2762,7 +2785,9 @@ En esta sección se presenta la evidencia de documentación de los servicios des
 | **DELETE** | `/api/v1/availabilities/{availabilityId}`              | Eliminar disponibilidad                  |
 
 ---
-### Carts
+
+- _Carts_
+
 | Método     | Endpoint                             | Descripción                           |
 | ---------- | ------------------------------------ | ------------------------------------- |
 | **POST**   | `/api/v1/carts`                      | Crear carrito                         |
@@ -2774,7 +2799,9 @@ En esta sección se presenta la evidencia de documentación de los servicios des
 | **GET**    | `/api/v1/carts/{userId}/items/count` | Obtener número de ítems en el carrito |
 
 ---
-### Favorites
+
+- _Favorites_
+
 | Método     | Endpoint                                                     | Descripción                                         |
 | ---------- | ------------------------------------------------------------ | --------------------------------------------------- |
 | **POST**   | `/api/v1/favorites`                                          | Agregar una experiencia a favoritos                 |
@@ -2782,14 +2809,17 @@ En esta sección se presenta la evidencia de documentación de los servicios des
 | **DELETE** | `/api/v1/favorites/users/{userId}/experience/{experienceId}` | Eliminar una experiencia de favoritos de un usuario |
 
 ---
-### Roles
+
+- _Roles_
 
 | Método  | Endpoint        | Descripción                         |
 | ------- | --------------- | ----------------------------------- |
 | **GET** | `/api/v1/roles` | Obtener todos los roles disponibles |
 
 ---
-### Experiences
+
+- _Experiences_
+
 | Método     | Endpoint                                     | Descripción                              |
 | ---------- | -------------------------------------------- | ---------------------------------------- |
 | **POST**   | `/api/v1/experiences/{agencyId}/experiences` | Crear nueva experiencia para una agencia |
@@ -2798,7 +2828,9 @@ En esta sección se presenta la evidencia de documentación de los servicios des
 | **DELETE** | `/api/v1/experiences/{experienceId}`         | Eliminar experiencia por ID              |
 
 ---
-### Reviews
+
+- _Reviews_
+
 | Método   | Endpoint                                       | Descripción                     |
 | -------- | ---------------------------------------------- | ------------------------------- |
 | **POST** | `/api/v1/reviews`                              | Crear reseña                    |
@@ -2807,14 +2839,18 @@ En esta sección se presenta la evidencia de documentación de los servicios des
 | **GET**  | `/api/v1/reviews/by-experience/{experienceId}` | Obtener reseñas por experiencia |
 
 ---
-### Users
+
+- _Users_
 
 | Método  | Endpoint                 | Descripción                |
 | ------- | ------------------------ | -------------------------- |
 | **GET** | `/api/v1/users`          | Obtener todos los usuarios |
 | **GET** | `/api/v1/users/{userId}` | Obtener usuario por ID     |
+
 ---
-### Agencies
+
+- _Agencies_
+
 | Método     | Endpoint                      | Descripción                 |
 | ---------- | ----------------------------- | --------------------------- |
 | **POST**   | `/api/v1/agencies`            | Crear agencia               |
@@ -2826,8 +2862,135 @@ En esta sección se presenta la evidencia de documentación de los servicios des
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Esta sección detalla la configuración y los pasos necesarios para el despliegue exitoso del backend de la solución **TravelMatch**. La aplicación backend está desarrollada con **Spring Boot 3, Java 21 y Maven**, y se despliega en **Azure App Service** utilizando **GitHub Actions** para la integración y entrega continua (CI/CD).
+
+---
+- Configuración de Despliegue
+
+| Elemento                    | Detalle                                       |
+| --------------------------- | --------------------------------------------- |
+| Plataforma de despliegue    | Azure App Service (Linux, Plan Gratuito - F1) |
+| Región                      | Canada Central                                |
+| Lenguaje y entorno          | Java 21 (Temurin)                             |
+| Gestor de dependencias      | Apache Maven                                  |
+| Proceso CI/CD               | GitHub Actions                                |
+| Base de datos               | Azure Database for PostgreSQL Flexible Server |
+| Tipo de conexión            | Conexión pública desde servicios de Azure     |
+| Autenticación base de datos | Usuario y contraseña                          |
+
+---
+
+- Pasos para el Despliegue del Backend
+
+	1. **Configuración del Azure App Service**
+
+	   * Crear un recurso **App Service** en Azure, especificando:
+
+		 * Sistema operativo: Linux
+		 * Versión de Java: Java 21
+		 * Plan de tarifa: Gratuito (F1)
+	   * Habilitar la opción: `Permitir acceso público a este servidor desde cualquier servicio de Azure dentro de Azure`.
+
+	2. **Configuración de la Base de Datos PostgreSQL**
+
+	   * Crear un recurso **Azure Database for PostgreSQL Flexible Server**.
+	   * Configurar las credenciales y el nombre de la base de datos.
+	   * Habilitar únicamente el acceso desde servicios de Azure.
+	   * Opcional: Habilitar acceso desde IPs locales específicas para pruebas.
+
+	3. **Configuración de Conexión en el Backend**
+
+	   * Establecer las siguientes propiedades en `application.properties`:
+
+		 ```
+		 spring.datasource.url=jdbc:postgresql://<NOMBRE_DEL_SERVIDOR>.postgres.database.azure.com:5432/<NOMBRE_DE_LA_BD>?sslmode=require
+		 spring.datasource.username=<USUARIO>
+		 spring.datasource.password=<CONTRASEÑA>
+		 ```	   
+
+	4. **Configuración de GitHub Actions**
+
+	   * Crear un archivo `.github/workflows/deploy.yml` con el siguiente contenido:
+
+		 ```yaml
+		 name: Deploy Spring Boot to Azure App Service
+
+		 on:
+		   push:
+			 branches:
+			   - main
+
+		 jobs:
+		   build-and-deploy:
+			 runs-on: ubuntu-latest
+
+			 steps:
+			   - name: Checkout source code
+				 uses: actions/checkout@v4
+
+			   - name: Set up Java 21
+				 uses: actions/setup-java@v4
+				 with:
+				   distribution: 'temurin'
+				   java-version: '21'
+
+			   - name: Build with Maven
+				 run: mvn clean package -DskipTests
+
+			   - name: Deploy to Azure Web App
+				 uses: azure/webapps-deploy@v2
+				 with:
+				   app-name: 'travelmatch'
+				   slot-name: 'production'
+				   publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+				   package: target/*.jar
+		 ```
+
+	5. **Configuración del Secret en GitHub**
+
+	   * En el repositorio de GitHub, ir a:
+		 `Settings > Secrets and variables > Actions > New repository secret`
+	   * Crear un secret llamado `AZURE_WEBAPP_PUBLISH_PROFILE` y cargar el contenido del *publish profile* descargado desde el App Service.
+
+	6. **Compilación y Despliegue Automático**
+
+	   * Realizar un `push` a la rama `main`.
+	   * GitHub Actions compilará el proyecto y lo desplegará automáticamente en el App Service.
+	   * La aplicación estará disponible en:
+		 `https://travelmatch-arabafgnanbsc2hb.canadacentral-01.azurewebsites.net`
+        
+    <p align="center">
+        <img src="assets/evidencias/github-workflow.png" alt="GitHub Workflow CI" width=60% >
+    </p>
+
+	7. **Pruebas de Conectividad**
+
+	   * Verificar que los endpoints estén accesibles desde el navegador con Swagger o herramientas como Postman.
+	   * Confirmar que las operaciones sobre la base de datos funcionen correctamente.       
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Durante este Sprint, el equipo colaboró activamente en el desarrollo del backend de TravelMatch, siguiendo las buenas prácticas de control de versiones con Git, estructuración del trabajo bajo el flujo Git Flow, y división de responsabilidades alineada con los roles de desarrollo y diseño definidos desde el inicio del proyecto.
+
+**Estrategia de colaboración empleada:**
+
+- Uso de ramas específicas (feature/, develop, main) para el desarrollo organizado de funcionalidades.
+
+- Implementación de convenciones de commits mediante Conventional Commits, facilitando la trazabilidad.
+
+- Pull requests revisadas por otros miembros antes de integrarse a develop.
+
+- Reuniones cortas (dailys o check-ins semanales) para seguimiento y desbloqueo de tareas.
+
+- Evidencia de avances del sprint:
+
+	- Pulse:
+
+  	<img src="assets/evidencias/backend-insights-pulse.png" alt="Sprint 3 Insights Pulse"/>
+
+  	- Gitflow:
+
+	<img src="assets/evidencias/backend-insights-network.png" alt="Sprint 3 Insights Network"/>
 
 ### 5.3. Validation Interviews
 

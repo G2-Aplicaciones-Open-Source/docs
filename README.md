@@ -2825,7 +2825,7 @@ En esta sección se presenta la evidencia de documentación de los servicios des
 |Edad|20|
 |Residencia|Lima|
 |Segmento|Turista Nacional|
-|Enlace de la entrevista| [https://youtu.be/dbUEKN0XS34](https://youtu.be/dbUEKN0XS34)|
+|Enlace de la entrevista| [https://www.youtube.com/watch?v=9PeHOlGE6K8](https://www.youtube.com/watch?v=9PeHOlGE6K8)|
 
 </div>
 
@@ -2846,7 +2846,7 @@ _Resumen:_ El entrevistado organiza sus viajes con anticipación, priorizando ex
 |Edad|23|
 |Residencia|Chile|
 |Segmento|Turista Internacional|
-|Enlace de la entrevista| [https://youtu.be/mV-JUn_ZdMQ](https://youtu.be/mV-JUn_ZdMQ)|
+|Enlace de la entrevista| [https://www.youtube.com/watch?v=yZrnMb7zTxI](https://www.youtube.com/watch?v=yZrnMb7zTxI)|
 
 </div>
 
@@ -2869,7 +2869,7 @@ _Resumen:_ El entrevistado busca experiencias auténticas y fuera del turismo co
 |Edad|21|
 |Residencia|Arequipa|
 |Segmento|Turista Nacional|
-|Enlace de la entrevista| [https://youtu.be/bhkQCGRL0yY](https://youtu.be/bhkQCGRL0yY)|
+|Enlace de la entrevista| [https://www.youtube.com/watch?v=ezpu8HV7a0I](https://www.youtube.com/watch?v=ezpu8HV7a0I)|
 
 </div>
 
@@ -2891,7 +2891,7 @@ _Resumen:_ El entrevistado viaja como mochilero, improvisando sobre la marcha. U
 |----|-----|
 |Edad| 25 |
 |Residencia|Lima|
-|Enlace de la entrevista| [https://youtu.be/mt-tBBAkeI4](https://youtu.be/mt-tBBAkeI4)|
+|Enlace de la entrevista| [https://www.youtube.com/watch?v=p_GXlAOSaIU](https://www.youtube.com/watch?v=p_GXlAOSaIU)|
 
 </div>
 
@@ -2902,6 +2902,202 @@ _Resumen:_ El entrevistado realiza viajes laborales frecuentes dentro del país 
 
 
 #### 5.3.3. Evaluaciones según heurísticas.
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability – Inclusive Design – Information Architecture**
+
+CARRERA: Ingeniería de Software
+
+CURSO: Desarrollo de Aplicaciones Open Source
+
+SECCIÓN: 4328
+
+PROFESORES: Juan Antonio Flores Moroco
+
+AUDITOR: Pandora
+
+CLIENTE(S): Luis Ramirez, Jose Guerrero, Leonardo Pilco, Adrian Yañez, Sebastian Arevalo, Diego Santiago, Eduardo Montalvo
+
+**SITE o APP A EVALUAR:**
+
+TravelMatch
+
+**TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+
+2. Publicación de un post
+
+3. Búsqueda de un paquete turístico
+
+4. Reserva de un viaje
+
+5. Cancelación de una reserva
+
+6. Agregar ítems a un pedido
+
+7. Pago de un paquete turístico
+
+8. Gestión y recepción de reservas (para agencias)
+
+9. Publicación y actualización de tours/servicios (para agencias)
+
+10. Recepción de notificaciones (para agencias y usuarios)
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Compartir reservas entre usuarios
+
+2. Presentar ofertas de último minuto
+
+3. Administrar puntos del programa de fidelización de viajes
+
+4. Guardar “alerta de paquetes”
+
+5. Integración de agenda corporativa
+
+6. Reportes automáticos de gastos
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|**Nivel**|**Descripción**|
+| :- | :- |
+|**1**|**Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.**|
+|**2**|**Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release**|
+|**3**|**Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.**|
+|**4**|**Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.**|
+
+**TABLA RESUMEN:**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/Principio violada(o)**|
+| :- | :- | :- | :- |
+|**1**|**Necesidad de chat directo con agencias**|**2**|**Usability: Ayuda y documentación**|
+|**2**|**Falta de filtros de búsqueda adicionales**|**2**|**Usability: Flexibilidad y eficiencia de uso**|
+|**3**|**Ausencia de itinerarios sugeridos**|**2**|**Information Architecture: Is it findable?**|
+|**4**|**Poca cantidad de contenido visual**|**2**|**Inclusive Design: Proporciona experiencias comparables**|
+|**5**|**Falta de mapa interactivo para actividades cercanas**|**2**|**Information Architecture: Is it findable?**|
+|**6**|**Falta de integración de agenda corporativa y reportes automáticos de gastos**|**2**|**Usability: Flexibilidad y eficiencia de uso**|
+|**7**|**Necesidad de más características, como gráficos de ventas diarios/semanales/mensuales**|**2**|**Usability: Reconocimiento antes que recuerdo / Flexibilidad y eficiencia de uso**|
+|**8**|**Ausencia de alertas de notificación para confirmación de acciones**|**2**|**Usability: Visibilidad del estado del sistema**|
+|**9**|**Dificultad inicial para entender cómo agregar fotos y precios de tours (para agencias)**|**2**|**Usability: Consistencia y estándares / Reconocimiento antes que recuerdo**|
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** Necesidad de chat directo con agencias
+
+**Severidad:** 2
+
+**Heurística violada:** Usabilidad - Ayuda y documentación
+
+**Problema:**
+El entrevistado 1 sugiere la inclusión de un chat directo con las agencias, lo que indica que, a pesar de la información clara y las reseñas, existe un deseo de comunicación más inmediata y personalizada para resolver dudas o coordinar detalles que la plataforma actual no ofrece directamente. Esto podría mejorar la confianza y la eficiencia en la planificación de los viajes para algunos usuarios.
+
+**Recomendación:**
+Implementar una función de chat en vivo o mensajería directa entre usuarios y agencias dentro de la plataforma para facilitar la comunicación y resolución de consultas en tiempo real.
+
+**PROBLEMA #2:** Falta de filtros de búsqueda adicionales
+
+**Severidad:** 2
+
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso
+
+**Problema:**
+El entrevistado 1 menciona la necesidad de incluir más filtros de búsqueda, lo que sugiere que los filtros actuales, aunque útiles, no son lo suficientemente granulares o variados para cubrir todas las necesidades o preferencias de los usuarios que buscan experiencias muy específicas.
+
+**Recomendación:**
+Ampliar las opciones de filtrado en la búsqueda, incluyendo categorías más detalladas, opciones de personalización (ej. tipo de comida, nivel de actividad física, etc.) o la posibilidad de combinar múltiples filtros para afinar los resultados.
+
+**PROBLEMA #3:** Ausencia de itinerarios sugeridos
+
+**Severidad:** 2
+
+**Heurística violada:** Information Architecture - Is it findable?
+
+**Problema:**
+El entrevistado 2 sugiere la inclusión de itinerarios sugeridos, lo que indica que, si bien la plataforma ayuda a organizar y encontrar actividades, los usuarios podrían beneficiarse de estructuras o rutas predefinidas que les faciliten aún más la planificación, especialmente a quienes buscan experiencias completas sin tener que armar todo desde cero.
+
+**Recomendación:**
+Desarrollar y ofrecer itinerarios predefinidos o sugeridos basados en temáticas, duraciones o tipos de viajero, que incluyan una secuencia lógica de actividades y faciliten la decisión del usuario.
+
+**PROBLEMA #4:** Poca cantidad de contenido visual
+
+**Severidad:** 2
+
+**Heurística violada:** Inclusive Design - Proporciona experiencias comparables
+
+**Problema:**
+El entrevistado 2 menciona la necesidad de más contenido visual. Si bien la plataforma es funcional, una mayor riqueza visual podría mejorar la experiencia inmersiva del usuario, ayudándolo a tomar decisiones más informadas y a sentirse más conectado con la oferta.
+
+**Recomendación:**
+Aumentar la cantidad y calidad de las imágenes y videos de los tours y servicios, incluyendo vistas panorámicas, detalles de las actividades y testimonios visuales, para enriquecer la experiencia del usuario y proporcionar una mejor comprensión de lo que se ofrece.
+
+**PROBLEMA #5:** Falta de mapa interactivo para actividades cercanas
+
+**Severidad:** 2
+
+**Heurística violada:** Information Architecture - Is it findable?
+
+**Problema:**
+El entrevistado 3, un mochilero que improvisa, sugiere integrar un mapa interactivo para facilitar la exploración de actividades cercanas. Esto indica que la actual forma de visualizar o encontrar actividades no es tan eficiente para usuarios que priorizan la espontaneidad y la cercanía geográfica.
+
+**Recomendación:**
+Integrar un mapa interactivo que muestre la ubicación de las actividades y permita a los usuarios explorar opciones cercanas a su posición actual o a un punto de interés específico, facilitando la planificación espontánea.
+
+**PROBLEMA #6:** Falta de integración de agenda corporativa y reportes automáticos de gastos
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Flexibilidad y eficiencia de uso
+
+**Problema:**
+El entrevistado 4, un viajero de negocios, sugiere integrar una agenda corporativa y reportes automáticos de gastos. Esto indica una oportunidad para mejorar la utilidad de la plataforma para un segmento de usuarios que necesitan funcionalidades específicas para la gestión de viajes laborales, más allá de la simple reserva de actividades.
+
+**Recomendación:**
+Explorar la posibilidad de integrar funcionalidades específicas para viajes corporativos, como la sincronización con calendarios empresariales o la generación automática de informes de gastos, para atender las necesidades de este segmento de usuarios.
+
+**PROBLEMA #7:** Necesidad de más características, como gráficos de ventas diarios/semanales/mensuales
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Reconocimiento antes que recuerdo / Flexibilidad y eficiencia de uso
+
+**Problema:**
+El entrevistado 5 menciona que la aplicación puede mejorar y que espera más características, como la visualización de una gráfica de la cantidad de ventas diarias en intervalos de una semana y mes. Esto indica una necesidad por parte de los usuarios (probablemente agencias o administradores) de herramientas de análisis y reporte más visuales e inmediatas.
+
+**Recomendación:**
+Desarrollar y añadir paneles de control o secciones de métricas con gráficos visuales que muestren datos relevantes como la cantidad de ventas por día, semana y mes, facilitando la comprensión y el seguimiento del rendimiento.
+
+**PROBLEMA #8:** Ausencia de alertas de notificación para confirmación de acciones
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Visibilidad del estado del sistema
+
+**Problema:**
+El entrevistado 5 comenta que le gustaría que haya alertas de notificación para cuando se realice alguna acción la aplicación le brinde una confirmación. Esto sugiere que el sistema actual no siempre proporciona una retroalimentación clara e inmediata sobre la finalización exitosa de ciertas operaciones, lo que puede generar incertidumbre en el usuario.
+
+**Recomendación:**
+Implementar notificaciones claras y visibles (ej. mensajes pop-up, banners) que confirmen al usuario la realización exitosa de una acción, como una reserva, una publicación, o la actualización de datos.
+
+**PROBLEMA #9:** Dificultad inicial para entender cómo agregar fotos y precios de tours (para agencias)
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Consistencia y estándares / Reconocimiento antes que recuerdo
+
+**Problema:**
+El entrevistado 7 (Luis Ramírez) menciona que al principio le tomó un poco entender cómo se agregaban las fotos y los precios. Aunque luego fue fácil, este punto inicial de dificultad sugiere que el proceso de carga de contenido podría ser más intuitivo o que la interfaz no sigue completamente los patrones esperados.
+
+**Recomendación:**
+Revisar la interfaz de usuario para la carga de fotos y precios para asegurar que sea más intuitiva y siga convenciones de diseño conocidas. Podría incluir mejoras en la denominación de campos, la disposición visual o la provisión de pequeñas guías o tooltips en los pasos iniciales.
 
 ### 5.4. Video About-the-Product
 

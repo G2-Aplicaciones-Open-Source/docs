@@ -2643,21 +2643,6 @@ En este Sprint, el equipo se centró prioritariamente en el desarrollo del backe
 
 ##### 5.2.3.3. Sprint Backlog 3.
 
-El objetivo principal del sprint backlog 3 es desarrollar nuestro backend considerando los bounded context del negocio, permitiendo guardar sus datos,a cceder a ellos y modificarlos. Para la entrega de este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias tecnicas y basandonos en los diagramas resaltando los puntos clave del negocio, y se ha asignado el trabajo de forma equitativa para cumplir en los tiempos estimados.
-
-Sprint Backlog 3 en Trello: https://trello.com/invite/b/68590a2aaf436102a3815e63/ATTIa032c0c0f6503f68f55e28a50b2544f60A17AF93/sprint-3-open-source
-
-<p align="center">
-    <img src="assets/evidencias/sprint-backlog-3.png" alt="sprint-backlog-3" width=80%/>
-</p>
-
-|  **Sprint3**   |       |        |            |                 |                |                 |            |
-| -------------- | ----- | ------ | ---------- | --------------- | -------------- | --------------- | ---------- |
-| **User Story** | **Work-Item / Task**  |        |         |           |                        |                 |            |
-| **ID**      |  **Title**    | **Id** | **Title**   | **Description**  | **Estimation (Hours)** | **Assigned to** | **Status** |
-|        US-27          | Ver recetas del plan | T-23 | Crear nueva receta | Crear nueva receta | 2 | Jhon Galvez Chambi  | Done  | 
-
-
 ##### 5.2.3.4. Development Evidence for Sprint Review.
 
 A continuación, se presenta un cuadro con los commits realizados en el repositorio del backend de TravelMatch durante el sprint. Esta evidencia refleja el trabajo de implementación y mejoras en la aplicación, incluyendo endpoints, estructura modular, configuración de despliegue y documentación técnica. Cada commit corresponde a una funcionalidad o ajuste clave desarrollado en la rama principal del proyecto.

@@ -2986,9 +2986,6 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |**8**|**Ausencia de alertas de notificación para confirmación de acciones**|**2**|**Usability: Visibilidad del estado del sistema**|
 |**9**|**Dificultad inicial para entender cómo agregar fotos y precios de tours (para agencias)**|**2**|**Usability: Consistencia y estándares / Reconocimiento antes que recuerdo**|
 
-
-**DESCRIPCIÓN DE PROBLEMAS:**
-
 **DESCRIPCIÓN DE PROBLEMAS:**
 
 **PROBLEMA #1:** Necesidad de chat directo con agencias

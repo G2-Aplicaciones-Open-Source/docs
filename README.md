@@ -1772,6 +1772,11 @@ Enlace al Figma de desarrollo de Web Application: https://www.figma.com/design/G
     <img src="assets/recursos/diagrama_componentes_events.png" alt="Diagrama de Componentes Events Bounded Context"/>
 </p>
 
+- Bounded Context Geolocalization
+<p align="center">
+    <img src="assets/recursos/diagrama_componentes_geolocalization.png" alt="Diagrama de Componentes Geolocalization Bounded Context"/>
+</p>
+
 ### 4.7. Software Object-Oriented Design
 
 La orientación a objetos será fundamental en nuestro proyecto. Organizamos el software siguiendo nuestras reglas de negocio, lo que nos permite desarrollar componentes claros para su implementación en un sistema real, además de facilitar su adaptación y mantenimiento.

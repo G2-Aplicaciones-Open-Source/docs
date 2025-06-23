@@ -2655,6 +2655,16 @@ En este Sprint, el equipo se centró prioritariamente en el desarrollo del backe
 
 ##### 5.2.3.3. Sprint Backlog 3.
 
+El Sprint Backlog 3 se enfocó en desarrollar los bounded context planteados para el proyecto. Se priorizó el Backend sobre el Fronend, sin embargo, esto permitirá que las funcionalidades estén listas para ser implementadas, en otras palabras, se podrá desarrollar con menor complejidad en Frontend, esto porque se tendrán listos los servicios necesarios para el funcionamiento de la aplicación y el cumplimiento de los user stories. Todo esto forma la base para que nuestro futuro sprint tenga una ventaja por sobre otras formas de desarrollo ágil.
+
+Enlace del board donde se trabajo el Sprint Backlog #3:
+https://trello.com/invite/b/68590a2aaf436102a3815e63/ATTIa032c0c0f6503f68f55e28a50b2544f60A17AF93/sprint-3-open-source
+
+<p align="center">
+        <img src="assets/evidencias/trello-sprint-3.png" alt="repo-config"/>
+    </p>
+
+
 | **Sprint #** | **Sprint 3** |       |       |       |       |       |       |
 | :-           | :-           | :-    | :-    | :-    | :-    | :-    | :-    |
 | **User Story** |             | **Work-Item / Task** |       |       |       |       |       |

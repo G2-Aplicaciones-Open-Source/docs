@@ -3367,23 +3367,25 @@ URL del video: []
 
 ### Conclusiones y Recomendaciones
 
-- _Colaboración efectiva del equipo:_
-    La implementación del flujo de trabajo GitHub Flow y GitFlow permitió una colaboración organizada y eficiente entre los miembros del equipo. Cada integrante asumió responsabilidades específicas, lo que facilitó el desarrollo de la landing page y la integración de funcionalidades clave.
+- **Evolución exitosa de la arquitectura del producto:** Durante los Sprints 2 y 3, el equipo logró una transición exitosa desde una landing page estática hacia un ecosistema completo de aplicación web. La implementación del frontend en Angular y el desarrollo del backend con Spring Boot demuestran la capacidad del equipo para escalar la solución y crear una base técnica sólida para funcionalidades avanzadas.
 
-- _Desarrollo exitoso de la landing page:_
-    Durante el Sprint 1, se logró implementar una landing page funcional, responsiva y alineada con los objetivos del proyecto. Esto incluye la navegación principal, formularios de contacto, vistas de registro e inicio de sesión, y una estructura visual coherente con la identidad de TravelMatch.
+- **Implementación efectiva de la arquitectura Domain-Driven Design:** El desarrollo del backend siguió exitosamente los principios de DDD, implementando bounded contexts claramente definidos (IAM, Profiles, Agencies, Experiences, etc.). Esta arquitectura modular no solo facilita el mantenimiento del código, sino que también permite la escalabilidad futura del sistema y una mejor separación de responsabilidades.
 
-- _Adopción de buenas prácticas de desarrollo:_
-    El uso de convenciones de commits, control de versiones con Git, y estándares de codificación garantizó un código limpio, organizado y fácil de mantener. Además, la estructura modular y el diseño responsivo aseguran una experiencia de usuario óptima en diferentes dispositivos.
+- **Integración completa frontend-backend:** Se logró establecer una comunicación efectiva entre el frontend desarrollado en Angular y los servicios REST del backend en Spring Boot. La documentación completa de endpoints con Swagger y el despliegue exitoso en Azure demuestran una integración robusta que soporta las funcionalidades principales del negocio.
 
-- _Despliegue exitoso:_
-    La publicación de la landing page en GitHub Pages permitió validar visualmente los avances del proyecto y establecer un punto de partida sólido para futuras iteraciones. Esto demuestra la capacidad del equipo para gestionar el ciclo completo de desarrollo y despliegue.
+- **Adopción de metodologías ágiles y DevOps:** La implementación de Git Flow, junto con la configuración de CI/CD mediante GitHub Actions y el despliegue automatizado en Azure App Service, estableció un flujo de trabajo profesional que garantiza la calidad del código y facilita las entregas continuas.
 
-- _Enfoque centrado en el usuario:_
-    La arquitectura de información y el diseño de la landing page reflejan un enfoque claro en las necesidades del usuario, priorizando la claridad, accesibilidad y facilidad de navegación. Esto sienta las bases para una experiencia de usuario positiva en el producto final.
+- **Validación positiva con usuarios reales:** Las entrevistas de validación confirmaron que la plataforma cumple con las expectativas de los usuarios en todos los segmentos objetivo (agencias, turistas y viajeros corporativos). Los usuarios destacaron la facilidad de uso, la confiabilidad de la información y el ahorro de tiempo en la planificación de viajes.
 
-- _Lecciones aprendidas:_
-    Durante este Sprint, se identificaron áreas de mejora en la coordinación de tareas y la gestión del tiempo. Estas lecciones serán aplicadas en futuros Sprints para optimizar la productividad y asegurar el cumplimiento de los objetivos del proyecto.
+- **Funcionalidades core del negocio implementadas:** Se completaron exitosamente las funcionalidades esenciales como gestión de experiencias, sistema de favoritos, gestión de carritos de compra, autenticación JWT, y herramientas administrativas para agencias. Esto demuestra que el MVP desarrollado aborda efectivamente las necesidades identificadas en el análisis inicial.
+
+- **Preparación para escalabilidad futura:** La arquitectura implementada, junto con la configuración de base de datos en Azure PostgreSQL y la estructura modular del código, proporciona una base sólida para futuras iteraciones. Las recomendaciones de los usuarios (chat directo, mapas interactivos, reportes automáticos) están alineadas con las capacidades técnicas desarrolladas.
+
+- **Aprendizajes técnicos y colaborativos:** El equipo desarrolló competencias avanzadas en tecnologías modernas (Angular, Spring Boot, Azure, Docker) y mejoró significativamente sus habilidades de trabajo colaborativo, especialmente en la gestión de conflictos de código y la coordinación de entregas multidisciplinarias.
+
+- **Oportunidades de mejora identificadas:** Aunque el producto alcanzó los objetivos principales, las entrevistas de validación revelaron oportunidades concretas de mejora que pueden ser priorizadas en futuros sprints, como la implementación de chat en tiempo real, mapas interactivos y funcionalidades específicas para turismo corporativo.
+
+Esta evolución del proyecto desde una landing page hacia una aplicación web completa demuestra no solo el crecimiento técnico del equipo, sino también la viabilidad de la propuesta de valor de TravelMatch como plataforma de conexión entre turistas y agencias locales.
 
 ### Video About-The-Team 
 

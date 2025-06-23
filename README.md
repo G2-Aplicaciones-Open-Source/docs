@@ -260,8 +260,8 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 | <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
 |:-------------------:|-------------------|------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, participé activamente en la revisión retroactiva de los avances de mis compañeros. También apoyé en la preparación del material de presentación para nuestras reuniones internas.<br> **TP:** Durante esta etapa participé en la organización del repositorio para el despliegue del frontend. Apoyé en la verificación del correcto funcionamiento de los componentes visuales y validé que la interfaz se adaptara a los lineamientos definidos por el equipo. También colaboré en la revisión final antes del despliegue en el entorno productivo.  <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** No aplica <br> **TP:** Me encargué de configurar el entorno de desarrollo para el frontend y realicé el despliegue de la primera versión en la plataforma seleccionada. También solucioné errores relacionados con la carga de componentes y aseguré que los recursos estáticos se visualizaran correctamente en producción. <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. Adicionalmente, realice entrevistas para dos segmentos objetivos <br> **TP:** Apoyé en la implementación inicial de las vistas principales del frontend. Verifiqué la correcta integración entre las rutas del sitio y revisé que la interfaz reflejara fielmente el diseño propuesto. También contribuí a la solución de errores menores durante el proceso de despliegue. <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, realicé tres entrevistas enfocadas en el segmento de turistas nacionales e internacionales, con el propósito de entender mejor sus necesidades y expectativas. Asimismo, colaboré con la revisión retroactiva de los avances de mis compañeros, brindándoles observaciones sobre los puntos de la documentación que podrían ser mejorados. <br> **TP:** Participé en la revisión funcional del frontend antes del despliegue. Verifiqué que las secciones clave estuvieran alineadas con las necesidades de los usuarios identificadas en entrevistas anteriores. Además, brindé soporte para validar la experiencia de usuario final tras el despliegue. <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** En esta entrega, me encargué de escuchar lo que el equipo quiere que haga y avancé con mis mandatos para una colaboración amena <br> **TP:** Contribuí en la implementación visual de la interfaz del frontend, asegurando que los estilos y elementos gráficos fueran consistentes. También colaboré en pruebas de visualización desde distintos dispositivos antes del despliegue para asegurar su correcto comportamiento. <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos <br> **TP:** En esta etapa, cada integrante del equipo asumió un rol activo en el desarrollo y despliegue de la primera versión del frontend. La colaboración constante permitió resolver obstáculos técnicos con agilidad y asegurar una interfaz funcional y coherente con los objetivos del proyecto. El compromiso colectivo facilitó un despliegue exitoso y fortaleció nuestras capacidades de coordinación técnica y trabajo en equipo. <br>|
-|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 2 y 3.<br> **TP:** <br> **TB2:** En esta entrega, me encargué de documentar el apartado 5.2.2.1 relacionado con el Sprint Planning 2, detallando las tareas priorizadas, objetivos del sprint y planificación del equipo. Además, participé activamente en los apartados grupales, como la evidencia de desarrollo, ejecución, despliegue y colaboración del equipo durante el sprint. <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** No aplica <br> **TP:** Durante esta etapa, colaboré con la redacción del apartado 5.2.2.6, aportando evidencia documentada de los servicios implementados para el Sprint Review. Asimismo, contribuí en la elaboración conjunta de los puntos sobre la evidencia de desarrollo, ejecución, despliegue del software y reflexiones sobre el trabajo en equipo. <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 1 y el Landing Page UI Design. <br> **TP:** Me encargué de desarrollar el punto 5.2.2.6, donde se presenta la evidencia documentada de los servicios implementados y su funcionalidad para el Sprint Review. Además, participé activamente en la construcción colectiva de la documentación sobre el desarrollo, ejecución, despliegue del software y dinámica de trabajo colaborativo. <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** Colabore con la elaboración de los alineamientos que el equipo seguiría durante el proceso de desarrollo. También, me encargue de hacer los capítulos 2 y 4.<br> **TP:** En esta entrega, desarrollé el punto 5.2.2.3 referente al Sprint Backlog 2, detallando las tareas seleccionadas, responsables y tiempos estimados. Asimismo, participé junto al equipo en los apartados grupales relacionados con la evidencia de desarrollo, ejecución, despliegue del software y aprendizajes del trabajo colaborativo. <br> **TB2:** <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** En esta entrega, me encargué de la creación del class y database diagram, en orden de tener un modelo físico y estructurado de todos nuestros datos almacenados. También, con el punto 5.1.1 y 5.1.2, los cuales listan las tecnologías que hemos usado para la realización del proyecto <br> **TP:** Me encargué de redactar el apartado 5.2.2.2 sobre los Aspect Leaders and Collaborators, detallando los roles asumidos por cada miembro del equipo durante el sprint. Asimismo, colaboré en la elaboración de los contenidos colectivos que evidencian el desarrollo, ejecución, despliegue del software y reflexiones sobre la colaboración del equipo. <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos<br> **TP:** Cada miembro asumió con responsabilidad sus tareas durante el despliegue de la primera versión del frontend, cumpliendo con los entregables asignados. La coordinación fluida y el enfoque en objetivos comunes permitieron lograr una implementación técnica exitosa. Además, el trabajo conjunto en la documentación, pruebas y despliegue fortaleció la dinámica del equipo y reafirmó nuestro compromiso con la calidad del producto. <br> |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, participé activamente en la revisión retroactiva de los avances de mis compañeros. También apoyé en la preparación del material de presentación para nuestras reuniones internas.<br> **TP:** Durante esta etapa participé en la organización del repositorio para el despliegue del frontend. Apoyé en la verificación del correcto funcionamiento de los componentes visuales y validé que la interfaz se adaptara a los lineamientos definidos por el equipo. También colaboré en la revisión final antes del despliegue en el entorno productivo.  <br> **TB2:** <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** No aplica <br> **TP:** Me encargué de configurar el entorno de desarrollo para el frontend y realicé el despliegue de la primera versión en la plataforma seleccionada. También solucioné errores relacionados con la carga de componentes y aseguré que los recursos estáticos se visualizaran correctamente en producción. <br> **TB2:** En esta entrega me encargué de la realización del bounded context geolocation que se encarga de agregar el registro de ubicación de una experiencia en concreto. También del desarrollo de las preguntas de validación para los segmentos objetivos definidos. <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. Adicionalmente, realice entrevistas para dos segmentos objetivos <br> **TP:** Apoyé en la implementación inicial de las vistas principales del frontend. Verifiqué la correcta integración entre las rutas del sitio y revisé que la interfaz reflejara fielmente el diseño propuesto. También contribuí a la solución de errores menores durante el proceso de despliegue. <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, realicé tres entrevistas enfocadas en el segmento de turistas nacionales e internacionales, con el propósito de entender mejor sus necesidades y expectativas. Asimismo, colaboré con la revisión retroactiva de los avances de mis compañeros, brindándoles observaciones sobre los puntos de la documentación que podrían ser mejorados. <br> **TP:** Participé en la revisión funcional del frontend antes del despliegue. Verifiqué que las secciones clave estuvieran alineadas con las necesidades de los usuarios identificadas en entrevistas anteriores. Además, brindé soporte para validar la experiencia de usuario final tras el despliegue. <br> **TB2:** En esta entrega, me encargué de explicar al equipo los avances realizados en el backend, detallando el funcionamiento de los nuevos endpoints desarrollados para Availabilities, Experiences y Experience Media. Participé activamente en reuniones internas para resolver dudas técnicas y asegurar la alineación entre el backend y el frontend. Asimismo, brindé retroalimentación a mis compañeros sobre mejoras posibles en la integración y validación funcional, fortaleciendo así la comunicación técnica dentro del equipo. <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** En esta entrega, me encargué de escuchar lo que el equipo quiere que haga y avancé con mis mandatos para una colaboración amena <br> **TP:** Contribuí en la implementación visual de la interfaz del frontend, asegurando que los estilos y elementos gráficos fueran consistentes. También colaboré en pruebas de visualización desde distintos dispositivos antes del despliegue para asegurar su correcto comportamiento. <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos <br> **TP:** En esta etapa, cada integrante del equipo asumió un rol activo en el desarrollo y despliegue de la primera versión del frontend. La colaboración constante permitió resolver obstáculos técnicos con agilidad y asegurar una interfaz funcional y coherente con los objetivos del proyecto. El compromiso colectivo facilitó un despliegue exitoso y fortaleció nuestras capacidades de coordinación técnica y trabajo en equipo. <br>|
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Aspajo** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 2 y 3.<br> **TP:** <br> **TB2:** En esta entrega, me encargué de documentar el apartado 5.2.2.1 relacionado con el Sprint Planning 2, detallando las tareas priorizadas, objetivos del sprint y planificación del equipo. Además, participé activamente en los apartados grupales, como la evidencia de desarrollo, ejecución, despliegue y colaboración del equipo durante el sprint. <br> **TF:** <br> <br> **- Farid Briceño** <br> **TB1:** No aplica <br> **TP:** Durante esta etapa, colaboré con la redacción del apartado 5.2.2.6, aportando evidencia documentada de los servicios implementados para el Sprint Review. Asimismo, contribuí en la elaboración conjunta de los puntos sobre la evidencia de desarrollo, ejecución, despliegue del software y reflexiones sobre el trabajo en equipo. <br> **TB2:** En esta etapa se desarrolló el backend del proyecto. En el reporte me encargué del diseño de entrevista de validación (5.3.1) para que los 3 segmentos objetivos puedan dejar su feedback y mejorar las próximas versiones de software.  <br> **TF:** <br> <br> **- Jhon Galvez** <br> **TB1:** Colabore con la elaboración de las pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de elaborar el Capitulo 1 y el Landing Page UI Design. <br> **TP:** Me encargué de desarrollar el punto 5.2.2.6, donde se presenta la evidencia documentada de los servicios implementados y su funcionalidad para el Sprint Review. Además, participé activamente en la construcción colectiva de la documentación sobre el desarrollo, ejecución, despliegue del software y dinámica de trabajo colaborativo. <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** Colabore con la elaboración de los alineamientos que el equipo seguiría durante el proceso de desarrollo. También, me encargue de hacer los capítulos 2 y 4.<br> **TP:** En esta entrega, desarrollé el punto 5.2.2.3 referente al Sprint Backlog 2, detallando las tareas seleccionadas, responsables y tiempos estimados. Asimismo, participé junto al equipo en los apartados grupales relacionados con la evidencia de desarrollo, ejecución, despliegue del software y aprendizajes del trabajo colaborativo. <br> **TB2:** En esta entrega, documenté de manera estructurada los avances técnicos del backend. Me encargué de redactar los apartados 5.2.3.4 (Evidencia de desarrollo), 5.2.3.5 (Evidencia de ejecución) y 5.2.3.6 (Evidencia de los servicios implementados) para el Sprint Review. Estas secciones detallan el comportamiento, validación y resultados obtenidos de los endpoints desarrollados, facilitando su comprensión por parte de cualquier lector, técnico o no técnico, y aportando claridad y trazabilidad al trabajo realizado durante el sprint. <br> **TF:** <br> <br> **- Cesar Linares** <br> **TB1:** En esta entrega, me encargué de la creación del class y database diagram, en orden de tener un modelo físico y estructurado de todos nuestros datos almacenados. También, con el punto 5.1.1 y 5.1.2, los cuales listan las tecnologías que hemos usado para la realización del proyecto <br> **TP:** Me encargué de redactar el apartado 5.2.2.2 sobre los Aspect Leaders and Collaborators, detallando los roles asumidos por cada miembro del equipo durante el sprint. Asimismo, colaboré en la elaboración de los contenidos colectivos que evidencian el desarrollo, ejecución, despliegue del software y reflexiones sobre la colaboración del equipo. <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos<br> **TP:** Cada miembro asumió con responsabilidad sus tareas durante el despliegue de la primera versión del frontend, cumpliendo con los entregables asignados. La coordinación fluida y el enfoque en objetivos comunes permitieron lograr una implementación técnica exitosa. Además, el trabajo conjunto en la documentación, pruebas y despliegue fortaleció la dinámica del equipo y reafirmó nuestro compromiso con la calidad del producto. <br> |
 
 <hr>
 
@@ -983,19 +983,19 @@ Experiencia y Feedback: Buscan disfrutar sin complicaciones logísticas, pero la
 #### 2.3.5.1. As-is Scenario Mapping Turistas nacionales e internacionales
 
 <p align="center">
-    <img src="assets/recursos/As_is_Turistas.png" alt="As-is-Turistas"/>
+    <img src="assets/recursos/as-is-turistas_v2.png" alt="as-is-turistas_v2"/>
 </p>
 
 #### 2.3.5.2. As-is Scenario Mapping Agencias de turismo locales
 
 <p align="center">
-    <img src="assets/recursos/As_is_Agencias.png" alt="As-is-Agencias"/>
+    <img src="assets/recursos/as-is-agencias_v2.png" alt="as-is-agencias_v2"/>
 </p>
 
 #### 2.3.5.3. As-is Scenario Mapping Viajeros por trabajo
 
 <p align="center">
-    <img src="assets/recursos/As_is_Viajeros.png" alt="As-is-Viajeros"/>
+    <img src="assets/recursos/as-is-viajeros_v2.png" alt="as-is-viajeros_v2"/>
 </p>
 
 ### 2.4. Ubiquitous Language
@@ -1027,19 +1027,19 @@ El equipo realizó un análisis detallado para definir los futuros escenarios de
 #### 3.1.1. To-Be Scenario Mapping Turistas nacionales e internacionales
 
 <p align="center">
-    <img src="assets/recursos/To_be_Turistas.png" alt="To-be-Turistas"/>
+    <img src="assets/recursos/to-be-turistas_v2.png" alt="to-be-turistas_v2"/>
 </p>
 
 #### 3.1.2. To-Be Scenario Mapping Agencias de turismo locales
 
 <p align="center">
-    <img src="assets/recursos/To_be_Agencias.png" alt="To-be-Agencias"/>
+    <img src="assets/recursos/to-be-agencias_v2.png" alt="to-be-agencias_v2"/>
 </p>
 
 #### 3.1.3. To-Be Scenario Mapping Viajeros por trabajo
 
 <p align="center">
-    <img src="assets/recursos/To_be_Viajeros.png" alt="To-be-Viajeros"/>
+    <img src="assets/recursos/to-be-viajeros_v2.png" alt="to-be-viajeros_v2"/>
 </p>
 
 ### 3.2. User Stories
@@ -1120,7 +1120,7 @@ En esta sección se presentan las historias de usuario que describen las necesid
 ### 3.3. Impact Mapping
 
 <p align="center">
-    <img src="assets/recursos/Impact_Mapping.jpg" alt="Impact-Mapping"/>
+    <img src="assets/recursos/impact_map_v2.png" alt="impact-map-v2"/>
 </p>
 
 ### 3.4. Product Backlog
@@ -2645,9 +2645,184 @@ En este Sprint, el equipo se centró prioritariamente en el desarrollo del backe
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.
 
+A continuación, se presenta un cuadro con los commits realizados en el repositorio del backend de TravelMatch durante el sprint. Esta evidencia refleja el trabajo de implementación y mejoras en la aplicación, incluyendo endpoints, estructura modular, configuración de despliegue y documentación técnica. Cada commit corresponde a una funcionalidad o ajuste clave desarrollado en la rama principal del proyecto.
+
+
+| **Repository**                           | **Branch** | **Commit ID** | **Commit Message**                                                                                | **Body** | **Commited on (Date)** |
+| :--------------------------------------- | :--------- | :------------ | :------------------------------------------------------------------------------------------------ | :------- | :--------------------- |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 94125b6       | feat: implement ExperienceMedia endpoint with full CRUD, validation and OpenAPI docs              |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 9a2148b       | refactor: github workflow structure                                                               |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 3203e88       | feat: merge initial backend version from develop into main                                        |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 417d8ae       | feat: add deployment configuration                                                                |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 1d9fd37       | feat: downgrade java version for compatibility                                                    |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 4e4de44       | feat: implement deploy workflow for main branch                                                   |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | d56f694       | feat: add swagger url                                                                             |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 0becca2       | feat(profiles): complete bounded context implementation for profiles module                       |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | d680fe3       | feat(profiles): implement carts controller for profile management                                 |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 3852d40       | feat(profiles): add rest interface layer resources and assemblers                                 |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 601a634       | feat(profiles): adjust return types in CartCommandService                                         |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 4cfab9d       | feat(profiles): refactor cart query service implementation                                        |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 5cca391       | feat(profiles): add commands for clearing cart, updating cart items, and querying cart item count |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | dc03129       | feat(profiles): implement favorites controller for profile mananagement                           |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | c1d90c1       | feat(profiles): implement review controller for profile management                                |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | ff442ed       | feat(experiences): refactor externalIamService to resolve bean naming conflicts in Spring Boot    |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 53c6ccb       | fix: solver merge issues in application properties                                                |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | dd9aee8       | feat(profiles): add review command service initial implementation                                 |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | be06862       | feat: add agencies bounded context                                                                |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | c4f4094       | agregando cambios                                                                                 |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | bf2af6a       | feat\:implement CRUD operations and ACL validation                                                |          | 2025-06-17             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 410628a       | feat: agregando Agencies                                                                          |          | 2025-06-15             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 266924b       | Merge remote-tracking branch 'origin/develop' into feature/galvez                                 |          | 2025-06-10             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 0d0098a       | feat(profiles): add inbound and outbound contracts                                                |          | 2025-06-10             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 17244c7       | feat(experiences): implement experience management module with availability and ticket types      |          | 2025-06-10             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | cb289d9       | refactor(profiles): modify acl interfaces and review command service                              |          | 2025-06-10             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | e05af63       | resolve merge conflicts with develop                                                              |          | 2025-06-10             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | a459a59       | feat(profiles): add cart, favorite and review query services implementation                       |          | 2025-06-09             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 93ef874       | fix(profiles): resolve JPA annotation conflicts in domain models                                  |          | 2025-06-09             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 1e72356       | feat(iam): implement jwt-based authentication and authorization service                           |          | 2025-06-08             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 43bb7bd       | feat(iam): Add user profile data to sign-up process                                               |          | 2025-06-08             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | cc413de       | feat(iam): add JWT configuration and enhance runtime process logging                              |          | 2025-06-08             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 0941b75       | feat(iam): add acl interface layer outbound services                                              |          | 2025-06-08             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 622b388       | feat(iam): add rest interface layer inbound services                                              |          | 2025-06-07             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 0ef6301       | feat(iam): add spring framework security configuration type                                       |          | 2025-06-07             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | b6d6ccd       | feat(iam): add required jwt dependencies                                                          |          | 2025-06-07             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | cf257b6       | feat(iam): add user command service implementation                                                |          | 2025-06-07             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 660053a       | chore: add Azure PostgreSQL credentials to application.properties                                 |          | 2025-06-07             |
+
+
+
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 
+En esta sección se presenta la evidencia de ejecución correspondiente al sprint del proyecto TravelMatch, una aplicación centrada en ofrecer experiencias turísticas personalizadas. Las capturas incluidas fueron tomadas desde Swagger UI y muestran la correcta ejecución de los endpoints desarrollados, validando su comportamiento y funcionamiento real. Estas pruebas evidencian la interacción efectiva con los servicios backend para operaciones como creación, consulta, actualización y eliminación de recursos relacionados con experiencias, disponibilidades y medios. Cada resultado confirma que las funcionalidades implementadas no solo han sido integradas, sino que también están activas y operativas según los criterios establecidos en las historias de usuario del sprint.
+
+**Evidencias visuales**
+
+<p align="center">
+    <img src="assets/evidencias/backend1.png" alt="landing-demo1"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/backend2.png" alt="landing-demo2"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/backend3.png" alt="landing-demo3"/>    
+</p>
+
+
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+En esta sección se presenta la evidencia de documentación de los servicios desarrollados durante el sprint, los cuales están disponibles y visibles mediante Swagger en la aplicación TravelMatch, una plataforma de turismo y viajes personalizados. A continuación, se detallan los principales endpoints implementados para cada uno de los módulos funcionales, incluyendo su método HTTP, ruta y descripción correspondiente.
+
+### Experience Media
+
+| Método     | Endpoint                                                    | Descripción                              |
+| ---------- | ----------------------------------------------------------- | ---------------------------------------- |
+| **POST**   | `/api/v1/experience-media/experiences/{experienceId}/media` | Crear media para una experiencia         |
+| **GET**    | `/api/v1/experience-media`                                  | Obtener todas las medias de experiencias |
+| **GET**    | `/api/v1/experience-media/experience/{experienceId}`        | Obtener medias por ID de experiencia     |
+| **PUT**    | `/api/v1/experience-media/{id}`                             | Actualizar media por ID                  |
+| **DELETE** | `/api/v1/experience-media/{id}`                             | Eliminar media por ID                    |
+
+---
+### Authentication
+| Método   | Endpoint                         | Descripción             |
+| -------- | -------------------------------- | ----------------------- |
+| **POST** | `/api/v1/authentication/sign-up` | Registrar nuevo usuario |
+| **POST** | `/api/v1/authentication/sign-in` | Iniciar sesión          |
+
+---
+### Agency Staff
+| Método     | Endpoint                                      | Descripción                                 |
+| ---------- | --------------------------------------------- | ------------------------------------------- |
+| **POST**   | `/api/v1/agencies/{agencyId}/staff`           | Crear personal para la agencia              |
+| **GET**    | `/api/v1/agencies/{agencyId}/staff`           | Listar personal de la agencia               |
+| **GET**    | `/api/v1/agencies/{agencyId}/staff/{staffId}` | Obtener detalles de un miembro del personal |
+| **PUT**    | `/api/v1/agencies/{agencyId}/staff/{staffId}` | Actualizar datos del personal               |
+| **DELETE** | `/api/v1/agencies/{agencyId}/staff/{staffId}` | Eliminar personal de la agencia             |
+
+---
+### Agency Documents
+| Método     | Endpoint                                             | Descripción                     |
+| ---------- | ---------------------------------------------------- | ------------------------------- |
+| **POST**   | `/api/v1/agencies/{agencyId}/documents`              | Subir documento de agencia      |
+| **GET**    | `/api/v1/agencies/{agencyId}/documents`              | Listar documentos de la agencia |
+| **GET**    | `/api/v1/agencies/{agencyId}/documents/{documentId}` | Obtener documento por ID        |
+| **PUT**    | `/api/v1/agencies/{agencyId}/documents/{documentId}` | Actualizar documento de agencia |
+| **DELETE** | `/api/v1/agencies/{agencyId}/documents/{documentId}` | Eliminar documento de agencia   |
+
+---
+### Availabilities
+| Método     | Endpoint                                               | Descripción                              |
+| ---------- | ------------------------------------------------------ | ---------------------------------------- |
+| **POST**   | `/api/v1/experiences/{experienceId}/availabilities`    | Crear disponibilidad para experiencia    |
+| **POST**   | `/api/v1/availabilities/{availabilityId}/ticket-types` | Crear tipo de ticket para disponibilidad |
+| **GET**    | `/api/v1/availabilities`                               | Obtener todas las disponibilidades       |
+| **PUT**    | `/api/v1/availabilities/{availabilityId}`              | Actualizar disponibilidad                |
+| **DELETE** | `/api/v1/availabilities/{availabilityId}`              | Eliminar disponibilidad                  |
+
+---
+### Carts
+| Método     | Endpoint                             | Descripción                           |
+| ---------- | ------------------------------------ | ------------------------------------- |
+| **POST**   | `/api/v1/carts`                      | Crear carrito                         |
+| **GET**    | `/api/v1/carts/{userId}`             | Obtener carrito de usuario            |
+| **DELETE** | `/api/v1/carts/{userId}`             | Eliminar carrito de usuario           |
+| **POST**   | `/api/v1/carts/{userId}/items`       | Agregar ítem al carrito               |
+| **PUT**    | `/api/v1/carts/{userId}/items`       | Actualizar ítem del carrito           |
+| **DELETE** | `/api/v1/carts/{userId}/items`       | Eliminar ítem del carrito             |
+| **GET**    | `/api/v1/carts/{userId}/items/count` | Obtener número de ítems en el carrito |
+
+---
+### Favorites
+| Método     | Endpoint                                                     | Descripción                                         |
+| ---------- | ------------------------------------------------------------ | --------------------------------------------------- |
+| **POST**   | `/api/v1/favorites`                                          | Agregar una experiencia a favoritos                 |
+| **GET**    | `/api/v1/favorites/by-user/{userId}`                         | Obtener experiencias favoritas de un usuario        |
+| **DELETE** | `/api/v1/favorites/users/{userId}/experience/{experienceId}` | Eliminar una experiencia de favoritos de un usuario |
+
+---
+### Roles
+
+| Método  | Endpoint        | Descripción                         |
+| ------- | --------------- | ----------------------------------- |
+| **GET** | `/api/v1/roles` | Obtener todos los roles disponibles |
+
+---
+### Experiences
+| Método     | Endpoint                                     | Descripción                              |
+| ---------- | -------------------------------------------- | ---------------------------------------- |
+| **POST**   | `/api/v1/experiences/{agencyId}/experiences` | Crear nueva experiencia para una agencia |
+| **GET**    | `/api/v1/experiences`                        | Obtener todas las experiencias           |
+| **PUT**    | `/api/v1/experiences/{experienceId}`         | Actualizar experiencia por ID            |
+| **DELETE** | `/api/v1/experiences/{experienceId}`         | Eliminar experiencia por ID              |
+
+---
+### Reviews
+| Método   | Endpoint                                       | Descripción                     |
+| -------- | ---------------------------------------------- | ------------------------------- |
+| **POST** | `/api/v1/reviews`                              | Crear reseña                    |
+| **PUT**  | `/api/v1/reviews/{reviewId}`                   | Actualizar reseña               |
+| **GET**  | `/api/v1/reviews/by-user/{userId}`             | Obtener reseñas por usuario     |
+| **GET**  | `/api/v1/reviews/by-experience/{experienceId}` | Obtener reseñas por experiencia |
+
+---
+### Users
+
+| Método  | Endpoint                 | Descripción                |
+| ------- | ------------------------ | -------------------------- |
+| **GET** | `/api/v1/users`          | Obtener todos los usuarios |
+| **GET** | `/api/v1/users/{userId}` | Obtener usuario por ID     |
+---
+### Agencies
+| Método     | Endpoint                      | Descripción                 |
+| ---------- | ----------------------------- | --------------------------- |
+| **POST**   | `/api/v1/agencies`            | Crear agencia               |
+| **GET**    | `/api/v1/agencies`            | Obtener todas las agencias  |
+| **GET**    | `/api/v1/agencies/{agencyId}` | Obtener agencia por ID      |
+| **PUT**    | `/api/v1/agencies/{agencyId}` | Actualizar datos de agencia |
+| **DELETE** | `/api/v1/agencies/{agencyId}` | Eliminar agencia            |
+
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
@@ -2658,7 +2833,153 @@ En este Sprint, el equipo se centró prioritariamente en el desarrollo del backe
 
 #### 5.3.1. Diseño de Entrevistas
 
+Para realizar las entrevistas de validación, primero se han planteado 7 preguntas para cada segmento de acuerdo a lo que se quiere saber del usuario para así tener un análisis más enfocado.
+
+### Segmento 1: Agencias de turismo locales
+
+1. ¿Considera que la plataforma facilitó la gestión y recepción de reservas para su agencia?
+2. ¿Le resultó sencillo publicar y actualizar sus tours o servicios en la plataforma?
+3. ¿La visibilidad que obtuvo su agencia a través del producto cumplió con sus expectativas?
+4. ¿El sistema de notificaciones y alertas fue útil para gestionar a tiempo sus reservas?
+5. ¿Recomendaría el uso de esta plataforma a otras agencias de turismo? ¿Por qué?
+6. ¿Sintió que las herramientas de análisis y métricas le ayudaron a mejorar su oferta?
+7. ¿Qué tan satisfecho está con el soporte o atención brindada por la plataforma?
+
+### Segmento 2: Turistas nacionales e internacionales
+
+1. ¿Encontró fácilmente actividades o experiencias que se ajustaran a sus intereses y presupuesto?
+2. ¿La información presentada sobre los tours y agencias le generó confianza al reservar?
+3. ¿El proceso de reserva y pago fue rápido y libre de complicaciones?
+4. ¿Las recomendaciones personalizadas de la plataforma fueron relevantes para usted?
+5. ¿Qué tan satisfecho/a está con la experiencia general de uso de la plataforma?
+6. ¿Considera que la plataforma le ahorró tiempo en la planificación de su viaje?
+7. ¿Repetiría el uso de la plataforma para futuros viajes o la recomendaría a amigos?
+
+### Semento 3: Viajeros por trabajo (Turismo corporativo)
+
+1. ¿La plataforma le ayudó a encontrar actividades compatibles con sus horarios laborales?
+2. ¿Pudo aprovechar mejor su tiempo libre durante viajes de trabajo gracias a la plataforma?
+3. ¿Las opciones de reserva rápida y confirmación inmediata fueron satisfactorias?
+4. ¿Sintió que las recomendaciones se adaptaron a sus preferencias y necesidades corporativas?
+5. ¿La opción de generar comprobantes o facturas funcionó correctamente y fue útil?
+6. ¿Considera que la plataforma facilitó la organización de actividades para usted o su equipo?
+7. ¿Qué tan probable es que utilice nuevamente la plataforma en su próximo viaje de trabajo?
+
 #### 5.3.2. Registro de Entrevistas.
+
+<!-- Segmento objetivo 1: AGENCIAS DE TURISMO LOCALES -->
+
+**Entrevista 1:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-leo.jpg" alt="entrevista-validacion-leo" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Adrian Yañez Mendez |
+|----|-----|
+|Edad|24|
+|Residencia|Villa el Salvador|
+|Segmento|Agencias de turismo locales|
+|Enlace de la entrevista| [https://youtu.be/U9y9BZbecxU](https://youtu.be/U9y9BZbecxU)|
+
+</div>
+
+_Resumen:_ El entrevistado tuvo un recorrido rápido sobre la aplicación. Manejó las transciciones de manera fluida. Él comenta que le fue fácil entender cómo utilizar la aplicación. Dice que la aplicación puede mejorar. Él espera que hayan más características en la aplicación, como la visualización de una gráfica de la cantidad de ventas diarias en intervalos de una semana y mes. Comenta que le gustaría que hayan alertas de notificación para cuando se realice alguna acción la aplicación le brinde una confirmación. Asimismo, recomendaría la aplicación a otros usuarios, le gustó la idea de la aplicación y cómo esta ayuda a los usuarios.
+
+---
+
+<!-- Segmento objetivo 2: TURISTAS NACIONALES E INTERNACIONALES -->
+
+**Entrevista 4:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-adrian.png" alt="entrevista-adrian" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Adrian Yañez Mendez |
+|----|-----|
+|Edad|20|
+|Residencia|Lima|
+|Segmento|Turista Nacional|
+|Enlace de la entrevista| [https://youtu.be/dbUEKN0XS34](https://youtu.be/dbUEKN0XS34)|
+
+</div>
+
+_Resumen:_ El entrevistado organiza sus viajes con anticipación, priorizando experiencias personalizadas como tours culturales y fotografía. Encontró fácilmente opciones que se ajustaban a su presupuesto gracias a los filtros. Valoró la confianza que le generó la información clara y las reseñas. Destacó la rapidez del proceso de reserva desde la plataforma de escritorio y la utilidad de las recomendaciones personalizadas. Afirmó que le ahorró tiempo en la planificación y se mostró muy satisfecho con la experiencia general. Repetiría el uso y la recomendaría por su practicidad. Sugiere incluir un chat directo con las agencias y más filtros de búsqueda.
+
+---
+
+**Entrevista 5:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-sebastian.png" alt="entrevista-sebastian" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Sebastian Arevalo Torres |
+|----|-----|
+|Edad|23|
+|Residencia|Chile|
+|Segmento|Turista Internacional|
+|Enlace de la entrevista| [https://youtu.be/mV-JUn_ZdMQ](https://youtu.be/mV-JUn_ZdMQ)|
+
+</div>
+
+_Resumen:_ El entrevistado busca experiencias auténticas y fuera del turismo convencional, como actividades culturales y gastronómicas. Usó la plataforma para comparar precios y duraciones fácilmente, lo que considera esencial. Encontró la información confiable y valoró especialmente las reseñas de otros viajeros. Las recomendaciones personalizadas fueron relevantes y le permitieron organizarse sin complicaciones desde su laptop. Quedó satisfecho con la experiencia y resaltó el ahorro de tiempo. Recomendaría la plataforma a otros viajeros independientes. Como mejora, sugiere itinerarios sugeridos y más contenido visual.
+
+
+
+---
+
+**Entrevista 6:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-diego.png" alt="entrevista-diego" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Diego Santiago Lima |
+|----|-----|
+|Edad|21|
+|Residencia|Arequipa|
+|Segmento|Turista Nacional|
+|Enlace de la entrevista| [https://youtu.be/bhkQCGRL0yY](https://youtu.be/bhkQCGRL0yY)|
+
+</div>
+
+_Resumen:_ El entrevistado viaja como mochilero, improvisando sobre la marcha. Usó TravelMatch desde escritorio para encontrar actividades económicas y culturales, sin necesidad de itinerario fijo. Apreció poder comparar precios y ver valoraciones de otros mochileros. La información le generó confianza y destacó la utilidad de las recomendaciones personalizadas según ubicación. Considera que la plataforma le ahorró tiempo en cada destino. Repetiría el uso y la recomendaría a quienes viajan de forma espontánea. Sugiere integrar un mapa interactivo para facilitar la exploración de actividades cercanas.
+
+
+<!-- Segmento objetivo 3: TURISTAS CORPORATIVOS  falta la entrevista 7 y 9-->
+---
+
+**Entrevista 8:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-eduardo.jpg" alt="entrevista-eduardo" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Eduardo Montalvo |
+|----|-----|
+|Edad| 25 |
+|Residencia|Lima|
+|Enlace de la entrevista| [https://youtu.be/mt-tBBAkeI4](https://youtu.be/mt-tBBAkeI4)|
+
+</div>
+
+_Resumen:_ El entrevistado realiza viajes laborales frecuentes dentro del país y dispone de poco tiempo libre. Usó la plataforma para encontrar actividades rápidas y cercanas a su alojamiento, logrando optimizar sus pausas laborales. Valoró la velocidad de reserva y la confirmación inmediata desde escritorio. Las recomendaciones se adaptaron a su agenda y la facturación automática fue especialmente útil para su trabajo. Considera que la plataforma facilitó la organización de actividades de forma eficiente. Planea volver a usarla y la recomendaría a otros viajeros de negocios. Sugiere integrar una agenda corporativa y reportes automáticos de gastos.
+
+---
+
+
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
@@ -2722,9 +3043,17 @@ secciones que incluyen Videos.
 
 ## Bibliografía
 
-- 
-
+- Xiang, Z., Du, Q., Ma, Y., & Fan, W. (2021). Digital platforms in tourism: A review. Tourism Management Perspectives, 37, 100831. [https://doi.org/10.1016/j.tmp.2021.100831](https://doi.org/10.1016/j.tmp.2021.100831)
+- Buhalis, D., & Sinarta, Y. (2019). Real-time co-creation and nowness service: Lessons from tourism and hospitality. Journal of Travel & Tourism Marketing, 36(5), 563–582. [https://doi.org/10.1080/10548408.2019.1592059](https://doi.org/10.1080/10548408.2019.1592059)
+- Gutiérrez, J., & Robles, J. (2020). Plataformas colaborativas en el turismo: Oportunidades para pequeñas agencias. Revista de Estudios Sociales, 73, 86–101. [https://www.redalyc.org/articulo.oa?id=81568998006](https://www.redalyc.org/articulo.oa?id=81568998006)
+- Morales, M., & Figueroa, A. (2020). El turismo experiencial como estrategia de diferenciación en destinos emergentes. Revista Mexicana de Ciencias Políticas y Sociales, 65(239), 85–108. [https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-252X2020000200085](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-252X2020000200085)
+- Marín, A., Sánchez, D., & Moreno, J. (2021). Tourism recommender systems: A review. IEEE Access, 9, 92686–92702. [https://ieeexplore.ieee.org/document/9448323](https://ieeexplore.ieee.org/document/9448323)
+- Rodríguez, F., & Camargo, D. (2022). Integración de herramientas digitales para mejorar la competitividad del sector turístico. Revista Facultad de Ciencias Económicas: Investigación y Reflexión, 30(2), 267–283. [https://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-59232022000200267](https://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-59232022000200267)
 <hr>
 
 ## Anexos
 
+- Link de la Organización: [https://github.com/G2-Aplicaciones-Open-Source](https://github.com/G2-Aplicaciones-Open-Source)
+- Link de la documentanción: [https://github.com/G2-Aplicaciones-Open-Source/docs](https://github.com/G2-Aplicaciones-Open-Source/docs)
+- Link de la Landing Page: [https://g2-aplicaciones-open-source.github.io/landing-page-v2/](https://g2-aplicaciones-open-source.github.io/landing-page-v2/)
+- Link del Deploy del FrontEnd: [https://travel-match-1f187.web.app/home](https://travel-match-1f187.web.app/home)

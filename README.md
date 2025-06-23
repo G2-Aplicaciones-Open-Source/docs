@@ -2807,8 +2807,59 @@ En esta sección se presenta la evidencia de documentación de los servicios des
 
 #### 5.3.1. Diseño de Entrevistas
 
+Para realizar las entrevistas de validación, primero se han planteado 7 preguntas para cada segmento de acuerdo a lo que se quiere saber del usuario para así tener un análisis más enfocado.
+
+### Segmento 1: Agencias de turismo locales
+
+1. ¿Considera que la plataforma facilitó la gestión y recepción de reservas para su agencia?
+2. ¿Le resultó sencillo publicar y actualizar sus tours o servicios en la plataforma?
+3. ¿La visibilidad que obtuvo su agencia a través del producto cumplió con sus expectativas?
+4. ¿El sistema de notificaciones y alertas fue útil para gestionar a tiempo sus reservas?
+5. ¿Recomendaría el uso de esta plataforma a otras agencias de turismo? ¿Por qué?
+6. ¿Sintió que las herramientas de análisis y métricas le ayudaron a mejorar su oferta?
+7. ¿Qué tan satisfecho está con el soporte o atención brindada por la plataforma?
+
+### Segmento 2: Turistas nacionales e internacionales
+
+1. ¿Encontró fácilmente actividades o experiencias que se ajustaran a sus intereses y presupuesto?
+2. ¿La información presentada sobre los tours y agencias le generó confianza al reservar?
+3. ¿El proceso de reserva y pago fue rápido y libre de complicaciones?
+4. ¿Las recomendaciones personalizadas de la plataforma fueron relevantes para usted?
+5. ¿Qué tan satisfecho/a está con la experiencia general de uso de la plataforma?
+6. ¿Considera que la plataforma le ahorró tiempo en la planificación de su viaje?
+7. ¿Repetiría el uso de la plataforma para futuros viajes o la recomendaría a amigos?
+
+### Semento 3: Viajeros por trabajo (Turismo corporativo)
+
+1. ¿La plataforma le ayudó a encontrar actividades compatibles con sus horarios laborales?
+2. ¿Pudo aprovechar mejor su tiempo libre durante viajes de trabajo gracias a la plataforma?
+3. ¿Las opciones de reserva rápida y confirmación inmediata fueron satisfactorias?
+4. ¿Sintió que las recomendaciones se adaptaron a sus preferencias y necesidades corporativas?
+5. ¿La opción de generar comprobantes o facturas funcionó correctamente y fue útil?
+6. ¿Considera que la plataforma facilitó la organización de actividades para usted o su equipo?
+7. ¿Qué tan probable es que utilice nuevamente la plataforma en su próximo viaje de trabajo?
+
 #### 5.3.2. Registro de Entrevistas.
 
+<!-- Segmento objetivo 1: AGENCIAS DE TURISMO LOCALES -->
+<p align="center">
+    <img src="assets/evidencias/entrevista-leo.png" alt="entrevista-leo" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Adrian Yañez Mendez |
+|----|-----|
+|Edad|24|
+|Residencia|Villa el Salvador|
+|Segmento|Agencias de turismo locales|
+|Enlace de la entrevista| [https://youtu.be/U9y9BZbecxU](https://youtu.be/U9y9BZbecxU)|
+
+</div>
+
+_Resumen:_ El entrevistado tuvo un recorrido rápido sobre la aplicación. Manejó las transciciones de manera fluida. Él comenta que le fue fácil entender cómo utilizar la aplicación. Dice que la aplicación puede mejorar. Él espera que hayan más características en la aplicación, como la visualización de una gráfica de la cantidad de ventas diarias en intervalos de una semana y mes. Comenta que le gustaría que hayan alertas de notificación para cuando se realice alguna acción la aplicación le brinde una confirmación. Asimismo, recomendaría la aplicación a otros usuarios, le gustó la idea de la aplicación y cómo esta ayuda a los usuarios.
+
+---
 
 <!-- Segmento objetivo 2: TURISTAS NACIONALES E INTERNACIONALES -->
 

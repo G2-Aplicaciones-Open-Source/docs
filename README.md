@@ -2842,8 +2842,11 @@ Para realizar las entrevistas de validación, primero se han planteado 7 pregunt
 #### 5.3.2. Registro de Entrevistas.
 
 <!-- Segmento objetivo 1: AGENCIAS DE TURISMO LOCALES -->
+
+**Entrevista 1:**
+
 <p align="center">
-    <img src="assets/evidencias/entrevista-leo.png" alt="entrevista-leo" width=60% >
+    <img src="assets/evidencias/leo-entrevista.jpg" alt="entrevista-validacion-leo" width=60% >
 </p>
 
 <div align="center">

@@ -3218,19 +3218,28 @@ URL del video: []
 
 ### Video About-The-Team 
 
-**Reemplazar**
-En esta sección el equipo elabora un resumen de los aspectos más relevantes del
-video About-The-Team, la pauta de secuencias de contenido (secciones con el timing
-de inicio de cada una, es decir hh:mm:ss de cada sección dentro del video)
-incluyendo además un cuadro de video representativo del mismo, junto con el URL
-de la versión publicada en Microsoft Stream (y además, el URL de la versión
-publicada en YouTube utilizada para incrustarse en el Landing Page).
-Este video resume el proceso de trabajo realizado, incluyendo escenas con imágenes
-o video de sesiones de trabajo real del equipo, complementando con narración (voz
-en off) del proceso. Incluye además el testimonio ante cámara de cada participante
-describiendo actividades realizadas, logro de outcomes y desarrollo de competencias
-alcanzados. Ver otras indicaciones importantes en el Anexo C. Indicaciones para
-secciones que incluyen Videos.
+En esta sección, el equipo presenta un resumen del proceso de trabajo realizado en el proyecto **Travel Match**, destacando los aspectos más relevantes del desarrollo, los logros alcanzados y las competencias desarrolladas por cada miembro.
+A continuación, se detalla la pauta de secuencias de contenido del video, incluyendo el timing de inicio de cada sección y un cuadro de video representativo.
+
+<p align="center">
+    <img src="assets/evidencias/about-the-team.png" alt="About The Team" width=60% >
+</p>
+
+- URL en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323270_upc_edu_pe/EQi-tsqmCB5Brk9nydu-fjUB2BOB-WLG0YX5dWa42Rp3wQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CsCst7
+
+- URL en YouTube (para incrustar en Landing Page): https://youtu.be/EzUXV6MuBdo
+
+- Pauta de Secuencias de Contenido:
+
+    - 00:00:05 - Testimonio de Matías Aspajo: Matías comparte su experiencia en el proyecto, detallando su involucramiento en el Frontend (vista de favoritos) y Backend (Bounding Content de agencias). Destaca el aprendizaje sobre la estructuración de proyectos con Ágora y la eficiente integración de componentes, resaltando la buena complementación del equipo y la superación conjunta de desafíos.
+
+    - 00:01:03 - Testimonio de Jorge Guevara: Jorge describe su participación en el Front-end (Angular para componentes reutilizables, enrutamiento, consumo de servicios REST, diseño responsivo) y Back-end (implementación de Endpoints con Spring Boot, lógica de negocio para gestión de experiencias turísticas y disponibilidad). Menciona el logro de los objetivos planteados y el fortalecimiento de sus competencias técnicas en Angular, Java y diseño de API Rest, además de la mejora en trabajo en equipo y resolución de problemas.
+
+    - 00:01:58 - Testimonio de Alejandra Linares Bernabé: Alejandra se centra en su rol en la creación del Backend del proyecto utilizando Spring Boot para microservicios y APIs Rest, junto con la implementación de bases de datos. Enfatiza que el desarrollo del Backend siguió la filosofía de Domain Driven Design para modelar el dominio del negocio, logrando un proyecto funcional, escalable y que resuelve un problema real.
+
+    - 00:02:57 - Testimonio de John Gálvez: John detalla sus tareas en el sprint número 3, incluyendo la reestructuración del diagrama de clases UML para identificar los principales bounding contexts. En el Backend, fue responsable de elaborar el código para los bounding contexts de IA y de perfiles y preferencias del usuario. Además, colaboró en el desarrollo de una nueva versión de la Landing Page e implementó vistas para el Front-end. También se encargó de registrar las entrevistas de validación con agencias y de elaborar el sprint planning número 3.
+
+    - 00:03:47 - Testimonio de Farid Briseño: Farid expone su encargo en el bounding context de geolocalización, enfocado en la ubicación de experiencias. En la primera fase del desarrollo, estuvo a cargo del diseño de la aplicación, incluyendo mockups y prototipos. Reflexiona sobre la evolución de la comunicación del grupo, que inicialmente no fue fluida, pero mejoró progresivamente, destacando el apoyo del equipo para guiarlo en el proceso de desarrollo del Backend.
 
 <hr>
 

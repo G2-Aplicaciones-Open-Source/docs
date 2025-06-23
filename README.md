@@ -2613,7 +2613,33 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo del fronte
 
 ##### 5.2.3.1. Sprint Planning 3.
 
+En esta reunión de planificación del Sprint 3, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados para esta iteración. El Sprint 3 se centrará en el desarrollo inicial del backend y en la entrega de una versión actualizada y pulida del frontend. El objetivo principal es establecer una base técnica sólida y desplegar una versión funcional de la aplicación, asegurando que el producto sea accesible y ofrezca una primera experiencia de usuario significativa.
+
+| **Sprint #** | Sprint 3 |
+|---|---|
+| **Sprint Planning Background** | |
+| **Date** | 2025-06-05 |
+| **Location** | La reunión se llevó a cabo de manera virtual a través de Discord. |
+| **Prepared By** | Galvez, Jhon |
+| **Attendees (to planning meeting)** | Aspajo, Mathias / Briceño, Farid / Galvez, Jhon / Guevara, Jorge / Linares, Cesar |
+| **Sprint 2 Review Summary** | Se logró desplegar una primera versión de nuestro *frontend*, aunque el resultado no fue del todo positivo. Pudimos identificar varias áreas de mejora para mostrar información vital para el *core* de nuestro negocio. Además, tras recibir la retroalimentación del docente, identificamos que algunas secciones de la documentación del desarrollo de nuestro producto no fueron bien elaboradas, lo cual provocaba inconsistencias con lo desarrollado para el *frontend*. |
+| **Sprint 2 Retrospective Summary** | Consideramos que durante el sprint anterior se infringieron los tiempos de entrega establecidos dentro del equipo, lo que generó mucha presión antes de la entrega del producto debido a la cantidad de pendientes en poco tiempo. Asimismo, en cuanto a la calidad del código desarrollado, identificamos un margen de mejora para conseguir mostrar un MVP que permita visualizar las funcionalidades clave del negocio. Finalmente, creemos que existen oportunidades de mejora al usar herramientas para gestionar el progreso del equipo de forma más eficiente. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 3 Goal** | Nuestro objetivo es implementar una versión actualizada de la *landing page*, la aplicación web *frontend* y una primera versión de los servicios web *backend*. Con esto, buscamos mostrar a las partes interesadas una demostración clara de la funcionalidad de las vistas principales y una interacción fluida con los *endpoints* implementados en nuestro *backend*. Esto se confirmará cuando alcancemos una efectividad del 100% en las consultas realizadas a la API. |
+| **Sprint n Velocity** | El sprint está planificado para completarse en 14 días (2 semanas), y el equipo puede aceptar 25 Story Points. |
+| **Sum of Story Points** | 20 |
+
 ##### 5.2.3.2. Aspect Leaders and Collaborators
+
+En este Sprint, el equipo se centró prioritariamente en el desarrollo del backend, incluyendo la creación de endpoints para el acceso a datos. Paralelamente, se dedicó a la optimización del frontend, buscando alinear su interfaz con los diseños de vista previamente definidos y aplicar patrones de diseño robustos. A continuación, la Matriz de Liderazgo y Colaboración (LACX) ilustra detalladamente los roles de liderazgo y apoyo que cada miembro del equipo asumió en estos aspectos clave del Sprint.
+
+| **Team Member**       | **GitHub Username** | **Design Patterns Implementation** <br> Leader (L)/Collaborator(C) | **Data** <br> Leader (L)/Collaborator(C) | **Backend Endpoints** <br> Leader (L)/Collaborator(C) | **Frontend Refinement** <br> Leader (L)/Collaborator(C) |
+|:---------------------:|:-------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
+| **Aspajo, Mathias**      | AdeXzz        |   C   |   L   |   C   |    C   |
+| **Briceño, Farid**       | InjustShin    |   C   |   C   |   C   |    L   |
+| **Galvez, Jhon**         | Chaomeum      |   C   |   C   |   L   |    C   |
+| **Guevara, Jorge**       | Jorgito170    |   C   |   L   |   C   |    C   |
+| **Linares, Cesar**       | Cesar-Linares |   C   |   C   |   C   |    C   |
 
 ##### 5.2.3.3. Sprint Backlog 3.
 

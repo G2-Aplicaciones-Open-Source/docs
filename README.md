@@ -1742,6 +1742,21 @@ Enlace al Figma de desarrollo de Web Application: https://www.figma.com/design/G
     <img src="assets/recursos/diagrama_componentes_profiles.png" alt="Diagrama de Componentes Profiles Bounded Context"/>
 </p>
 
+- Bounded Context Agencies
+<p align="center">
+    <img src="assets/recursos/diagrama_componentes_agencies.png" alt="Diagrama de Componentes Agencies Bounded Context"/>
+</p>
+
+- Bounded Context Experiences
+<p align="center">
+    <img src="assets/recursos/diagrama_componentes_experiences.jpg" alt="Diagrama de Componentes Experiences Bounded Context"/>
+</p>
+
+- Bounded Context Bookings
+<p align="center">
+    <img src="assets/recursos/diagrama_componentes_bookings.png" alt="Diagrama de Componentes Bookings Bounded Context"/>
+</p>
+
 - Bounded Context Events
 <p align="center">
     <img src="assets/recursos/diagrama_componentes_events.png" alt="Diagrama de Componentes Events Bounded Context"/>
@@ -2441,7 +2456,7 @@ En esta parte, mostramos el proceso que seguimos para diseñar y mantener actual
 
 Durante el Sprint 2, el equipo de desarrollo de TravelMatch se centró en la construcción e implementación del front-end, logrando avances significativos en la interfaz de usuario. Se completaron funcionalidades clave que enriquecen la interacción del usuario con la plataforma, incluyendo el diseño y maquetación de la interfaz de inicio de sesión, y la implementación de la lógica para el perfil corporativo, permitiendo la visualización y edición de datos. Además, se desarrolló la funcionalidad para añadir y mostrar ítems favoritos, proporcionando una experiencia más personalizada. Se avanzó en la creación de componentes UI para filtros avanzados y se trabajó en la vista previa de tours, asegurando una navegación más fluida y una presentación atractiva del contenido. Este sprint consolidó la interfaz gráfica, integrando las bases visuales para las futuras iteraciones y ampliando la funcionalidad más allá de la landing page inicial
 
-Demo del Frontend Web Application: [Enlace](https://youtu.be/GDcZcjMXcGM)
+Demo del Frontend Web Application: https://youtu.be/GDcZcjMXcGM
 
 
 Evidencias de las vistas implementadas
@@ -2505,79 +2520,16 @@ Durante este Sprint, se llevó a cabo el despliegue del frontend del proyecto Tr
       <img src="assets/evidencias/firebase-project-creation.png" alt="Creación del proyecto Firebase"/>
     </p>
 
-  * **Inicialización de Firebase en el proyecto local:** Se utilizó el comando `firebase init` en el directorio raíz del proyecto frontend para configurar Firebase Hosting. Esto incluyó la selección del proyecto Firebase creado y la especificación del directorio público (`build` o `dist`, según la configuración del proyecto).
-
-    <p align="center">
-      <img src="assets/evidencias/firebase-init-command.png" alt="Firebase init command"/>
-    </p>
-
-  * **Conexión de Firebase Hosting con el repositorio GitHub (si aplica):** Se configuró la integración continua (CI/CD) de Firebase Hosting con el repositorio de GitHub para que cada fusión a la rama `main` activara automáticamente un nuevo despliegue. *(Nota: si no se configuró CI/CD automático, este punto puede omitirse o ajustarse).*
-
-    <p align="center">
-      <img src="assets/evidencias/firebase-github-integration.png" alt="Integración Firebase con GitHub"/>
-    </p>
+  * **Inicialización de Firebase en el proyecto local:** Se utilizó el comando `firebase init` en el directorio raíz del proyecto frontend para configurar Firebase Hosting. Esto incluyó la selección del proyecto Firebase creado y la especificación del directorio público (`build` o `dist`, según la configuración del proyecto).  
+  
 
 * **Publicación exitosa del frontend accesible a través de una URL pública:**
 
-  * Una vez configurado y desplegado, el frontend de TravelMatch estuvo accesible a través de la URL generada por Firebase Hosting.
-
-  * 
+  * Una vez configurado y desplegado, el frontend de TravelMatch estuvo accesible a través de la URL generada por Firebase Hosting. 
 
 ---
 
 **URL del Frontend desplegado:** https://travel-match-1f187.web.app
-
----
-
-**Evidencias visuales**
-
-* **Configuración del repositorio GitHub y estructura inicial de carpetas:**
-
-  * La organización del repositorio se mantuvo, con el código del frontend reflejando los avances del Sprint 2 en la rama `develop`.
-
-    <p align="center">
-      <img src="assets/evidencias/repo-frontend-struct.png" alt="Estructura del repositorio de frontend"/>
-    </p>
-
-* **Implementación de flujo de trabajo con Git Flow:**
-
-  * Visualización de las ramas de desarrollo y la rama `develop` actualizada con los cambios del Sprint 2.
-
-    <p align="center">
-      <img src="assets/evidencias/git-flow-branches-sprint2.png" alt="Ramas de Git Flow para Sprint 2"/>
-    </p>
-
-* **Realización de un merge desde `develop` hacia la rama `main`:**
-
-  * Captura de pantalla de la fusión exitosa del Pull Request en GitHub.
-
-    <p align="center">
-      <img src="assets/evidencias/pull-request-merge-sprint2.png" alt="Merge de Pull Request en GitHub"/>
-    </p>
-
-* **Configuración de Firebase para el despliegue del frontend:**
-
-  * Panel de control de Firebase Hosting mostrando el estado del despliegue y la URL pública.
-
-    <p align="center">
-      <img src="assets/evidencias/firebase-hosting-dashboard.png" alt="Dashboard de Firebase Hosting"/>
-    </p>
-
-* **Publicación exitosa del frontend accesible a través de una URL pública:**
-
-  * Capturas de pantalla del frontend desplegado, mostrando las nuevas funcionalidades como la página de login o el perfil de usuario.
-
-    <p align="center">
-      <img src="assets/evidencias/frontend-deploy-login.png" alt="Página de Login desplegada"/>
-    </p>
-
-    <p align="center">
-      <img src="assets/evidencias/frontend-deploy-profile.png" alt="Página de Perfil desplegada"/>
-    </p>
-
-    <p align="center">
-      <img src="assets/evidencias/frontend-deploy-favorites.png" alt="Sección de Favoritos desplegada"/>
-    </p>
 
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint

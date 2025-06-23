@@ -3023,3 +3023,7 @@ secciones que incluyen Videos.
 
 ## Anexos
 
+- Link de la Organización: [https://github.com/G2-Aplicaciones-Open-Source](https://github.com/G2-Aplicaciones-Open-Source)
+- Link de la documentanción: [https://github.com/G2-Aplicaciones-Open-Source/docs](https://github.com/G2-Aplicaciones-Open-Source/docs)
+- Link de la Landing Page: [https://g2-aplicaciones-open-source.github.io/landing-page-v2/](https://g2-aplicaciones-open-source.github.io/landing-page-v2/)
+- Link del Deploy del FrontEnd: [https://travel-match-1f187.web.app/home](https://travel-match-1f187.web.app/home)

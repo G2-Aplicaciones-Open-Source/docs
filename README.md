@@ -3419,7 +3419,8 @@ A continuación, se detalla la pauta de secuencias de contenido del video, inclu
 
 ## Anexos
 
-- Link de la Organización: [https://github.com/G2-Aplicaciones-Open-Source](https://github.com/G2-Aplicaciones-Open-Source)
-- Link de la documentanción: [https://github.com/G2-Aplicaciones-Open-Source/docs](https://github.com/G2-Aplicaciones-Open-Source/docs)
-- Link de la Landing Page: [https://g2-aplicaciones-open-source.github.io/landing-page-v2/](https://g2-aplicaciones-open-source.github.io/landing-page-v2/)
-- Link del Deploy del FrontEnd: [https://travel-match-1f187.web.app/home](https://travel-match-1f187.web.app/home)
+- Enlace URL de la Organización: [https://github.com/G2-Aplicaciones-Open-Source](https://github.com/G2-Aplicaciones-Open-Source)
+- Enlace URL de la documentanción: [https://github.com/G2-Aplicaciones-Open-Source/docs](https://github.com/G2-Aplicaciones-Open-Source/docs)
+- Enlace URL de la Landing Page: [https://g2-aplicaciones-open-source.github.io/landing-page-v2/](https://g2-aplicaciones-open-source.github.io/landing-page-v2/)
+- Enlace URL del Deploy del FrontEnd: [https://travel-match-1f187.web.app/home](https://travel-match-1f187.web.app/home)
+- Enlace URL del Deploy del BackEnd: [https://travelmatch-arabafgnanbsc2hb.canadacentral-01.azurewebsites.net](https://travelmatch-arabafgnanbsc2hb.canadacentral-01.azurewebsites.net)

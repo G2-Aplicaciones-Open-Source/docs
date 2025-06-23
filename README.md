@@ -1105,6 +1105,16 @@ En esta sección se presentan las historias de usuario que describen las necesid
 | US49 | Revisar testimonios de otras agencias | Como visitante del segmento de agencias, quiero leer testimonios de otros usuarios para validar la efectividad de la plataforma. | <p>- Scenario 1: Revisión de testimonios<br>Dado que el visitante accede a la sección 'Testimonios', cuando revisa los comentarios, entonces ve testimonios de otras agencias con sus valoraciones y comentarios.</p> | EP05 |
 | US50 | Cambiar vista a viajeros | Como visitante del segmento de agencias, quiero cambiar a la vista de viajeros para conocer el contenido y servicios disponibles para ese público. | <p>- Scenario 1: Cambio de vista<br>Dado que la opción "Para Viajeros" está visible, cuando hace clic en esa opción, entonces la vista cambia para mostrar contenido para viajeros.</p> | EP05 |
 | US51 | Registro para agencias | Como visitante del segmento de agencias, quiero registrarme desde la landing para empezar a formar parte de la plataforma. | <p>- Scenario 1: Registro desde botón<br>Dado que la opción "Registrarse" está visible, cuando el visitante hace clic en ella, entonces es redirigido al formulario de registro para agencias.</p> | EP05 |
+| US-52 | Subida de archivos multimedia | Como agencia, quiero subir imágenes y videos a mis experiencias para que los viajeros puedan conocerlas mejor. | - Scenario 1: Carga exitosa. Al subir un archivo válido, se adjunta correctamente a la experiencia. <br> - Scenario 2: Validación de formato. Si el archivo es inválido (peso o extensión), el sistema muestra error. | EP06 |
+| US-53 | Eliminación de medios asociados | Como agencia, quiero eliminar imágenes o videos antiguos de mis experiencias para mantener contenido actualizado. | - Scenario 1: Eliminación manual. El usuario selecciona un archivo y confirma la eliminación. <br> - Scenario 2: Actualización automática. Tras eliminar, la galería se actualiza sin recargar. | EP06 |
+| US-54 | Gestión de documentos de agencias | Como agencia, quiero subir y administrar documentos legales para verificar mi identidad y cumplir con las políticas de la plataforma. | - Scenario 1: Subida de documentos. La agencia puede cargar documentos PDF válidos. <br> - Scenario 2: Visualización y estado. El documento se muestra con estado (pendiente, aprobado, rechazado). | EP05 |
+| US-55 | Visualizar staff de la agencia | Como agencia, quiero ver el listado del personal registrado para gestionarlo adecuadamente. | - Scenario 1: Lista actualizada. Se muestra la información del personal asociado. <br> - Scenario 2: Acceso restringido. Solo la agencia propietaria puede ver esta información. | EP05 |
+| US-56 | Edición de disponibilidad de tours | Como agencia, quiero modificar la disponibilidad de mis tours para gestionar el número de visitantes. | - Scenario 1: Edición exitosa. Se puede cambiar fecha, cupos y tipo de ticket. <br> - Scenario 2: Validación. No se permite disponibilidad con fecha pasada. | EP06 |
+| US-57 | Gestión del carrito de compras | Como viajero, quiero agregar y eliminar experiencias del carrito antes de confirmar la reserva. | - Scenario 1: Agregar experiencia. El usuario puede añadir tours al carrito desde la vista de detalle. <br> - Scenario 2: Eliminar del carrito. El usuario puede eliminar tours antes de reservar. | EP07 |
+| US-58 | Contador de ítems en carrito | Como viajero, quiero ver cuántos ítems tengo en mi carrito para estar al tanto de mis próximas reservas. | - Scenario 1: Visualización dinámica. El contador se actualiza cada vez que agrego o elimino ítems. <br> - Scenario 2: Límite visual. Se indica si se alcanza el límite máximo de ítems (si aplica). | EP07 |
+| US-59 | Visualización de medios de experiencias | Como viajero, quiero ver las imágenes y videos relacionados a una experiencia para decidir si se ajusta a mis preferencias. | - Scenario 1: Galería visible. Al entrar a la experiencia, se cargan automáticamente los archivos multimedia. <br> - Scenario 2: Fallback. Si no hay archivos disponibles, se muestra una imagen por defecto. | EP03 |
+
+
 |TS01|API: Registro de usuarios|Como Developer, quiero una API para registrar nuevos usuarios para soportar la funcionalidad de registro de la plataforma.|- Scenario 1: Registro exitoso<br> Dado que recibo una solicitud POST a /api/v1/users/register con email y contraseña válidos,<br> Cuando proceso la solicitud,<br> Entonces la base de datos registra al usuario y la API responde con un 201 Created y los datos del usuario (sin contraseña).<br><br>- Scenario 2: Email duplicado<br> Dado que recibo una solicitud POST a /api/v1/users/register con un email ya registrado,<br> Cuando intento registrar el usuario,<br> Entonces la API responde con un 409 Conflict y un mensaje de error.|EP06|
 |TS02|API: Inicio de sesión de usuarios|Como Developer, quiero una API para autenticar usuarios para permitirles acceder a sus perfiles.|- Scenario 1: Inicio de sesión exitoso<br> Dado que recibo una solicitud POST a /api/v1/users/login con credenciales válidas,<br> Cuando verifico las credenciales,<br> Entonces la API responde con un 200 OK y un token de autenticación.<br><br>- Scenario 2: Credenciales inválidas<br> Dado que recibo una solicitud POST a /api/v1/users/login con credenciales incorrectas,<br> Cuando intento autenticar,<br> Entonces la API responde con un 401 Unauthorized y un mensaje de error.|EP06|
 |TS03|API: Gestión de Perfil de Usuario|Como Developer, quiero una API para que los usuarios gestionen sus datos de perfil para permitir la actualización de información personal.|- Scenario 1: Actualización de perfil exitosa<br> Dado que recibo una solicitud PUT a /api/v1/users/{id} con datos válidos de perfil y un token de autenticación,<br> Cuando actualizo el perfil del usuario,<br> Entonces la base de datos se actualiza y la API responde con un 200 OK y el perfil actualizado.<br><br>- Scenario 2: Datos inválidos<br> Dado que recibo una solicitud PUT a /api/v1/users/{id} con datos de perfil inválidos,<br> Cuando intento actualizar el perfil,<br> Entonces la API responde con un 400 Bad Request y un mensaje de error de validación.|EP06|
@@ -2419,24 +2429,26 @@ Enlace del board donde se trabajo el Sprint Backlog #2: https://trello.com/invit
         <img src="assets/evidencias/trello-sprint-2.png" alt="repo-config"/>
     </p>
 
-|**Sprint #**|**Sprint 2**|||||||
-| :- | :- | :- | :- | :- | :- | :- | :- |
-|**User Story**||**Work-Item / Task**||||||
-|**ID**|**Title**|**Id**|**Title**|**Description**|**Estimation (Hrs)**|**Assigned To**|**Status**|
-|US-02|Inicio de sesión|T02-1|Diseñar y maquetar interfaz de login|Crear la interfaz visual de la pantalla de inicio de sesión con campos de usuario/contraseña.|0\.5|Aspajo Alvarez, Mathias|To-do|
-|US-02|Inicio de sesión|T02-2|Implementar lógica de autenticación|Desarrollar la funcionalidad de validación de credenciales y generación de token de sesión.|0\.5|Aspajo Alvarez, Mathias|To-do|
-|US-03|Perfil corporativo|T03-2|Diseñar y maquetar vista de perfil corporativo|Crear la interfaz para la visualización de la información de la empresa.|1|Galvez Chambi, Jhon|Done|
-|US-03|Perfil corporativo|T03-2|Implementar edición de datos corporativos|Desarrollar la funcionalidad para que la empresa pueda actualizar su información de perfil.|1|Aspajo Alvarez, Mathias|Done|
-|US-14|Filtros avanzados|T14-1|Diseñar componentes de filtro UI|Crear los elementos visuales (dropdowns, checkboxes) para los diferentes criterios de búsqueda avanzada.|1\.5|Guevara Tejada, Jorge|In-Progress|
-|US-14|Filtros avanzados|T14-2|Implementar lógica de filtrado backend|Desarrollar la API y la lógica de base de datos para aplicar múltiples filtros a los resultados de búsqueda.|1\.5|Guevara Tejada, Jorge|In-Progress|
-|US-18|Favoritos|T18-1|Implementar funcionalidad "Añadir a Favoritos"|Desarrollar la lógica para guardar ítems en una lista de favoritos del usuario.|1|Linares Bernable, Cesar|Done|
-|US-18|Favoritos|T18-2|Mostrar lista de ítems favoritos|Crear la interfaz donde el usuario puede ver, organizar y eliminar sus elementos guardados como favoritos.|1|Briceño De La Cruz, Farid|Done|
-|US-20|Mapas interactivos|T20-1|Implementar renderizado de mapas base|Configurar la visualización inicial de mapas con zoom y desplazamiento.|1|Guevara Tejada, Jorge|To-do|
-|US-20|Mapas interactivos|T20-2|Añadir marcadores para puntos de interés|Desarrollar la funcionalidad para colocar pines interactivos en el mapa que representen lugares relevantes.|1|Guevara Tejada, Jorge|To-do|
-|US-21|Vista previa de tours|T21-1|Desarrollar componente de vista previa de tours|Crear el módulo UI para mostrar un resumen atractivo de cada tour.|0\.5|Galvez Chambi, Jhon|Done|
-|US-21|Vista previa de tours|T21-2|Implementar navegación a detalle del tour|Asegurar que al seleccionar la vista previa, se redirija a la página de detalles completos del tour.|0\.5|Galvez Chambi, Jhon|Done|
-|US-22|Itinerarios automáticos|T22-1|Desarrollar algoritmo de generación de itinerarios|Implementar la lógica para crear rutas y actividades sugeridas basadas en preferencias del usuario.|1\.5|Briceño De La Cruz, Farid|To-do|
-|US-22|Itinerarios automáticos|T22-2|Integrar con API de mapas para visualización|Conectar el algoritmo con un servicio de mapas para mostrar los itinerarios de forma visual.|1\.5|Galvez Chambi, Jhon|To-do|
+| **Sprint #** | **Sprint 2** |       |       |       |       |       |       |
+| :-           | :-           | :-    | :-    | :-    | :-    | :-    | :-    |
+| **User Story** |             | **Work-Item / Task** |       |       |       |       |       |
+| **ID**       | **Title**                         | **Id**   | **Title**                                      | **Description**                                                                 | **Estimation (Hrs)** | **Assigned To**               | **Status**    |
+| US-02        | Inicio de sesión                  | T02-1    | Diseñar y maquetar interfaz de login           | Crear la interfaz visual de la pantalla de inicio de sesión con campos de usuario/contraseña. | 0.5                  | Aspajo Alvarez, Mathias       | To-do         |
+| US-02        | Inicio de sesión                  | T02-2    | Implementar lógica de autenticación            | Desarrollar la funcionalidad de validación de credenciales y generación de token de sesión.    | 0.5                  | Aspajo Alvarez, Mathias       | To-do         |
+| US-03        | Perfil corporativo                | T03-1    | Diseñar y maquetar vista de perfil corporativo | Crear la interfaz para la visualización de la información de la empresa.                        | 1.0                  | Galvez Chambi, Jhon           | Done          |
+| US-03        | Perfil corporativo                | T03-2    | Implementar edición de datos corporativos      | Desarrollar la funcionalidad para que la empresa pueda actualizar su información de perfil.    | 1.0                  | Aspajo Alvarez, Mathias       | Done          |
+| US-14        | Filtros avanzados                 | T14-1    | Diseñar componentes de filtro UI               | Crear los elementos visuales (dropdowns, checkboxes) para los diferentes criterios de búsqueda avanzada. | 1.5            | Guevara Tejada, Jorge         | In-Progress   |
+| US-14        | Filtros avanzados                 | T14-2    | Implementar lógica de filtrado backend         | Desarrollar la API y la lógica de base de datos para aplicar múltiples filtros a los resultados de búsqueda. | 1.5        | Guevara Tejada, Jorge         | In-Progress   |
+| US-18        | Favoritos                         | T18-1    | Implementar funcionalidad "Añadir a Favoritos" | Desarrollar la lógica para guardar ítems en una lista de favoritos del usuario.                | 1.0                  | Linares Bernable, Cesar       | Done          |
+| US-18        | Favoritos                         | T18-2    | Mostrar lista de ítems favoritos               | Crear la interfaz donde el usuario puede ver, organizar y eliminar sus elementos guardados como favoritos. | 1.0         | Briceño De La Cruz, Farid     | Done          |
+| US-20        | Mapas interactivos                | T20-1    | Implementar renderizado de mapas base          | Configurar la visualización inicial de mapas con zoom y desplazamiento.                        | 1.0                  | Guevara Tejada, Jorge         | To-do         |
+| US-20        | Mapas interactivos                | T20-2    | Añadir marcadores para puntos de interés       | Desarrollar la funcionalidad para colocar pines interactivos en el mapa que representen lugares relevantes. | 1.0       | Guevara Tejada, Jorge         | To-do         |
+| US-21        | Vista previa de tours             | T21-1    | Desarrollar componente de vista previa de tours| Crear el módulo UI para mostrar un resumen atractivo de cada tour.                             | 0.5                  | Galvez Chambi, Jhon           | Done          |
+| US-21        | Vista previa de tours             | T21-2    | Implementar navegación a detalle del tour      | Asegurar que al seleccionar la vista previa, se redirija a la página de detalles completos del tour. | 0.5        | Galvez Chambi, Jhon           | Done          |
+| US-22        | Itinerarios automáticos           | T22-1    | Desarrollar algoritmo de generación de itinerarios | Implementar la lógica para crear rutas y actividades sugeridas basadas en preferencias del usuario. | 1.5         | Briceño De La Cruz, Farid     | To-do         |
+| US-22        | Itinerarios automáticos           | T22-2    | Integrar con API de mapas para visualización   | Conectar el algoritmo con un servicio de mapas para mostrar los itinerarios de forma visual.   | 1.5                  | Galvez Chambi, Jhon           | To-do         |
+
+
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -2594,6 +2606,58 @@ En este Sprint, el equipo se centró prioritariamente en el desarrollo del backe
 | **Linares, Cesar**       | Cesar-Linares |   C   |   C   |   C   |    C   |
 
 ##### 5.2.3.3. Sprint Backlog 3.
+
+El Sprint Backlog 3 se enfocó en desarrollar los bounded context planteados para el proyecto. Se priorizó el Backend sobre el Fronend, sin embargo, esto permitirá que las funcionalidades estén listas para ser implementadas, en otras palabras, se podrá desarrollar con menor complejidad en Frontend, esto porque se tendrán listos los servicios necesarios para el funcionamiento de la aplicación y el cumplimiento de los user stories. Todo esto forma la base para que nuestro futuro sprint tenga una ventaja por sobre otras formas de desarrollo ágil.
+
+Enlace del board donde se trabajo el Sprint Backlog #3:
+https://trello.com/invite/b/68590a2aaf436102a3815e63/ATTIa032c0c0f6503f68f55e28a50b2544f60A17AF93/sprint-3-open-source
+
+<p align="center">
+        <img src="assets/evidencias/trello-sprint-3.png" alt="repo-config"/>
+    </p>
+
+
+| **Sprint #** | **Sprint 3** |       |       |       |       |       |       |
+| :-           | :-           | :-    | :-    | :-    | :-    | :-    | :-    |
+| **User Story** |             | **Work-Item / Task** |       |       |       |       |       |
+| **ID**       | **Title**                         | **Id**   | **Title**                         | **Description**                                                                 | **Estimation (Hrs)** | **Assigned To** | **Status**    |
+| US-01        | Registro básico                   | T01-1    | Validar formulario de registro    | Validar campos de email y contraseña con restricciones básicas                  | 0.5                  | FC              | Done          |
+| US-01        | Registro básico                   | T01-2    | Confirmación vía email            | Implementar envío de correo de confirmación tras registro exitoso              | 1.0                  | FC              | In-Progress   |
+| US-02        | Inicio de sesión                  | T02-1    | Validación de credenciales        | Programar autenticación y feedback según credenciales correctas o erróneas     | 1.0                  | RA              | Done          |
+| US-02        | Inicio de sesión                  | T02-2    | Generar token de sesión           | Crear e integrar token JWT al backend                                          | 1.0                  | JG              | To-do         |
+| US-08        | Idiomas                           | T08-1    | Añadir selector de idioma         | Agregar componente de cambio de idioma desde el menú principal                 | 0.5                  | JG              | In-Progress   |
+| US-08        | Idiomas                           | T08-2    | Configurar i18n                   | Implementar traducciones usando i18n para español e inglés                     | 1.0                  | FC              | To-do         |
+| US-09        | Publicar reseñas                  | T09-1    | Crear formulario de reseñas       | Diseñar formulario con texto y puntuación                                     | 1.0                  | RA              | Done          |
+| US-09        | Publicar reseñas                  | T09-2    | Guardar reseña en backend         | Conectar API para almacenar y mostrar reseñas                                 | 0.5                  | FC              | Done          |
+| US-10        | Editar/Eliminar reseñas           | T10-1    | Permitir edición de reseña        | Implementar botón y formulario editable                                        | 0.5                  | RA              | Done          |
+| US-10        | Editar/Eliminar reseñas           | T10-2    | Agregar botón de eliminar         | Permitir eliminar reseñas propias con confirmación                            | 0.5                  | RA              | Done          |
+| US-14        | Filtros avanzados                 | T14-1    | Construir UI de filtros           | Crear componentes visuales para filtrar tours por categorías y precios         | 1.0                  | JG              | To-do         |
+| US-14        | Filtros avanzados                 | T14-2    | Backend: lógica de filtros        | Filtrar tours usando múltiples criterios desde la base de datos                | 1.0                  | FC              | To-do         |
+| US-16        | Cancelación de reservas           | T16-1    | Crear vista de cancelación        | Diseñar pantalla y lógica para cancelar reserva                               | 0.5                  | JG              | In-Progress   |
+| US-16        | Cancelación de reservas           | T16-2    | Notificar cancelación             | Enviar notificación al usuario con el estado de su cancelación                | 0.5                  | FC              | To-do         |
+| US-24        | Subir nuevos tours                | T24-1    | Crear formulario de nuevo tour    | Formulario con campos de nombre, descripción, precio, etc.                     | 1.0                  | JG              | Done          |
+| US-24        | Subir nuevos tours                | T24-2    | Guardar tour en backend           | Conectar formulario con API para almacenar nuevos tours                        | 1.0                  | FC              | Done          |
+| US-25        | Editar detalles de tour           | T25-1    | Mostrar campos editables          | Mostrar formulario prellenado con datos del tour                               | 1.0                  | JG              | Done          |
+| US-25        | Editar detalles de tour           | T25-2    | Guardar cambios en base de datos  | Validar cambios y actualizarlos en la base de datos                            | 1.0                  | FC              | Done          |
+| US-27        | Analytics                         | T27-1    | Consultar visitas por experiencia | Obtener datos de visitas a cada tour y almacenarlos                            | 1.5                  | FC              | In-Progress   |
+| US-27        | Analytics                         | T27-2    | Mostrar métricas en dashboard     | Gráficas de visitas y tendencias para agencias                                 | 1.0                  | JG              | To-do         |
+| US-52        | Subida de archivos multimedia     | T52-1    | Subir imagen/video al crear tour  | Integrar carga de archivos en creación de experiencias                         | 1.0                  | FC              | To-do         |
+| US-52        | Subida de archivos multimedia     | T52-2    | Validar extensión/peso de archivo | Validación de archivos antes de ser subidos                                   | 0.5                  | RA              | To-do         |
+| US-53        | Eliminación de medios asociados   | T53-1    | Botón de eliminación de archivo   | Permitir eliminar manualmente imágenes o videos                               | 0.5                  | FC              | To-do         |
+| US-53        | Eliminación de medios asociados   | T53-2    | Actualizar galería automáticamente| Refrescar galería sin recargar la página                                      | 1.0                  | RA              | To-do         |
+| US-54        | Gestión de documentos de agencias | T54-1    | Cargar documentos en perfil       | Formulario para subir archivos PDF de verificación                             | 0.5                  | JG              | To-do         |
+| US-54        | Gestión de documentos de agencias | T54-2    | Ver estado de documentos          | Mostrar si está pendiente, aprobado o rechazado                               | 1.0                  | RA              | To-do         |
+| US-55        | Visualizar staff de la agencia    | T55-1    | Mostrar lista de staff en perfil  | Mostrar nombres, roles y correos del equipo                                   | 1.0                  | FC              | To-do         |
+| US-55        | Visualizar staff de la agencia    | T55-2    | Asegurar acceso privado           | Solo mostrar a la agencia propietaria                                          | 0.5                  | JG              | To-do         |
+| US-56        | Edición de disponibilidad de tours| T56-1    | Modificar fechas y cupos          | Editar fechas disponibles y número de tickets                                 | 1.0                  | RA              | To-do         |
+| US-56        | Edición de disponibilidad de tours| T56-2    | Validar fechas futuras            | Bloquear selección de fechas pasadas                                          | 0.5                  | FC              | To-do         |
+| US-57        | Gestión del carrito de compras    | T57-1    | Añadir experiencia al carrito     | Botón “Agregar al carrito” desde vista de tour                                | 1.0                  | JG              | To-do         |
+| US-57        | Gestión del carrito de compras    | T57-2    | Quitar experiencia del carrito    | Funcionalidad de eliminar ítems del carrito antes de reservar                 | 0.5                  | FC              | To-do         |
+| US-58        | Contador de ítems en carrito      | T58-1    | Mostrar contador dinámico         | Contador se actualiza al agregar o eliminar ítems                             | 1.0                  | RA              | To-do         |
+| US-58        | Contador de ítems en carrito      | T58-2    | Mostrar advertencia por límite    | Mostrar mensaje si se supera el número permitido de ítems                     | 0.5                  | JG              | To-do         |
+| US-59        | Ver medios de experiencias        | T59-1    | Galería de imágenes y videos      | Mostrar galería automática al abrir experiencia                               | 1.0                  | FC              | To-do         |
+| US-59        | Ver medios de experiencias        | T59-2    | Imagen por defecto                | Mostrar imagen por defecto si no hay medios disponibles                       | 0.5                  | RA              | To-do         |
+
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.
 

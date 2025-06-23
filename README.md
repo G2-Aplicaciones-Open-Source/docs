@@ -2619,9 +2619,184 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo del fronte
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.
 
+A continuación, se presenta un cuadro con los commits realizados en el repositorio del backend de TravelMatch durante el sprint. Esta evidencia refleja el trabajo de implementación y mejoras en la aplicación, incluyendo endpoints, estructura modular, configuración de despliegue y documentación técnica. Cada commit corresponde a una funcionalidad o ajuste clave desarrollado en la rama principal del proyecto.
+
+
+| **Repository**                           | **Branch** | **Commit ID** | **Commit Message**                                                                                | **Body** | **Commited on (Date)** |
+| :--------------------------------------- | :--------- | :------------ | :------------------------------------------------------------------------------------------------ | :------- | :--------------------- |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 94125b6       | feat: implement ExperienceMedia endpoint with full CRUD, validation and OpenAPI docs              |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 9a2148b       | refactor: github workflow structure                                                               |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 3203e88       | feat: merge initial backend version from develop into main                                        |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 417d8ae       | feat: add deployment configuration                                                                |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 1d9fd37       | feat: downgrade java version for compatibility                                                    |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 4e4de44       | feat: implement deploy workflow for main branch                                                   |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | d56f694       | feat: add swagger url                                                                             |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 0becca2       | feat(profiles): complete bounded context implementation for profiles module                       |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | d680fe3       | feat(profiles): implement carts controller for profile management                                 |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 3852d40       | feat(profiles): add rest interface layer resources and assemblers                                 |          | 2025-06-21             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 601a634       | feat(profiles): adjust return types in CartCommandService                                         |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 4cfab9d       | feat(profiles): refactor cart query service implementation                                        |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 5cca391       | feat(profiles): add commands for clearing cart, updating cart items, and querying cart item count |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | dc03129       | feat(profiles): implement favorites controller for profile mananagement                           |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | c1d90c1       | feat(profiles): implement review controller for profile management                                |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | ff442ed       | feat(experiences): refactor externalIamService to resolve bean naming conflicts in Spring Boot    |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 53c6ccb       | fix: solver merge issues in application properties                                                |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | dd9aee8       | feat(profiles): add review command service initial implementation                                 |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | be06862       | feat: add agencies bounded context                                                                |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | c4f4094       | agregando cambios                                                                                 |          | 2025-06-20             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | bf2af6a       | feat\:implement CRUD operations and ACL validation                                                |          | 2025-06-17             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 410628a       | feat: agregando Agencies                                                                          |          | 2025-06-15             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 266924b       | Merge remote-tracking branch 'origin/develop' into feature/galvez                                 |          | 2025-06-10             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 0d0098a       | feat(profiles): add inbound and outbound contracts                                                |          | 2025-06-10             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 17244c7       | feat(experiences): implement experience management module with availability and ticket types      |          | 2025-06-10             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | cb289d9       | refactor(profiles): modify acl interfaces and review command service                              |          | 2025-06-10             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | e05af63       | resolve merge conflicts with develop                                                              |          | 2025-06-10             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | a459a59       | feat(profiles): add cart, favorite and review query services implementation                       |          | 2025-06-09             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 93ef874       | fix(profiles): resolve JPA annotation conflicts in domain models                                  |          | 2025-06-09             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 1e72356       | feat(iam): implement jwt-based authentication and authorization service                           |          | 2025-06-08             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 43bb7bd       | feat(iam): Add user profile data to sign-up process                                               |          | 2025-06-08             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | cc413de       | feat(iam): add JWT configuration and enhance runtime process logging                              |          | 2025-06-08             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 0941b75       | feat(iam): add acl interface layer outbound services                                              |          | 2025-06-08             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 622b388       | feat(iam): add rest interface layer inbound services                                              |          | 2025-06-07             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 0ef6301       | feat(iam): add spring framework security configuration type                                       |          | 2025-06-07             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | b6d6ccd       | feat(iam): add required jwt dependencies                                                          |          | 2025-06-07             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | cf257b6       | feat(iam): add user command service implementation                                                |          | 2025-06-07             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 660053a       | chore: add Azure PostgreSQL credentials to application.properties                                 |          | 2025-06-07             |
+
+
+
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 
+En esta sección se presenta la evidencia de ejecución correspondiente al sprint del proyecto TravelMatch, una aplicación centrada en ofrecer experiencias turísticas personalizadas. Las capturas incluidas fueron tomadas desde Swagger UI y muestran la correcta ejecución de los endpoints desarrollados, validando su comportamiento y funcionamiento real. Estas pruebas evidencian la interacción efectiva con los servicios backend para operaciones como creación, consulta, actualización y eliminación de recursos relacionados con experiencias, disponibilidades y medios. Cada resultado confirma que las funcionalidades implementadas no solo han sido integradas, sino que también están activas y operativas según los criterios establecidos en las historias de usuario del sprint.
+
+**Evidencias visuales**
+
+<p align="center">
+    <img src="assets/evidencias/backend1.png" alt="landing-demo1"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/backend2.png" alt="landing-demo2"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/backend3.png" alt="landing-demo3"/>    
+</p>
+
+
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+En esta sección se presenta la evidencia de documentación de los servicios desarrollados durante el sprint, los cuales están disponibles y visibles mediante Swagger en la aplicación TravelMatch, una plataforma de turismo y viajes personalizados. A continuación, se detallan los principales endpoints implementados para cada uno de los módulos funcionales, incluyendo su método HTTP, ruta y descripción correspondiente.
+
+### Experience Media
+
+| Método     | Endpoint                                                    | Descripción                              |
+| ---------- | ----------------------------------------------------------- | ---------------------------------------- |
+| **POST**   | `/api/v1/experience-media/experiences/{experienceId}/media` | Crear media para una experiencia         |
+| **GET**    | `/api/v1/experience-media`                                  | Obtener todas las medias de experiencias |
+| **GET**    | `/api/v1/experience-media/experience/{experienceId}`        | Obtener medias por ID de experiencia     |
+| **PUT**    | `/api/v1/experience-media/{id}`                             | Actualizar media por ID                  |
+| **DELETE** | `/api/v1/experience-media/{id}`                             | Eliminar media por ID                    |
+
+---
+### Authentication
+| Método   | Endpoint                         | Descripción             |
+| -------- | -------------------------------- | ----------------------- |
+| **POST** | `/api/v1/authentication/sign-up` | Registrar nuevo usuario |
+| **POST** | `/api/v1/authentication/sign-in` | Iniciar sesión          |
+
+---
+### Agency Staff
+| Método     | Endpoint                                      | Descripción                                 |
+| ---------- | --------------------------------------------- | ------------------------------------------- |
+| **POST**   | `/api/v1/agencies/{agencyId}/staff`           | Crear personal para la agencia              |
+| **GET**    | `/api/v1/agencies/{agencyId}/staff`           | Listar personal de la agencia               |
+| **GET**    | `/api/v1/agencies/{agencyId}/staff/{staffId}` | Obtener detalles de un miembro del personal |
+| **PUT**    | `/api/v1/agencies/{agencyId}/staff/{staffId}` | Actualizar datos del personal               |
+| **DELETE** | `/api/v1/agencies/{agencyId}/staff/{staffId}` | Eliminar personal de la agencia             |
+
+---
+### Agency Documents
+| Método     | Endpoint                                             | Descripción                     |
+| ---------- | ---------------------------------------------------- | ------------------------------- |
+| **POST**   | `/api/v1/agencies/{agencyId}/documents`              | Subir documento de agencia      |
+| **GET**    | `/api/v1/agencies/{agencyId}/documents`              | Listar documentos de la agencia |
+| **GET**    | `/api/v1/agencies/{agencyId}/documents/{documentId}` | Obtener documento por ID        |
+| **PUT**    | `/api/v1/agencies/{agencyId}/documents/{documentId}` | Actualizar documento de agencia |
+| **DELETE** | `/api/v1/agencies/{agencyId}/documents/{documentId}` | Eliminar documento de agencia   |
+
+---
+### Availabilities
+| Método     | Endpoint                                               | Descripción                              |
+| ---------- | ------------------------------------------------------ | ---------------------------------------- |
+| **POST**   | `/api/v1/experiences/{experienceId}/availabilities`    | Crear disponibilidad para experiencia    |
+| **POST**   | `/api/v1/availabilities/{availabilityId}/ticket-types` | Crear tipo de ticket para disponibilidad |
+| **GET**    | `/api/v1/availabilities`                               | Obtener todas las disponibilidades       |
+| **PUT**    | `/api/v1/availabilities/{availabilityId}`              | Actualizar disponibilidad                |
+| **DELETE** | `/api/v1/availabilities/{availabilityId}`              | Eliminar disponibilidad                  |
+
+---
+### Carts
+| Método     | Endpoint                             | Descripción                           |
+| ---------- | ------------------------------------ | ------------------------------------- |
+| **POST**   | `/api/v1/carts`                      | Crear carrito                         |
+| **GET**    | `/api/v1/carts/{userId}`             | Obtener carrito de usuario            |
+| **DELETE** | `/api/v1/carts/{userId}`             | Eliminar carrito de usuario           |
+| **POST**   | `/api/v1/carts/{userId}/items`       | Agregar ítem al carrito               |
+| **PUT**    | `/api/v1/carts/{userId}/items`       | Actualizar ítem del carrito           |
+| **DELETE** | `/api/v1/carts/{userId}/items`       | Eliminar ítem del carrito             |
+| **GET**    | `/api/v1/carts/{userId}/items/count` | Obtener número de ítems en el carrito |
+
+---
+### Favorites
+| Método     | Endpoint                                                     | Descripción                                         |
+| ---------- | ------------------------------------------------------------ | --------------------------------------------------- |
+| **POST**   | `/api/v1/favorites`                                          | Agregar una experiencia a favoritos                 |
+| **GET**    | `/api/v1/favorites/by-user/{userId}`                         | Obtener experiencias favoritas de un usuario        |
+| **DELETE** | `/api/v1/favorites/users/{userId}/experience/{experienceId}` | Eliminar una experiencia de favoritos de un usuario |
+
+---
+### Roles
+
+| Método  | Endpoint        | Descripción                         |
+| ------- | --------------- | ----------------------------------- |
+| **GET** | `/api/v1/roles` | Obtener todos los roles disponibles |
+
+---
+### Experiences
+| Método     | Endpoint                                     | Descripción                              |
+| ---------- | -------------------------------------------- | ---------------------------------------- |
+| **POST**   | `/api/v1/experiences/{agencyId}/experiences` | Crear nueva experiencia para una agencia |
+| **GET**    | `/api/v1/experiences`                        | Obtener todas las experiencias           |
+| **PUT**    | `/api/v1/experiences/{experienceId}`         | Actualizar experiencia por ID            |
+| **DELETE** | `/api/v1/experiences/{experienceId}`         | Eliminar experiencia por ID              |
+
+---
+### Reviews
+| Método   | Endpoint                                       | Descripción                     |
+| -------- | ---------------------------------------------- | ------------------------------- |
+| **POST** | `/api/v1/reviews`                              | Crear reseña                    |
+| **PUT**  | `/api/v1/reviews/{reviewId}`                   | Actualizar reseña               |
+| **GET**  | `/api/v1/reviews/by-user/{userId}`             | Obtener reseñas por usuario     |
+| **GET**  | `/api/v1/reviews/by-experience/{experienceId}` | Obtener reseñas por experiencia |
+
+---
+### Users
+
+| Método  | Endpoint                 | Descripción                |
+| ------- | ------------------------ | -------------------------- |
+| **GET** | `/api/v1/users`          | Obtener todos los usuarios |
+| **GET** | `/api/v1/users/{userId}` | Obtener usuario por ID     |
+---
+### Agencies
+| Método     | Endpoint                      | Descripción                 |
+| ---------- | ----------------------------- | --------------------------- |
+| **POST**   | `/api/v1/agencies`            | Crear agencia               |
+| **GET**    | `/api/v1/agencies`            | Obtener todas las agencias  |
+| **GET**    | `/api/v1/agencies/{agencyId}` | Obtener agencia por ID      |
+| **PUT**    | `/api/v1/agencies/{agencyId}` | Actualizar datos de agencia |
+| **DELETE** | `/api/v1/agencies/{agencyId}` | Eliminar agencia            |
+
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
@@ -2633,6 +2808,98 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo del fronte
 #### 5.3.1. Diseño de Entrevistas
 
 #### 5.3.2. Registro de Entrevistas.
+
+
+<!-- Segmento objetivo 2: TURISTAS NACIONALES E INTERNACIONALES -->
+
+**Entrevista 4:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-adrian.png" alt="entrevista-adrian" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Adrian Yañez Mendez |
+|----|-----|
+|Edad|20|
+|Residencia|Lima|
+|Segmento|Turista Nacional|
+|Enlace de la entrevista| [https://youtu.be/dbUEKN0XS34](https://youtu.be/dbUEKN0XS34)|
+
+</div>
+
+_Resumen:_ El entrevistado organiza sus viajes con anticipación, priorizando experiencias personalizadas como tours culturales y fotografía. Encontró fácilmente opciones que se ajustaban a su presupuesto gracias a los filtros. Valoró la confianza que le generó la información clara y las reseñas. Destacó la rapidez del proceso de reserva desde la plataforma de escritorio y la utilidad de las recomendaciones personalizadas. Afirmó que le ahorró tiempo en la planificación y se mostró muy satisfecho con la experiencia general. Repetiría el uso y la recomendaría por su practicidad. Sugiere incluir un chat directo con las agencias y más filtros de búsqueda.
+
+---
+
+**Entrevista 5:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-sebastian.png" alt="entrevista-sebastian" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Sebastian Arevalo Torres |
+|----|-----|
+|Edad|23|
+|Residencia|Chile|
+|Segmento|Turista Internacional|
+|Enlace de la entrevista| [https://youtu.be/mV-JUn_ZdMQ](https://youtu.be/mV-JUn_ZdMQ)|
+
+</div>
+
+_Resumen:_ El entrevistado busca experiencias auténticas y fuera del turismo convencional, como actividades culturales y gastronómicas. Usó la plataforma para comparar precios y duraciones fácilmente, lo que considera esencial. Encontró la información confiable y valoró especialmente las reseñas de otros viajeros. Las recomendaciones personalizadas fueron relevantes y le permitieron organizarse sin complicaciones desde su laptop. Quedó satisfecho con la experiencia y resaltó el ahorro de tiempo. Recomendaría la plataforma a otros viajeros independientes. Como mejora, sugiere itinerarios sugeridos y más contenido visual.
+
+
+
+---
+
+**Entrevista 6:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-diego.png" alt="entrevista-diego" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Diego Santiago Lima |
+|----|-----|
+|Edad|21|
+|Residencia|Arequipa|
+|Segmento|Turista Nacional|
+|Enlace de la entrevista| [https://youtu.be/bhkQCGRL0yY](https://youtu.be/bhkQCGRL0yY)|
+
+</div>
+
+_Resumen:_ El entrevistado viaja como mochilero, improvisando sobre la marcha. Usó TravelMatch desde escritorio para encontrar actividades económicas y culturales, sin necesidad de itinerario fijo. Apreció poder comparar precios y ver valoraciones de otros mochileros. La información le generó confianza y destacó la utilidad de las recomendaciones personalizadas según ubicación. Considera que la plataforma le ahorró tiempo en cada destino. Repetiría el uso y la recomendaría a quienes viajan de forma espontánea. Sugiere integrar un mapa interactivo para facilitar la exploración de actividades cercanas.
+
+
+<!-- Segmento objetivo 3: TURISTAS CORPORATIVOS  falta la entrevista 7 y 9-->
+---
+
+**Entrevista 8:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-eduardo.jpg" alt="entrevista-eduardo" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Eduardo Montalvo |
+|----|-----|
+|Edad| 25 |
+|Residencia|Lima|
+|Enlace de la entrevista| [https://youtu.be/mt-tBBAkeI4](https://youtu.be/mt-tBBAkeI4)|
+
+</div>
+
+_Resumen:_ El entrevistado realiza viajes laborales frecuentes dentro del país y dispone de poco tiempo libre. Usó la plataforma para encontrar actividades rápidas y cercanas a su alojamiento, logrando optimizar sus pausas laborales. Valoró la velocidad de reserva y la confirmación inmediata desde escritorio. Las recomendaciones se adaptaron a su agenda y la facturación automática fue especialmente útil para su trabajo. Considera que la plataforma facilitó la organización de actividades de forma eficiente. Planea volver a usarla y la recomendaría a otros viajeros de negocios. Sugiere integrar una agenda corporativa y reportes automáticos de gastos.
+
+---
+
+
 
 #### 5.3.3. Evaluaciones según heurísticas.
 

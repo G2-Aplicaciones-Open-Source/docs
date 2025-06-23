@@ -3358,21 +3358,19 @@ Revisar la interfaz de usuario para la carga de fotos y precios para asegurar qu
 
 ### 5.4. Video About-the-Product
 
-**Reemplazar**
-En esta sección el equipo introduce y describe el contenido del Video About-the-
-Product, el cual tiene como público objetivo los visitantes al Landing Page, quienes
-desean conocer sobre el modelo de negocio y las características principales de los
-productos de software, al igual que los usuarios de las Aplicaciones, quienes desean
-realizar tareas relacionadas con los procesos soportados por la solución. El tono que
-utilice en la comunicación debe ser consistente con el tono adoptado para el
-producto y debe incluirse al menos un testimonio positivo de un usuario que haya
-participado en las entrevistas de validación. Debe incluirse también en esta sección
-un screenshot del Video, el URL de la versión publicada en Microsoft Stream (y
-además, el URL de la versión publicada en YouTube utilizada para incrustarse en el
-Landing Page), así como el timing (duración) del mismo. Ver otras indicaciones
-importantes en el Anexo C. Indicaciones para secciones que incluyen Videos.
+En esta sección, el equipo introduce y describe el contenido del Video About-the-Product. Este video está diseñado para los visitantes de la Landing Page que buscan comprender el modelo de negocio y las características principales de nuestra solución de software, así como para los usuarios de las aplicaciones que desean familiarizarse con los procesos soportados. El tono de la comunicación es consistente con la identidad de nuestro producto, ofreciendo una visión clara y directa de sus funcionalidades.
 
-URL del video: []
+El video incluye una descripción general de Travel Match, enfocándose en cómo nuestra plataforma conecta a turistas con agencias locales, facilitando la búsqueda, comparación y reserva de experiencias turísticas. Se presenta el proceso de uso de la aplicación, destacando la facilidad de navegación y la eficiencia en la gestión de viajes. Además, hemos incluido un testimonio positivo de un usuario que participó en nuestras entrevistas de validación, resaltando su experiencia favorable con la plataforma.
+
+<p align="center">
+    <img src="assets/evidencias/about-the-product.png" alt="About The Product" width=60% >
+</p>
+
+
+URL en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323270_upc_edu_pe/EdUp0DAimbJJqBXb20Iorl0B-SvwXoGJ4HidDpyC_jcd_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wDMOaB
+
+URL en YouTube (para incrustar en Landing Page): https://youtu.be/zy340YfRT58
+Duración del Video: [00:02:57]
 
 ## Conclusiones
 

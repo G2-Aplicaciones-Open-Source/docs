@@ -3139,6 +3139,24 @@ _Resumen:_ El entrevistado viaja como mochilero, improvisando sobre la marcha. U
 <!-- Segmento objetivo 3: TURISTAS CORPORATIVOS  falta la entrevista 7 y 9-->
 ---
 
+**Entrevista 7:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-abigail2.png" alt="entrevista-abigail" width=30% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Abigail Goñe |
+|----|-----|
+|Edad| 19 |
+|Residencia|Lima|
+|Enlace de la entrevista| [https://youtu.be/YrlhmgWoWvE](https://youtu.be/YrlhmgWoWvE)|
+
+</div>
+
+_Resumen:_ La entrevistada, quien realiza viajes laborales frecuentes, utilizó la plataforma para encontrar y organizar actividades rápidas y cercanas a su alojamiento, lo que le permitió optimizar sus pausas laborales. Valoró la capacidad de filtrar por actividades rápidas y por cercanía al hotel, así como la eficiencia de las opciones de reserva rápida y confirmación inmediata. Las recomendaciones se adaptaron bien a su agenda corporativa y destacó la utilidad de la facturación automática. Considera que la plataforma facilitó enormemente su organización personal de actividades y la califica como muy probable para usarla nuevamente en futuros viajes de trabajo, dada su eficiencia y la capacidad de aprovechar al máximo su tiempo.
+
 **Entrevista 8:**
 
 <p align="center">

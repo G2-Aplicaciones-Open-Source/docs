@@ -36,7 +36,7 @@
 
 </div>
 
-<div align="center"> Abril 2025 </div>
+<div align="center"> Junio 2025 </div>
 
 <hr>
 
@@ -3052,21 +3052,42 @@ Para realizar las entrevistas de validación, primero se han planteado 7 pregunt
 **Entrevista 1:**
 
 <p align="center">
-    <img src="assets/evidencias/entrevista-leo.jpg" alt="entrevista-validacion-leo" width=60% >
+    <img src="assets/evidencias/entrevista-leo.jpg" alt="Entrevista Jose Guerrero" width=60% >
 </p>
 
 <div align="center">
 
-| Entrevistado | Adrian Yañez Mendez |
+| Entrevistado | Jose Guerrero |
 |----|-----|
 |Edad|24|
-|Residencia|Villa el Salvador|
+|Residencia|San Miguel|
 |Segmento|Agencias de turismo locales|
-|Enlace de la entrevista| [https://youtu.be/U9y9BZbecxU](https://youtu.be/U9y9BZbecxU)|
+|Enlace de la entrevista| [https://youtu.be/US-9zURN3JY](https://youtu.be/US-9zURN3JY)|
 
 </div>
 
-_Resumen:_ El entrevistado tuvo un recorrido rápido sobre la aplicación. Manejó las transciciones de manera fluida. Él comenta que le fue fácil entender cómo utilizar la aplicación. Dice que la aplicación puede mejorar. Él espera que hayan más características en la aplicación, como la visualización de una gráfica de la cantidad de ventas diarias en intervalos de una semana y mes. Comenta que le gustaría que hayan alertas de notificación para cuando se realice alguna acción la aplicación le brinde una confirmación. Asimismo, recomendaría la aplicación a otros usuarios, le gustó la idea de la aplicación y cómo esta ayuda a los usuarios.
+_Resumen:_ José Guerrero mostró una satisfacción completa con la plataforma, respondiendo positivamente a todas las preguntas de validación. Destacó que la herramienta facilitó significativamente la gestión de reservas, permitiéndole captar más clientes y responder más rápido sin depender de canales tradicionales. Valoró especialmente la facilidad para publicar y actualizar tours, el aumento de visibilidad que les permitió llegar a un público más amplio, y el sistema de notificaciones en tiempo real que mejoró sus tiempos de respuesta. Las herramientas de análisis le ayudaron a entender mejor las preferencias de los turistas y ajustar su oferta, mientras que el soporte técnico recibió una calificación excelente por su rapidez y efectividad. José recomendaría la plataforma a otras agencias por ser una herramienta eficaz para aumentar visibilidad y facilitar el contacto directo con turistas, confirmando que el producto está generando valor real en su negocio.
+
+---
+
+**Entrevista 2:**
+
+<p align="center">
+    <img src="assets/evidencias/entrevista-luis.png" alt="Entrevista Luis Ramirez" width=60% >
+</p>
+
+<div align="center">
+
+| Entrevistado | Luis Ramirez |
+|----|-----|
+|Edad|23|
+|Residencia|San Miguel|
+|Segmento|Agencias de turismo locales|
+|Enlace de la entrevista| [https://youtu.be/pKZUF_4XPss](https://youtu.be/pKZUF_4XPss)|
+
+</div>
+
+_Resumen:_ El entrevistado mostró una respuesta muy positiva hacia la plataforma, aunque con algunas reservas menores debido a su experiencia en desarrollo. Destacó que la herramienta mejoró significativamente la organización de su trabajo al centralizar la gestión de reservas, superando el uso disperso de WhatsApp y correos. Aunque inicialmente tuvo una curva de aprendizaje para entender cómo agregar fotos y precios, después encontró el proceso sencillo. La plataforma cumplió sus expectativas de visibilidad, atrayendo varios clientes nuevos que antes solo llegaban por redes sociales, y valoró especialmente el sistema de notificaciones que les evitó perder reservas de último minuto. Luis recomendaría la plataforma por su practicidad y porque hace ver más profesional su agencia. Las herramientas de análisis aún representan un área de oportunidad para él, ya que está aprendiendo a usarlas, pero reconoce su utilidad para entender qué tours generan más interés. El soporte técnico recibió una calificación satisfactoria por su rapidez al resolver problemas, confirmando que la plataforma aporta valor real especialmente para usuarios menos experimentados en el sector.
 
 ---
 
@@ -3111,8 +3132,6 @@ _Resumen:_ El entrevistado organiza sus viajes con anticipación, priorizando ex
 </div>
 
 _Resumen:_ El entrevistado busca experiencias auténticas y fuera del turismo convencional, como actividades culturales y gastronómicas. Usó la plataforma para comparar precios y duraciones fácilmente, lo que considera esencial. Encontró la información confiable y valoró especialmente las reseñas de otros viajeros. Las recomendaciones personalizadas fueron relevantes y le permitieron organizarse sin complicaciones desde su laptop. Quedó satisfecho con la experiencia y resaltó el ahorro de tiempo. Recomendaría la plataforma a otros viajeros independientes. Como mejora, sugiere itinerarios sugeridos y más contenido visual.
-
-
 
 ---
 
@@ -3385,10 +3404,11 @@ El video incluye una descripción general de Travel Match, enfocándose en cómo
 </p>
 
 
-URL en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323270_upc_edu_pe/EdUp0DAimbJJqBXb20Iorl0B-SvwXoGJ4HidDpyC_jcd_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wDMOaB
+- URL en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323270_upc_edu_pe/EdUp0DAimbJJqBXb20Iorl0B-SvwXoGJ4HidDpyC_jcd_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wDMOaB
 
-URL en YouTube (para incrustar en Landing Page): https://youtu.be/zy340YfRT58
-Duración del Video: [00:02:57]
+- URL en YouTube (para incrustar en Landing Page): https://youtu.be/zy340YfRT58
+
+- Duración del Video: [00:02:57]
 
 ## Conclusiones
 
@@ -3396,7 +3416,7 @@ Duración del Video: [00:02:57]
 
 - **Evolución exitosa de la arquitectura del producto:** Durante los Sprints 2 y 3, el equipo logró una transición exitosa desde una landing page estática hacia un ecosistema completo de aplicación web. La implementación del frontend en Angular y el desarrollo del backend con Spring Boot demuestran la capacidad del equipo para escalar la solución y crear una base técnica sólida para funcionalidades avanzadas.
 
-- **Implementación efectiva de la arquitectura Domain-Driven Design:** El desarrollo del backend siguió exitosamente los principios de DDD, implementando bounded contexts claramente definidos (IAM, Profiles, Agencies, Experiences, etc.). Esta arquitectura modular no solo facilita el mantenimiento del código, sino que también permite la escalabilidad futura del sistema y una mejor separación de responsabilidades.
+- **Implementación efectiva de la arquitectura Domain-Driven Design:** El desarrollo del backend siguió exitosamente los principios de DDD, implementando bounded contexts claramente definidos (IAM, Profiles, Agencies, Experiences, Bookings, Geolocalization, etc.). Esta arquitectura modular no solo facilita el mantenimiento del código, sino que también permite la escalabilidad futura del sistema y una mejor separación de responsabilidades.
 
 - **Integración completa frontend-backend:** Se logró establecer una comunicación efectiva entre el frontend desarrollado en Angular y los servicios REST del backend en Spring Boot. La documentación completa de endpoints con Swagger y el despliegue exitoso en Azure demuestran una integración robusta que soporta las funcionalidades principales del negocio.
 
@@ -3427,17 +3447,19 @@ A continuación, se detalla la pauta de secuencias de contenido del video, inclu
 
 - URL en YouTube (para incrustar en Landing Page): https://youtu.be/EzUXV6MuBdo
 
+- Duración del Video: [00:04:57]
+
 - Pauta de Secuencias de Contenido:
 
-    - 00:00:05 - Testimonio de Matías Aspajo: Matías comparte su experiencia en el proyecto, detallando su involucramiento en el Frontend (vista de favoritos) y Backend (Bounding Content de agencias). Destaca el aprendizaje sobre la estructuración de proyectos con Ágora y la eficiente integración de componentes, resaltando la buena complementación del equipo y la superación conjunta de desafíos.
+    - 00:00:05 - Testimonio de Mathias Aspajo: Mathias comparte su experiencia en el proyecto, detallando su involucramiento en el Frontend (vista de favoritos) y Backend (Bounding Content de agencias). Destaca el aprendizaje sobre la estructuración de proyectos con Ágora y la eficiente integración de componentes, resaltando la buena complementación del equipo y la superación conjunta de desafíos.
 
     - 00:01:03 - Testimonio de Jorge Guevara: Jorge describe su participación en el Front-end (Angular para componentes reutilizables, enrutamiento, consumo de servicios REST, diseño responsivo) y Back-end (implementación de Endpoints con Spring Boot, lógica de negocio para gestión de experiencias turísticas y disponibilidad). Menciona el logro de los objetivos planteados y el fortalecimiento de sus competencias técnicas en Angular, Java y diseño de API Rest, además de la mejora en trabajo en equipo y resolución de problemas.
 
-    - 00:01:58 - Testimonio de Alejandra Linares Bernabé: Alejandra se centra en su rol en la creación del Backend del proyecto utilizando Spring Boot para microservicios y APIs Rest, junto con la implementación de bases de datos. Enfatiza que el desarrollo del Backend siguió la filosofía de Domain Driven Design para modelar el dominio del negocio, logrando un proyecto funcional, escalable y que resuelve un problema real.
+    - 00:01:58 - Testimonio de Cesar Linares: Cesar se centra en su rol en la creación del Backend del proyecto utilizando Spring Boot para microservicios y APIs Rest, junto con la implementación de bases de datos. Enfatiza que el desarrollo del Backend siguió la filosofía de Domain Driven Design para modelar el dominio del negocio, logrando un proyecto funcional, escalable y que resuelve un problema real.
 
-    - 00:02:57 - Testimonio de John Gálvez: John detalla sus tareas en el sprint número 3, incluyendo la reestructuración del diagrama de clases UML para identificar los principales bounding contexts. En el Backend, fue responsable de elaborar el código para los bounding contexts de IA y de perfiles y preferencias del usuario. Además, colaboró en el desarrollo de una nueva versión de la Landing Page e implementó vistas para el Front-end. También se encargó de registrar las entrevistas de validación con agencias y de elaborar el sprint planning número 3.
+    - 00:02:57 - Testimonio de Jhon Galvez: Jhon detalla sus tareas en el sprint número 3, incluyendo la reestructuración del diagrama de clases UML para identificar los principales bounding contexts. En el Backend, fue responsable de elaborar el código para los bounding contexts de IAM y de perfiles y preferencias del usuario. Además, colaboró en el desarrollo de una nueva versión de la Landing Page e implementó vistas para el Front-end. También se encargó de registrar las entrevistas de validación con agencias y de elaborar el Sprint Planning 3.
 
-    - 00:03:47 - Testimonio de Farid Briseño: Farid expone su encargo en el bounding context de geolocalización, enfocado en la ubicación de experiencias. En la primera fase del desarrollo, estuvo a cargo del diseño de la aplicación, incluyendo mockups y prototipos. Reflexiona sobre la evolución de la comunicación del grupo, que inicialmente no fue fluida, pero mejoró progresivamente, destacando el apoyo del equipo para guiarlo en el proceso de desarrollo del Backend.
+    - 00:03:47 - Testimonio de Farid Briceño: Farid expone su encargo en el bounding context de geolocalización, enfocado en la ubicación de experiencias. En la primera fase del desarrollo, estuvo a cargo del diseño de la aplicación, incluyendo mockups y prototipos. Reflexiona sobre la evolución de la comunicación del grupo, que inicialmente no fue fluida, pero mejoró progresivamente, destacando el apoyo del equipo para guiarlo en el proceso de desarrollo del Backend.
 
 <hr>
 

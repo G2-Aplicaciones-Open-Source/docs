@@ -3022,8 +3022,50 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo del backen
 #### 5.2.4. Sprint 4
 
 ##### 5.2.4.1. Sprint Planning 4
+
+En esta reunión de planificación del Sprint 4, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados para esta iteración. El Sprint 4 se centrará en el desarrollar los últimos detalles del Backend y en realizar una nueva versión del Frontend. El objetivo principal es establecer una base técnica sólida y desplegar una versión funcional de la aplicación, asegurando que el producto sea accesible y ofrezca una primera experiencia de usuario significativa, fusionando las funcionalidades del Backend y el potencial de la interfaz del Frontend
+
+| **Sprint #** | Sprint 4 |
+|---|---|
+| **Sprint Planning Background** | |
+| **Date** | 04-05-2025 |
+| **Location** | La reunión se llevó a cabo de manera virtual a través de Discord. |
+| **Prepared By** | Galvez, Jhon |
+| **Attendees (to planning meeting)** | Aspajo, Mathias / Briceño, Farid / Galvez, Jhon / Guevara, Jorge |
+| **Sprint 3 Review Summary** | Se logró desplegar una primera versión de nuestro *backend*, el resultado fue gratificante, los endpoints publicados nos servirán para el Frontend, aunque faltan agregar algunas operaciones que nos dimos cuenta serían importantes para que el Frontend no se encargue de la lógica del negocio. Pudimos identificar varias áreas de mejora para mostrar información vital para el *core* de nuestro negocio. Además, tras recibir la retroalimentación del docente, identificamos que algunas secciones de la documentación del desarrollo de nuestro producto no fueron bien elaboradas o requiere mejora, como agregar evidencia de absolutamente todo lo trabajado(modificado) en el proyecto. |
+| **Sprint 3 Retrospective Summary** | Consideramos que durante el sprint anterior se infringieron ligeramente los tiempos de entrega establecidos dentro del equipo, lo que generó presión antes de la entrega del producto debido a la cantidad de pendientes en poco tiempo. Asimismo, en cuanto a la calidad del código desarrollado, identificamos un margen de mejora para conseguir mostrar un MVP que permita visualizar las funcionalidades clave del negocio. Finalmente, creemos que existen oportunidades de mejora al usar herramientas para gestionar el progreso del equipo de forma más eficiente. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 4 Goal** | Nuestro objetivo es implementar una versión actualizada del *Frontend*, nueva versión de los servicios web *Backend*. Con esto, buscamos mostrar, a las partes interesadas, una demostración clara de la funcionalidad de las vistas principales y una interacción fluida con los *endpoints* implementados en nuestro *backend*. Esto se confirmará cuando alcancemos una efectividad del 100% en las consultas realizadas a la API. |
+| **Sprint n Velocity** | El sprint está planificado para completarse en 14 días (2 semanas), y el equipo puede aceptar 25 Story Points. |
+| **Sum of Story Points** | 20 |
+
 ##### 5.2.4.2. Aspect Leaders and Collaborators
+
+En el Sprint 4 se definieron los siguientes aspectos clave para la implementación de todo el trabajo (entrega final). En resumidas cuentas, se realizó una nueva versión del Frontend, se aplicaron ligeros cambios al Backend, como la implentación de gets que faltaban.
+
+1. **Backend and Frontend Connection**  
+2. **Auth Configuration**  
+3. **New Deployments**  
+4. **Services Documentation**  
+
+A continuación la matriz de Liderazgo y Colaboración (LACX), donde “L” indica el líder de cada aspecto y “C” a sus colaboradores:
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Backend and Frontend Connection** | **Auth Configuration** | **New Deployments** | **Services Documentation** |
+|-----------------------------------------|---------------------|-------------------------------------|------------------------|---------------------|----------------------------|
+| Aspajo Alvarez, Mathias        	  | AdeXzz              | C                		      | C                      | L                   | C                          |
+| Briceño De la Cruz, Farid		  | InjustShin		| C		   		      | C	               | C		     | L		          |
+| Galvez Chambi, Jhon                     | Chaomeum            | C                		      | L                      | C                   | C                          |
+| Guevara Tejada, Jorge           	  | Jorgito170          | L                		      | C                      | C                   | C                          |
+
+
 ##### 5.2.4.3. Sprint Backlog 4
+
+| **Sprint #** | **Sprint 4** |       |       |       |       |       |       |
+| :-           | :-           | :-    | :-    | :-    | :-    | :-    | :-    |
+| **User Story** |             | **Work-Item / Task** |       |       |       |       |       |
+| **ID**       | **Title**                         | **Id**   | **Title**                                      | **Description**                                                                 | **Estimation (Hrs)** | **Assigned To**               | **Status**    |
+| US-0#        | title del us                  | Tdasdsadsa1    | asdsda           | Cdecscripticon | 0.5                  | Aspajo Alvarez, Mathias       | To-do         |
+
 ##### 5.2.4.4. Development Evidence for Sprint Review.
 ##### 5.2.4.5. Execution Evidence for Sprint Review
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review

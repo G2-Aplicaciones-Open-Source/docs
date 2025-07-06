@@ -112,7 +112,19 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
         <p align="center">
             <img src="assets/evidencias/repo-docs-network.png" alt="repo-network" width=60% >
         </p>
-        
+
+- **TP**:
+    Para el TP, se adjuntan las siguientes evidencias de la elaboracion del reporte:
+
+    - Pulse Insights:
+    <p align="center">
+        <img src="assets/evidencias/TP-Insights-Pulse.png" alt="insights tp" width=60% >
+    </p>
+
+    - Contributors Insights:
+    <p align="center">
+        <img src="assets/evidencias/TP-Insights-Contributors.png" alt="insights tp" width=60% >
+    </p>
 
 - **TB2**:
     Para la TB2, se adjuntan las siguientes evidencias de la elaboracion del reporte:

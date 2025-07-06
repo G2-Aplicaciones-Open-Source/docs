@@ -3009,6 +3009,100 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo del backen
 
 	<img src="assets/evidencias/backend-insights-network.png" alt="Sprint 3 Insights Network"/>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### 5.2.4. Sprint 4
+
+##### 5.2.4.1. Sprint Planning 4.
+En esta última planificación de Sprint, el equipo de desarrollo se reunió de manera virtual con el propósito de organizar y coordinar el cierre integral del proyecto TravelMatch. Dado que este Sprint representa la culminación del trabajo, los esfuerzos se enfocarán en finalizar y consolidar los desarrollos del frontend, backend y la landing page, garantizando una versión completamente funcional y lista para presentación. Se dará prioridad a la integración, corrección de errores, validaciones finales y pruebas de usabilidad. Además, se establecerá la documentación y evidencia final de la aplicación para su despliegue definitivo.
+
+
+| **Sprint #**                        | Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Date**                            | 2025-07-06                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Location**                        | La reunión se llevó a cabo de manera virtual a través de Discord.                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Prepared By**                     | Galvez, Jhon                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Attendees (to planning meeting)** | Aspajo, Mathias / Briceño, Farid / Galvez, Jhon / Guevara, Jorge                                                                                                                                                                                                                                                                                                                                                                         |
+| **Sprint 3 Review Summary**         | Se culminó exitosamente con la integración parcial del backend con el frontend, logrando exponer múltiples endpoints funcionales a través de Swagger y ejecutar operaciones CRUD en tiempo real. Se desarrollaron y refinaron funcionalidades clave como el sistema de reseñas, carrito de compras, staff de agencia, disponibilidad de tours y favoritos. También se logró el despliegue del backend en Azure App Service con integración continua mediante GitHub Actions. |
+| **Sprint 3 Retrospective Summary**  | El equipo demostró mayor cohesión técnica y coordinación. Se utilizó efectivamente Git Flow para la gestión de versiones, y se reforzaron las convenciones de commits y revisiones en pull requests. Se identificó, sin embargo, la necesidad de una planificación más precisa de horas y story points para evitar acumulación de tareas críticas en los últimos días. El sprint cerró con avances sólidos y base técnica preparada para la integración final.               |
+| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Sprint 4 Goal**                   | Finalizar y desplegar la versión completa y estable de TravelMatch. Esto incluye: integración total de frontend con los servicios backend; desarrollo completo de la landing page; implementación final de validaciones, feedback visual y navegación completa; pruebas funcionales y de usuario; documentación final técnica y de despliegue. El entregable será una versión completamente funcional y accesible desde la web.                                              |
+| **Sprint n Velocity**               | El sprint está planificado para completarse en 14 días (2 semanas), y el equipo ha estimado una capacidad de 30 Story Points, considerando el enfoque total del cierre.                                                                                                                                                                                                                                                                                                      |
+| **Sum of Story Points**             | 28                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+
+##### 5.2.4.2. Aspect Leaders and Collaborators
+
+Durante este Sprint final, el equipo orientó todos sus esfuerzos a la consolidación e integración total del sistema. En el backend, se enfocaron en la finalización de todos los bounded contexts, validaciones, control de errores y exposición pública de servicios mediante Swagger. Asimismo, se trabajó en la integración continua y despliegue automatizado. A continuación, se presenta la Matriz de Liderazgo y Colaboración (LACX), donde se detalla la participación de cada miembro del equipo en aspectos clave del backend y su vinculación con el frontend.
+
+|   **Team Member**   | **GitHub Username** | **Integration & Validation** <br> Leader (L)/Collaborator(C) | **Data Consistency** <br> Leader (L)/Collaborator(C) | **Backend Finalization** <br> Leader (L)/Collaborator(C) | **Frontend Integration** <br> Leader (L)/Collaborator(C) |
+| :-----------------: | :-----------------: | :----------------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------: |
+| **Aspajo, Mathias** |        AdeXzz       |                               C                              |                           L                          |                             C                            |                             L                            |
+|  **Briceño, Farid** |      InjustShin     |                               C                              |                           C                          |                             C                            |                             L                            |
+|   **Galvez, Jhon**  |       Chaomeum      |                               L                              |                           C                          |                             L                            |                             C                            |
+|  **Guevara, Jorge** |      Jorgito170     |                               C                              |                           L                          |                             C                            |                             C                            |
+
+
+##### 5.2.4.3. Sprint Backlog 4.
+
+
+
+##### 5.2.4.4. Development Evidence for Sprint Review.
+
+
+
+##### 5.2.4.5. Execution Evidence for Sprint Review.
+
+
+
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+
+
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 5.3. Validation Interviews
 
 #### 5.3.1. Diseño de Entrevistas

@@ -81,10 +81,12 @@ Aquí tienes el resultado mejorado de la sección "Colaboración por Entrega":
         <p align="center">
             <img src="assets/evidencias/repo-members.png" alt="repo-members" width="60%">
         </p>
+
         - Creación de ramas por cada capítulo:
         <p align="center">
             <img src="assets/evidencias/repo-branches.png" alt="repo-branches" width="60%">
         </p>
+
         - Commits realizados en las ramas individuales:
         <p align="center">
             <img src="assets/evidencias/cap1-branch-commits.png" alt="cap1-branch-commits" width="60%">
@@ -101,6 +103,7 @@ Aquí tienes el resultado mejorado de la sección "Colaboración por Entrega":
         <p align="center">
             <img src="assets/evidencias/cap5-branch-commits.png" alt="cap5-branch-commits" width="60%">
         </p>
+
         - Analítica del repositorio con participación de todos los miembros:
         <p align="center">
             <img src="assets/evidencias/repo-docs-analytics.png" alt="repo-analytics" width="60%">
@@ -117,6 +120,7 @@ Aquí tienes el resultado mejorado de la sección "Colaboración por Entrega":
         <p align="center">
             <img src="assets/evidencias/sprint-2-docs-1.png" alt="Insights TP1" width="60%">
         </p>
+
         - Network Insights:
         <p align="center">
             <img src="assets/evidencias/sprint-2-docs-2.png" alt="Insights TP1" width="60%">
@@ -130,6 +134,7 @@ Aquí tienes el resultado mejorado de la sección "Colaboración por Entrega":
         <p align="center">
             <img src="assets/evidencias/tb2-insights-pulse.png" alt="Insights TB2" width="60%">
         </p>
+
         - Contributors Insights:
         <p align="center">
             <img src="assets/evidencias/tb2-insights-contrib.png" alt="Insights TB2" width="60%">
@@ -143,6 +148,7 @@ Aquí tienes el resultado mejorado de la sección "Colaboración por Entrega":
         <p align="center">
             <img src="assets/evidencias/sprint-4-docs-1.png" alt="Insights TF1" width="60%">
         </p>
+        
         - Contributors Insights:
         <p align="center">
             <img src="assets/evidencias/sprint-4-docs-2.png" alt="Insights TF1" width="60%">

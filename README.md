@@ -240,12 +240,88 @@ Aquí tienes el resultado mejorado de la sección "Colaboración por Entrega":
     - [4.8.1. Database Diagram](#481-database-diagram)
 
 [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
-  - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Colaboración por Entrega](#colaboración-por-entrega)
+  - [Colaboración por Entrega](#colaboración-por-entrega-1)
+- [Tabla de Contenidos](#tabla-de-contenidos)
+- [Student Outcome](#student-outcome)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de Integrantes del Equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos Objetivos](#13-segmentos-objetivos)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.4.1. Empathy Mapping Turistas nacionales e internacionales](#2341-empathy-mapping-turistas-nacionales-e-internacionales)
+    - [2.3.4.2. Empathy Mapping Agencias de turismo locales](#2342-empathy-mapping-agencias-de-turismo-locales)
+    - [2.3.4.3. Empathy Mapping Viajeros por trabajo](#2343-empathy-mapping-viajeros-por-trabajo)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+    - [2.3.5.1. As-is Scenario Mapping Turistas nacionales e internacionales](#2351-as-is-scenario-mapping-turistas-nacionales-e-internacionales)
+    - [2.3.5.2. As-is Scenario Mapping Agencias de turismo locales](#2352-as-is-scenario-mapping-agencias-de-turismo-locales)
+    - [2.3.5.3. As-is Scenario Mapping Viajeros por trabajo](#2353-as-is-scenario-mapping-viajeros-por-trabajo)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+    - [3.1.1. To-Be Scenario Mapping Turistas nacionales e internacionales](#311-to-be-scenario-mapping-turistas-nacionales-e-internacionales)
+    - [3.1.2. To-Be Scenario Mapping Agencias de turismo locales](#312-to-be-scenario-mapping-agencias-de-turismo-locales)
+    - [3.1.3. To-Be Scenario Mapping Viajeros por trabajo](#313-to-be-scenario-mapping-viajeros-por-trabajo)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagrams](#461-software-architecture-context-diagrams)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1. Software Configuration Management.](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+  - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
       - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
@@ -257,7 +333,7 @@ Aquí tienes el resultado mejorado de la sección "Colaboración por Entrega":
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
     - [5.2.2. Sprint 2](#522-sprint-2)
       - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
       - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
       - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
       - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
@@ -265,37 +341,36 @@ Aquí tienes el resultado mejorado de la sección "Colaboración por Entrega":
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
     - [5.2.3. Sprint 3](#523-sprint-3)
-      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.1. Sprint Planning 3.](#5231-sprint-planning-3)
       - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
-      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
-      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
-      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
     - [5.2.4. Sprint 4](#524-sprint-4)
-      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.1. Sprint Planning 4.](#5241-sprint-planning-4)
       - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
-      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
-      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
-      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
-      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
-      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
-    - [5.2.4. Sprint 4](#524-sprint-4)
-      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
-      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
-      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
-      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
-      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
-      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
-      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.3. Sprint Backlog 4.](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review.](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
       - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-segun-heuristicas)
+  - [Segmento 1: Agencias de turismo locales](#segmento-1-agencias-de-turismo-locales)
+  - [Segmento 2: Turistas nacionales e internacionales](#segmento-2-turistas-nacionales-e-internacionales)
+  - [Semento 3: Viajeros por trabajo (Turismo corporativo)](#semento-3-viajeros-por-trabajo-turismo-corporativo)
+    - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
+- [Conclusiones](#conclusiones)
+  - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+  - [Video About-The-Team](#video-about-the-team)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
 
 [Conclusiones](#conclusiones)
   - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
@@ -2770,20 +2845,32 @@ A continuación, se presenta un cuadro con los commits realizados en el reposito
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 
-En esta sección se presenta la evidencia de ejecución correspondiente al sprint del proyecto TravelMatch, una aplicación centrada en ofrecer experiencias turísticas personalizadas. Las capturas incluidas fueron tomadas desde Swagger UI y muestran la correcta ejecución de los endpoints desarrollados, validando su comportamiento y funcionamiento real. Estas pruebas evidencian la interacción efectiva con los servicios backend para operaciones como creación, consulta, actualización y eliminación de recursos relacionados con experiencias, disponibilidades y medios. Cada resultado confirma que las funcionalidades implementadas no solo han sido integradas, sino que también están activas y operativas según los criterios establecidos en las historias de usuario del sprint.
+En esta sección se presenta la evidencia de ejecución correspondiente al sprint del proyecto TravelMatch, una aplicación centrada en ofrecer experiencias turísticas personalizadas. Las capturas incluidas fueron tomadas desde Swagger UI y muestran la correcta ejecución de los endpoints desarrollados, validando su comportamiento y funcionamiento real. Estas pruebas evidencian la interacción efectiva con los servicios backend para operaciones como creación, consulta, actualización y eliminación de recursos relacionados con experiencias, disponibilidades y medios. Cada resultado confirma que las funcionalidades implementadas no solo han sido integradas, sino que también están activas y operativas según los criterios establecidos en las historias de usuario del sprint. Así mismo, también se actualizó el landing page para conseguir la actualización de idiomas para que el usuario pueda escoger su idioma preferido entre español e inglés.
 
 **Evidencias visuales**
 
 <p align="center">
-    <img src="assets/evidencias/backend1.png" alt="landing-demo1"/>    
+    <img src="assets/evidencias/backend1.png" alt="backend-1"/>    
 </p>
 
 <p align="center">
-    <img src="assets/evidencias/backend2.png" alt="landing-demo2"/>    
+    <img src="assets/evidencias/backend2.png" alt="backend-2"/>    
 </p>
 
 <p align="center">
-    <img src="assets/evidencias/backend3.png" alt="landing-demo3"/>    
+    <img src="assets/evidencias/backend3.png" alt="backend-3"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/lp-en-es-1.png" alt="lp-1"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/lp-en-es-2.png" alt="lp-2"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/lp-en-es-3.png" alt="lp-3"/>    
 </p>
 
 
@@ -2920,6 +3007,12 @@ En esta sección se presenta la evidencia de documentación de los servicios des
 | **GET**    | `/api/v1/agencies/{agencyId}` | Obtener agencia por ID      |
 | **PUT**    | `/api/v1/agencies/{agencyId}` | Actualizar datos de agencia |
 | **DELETE** | `/api/v1/agencies/{agencyId}` | Eliminar agencia            |
+
+---
+
+- _Landing page i18n implementation_
+
+![lp-i18n](./assets/evidencias/lp-i18n.png)
 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
@@ -3089,8 +3182,28 @@ Durante este Sprint final, el equipo orientó todos sus esfuerzos a la consolida
 
 
 ##### 5.2.4.3. Sprint Backlog 4.
-
-
+| **Sprint #**   | **Sprint 3**                            |                      |                                   |                                                                                            |                      |                 |             |
+| :-             | :-                                      | :-                   | :-                                | :-                                                                                         | :-                   | :-              | :-          |
+| **User Story** |                                         | **Work-Item / Task** |                                   |                                                                                            |                      |                 |             |
+| **ID**         | **Title**                               | **Id**               | **Title**                         | **Description**                                                                            | **Estimation (Hrs)** | **Assigned To** | **Status**  |
+| US-01          | Registro básico                         | T01-2                | Confirmación vía email            | Implementar envío de correo de confirmación tras registro exitoso                          | 1.0                  | Jhon Galvez     | Done        |
+| US-16          | Cancelación de reservas                 | T16-1                | Crear vista de cancelación        | Diseñar pantalla y lógica para cancelar reserva                                            | 0.5                  | Jhon Galvez     | Done        |
+| US-27          | Analytics                               | T27-1                | Consultar visitas por experiencia | Obtener datos de visitas a cada tour y almacenarlos                                        | 1.5                  | Mathias Aspajo  | Done        |
+| US-56          | Edición de disponibilidad de tours      | T56-2                | Validar fechas futuras            | Bloquear selección de fechas pasadas                                                       | 0.5                  | Jhon Galvez     | Done        |
+| US-08          | Idiomas                                 | T08-1                | Cambiar idioma                    | Implementar un cambio de idiomas                                                           | 0.5                  | Mathias Aspajo  | Done        |
+| US-11          | Eliminar cuenta                         | T11-1                | Eliminar cuenta                   | El usuario podrá eliminar su cuenta para proteger su privacidad                            | 0.5                  | Jhon Galvez     | Done        |
+| US-18          | Favoritos                               | T18-1                | Añadir a favoritos                | El usuario podrá agregar una experiencia a sus favoritos para más tarde                    | 0.5                  | Farid Briceño   | Done        |
+| US-18          | Favoritos                               | T18-2                | Eliminar de favoritos             | El usuario podrá eliminar una experiencia de sus favoritos                                 | 0.5                  | Farid Briceño   | Done        |
+| US-20          | Mapas interactivos                      | T20-1                | Ver mapas interactivos            | Implementación de un mapa interactivo                                                      | 0.5                  | Jorge Guevara   | Done        |
+| US-21          | Vista previa de tours                   | T21-1                | Detalle de experiencia            | Implementar redirección a la vista de detalles de experiencia                              | 0.5                  | Farid Briceño   | Done        |
+| US-24          | Subir nuevos tours                      | T24-1                | Publicación de tours              | Implementar funcionalidad que permite a la agencia subir un tour visible para los turistas | 0.5                  | Jorge Guevara   | Done        |
+| US-25          | Editar Detalles de Tour                 | T25-1                | Editar tours                      | Editar los detalles de un tour                                                             | 0.5                  | Jhon Galvez     | Done        |
+| US-27          | Analytics                               | T27-1                | Visualización de métricas         | Añadir métricas a las agencias para observar mejor su experiencia publicada                | 0.5                  | Farid Briceño   | Done        |
+| US-29          | Crear promociones                       | T29-1                | Creación de ofertas               | Agregar función de ofertas a las experiencias sobre un precio base                         | 0.5                  | Jhon Galvez     | Done        |
+| US-40          | Ver información del startup             | T40-1                | Sección de la startup             | La sección del video about the team está incrustada en el landing page                     | 0.5                  | Jorge Guevara   | Done        |
+| US-42          | Visualización responsive                | T42-1                | Diseño responsive de landing      | El landing se muestra responsive ante distintas resoluciones                               | 0.5                  | Mathias Aspajo  | Done        |
+| US-53          | Eliminación de medios asociados         | T53-1                | Eliminar medios                   | Las agencias podrán descartar los medios subidos anteriormente                             | 0.5                  | Mathias Aspajo  | Done        |
+| US-59          | Visualización de medios de experiencias | T59-1                | Ver medios subidos                | Los turistas podrán visualizar los medios, como imágenes, que se añadan a la experiencia   | 0.5                  | Jorge Guevara   | Done        |
 
 ##### 5.2.4.4. Development Evidence for Sprint Review.
 

@@ -69,10 +69,6 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
 
 ### Colaboración por Entrega
 
-Aquí tienes el resultado mejorado de la sección "Colaboración por Entrega":
-
-### Colaboración por Entrega
-
 - **TB1:**
     En la Primera Entrega (TB1) del Project Report, cada miembro del equipo asumió responsabilidades específicas en la redacción de secciones asignadas. La coordinación se realizó de manera asincrónica, complementada con reuniones breves en línea para consensuar estilos de redacción y criterios de inclusión.
 

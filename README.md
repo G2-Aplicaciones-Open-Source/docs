@@ -32,11 +32,10 @@
 |       Briceño De La Cruz, Farid       |              u20211f211               |
 |          Galvez Chambi, Jhon          |              u202323270               |
 |         Guevara Tejada, Jorge         |              u202316057               |
-|        Linares Bernable, Cesar        |              u202019409               |
 
 </div>
 
-<div align="center"> Junio 2025 </div>
+<div align="center"> Julio 2025 </div>
 
 <hr>
 
@@ -44,9 +43,10 @@
 
 | Versión | Fecha | <div style="width:250px">Autor(es) </div> | <div align="center" style="width:400px">Descripción de la modificación</div> |
 |:-------:|:-----:|:-----------------------------------------:|-------------------------------------------------------------|
-| TB1 | 26/04/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br><br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge<br>- Linares Bernable, Cesar | Para esta entrega se han desarrollado los siguientes capítulos: <br>- Carátula<br>- Registro de Versiones del Informe<br>- Project Report Collaboration Insights<br>- Contenido<br>- Student Outcome<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Capítulo V: Product Implementation, Validation & Deployment<br>- 5.1. Software Configuration Management<br>- 5.1.1. Software Development Environment Configuration<br>- 5.1.2. Source Code Management<br>- 5.1.3. Source Code Style Guide & Conventions<br>- 5.1.4. Software Deployment Configuration<br>- 5.2. Landing Page, Services & Applications Implementation<br>- 5.2.1. Sprint 1<br>- 5.2.1.1. Sprint Planning 1<br>- 5.2.1.2. Aspect Leaders and Collaborators<br>- 5.2.1.3. Sprint Backlog 1<br>- 5.2.1.4. Development Evidence for Sprint Review<br>- 5.2.1.5. Execution Evidence for Sprint Review<br>- 5.2.1.6. Services Documentation Evidence for Sprint Review<br>- 5.2.1.7. Software Deployment Evidence for Sprint Review<br>- 5.2.1.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos |
+| TB1 | 26/04/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge<br>- Linares Bernable, Cesar | Para esta entrega se han desarrollado los siguientes capítulos: <br>- Carátula<br>- Registro de Versiones del Informe<br>- Project Report Collaboration Insights<br>- Contenido<br>- Student Outcome<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Capítulo V: Product Implementation, Validation & Deployment<br>- 5.1. Software Configuration Management<br>- 5.1.1. Software Development Environment Configuration<br>- 5.1.2. Source Code Management<br>- 5.1.3. Source Code Style Guide & Conventions<br>- 5.1.4. Software Deployment Configuration<br>- 5.2. Landing Page, Services & Applications Implementation<br>- 5.2.1. Sprint 1<br>- 5.2.1.1. Sprint Planning 1<br>- 5.2.1.2. Aspect Leaders and Collaborators<br>- 5.2.1.3. Sprint Backlog 1<br>- 5.2.1.4. Development Evidence for Sprint Review<br>- 5.2.1.5. Execution Evidence for Sprint Review<br>- 5.2.1.6. Services Documentation Evidence for Sprint Review<br>- 5.2.1.7. Software Deployment Evidence for Sprint Review<br>- 5.2.1.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos |
 | TP1 | 16/05/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge<br>- Linares Bernable, Cesar | Para esta entrega se han desarrollado los siguiente capítulos: <br>- Correciones de la entrega TB1 <br>- Capítulo V: Product Implementation, Validation & Deployment<br> - 5.2.2. Sprint 2<br>- 5.2.2.1. Sprint Planning 2<br>- 5.2.2.2. Aspect Leaders and Collaborators<br>- 5.2.2.3. Sprint Backlog 2<br>- 5.2.2.4. Development Evidence for Sprint Review<br>- 5.2.2.5. Execution Evidence for Sprint Review<br>- 5.2.2.6. Services Documentation Evidence for Sprint Review<br>- 5.2.2.7. Software Deployment Evidence for Sprint Review<br>- 5.2.2.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos <br><br> Asimismo, se han actualizado se han actualizado las secciones Registro de Versiones del Informe, Project Report Collaboration Insights y Sección Student Outcome.<br><br>Con respecto a los artefactos, se han desarrollado: <br>- Versión inicial del Frontend Web Applications|
-| TB2 | 20/06/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge<br>- Linares Bernable, Cesar | Para esta entrega se han desarrollado los siguiente capítulos: <br>- Correciones de la entrega TP1 <br>- Capítulo V: Product Implementation, Validation & Deployment<br> - 5.2.3. Sprint 3<br>- 5.2.3.1. Sprint Planning 3<br>- 5.2.3.2. Aspect Leaders and Collaborators<br>- 5.2.3.3. Sprint Backlog 3<br>- 5.2.3.4. Development Evidence for Sprint Review<br>- 5.2.3.5. Execution Evidence for Sprint Review<br>- 5.2.3.6. Services Documentation Evidence for Sprint Review<br>- 5.2.3.7. Software Deployment Evidence for Sprint Review<br>- 5.2.3.8. Team Collaboration Insights during Sprint<br>- 5.3. Validation Interviews<br>- 5.3.1. Diseño de Entrevistas<br>- 5.3.2. Registro  de Entrevistas<br>- 5.3.3. Evaluaciones según heurísticas<br>- 5.4. Video About-the-Product<br>- Avance de Conclusiones, Bibliografía y Anexos <br><br> Asimismo, se han actualizado se han actualizado las secciones Registro de Versiones del Informe, Project Report Collaboration Insights y Sección Student Outcome.<br><br>Con respecto a los artefactos, se han desarrollado: <br>- Versión nueva del Landing Page <br>- Versión nueva del Frontend Web Applications<br>- Versión inicial del Backend Web Services<br>- Versión inicial del Video About-The-Product<br>- Versión inicial del Video About-The-Team|
+| TB2 | 20/06/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge | Para esta entrega se han desarrollado los siguiente capítulos: <br>- Correciones de la entrega TP1 <br>- Capítulo V: Product Implementation, Validation & Deployment<br> - 5.2.3. Sprint 3<br>- 5.2.3.1. Sprint Planning 3<br>- 5.2.3.2. Aspect Leaders and Collaborators<br>- 5.2.3.3. Sprint Backlog 3<br>- 5.2.3.4. Development Evidence for Sprint Review<br>- 5.2.3.5. Execution Evidence for Sprint Review<br>- 5.2.3.6. Services Documentation Evidence for Sprint Review<br>- 5.2.3.7. Software Deployment Evidence for Sprint Review<br>- 5.2.3.8. Team Collaboration Insights during Sprint<br>- 5.3. Validation Interviews<br>- 5.3.1. Diseño de Entrevistas<br>- 5.3.2. Registro  de Entrevistas<br>- 5.3.3. Evaluaciones según heurísticas<br>- 5.4. Video About-the-Product<br>- Avance de Conclusiones, Bibliografía y Anexos <br><br> Asimismo, se han actualizado se han actualizado las secciones Registro de Versiones del Informe, Project Report Collaboration Insights y Sección Student Outcome.<br><br>Con respecto a los artefactos, se han desarrollado: <br>- Versión nueva del Landing Page <br>- Versión nueva del Frontend Web Applications<br>- Versión inicial del Backend Web Services<br>- Versión inicial del Video About-The-Product<br>- Versión inicial del Video About-The-Team|
+| TF1 | 11/07/2025 | - Aspajo Alvarez, Mathias<br>- Briceño De La Cruz, Farid<br>- Galvez Chambi, Jhon<br>- Guevara Tejada, Jorge | Para esta entrega se han desarrollado los siguientes elementos: <br>- Final Project Final Documentation Report<br>- Final Project Final Keynote<br>- Final Project Final Individual Member Performance Report (by Team Leader)<br>- Archivo .zip con archivos complementarios según corresponda (videos, proyectos de software, documentos complementarios).<br><br>Consideraciones:<br>- Se incluye versión actualizada de Registro de Versiones del Informe, Project Report Collaboration Insights y Sección Student Outcome.<br>- Se incluye versión corregida y mejorada de artefactos previamente presentados.<br>- Se incluye en el informe versión final y evidencias de la conclusión del ciclo de vida y el proyecto con todos los Capítulos.<br>- Se encuentra desplegada la versión final de los productos digitales.<br>- Se incluye sección 5.2.4. Sprint 4.<br>- Se incluye además versión final de Conclusiones, Bibliografía y Anexos.|
 
 <hr>
 
@@ -69,63 +69,84 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
 
 ### Colaboración por Entrega
 
+Aquí tienes el resultado mejorado de la sección "Colaboración por Entrega":
+
+### Colaboración por Entrega
+
 - **TB1:**
-    Para la Primera Entrega (TB1) del Project Report, cada miembro del equipo participó activamente en la redacción de secciones específicas. La coordinación se realizó de forma asincrónica y vía reuniones breves en línea para consensuar estilos de redacción y criterios de inclusión.
+    En la Primera Entrega (TB1) del Project Report, cada miembro del equipo asumió responsabilidades específicas en la redacción de secciones asignadas. La coordinación se realizó de manera asincrónica, complementada con reuniones breves en línea para consensuar estilos de redacción y criterios de inclusión.
 
-    - Asignación de secciones por miembro:
-        - Aspajo Alvarez, Mathias (AdeXzz): Capitulo 2 (repartido), Capitulo 3
-        - Briceño De La Cruz, Farid	(InjustShin): Capitulo 4 (repartido)
-        - Galvez Chambi, Jhon (Chaomeum): Capitulo 1, Capitulo 4 (repartido)
-        - Guevara Tejada, Jorge	(Jorgito170): Capitulo 2 (repartido)
-        - Linares Bernable, Cesar (Cesar-Linares): Capitulo 4 (repartido)
-        - Todos: Capitulo 5
-
-    - A continuación, se adjuntan capturas que evidencian el trabajo distribuido:
+    - Evidencias del trabajo distribuido:
         - Miembros del equipo en el repositorio:
         <p align="center">
-            <img src="assets/evidencias/repo-members.png" alt="repo-members" width=60% >
+            <img src="assets/evidencias/repo-members.png" alt="repo-members" width="60%">
         </p>
         - Creación de ramas por cada capítulo:
         <p align="center">
-            <img src="assets/evidencias/repo-branches.png" alt="repo-branches" width=60% >
+            <img src="assets/evidencias/repo-branches.png" alt="repo-branches" width="60%">
         </p>
-        - Commits realizados en las ramas individuales:       
+        - Commits realizados en las ramas individuales:
         <p align="center">
-            <img src="assets/evidencias/cap1-branch-commits.png" alt="cap1-branch-commits" width=60% >
-        </p>
-        <p align="center">
-            <img src="assets/evidencias/cap2-branch-commits.png" alt="cap2-branch-commits" width=60% >
+            <img src="assets/evidencias/cap1-branch-commits.png" alt="cap1-branch-commits" width="60%">
         </p>
         <p align="center">
-            <img src="assets/evidencias/cap3-branch-commits.png" alt="cap3-branch-commits" width=60% >
+            <img src="assets/evidencias/cap2-branch-commits.png" alt="cap2-branch-commits" width="60%">
         </p>
         <p align="center">
-            <img src="assets/evidencias/cap4-branch-commits.png" alt="cap4-branch-commits" width=60% >
+            <img src="assets/evidencias/cap3-branch-commits.png" alt="cap3-branch-commits" width="60%">
         </p>
         <p align="center">
-            <img src="assets/evidencias/cap5-branch-commits.png" alt="cap5-branch-commits" width=60% >
-        </p>        
+            <img src="assets/evidencias/cap4-branch-commits.png" alt="cap4-branch-commits" width="60%">
+        </p>
+        <p align="center">
+            <img src="assets/evidencias/cap5-branch-commits.png" alt="cap5-branch-commits" width="60%">
+        </p>
         - Analítica del repositorio con participación de todos los miembros:
         <p align="center">
-            <img src="assets/evidencias/repo-docs-analytics.png" alt="repo-analytics" width=60% >
-        </p> 
-        <p align="center">
-            <img src="assets/evidencias/repo-docs-network.png" alt="repo-network" width=60% >
+            <img src="assets/evidencias/repo-docs-analytics.png" alt="repo-analytics" width="60%">
         </p>
-        
+        <p align="center">
+            <img src="assets/evidencias/repo-docs-network.png" alt="repo-network" width="60%">
+        </p>
 
-- **TB2**:
-    Para la TB2, se adjuntan las siguientes evidencias de la elaboracion del reporte:
-    
-    - Pulse Insights:
-    <p align="center">
-        <img src="assets/evidencias/tb2-insights-pulse.png" alt="insights tb2" width=60% >
-    </p>
+- **TP1:**
+    En la Segunda Entrega (TP1), el equipo continuó con la colaboración activa, enfocándose en la mejora de los capítulos previamente desarrollados y la incorporación de nuevas secciones.
 
-    - Contributors Insights:
-    <p align="center">
-        <img src="assets/evidencias/tb2-insights-contrib.png" alt="insights tb2" width=60% >
-    </p>
+    - Evidencias de la elaboración del reporte:
+        - Contributors Insights:
+        <p align="center">
+            <img src="assets/evidencias/sprint-2-docs-1.png" alt="Insights TP1" width="60%">
+        </p>
+        - Network Insights:
+        <p align="center">
+            <img src="assets/evidencias/sprint-2-docs-2.png" alt="Insights TP1" width="60%">
+        </p>
+
+- **TB2:**
+    En la Tercera Entrega (TB2), el equipo se centró en la validación de los avances técnicos y la documentación detallada de los artefactos desarrollados.
+
+    - Evidencias de la elaboración del reporte:
+        - Pulse Insights:
+        <p align="center">
+            <img src="assets/evidencias/tb2-insights-pulse.png" alt="Insights TB2" width="60%">
+        </p>
+        - Contributors Insights:
+        <p align="center">
+            <img src="assets/evidencias/tb2-insights-contrib.png" alt="Insights TB2" width="60%">
+        </p>
+
+- **TF1:**
+    En la Entrega Final (TF1), el equipo consolidó todos los avances realizados durante el ciclo de vida del proyecto, asegurando la calidad y coherencia de los productos entregados.
+
+    - Evidencias de la elaboración del reporte:
+        - Pulse Insights:
+        <p align="center">
+            <img src="assets/evidencias/sprint-4-docs-1.png" alt="Insights TF1" width="60%">
+        </p>
+        - Contributors Insights:
+        <p align="center">
+            <img src="assets/evidencias/sprint-4-docs-2.png" alt="Insights TF1" width="60%">
+        </p>
 
 <hr>
 
@@ -246,6 +267,24 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -3010,19 +3049,6 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo del backen
 	<img src="assets/evidencias/backend-insights-network.png" alt="Sprint 3 Insights Network"/>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### 5.2.4. Sprint 4
 
 ##### 5.2.4.1. Sprint Planning 4.
@@ -3079,25 +3105,6 @@ Durante este Sprint final, el equipo orientó todos sus esfuerzos a la consolida
 
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

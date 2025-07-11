@@ -3207,17 +3207,211 @@ Durante este Sprint final, el equipo orientó todos sus esfuerzos a la consolida
 
 ##### 5.2.4.4. Development Evidence for Sprint Review.
 
+A continuación, se presenta un cuadro con los commits realizados en los repositorios del backend y frontend de TravelMatch durante el sprint. Esta evidencia respalda el trabajo de desarrollo, mejoras funcionales y ajustes técnicos implementados en ambas capas de la aplicación. Los commits abarcan desde la creación de nuevos endpoints y componentes visuales hasta la optimización de la estructura del proyecto, configuración para despliegue y documentación técnica. Cada commit corresponde a una tarea clave desarrollada en las ramas principales de ambos repositorios.
 
+| **Repository**                           | **Branch** | **Commit ID** | **Commit Message**                                                                                      | **Body** | **Commited on (Date)** |
+| :--------------------------------------- | :--------- | :------------ | :-------------------------------------------------------------------------------------------------------- | :------- | :--------------------- |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 5a5ed9d       | fix: app routes                                                                                           |          | 2025-07-11             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | a6ea031       | feat: se conecto con el backend una nueva seccion profile, y se añadio traduccion i18n para home de turistas y profile |          | 2025-07-11             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | b7566f6       | refactor(experiences): add availability checker                                                           |          | 2025-07-10             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | f0930c2       | feat: add profiles views                                                                                  |          | 2025-07-10             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 78185bb       | refactor: update app routes                                                                               |          | 2025-07-10             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 3ed2b01       | feat(experiences): add models                                                                             |          | 2025-07-10             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | ba0aef7       | agregando cambios                                                                                         |          | 2025-07-10             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | f964a2a       | fix service usage                                                                                         |          | 2025-07-10             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 88baa02       | fix: correcion del carrusel, ahora funciona correctamente si modificar contenido                         |          | 2025-07-10             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 1ec436f       | feat: se añadio y se conecto con el backend la seccion home turistas                                      |          | 2025-07-10             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | a76506d       | feat: add bookings module pages, components and services                                                  |          | 2025-07-10             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 3e1b4b4       | feat: add profiles module pages, components and services                                                  |          | 2025-07-10             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | f21b643       | refactor: add stripe dependencies                                                                         |          | 2025-07-10             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | f614380       | refactor: update app routes                                                                               |          | 2025-07-10             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 5e41290       | feat                                                                                                      |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 2b6c498       | feat                                                                                                      |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | e8706af       | fix: update public location path                                                                          |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | e1adc6c       | Add Firebase Hosting configuration                                                                        |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 6b0ec46       | Add Firebase Hosting configuration                                                                        |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 74f31f0       | feat: add angular animations                                                                              |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 2adb252       | feat: add angular animations                                                                              |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | a9f762a       | fix: update angular version                                                                               |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | c44d1e1       | fix: update angular version                                                                               |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 53c432c       | feat: add routes protection based on role                                                                 |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 9d3ce71       | feat: add translation                                                                                     |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 3786994       | feat: add page not found                                                                                  |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 534b9dc       | feat: add header toolbar                                                                                  |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 18b43a1       | feat: add routes protection based on user roles                                                           |          | 2025-07-09             |
+
+
+
+
+| **Repository**                           | **Branch** | **Commit ID** | **Commit Message**                                                                                      | **Body** | **Commited on (Date)** |
+| :--------------------------------------- | :--------- | :------------ | :-------------------------------------------------------------------------------------------------------- | :------- | :--------------------- |
+| G2-Aplicaciones-Open-Source/backend-java | main       | cef2273       | Update pom.xml                                                                                             |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 5493da4       | refactor(iam): retrieve role for authenticated user                                                       |          | 2025-07-09             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 41649e9       | fix: downgrade java version from 24 to 21                                                                  |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 57acc91       | feat: add bookings context with Stripe integration and update experiences context                         |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 2c1f738       | feat(bookings): integrate Stripe payment flow with webhook validation                                     |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 980721a       | chore: use variables for secret keys                                                                       |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | ef864f7       | feat(bookings): add stripe webhook event controller                                                        |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | cfd1b35       | refactor(bookings): use initiatePaymentCommand instead of processPaymentCommand                           |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 73d1ec2       | refactor(bookings): modify payment flow                                                                    |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 45170ab       | feat(bookings): add interface layer assemblers                                                             |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 2fb0962       | feat(bookings): add interface layer resources                                                              |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 3b18f86       | fix(bookings): protect secret keys using variables                                                         |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | d99ea16       | refactor(bookings): update command service                                                                 |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 5afde25       | refactor(bookings): embed transactionId to payment entity                                                  |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 8a1d0dd       | refactor(geolocation): add city field to aggregate root                                                    |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | ebd461b       | feat: implement booking module with ACLs and enhance experience module architecture                        |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 6b8eec5       | chore: update IntelliJ IDEA project configuration                                                          |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 6b717ae       | refactor(profiles): update add cart item command                                                           |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 9e5b3d4       | feat(experiences): add anti-corruption layer dtos                                                          |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 191b6d2       | refactor(experiences): update experience inbound service                                                   |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 010746a       | feat(experiences): add categories and ticket type inbound services                                         |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 224cbf0       | feat(experiences): add anti-corruption layer                                                               |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 6a82960       | refactor(experiences): update interface layer assemblers                                                   |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 33a348b       | refactor(experiences): update interface layer resources                                                    |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 79fd806       | feat(experiences): add application layer event handlers                                                    |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | f6e49a3       | refactor(experiences): update availability query service implementation                                    |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 0f72783       | refactor(experiences): update experience and availaibility command service implementation                  |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | e66cefc       | feat(experiences): add category and ticket type query services implementation                              |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 44dd27d       | feat(experiences): add category and ticket type command service implementation                             |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 41e2e33       | feat(experiences): add outbound repository services                                                        |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 10ac133       | feat(experiences): add command and query services contracts                                                |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | edb078c       | feat(experiences): add queries                                                                             |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 6f6c70a       | feat(experiences): add commands                                                                            |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | bcc1de7       | feat(bookings): add BookingCommand service implementation                                                   |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 56535ed       | feat(bookings): add ticketTypeId field to CreateBookingCommand                                             |          | 2025-07-06             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 189b539       | geolocationv2 update city                                                                                  |          | 2025-07-05             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 89b1ff5       | feat(bookings): add bookings module bounded context                                                        |          | 2025-07-05             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | b75b1e3       | feat(bookings): add initial interface layer                                                                |          | 2025-07-05             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 5683179       | feat(bookings): add agency, experience, iam acl                                                            |          | 2025-07-05             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 24ac1d3       | feat(bookings): add query and command service implementations                                              |          | 2025-07-05             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 8681df2       | feat(bookings): add outbound repository service                                                            |          | 2025-07-04             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 1bc135d       | fix(agencies): replace @NotBlank with @NotNull for userId field                                           |          | 2025-07-04             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 3d94f78       | feat(bookings): add command and query service contracts                                                    |          | 2025-07-04             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | b65e3d5       | feat(bookings): add domain model layer queries                                                             |          | 2025-07-04             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 1d9070a       | feat(bookings): add domain model layer commands                                                            |          | 2025-07-04             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 3bf06c4       | feat(bookings): implement payment domain model with entities and value objects                             |          | 2025-07-04             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 5742846       | feat(bookings): add booking aggregate                                                                      |          | 2025-07-04             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | fc16c75       | fix: se corrigio la estructura del codigo del bounded context experiences                                  |          | 2025-07-04             |
+| G2-Aplicaciones-Open-Source/backend-java | main       | 52b7c9e       | fix: se corrigio la estructura del codigo del bounded context experiences                                  |          | 2025-07-04             |
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review.
 
+En esta sección se presenta la versión final de los endpoints desarrollados para el proyecto TravelMatch, junto con la implementación de nuevos puntos de acceso que amplían las funcionalidades del sistema. Las evidencias recopiladas validan el correcto funcionamiento de los servicios REST, los cuales han sido afinados y completados conforme a los requisitos funcionales establecidos en el sprint. Además, se han incorporado nuevos endpoints que permiten gestionar entidades clave como reseñas, favoritos, autenticación, roles, usuarios, destinos y reservas, fortaleciendo así la cobertura integral del sistema.
 
+Junto con los endpoints, se muestran también las vistas actualizadas del frontend, reflejando una interfaz refinada y completamente integrada con los servicios backend. Estas vistas demuestran la correcta visualización e interacción del usuario con los datos proporcionados por la API, confirmando la cohesión entre ambas capas y el cumplimiento de los criterios de aceptación definidos. En conjunto, esta evidencia respalda la estabilidad, usabilidad y completitud de la solución desarrollada en esta iteración.
 
+**Evidencias visuales**
+
+<p align="center">
+    <img src="assets/evidencias/final-back1.png" alt="backend-1"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/final-back2.png" alt="backend-2"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/final-back3.png" alt="backend-3"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/final-back4.png" alt="lp-1"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/final-back5.png" alt="lp-2"/>    
+</p>
+
+<p align="center">
+    <img src="assets/evidencias/final-back6.png" alt="lp-3"/>    
+</p>
+Pantalla de inicio de sesión
+<p align="center">
+    <img src="assets/evidencias/final-front1.png" alt="lp-3"/>    
+</p>
+Pantalla de registro
+<p align="center">
+    <img src="assets/evidencias/final-front2.png" alt="lp-3"/>    
+</p>
+
+Seccion "Home" para turistas
+<p align="center">
+    <img src="assets/evidencias/final-front3.png" alt="lp-3"/>    
+</p>
+<p align="center">
+    <img src="assets/evidencias/final-front4.png" alt="lp-3"/>    
+</p>
+<p align="center">
+    <img src="assets/evidencias/final-front5.png" alt="lp-3"/>    
+</p>
+Sección Profile
+<p align="center">
+    <img src="assets/evidencias/final-front6.png" alt="lp-3"/>    
+</p>
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
+Detalle del POST /api/v1/experience-media/experiences/{experienceId}/media, registrando un nuevo archivo multimedia (imagen o video) asociado a una experiencia.
 
+<p align="center">
+    <img src="assets/evidencias/evidence1.png" alt="lp-3"/>    
+</p>
 
+Detalle del POST /api/v1/stripe/webhook, receptor de eventos enviados por Stripe.
+<p align="center">
+     <img src="assets/evidencias/evidence2.png" alt="lp-3"/>    
+</p>
+Detalle del POST /api/v1/agencies/{agencyId}/documents, para la creación de documentos de agencia.
+<p align="center">
+      <img src="assets/evidencias/evidence3.png" alt="lp-3"/>    
+</p>
+Detalle del POST /api/v1/carts/{userId}/items, para agregar un ítem al carrito de un usuario.
+<p align="center">
+      <img src="assets/evidencias/evidence4.png" alt="lp-3"/>   
+</p>
+Detalle del POST /api/v1/carts, para la creación de un carrito de compras.
+<p align="center">
+      <img src="assets/evidencias/evidence5.png" alt="lp-3"/>     
+</p>
+Detalle del POST /api/v1/favorites, para marcar una experiencia como favorita.
+<p align="center">
+     <img src="assets/evidencias/evidence6.png" alt="lp-3"/>     
+</p>
+Detalle del POST /api/v1/authentication/sign-up, para registrar un nuevo usuario.
+<p align="center">
+    <img src="assets/evidencias/evidence7.png" alt="lp-3"/>    
+</p>
+Detalle del POST /api/v1/authentication/sign-in, para autenticar usuarios existentes.
+<p align="center">
+    <img src="assets/evidencias/evidence8.png" alt="lp-3"/>     
+</p>
+Detalle del POST /api/v1/destinations, para registrar un nuevo destino turístico.
+<p align="center">
+    <img src="assets/evidencias/evidence9.png" alt="lp-3"/>     
+</p>
+Detalle del POST /api/v1/agencies/{agencyId}/staff, para registrar personal de agencia.
+<p align="center">
+    <img src="assets/evidencias/evidence10.png" alt="lp-3"/>     
+</p>
+Detalle del POST /api/v1/experiences/{experienceId}/availabilities, para registrar disponibilidad de una experiencia.
+<p align="center">
+    <img src="assets/evidencias/evidence11.png" alt="lp-3"/>     
+</p>
+
+Detalle del POST /api/v1/experiences/{agencyId}/experiences, para registrar una nueva experiencia turística.
+<p align="center">
+    <img src="assets/evidencias/evidence12.png" alt="lp-3"/>     
+</p>
+
+Detalle del POST /api/v1/reviews, para registrar una nueva reseña.
+<p align="center">
+    <img src="assets/evidencias/evidence13.png" alt="lp-3"/>     
+</p>
+Detalle del POST /api/v1/agencies, para registrar una nueva agencia.
+<p align="center">
+    <img src="assets/evidencias/evidence14.png" alt="lp-3"/>     
+</p>
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 -Frontend:

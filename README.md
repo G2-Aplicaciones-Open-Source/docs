@@ -3182,7 +3182,7 @@ Durante este Sprint final, el equipo orientó todos sus esfuerzos a la consolida
 
 
 ##### 5.2.4.3. Sprint Backlog 4.
-| **Sprint #**   | **Sprint 3**                            |                      |                                   |                                                                                            |                      |                 |             |
+| **Sprint #**   | **Sprint 4**                            |                      |                                   |                                                                                            |                      |                 |             |
 | :-             | :-                                      | :-                   | :-                                | :-                                                                                         | :-                   | :-              | :-          |
 | **User Story** |                                         | **Work-Item / Task** |                                   |                                                                                            |                      |                 |             |
 | **ID**         | **Title**                               | **Id**               | **Title**                         | **Description**                                                                            | **Estimation (Hrs)** | **Assigned To** | **Status**  |

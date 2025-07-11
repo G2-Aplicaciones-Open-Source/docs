@@ -3225,9 +3225,25 @@ Durante este Sprint final, el equipo orientó todos sus esfuerzos a la consolida
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
+Durante este Sprint, el equipo colaboró activamente en el desarrollo del backend de TravelMatch, así como fusionarlo con el frontend, siguiendo las buenas prácticas de control de versiones con Git, estructuración del trabajo bajo el flujo Git Flow, y división de responsabilidades alineada con los roles de desarrollo y diseño definidos desde el inicio del proyecto.
 
+**Estrategia de colaboración empleada:**
 
+- Uso de ramas específicas (feature/, develop, main) para el desarrollo organizado de funcionalidades.
 
+- Implementación de convenciones de commits mediante Conventional Commits, facilitando la trazabilidad.
+
+- Pull requests revisadas por otros miembros antes de integrarse a develop.
+
+- Reuniones cortas (dailys o check-ins semanales) para seguimiento y desbloqueo de tareas.
+
+- Evidencia de avances del sprint:
+    - Backend:
+![BACKEND-PULSE-4](./assets/evidencias/BACKEND-PULSE-4.png)
+![BACKEND-CONTRIBUTORS-4](./assets/evidencias/BACKEND-CONTRIBUTORS-4.png)
+    - Frontend:
+![FRONTEND-PULSE-4](./assets/evidencias/FRONTEND-PULSE-4.png)
+![FRONTEND-CONTRIBUTORS-4](./assets/evidencias/FRONTEND-CONTRIBUTORS-4.png)
 
 ### 5.3. Validation Interviews
 

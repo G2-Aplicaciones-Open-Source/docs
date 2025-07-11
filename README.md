@@ -180,26 +180,23 @@ Aquí tienes el resultado mejorado de la sección "Colaboración por Entrega":
   - [1.3. Segmentos Objetivos](#13-segmentos-objetivos)
 
 [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2. User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-        - [2.3.4.1. Empathy Mapping Turistas nacionales e internacionales](#2341-empathy-mapping-turistas-nacionales-e-internacionales)
-        - [2.3.4.2. Empathy Mapping Agencias de turismo locales](#2342-empathy-mapping-agencias-de-turismo-locales)
-        - [2.3.4.3. Empathy Mapping Viajeros por trabajo](#2343-empathy-mapping-viajeros-por-trabajo)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-        - [2.3.5.1. As-is Scenario Mapping Turistas nacionales e internacionales](#2351-as-is-scenario-mapping-turistas-nacionales-e-internacionales)
-        - [2.3.5.2. As-is Scenario Mapping Agencias de turismo locales](#2352-as-is-scenario-mapping-agencias-de-turismo-locales)
-        - [2.3.5.3. As-is Scenario Mapping Viajeros por trabajo](#2353-as-is-scenario-mapping-viajeros-por-trabajo)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+- [🌐 Landing Page V4](#-landing-page-v4)
+  - [🚀 Deploy en GitHub Pages](#-deploy-en-github-pages)
+    - [📄 Pasos para hacer el deploy](#-pasos-para-hacer-el-deploy)
+        - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+      - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [Segmento 1: Agencias de turismo locales](#segmento-1-agencias-de-turismo-locales)
+    - [Segmento 2: Turistas nacionales e internacionales](#segmento-2-turistas-nacionales-e-internacionales)
+    - [Semento 3: Viajeros por trabajo (Turismo corporativo)](#semento-3-viajeros-por-trabajo-turismo-corporativo)
+      - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+      - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+    - [5.4. Video About-the-Product](#54-video-about-the-product)
+  - [Conclusiones](#conclusiones)
+    - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+    - [Video About-The-Team](#video-about-the-team)
+  - [Bibliografía](#bibliografía)
+  - [Anexos](#anexos)
 
 [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
@@ -3219,7 +3216,7 @@ A continuación, se presenta un cuadro con los commits realizados en los reposit
 | G2-Aplicaciones-Open-Source/frontend     | main       | 3ed2b01       | feat(experiences): add models                                                                             |          | 2025-07-10             |
 | G2-Aplicaciones-Open-Source/frontend     | main       | ba0aef7       | agregando cambios                                                                                         |          | 2025-07-10             |
 | G2-Aplicaciones-Open-Source/frontend     | main       | f964a2a       | fix service usage                                                                                         |          | 2025-07-10             |
-| G2-Aplicaciones-Open-Source/frontend     | main       | 88baa02       | fix: correcion del carrusel, ahora funciona correctamente si modificar contenido                         |          | 2025-07-10             |
+| G2-Aplicaciones-Open-Source/frontend     | main       | 88ba  a02       | fix: correcion del carrusel, ahora funciona correctamente si modificar contenido                         |          | 2025-07-10             |
 | G2-Aplicaciones-Open-Source/frontend     | main       | 1ec436f       | feat: se añadio y se conecto con el backend la seccion home turistas                                      |          | 2025-07-10             |
 | G2-Aplicaciones-Open-Source/frontend     | main       | a76506d       | feat: add bookings module pages, components and services                                                  |          | 2025-07-10             |
 | G2-Aplicaciones-Open-Source/frontend     | main       | 3e1b4b4       | feat: add profiles module pages, components and services                                                  |          | 2025-07-10             |
@@ -3414,6 +3411,7 @@ Detalle del POST /api/v1/agencies, para registrar una nueva agencia.
 </p>
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
 -Frontend:
 Durante este Sprint, se llevó a cabo el despliegue del frontend del proyecto TravelMatch utilizando Firebase Hosting, marcando el segundo paso en la publicación progresiva de los productos del sistema. Esta actividad fue crucial para validar las funcionalidades del frontend desarrolladas durante el Sprint 2 y permitir la interacción con el cliente y el equipo docente en un entorno accesible.
 

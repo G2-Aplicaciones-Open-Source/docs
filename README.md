@@ -3220,8 +3220,161 @@ Durante este Sprint final, el equipo orientó todos sus esfuerzos a la consolida
 
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+-Frontend:
+Durante este Sprint, se llevó a cabo el despliegue del frontend del proyecto TravelMatch utilizando Firebase Hosting, marcando el segundo paso en la publicación progresiva de los productos del sistema. Esta actividad fue crucial para validar las funcionalidades del frontend desarrolladas durante el Sprint 2 y permitir la interacción con el cliente y el equipo docente en un entorno accesible.
+
+**Actividades Realizadas**
+
+* **Configuración del repositorio GitHub y estructura inicial de carpetas:**
+
+  * Se mantuvo la estructura de repositorio existente, con la rama `main` conteniendo la versión desplegable y la rama `develop` para el trabajo en progreso.
+
+  * Se aseguró la consistencia del proyecto local con el repositorio remoto.
+
+* **Implementación de flujo de trabajo con Git Flow, manteniendo los cambios en la rama `develop`:**
+
+  * Todo el desarrollo del frontend se realizó en ramas de características (`feature/*`) a partir de `develop`, siguiendo las convenciones de Git Flow.
+
+  * Se realizaron commits frecuentes y mensajes descriptivos para mantener la trazabilidad de los cambios.
+
+* **Realización de un merge desde `develop` hacia la rama `main`, de acuerdo a las convenciones definidas en la sección 5.1.2:**
+
+  * Antes del despliegue, se realizó un Pull Request (PR) desde `develop` a `main` para asegurar la revisión del código por parte del equipo.
+
+  * Se verificó la ausencia de conflictos y se realizaron las pruebas finales de integración antes de la fusión.
+
+  * El merge se llevó a cabo una vez que todas las pruebas de funcionalidad del frontend fueron exitosas.
+
+* **Configuración de Firebase para el despliegue del frontend, apuntando al contenido de la rama `main`:**
+
+  * **Creación y configuración del proyecto Firebase:** Se creó un nuevo proyecto en la consola de Firebase específicamente para el frontend de TravelMatch.
+
+    <p align="center">
+      <img src="assets/evidencias/firebase-project-creation.png" alt="Creación del proyecto Firebase"/>
+    </p>
+
+  * **Inicialización de Firebase en el proyecto local:** Se utilizó el comando `firebase init` en el directorio raíz del proyecto frontend para configurar Firebase Hosting. Esto incluyó la selección del proyecto Firebase creado y la especificación del directorio público (`build` o `dist`, según la configuración del proyecto).  
+  
+
+* **Publicación exitosa del frontend accesible a través de una URL pública:**
+
+  * Una vez configurado y desplegado, el frontend de TravelMatch estuvo accesible a través de la URL generada por Firebase Hosting. 
+
+---
+
+**URL del Frontend desplegado:** https://travel-match-1f187.web.app
 
 
+
+-Backend:
+
+Esta sección detalla la configuración y los pasos necesarios para el despliegue exitoso del backend de la solución **TravelMatch**. La aplicación backend está desarrollada con **Spring Boot 3, Java 21 y Maven**, y se despliega en **Azure App Service** utilizando **GitHub Actions** para la integración y entrega continua (CI/CD).
+
+---
+- Configuración de Despliegue
+
+| Elemento                    | Detalle                                       |
+| --------------------------- | --------------------------------------------- |
+| Plataforma de despliegue    | Azure App Service (Linux, Plan Gratuito - F1) |
+| Región                      | Canada Central                                |
+| Lenguaje y entorno          | Java 21 (Temurin)                             |
+| Gestor de dependencias      | Apache Maven                                  |
+| Proceso CI/CD               | GitHub Actions                                |
+| Base de datos               | Azure Database for PostgreSQL Flexible Server |
+| Tipo de conexión            | Conexión pública desde servicios de Azure     |
+| Autenticación base de datos | Usuario y contraseña                          |
+
+---
+
+- Pasos para el Despliegue del Backend
+
+	1. **Configuración del Azure App Service**
+
+	   * Crear un recurso **App Service** en Azure, especificando:
+
+		 * Sistema operativo: Linux
+		 * Versión de Java: Java 21
+		 * Plan de tarifa: Gratuito (F1)
+	   * Habilitar la opción: `Permitir acceso público a este servidor desde cualquier servicio de Azure dentro de Azure`.
+
+	2. **Configuración de la Base de Datos PostgreSQL**
+
+	   * Crear un recurso **Azure Database for PostgreSQL Flexible Server**.
+	   * Configurar las credenciales y el nombre de la base de datos.
+	   * Habilitar únicamente el acceso desde servicios de Azure.
+	   * Opcional: Habilitar acceso desde IPs locales específicas para pruebas.
+
+	3. **Configuración de Conexión en el Backend**
+
+	   * Establecer las siguientes propiedades en `application.properties`:
+
+		 ```
+		 spring.datasource.url=jdbc:postgresql://<NOMBRE_DEL_SERVIDOR>.postgres.database.azure.com:5432/<NOMBRE_DE_LA_BD>?sslmode=require
+		 spring.datasource.username=<USUARIO>
+		 spring.datasource.password=<CONTRASEÑA>
+		 ```	   
+
+	4. **Configuración de GitHub Actions**
+
+	   * Crear un archivo `.github/workflows/deploy.yml` con el siguiente contenido:
+
+		 ```yaml
+		 name: Deploy Spring Boot to Azure App Service
+
+		 on:
+		   push:
+			 branches:
+			   - main
+
+		 jobs:
+		   build-and-deploy:
+			 runs-on: ubuntu-latest
+
+			 steps:
+			   - name: Checkout source code
+				 uses: actions/checkout@v4
+
+			   - name: Set up Java 21
+				 uses: actions/setup-java@v4
+				 with:
+				   distribution: 'temurin'
+				   java-version: '21'
+
+			   - name: Build with Maven
+				 run: mvn clean package -DskipTests
+
+			   - name: Deploy to Azure Web App
+				 uses: azure/webapps-deploy@v2
+				 with:
+				   app-name: 'travelmatch'
+				   slot-name: 'production'
+				   publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+				   package: target/*.jar
+		 ```
+
+	5. **Configuración del Secret en GitHub**
+
+	   * En el repositorio de GitHub, ir a:
+		 `Settings > Secrets and variables > Actions > New repository secret`
+	   * Crear un secret llamado `AZURE_WEBAPP_PUBLISH_PROFILE` y cargar el contenido del *publish profile* descargado desde el App Service.
+
+	6. **Compilación y Despliegue Automático**
+
+	   * Realizar un `push` a la rama `main`.
+	   * GitHub Actions compilará el proyecto y lo desplegará automáticamente en el App Service.
+	   * La aplicación estará disponible en:
+		 `https://travelmatch-arabafgnanbsc2hb.canadacentral-01.azurewebsites.net`
+        
+    <p align="center">
+        <img src="assets/evidencias/github-workflow.png" alt="GitHub Workflow CI" width=60% >
+    </p>
+
+	7. **Pruebas de Conectividad**
+
+	   * Verificar que los endpoints estén accesibles desde el navegador con Swagger o herramientas como Postman.
+	   * Confirmar que las operaciones sobre la base de datos funcionen correctamente.   
+
+**URL del Backend desplegado:** 
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
